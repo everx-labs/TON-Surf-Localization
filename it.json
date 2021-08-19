@@ -1,0 +1,1385 @@
+{
+    "accounts": {
+        "assets": {
+            "addressCopied": "Indirizzo del portafoglio copiato negli appunti",
+            "copyAddressHint": "Copia l'indirizzo del portafoglio",
+            "copyAddressHint2": "Toccare per copiare l'indirizzo",
+            "description": "Drag-and-drop per scambiare fondi e riequilibrare le risorse",
+            "title": "Asset"
+        },
+        "charts": {
+            "monthAgo": "30 giorni fa",
+            "today": "oggi"
+        },
+        "details": {
+            "buttons": {
+                "callBot": "Chiama il DeBot",
+                "disableAutoresume": "Disabilita rinnovo automatico",
+                "enableAutoresume": "Abilita rinnovo automatico",
+                "keepMeInformed": "OK. Tienimi informato",
+                "makeStake": "Metti in stake",
+                "operationsHistory": "Storia delle operazioni",
+                "sendCoins": "Invia token",
+                "share": "Condividi",
+                "shareMyAddress": "Condividi l'indirizzo del wallet",
+                "stakeMore": "Metti in stak di più",
+                "whatIsStaking": "Cos'è lo staking?",
+                "withdraw": "Preleva"
+            },
+            "labels": {
+                "app": "Surf",
+                "newCoinsSoonMsg": "Proprio come te, non vediamo l'ora che vengano lanciati nuovi asset per godere dei vantaggi",
+                "shareMsg": "Il mio indirizzo {0} : \n{1}"
+            },
+            "nets": {
+                "mainnet": "Free TON",
+                "private": "Privato",
+                "tonlabs": "Devnet"
+            },
+            "titles": {
+                "newCoinsSoon": "Presto arriveranno nuovi asset"
+            }
+        },
+        "separators": {
+            "accounts": "Conti",
+            "investments": "Servizi",
+            "tokens": "Token"
+        },
+        "subscriptions": {
+            "actions": {
+                "edit": "Modifica",
+                "goToExplorer": "Vai all'explorer",
+                "openThread": "Apri thread",
+                "send": "Send",
+                "showAddress": "Mostra l'indirizzo",
+                "title": "Azioni",
+                "transfer": "Transfer",
+                "viewHistory": "Visualizza lo storico",
+                "viewKeys": "Visualizza le chiavi"
+            },
+            "addressPlaceholder": "Indirizzo dell'account",
+            "alreadyTracked": "Ti sei già iscritto a questo indirizzo",
+            "assetsSubtitle": "Iscrizioni",
+            "namePlaceholder": "Nome dell'account",
+            "subscribeAndOpenBtn": "Iscriviti e apri thread",
+            "subscribeBtn": "Iscriviti",
+            "titleAdd": "Aggiungi iscrizione",
+            "titleEdit": "Modifica iscrizione",
+            "titleSubscription": "Iscrizione",
+            "unsubscribeBtn": "Disiscriviti"
+        }
+    },
+    "advancedSettings": {
+        "advancedSettingsButton": "Impostazioni avanzate",
+        "biometry": {
+            "button": "Sblocca con {0}",
+            "buttonFace": "Usa sblocco col sorriso",
+            "buttonFingerprint": "Usa sblocco tramite impronta",
+            "disabledFaceMessage": "Sblocco facciale disabilitato",
+            "disabledFingerprintMessage": "Sblocco tramite impronta disabilitato",
+            "disabledMessage": "{0} sblocco disabilitato",
+            "enabledFaceMessage": "Sblocco facciale abilitato",
+            "enabledFingerprintMessage": "Sblocco tramite impronta abilitato",
+            "enabledMessage": "{0} sblocco abilitato",
+            "off": "Off",
+            "on": "On",
+            "saveTitle": "Salvataggio dei dati biometrici"
+        },
+        "currencies": {
+            "button": "Currencies",
+            "title": "Currencies"
+        },
+        "languages": {
+            "button": "Lingua",
+            "hint": "Localizzazione in corso..."
+        },
+        "localizationHelper": {
+            "enable": "Enable localization helper",
+            "disable": "Disable localization helper",
+            "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
+        },
+        "network": {
+            "button": "Rete",
+            "title": "Rete",
+            "titleAdd": "New network",
+            "btnAdd": "Add",
+            "btnUpdate": "Update",
+            "btnRemove": "Remove network",
+            "titleEdit": "Edit network",
+            "name": "Name",
+            "endpoint": "Endpoint"
+        },
+        "suggestLanguage": {
+            "button": "Suggerisci lingua",
+            "hint": "Se la lingua di cui hai bisogno non è nella nostra lista, suggeriscila nella comunità di traduzione"
+        },
+        "title": "Impostazioni avanzate"
+    },
+    "backupReminder": {
+        "logOut": "Disconnettiti senza backup",
+        "submit": "Backup",
+        "text": "Salva la password in un luogo sicuro. Se perdi la password, perderai accesso ai tuoi fondi in modo irreversibile.",
+        "title": "Backup della password"
+    },
+    "chats": {
+        "bots": {
+            "chainRider": {
+                "messages": {
+                    "devIncomeCoinsMessage": "Ottimo! Ora puoi inviare Ruby ai tuoi amici. Invitali a usare Surfare con te.",
+                    "devWelcomeMessages": [
+                        "Ciao!",
+                        "Sono Chain Rider, il DeBot (Bot decentralizzato). Sono qui per aiutarti a Surfare. Prima di tutto, attiviamo il tuo portafoglio ricaricando il tuo saldo.",
+                        "Condividi con i tuoi amici l'indirizzo del tuo wallet così che possano inviarti dei token. Una piccola commissione di attivazione del wallet verrà detratta dal primo trasferimento che riceverai."
+                    ],
+                    "emptyChat": "Condividi l'indirizzo del tuo wallet con gli amici...",
+                    "getCoinsMessages": [
+                        "I Ruby sono erogati solo a scopo di test. Li riceverai entro pochi minuti.",
+                        "Una volta ricevuti i primi Ruby, verrà detratta una tantum una piccola commissione per l'attivazione del wallet."
+                    ],
+                    "goodSurfing": "Buon Surf!",
+                    "incomeCoinsMessage": "Ottimo! Ora puoi inviare token ai tuoi amici: invitali a Surfare con te",
+                    "walletInitiation": "Iniziazione portafoglio",
+                    "welcomeMessages": [
+                        "Ciao!",
+                        "Sono Chain Rider, il DeBot (Bot decentralizzato). Sono qui per aiutarti a Surfare. Prima di tutto, attiviamo il tuo portafoglio ricaricando il tuo saldo.",
+                        "Condividi l'indirizzo del tuo wallet con i tuoi amici in modo che ti possano inviare dei token. Verrà detratta una piccola commissione per attivazione del wallet dal primo trasferimento che riceverai."
+                    ]
+                },
+                "name": "Chain Rider"
+            },
+            "debot": "DeBot",
+            "stakingBot": {
+                "messages": {
+                    "emptyChat": "Chiamami per fare un nuovo stake…",
+                    "welcomeMessages": [
+                        "Ciao, sono Ruby Stake, il DeBot (Bot decentralizzato), il consulente di gestione dei tuoi asset.",
+                        "Sono qui per aiutarti a fare stake dei Ruby, aumentare il tuo stake attuale, ritirarlo o visionare le tue statistiche: i guadagni e la cronologia delle transazioni."
+                    ]
+                },
+                "name": "Stake Ruby",
+                "shortcuts": {
+                    "makeStake": "Metti in stake",
+                    "showBalance": "Visualizza saldo",
+                    "stakeMore": "Metti in stake di più",
+                    "whatIsStaking": "Cos'è lo staking?"
+                }
+            }
+        },
+        "button": {
+            "actions": {
+                "addToContacts": "Aggiungi ai contatti",
+                "blockMessages": "Blocca",
+                "buy": "Acquista",
+                "checkStakes": "Controlla gli stake",
+                "devCoins": "Ricevi Ruby",
+                "inviteFriends": "Invita gli amici",
+                "makeStake": "Metti in stake",
+                "save": "Salve",
+                "shareAddress": "Condividi l'indirizzo del wallet",
+                "unblockMessages": "Sblocca",
+                "withdraw": "Ritira"
+            },
+            "chat": "Chatta",
+            "goToConversation": "Apri la chat"
+        },
+        "debots": {
+            "addressInput": {
+                "auto": "Seleziona l'indirizzo principale",
+                "enterAddress": "Inserisci il tuo indirizzo",
+                "invalidAddress": "Indirizzo TON non valido.",
+                "manual": "Inserisci manualmente"
+            },
+            "agree": "Ho capito",
+            "agreement": "DeBot — servizio di terze parti e può esporre l'utente alla divulgazione di identità e altre informazioni fuori dal controllo e dalla responsabilità di TON Surf.",
+            "blockchain": "Blockchain",
+            "browse": "Browse DeBots...",
+            "debot": "DeBot",
+            "debotError": "Oops!! Sono al verde. Rimani in contatto",
+            "defaultHello": "Hi! I'm DeBot",
+            "encryptionBox": {
+                "encryptDecryptWithSurf": "Use Surf keys"
+            },
+            "favorites": "Preferiti",
+            "functionalUnsupported": "Oops!! La funzionalità è temporaneamente non supportata. Rimani in contatto",
+            "history": "History",
+            "info": {
+                "about": "Informazioni",
+                "actions": "Actions",
+                "addToFavorites": "Aggiungi ai preferiti",
+                "addToFavoritesNotification": "DeBot aggiunto ai preferiti",
+                "author": "Progettato da",
+                "creator": "Creato da",
+                "donate": "Donare",
+                "error": {
+                    "failedToSaveFavorite": "Impossibile salvare lo stato dei preferiti. Riprova più tardi"
+                },
+                "goToExplorer": "Go to explorer",
+                "publisher": "da {0}",
+                "removeFromFavorites": "Rimuovi dai Preferiti",
+                "removeFromFavoritesNotification": "DeBot rimosso dai Preferiti",
+                "showAddress": "Mostra l'indirizzo",
+                "version": "v. {0}",
+                "writeToDeveloper": "Write to developer"
+            },
+            "notFound": "Debot non trovato",
+            "nothingFound": "Non è stato trovato nulla",
+            "open": "Apri DeBot",
+            "recommended": "Consigliato",
+            "restart": "Riavvia",
+            "search": "Enter DeBot address…",
+            "searching": "Ricerca...",
+            "securityCard": {
+                "notSupport": "Sfortunatamente il tuo dispositivo non supporta NFC, che è necessario per il corretto funzionamento. Abilita NFC o usa un altro dispositivo."
+            },
+            "signingBox": {
+                "signature": "Signature",
+                "signWithSurf": "Sign with Surf"
+            },
+            "title": "Debot"
+        },
+        "error": {
+            "failedToLoad": "Impossibile caricare la chat. Riprova più tardi",
+            "failedToSend": "Impossibile inviare il messaggio. Riprova più tardi"
+        },
+        "labels": {
+            "address": "Indirizzo del portafoglio Free TON",
+            "establishingConnection": "Creazione di una connessione sicura in corso...",
+            "today": "Oggi",
+            "yesterday": "Ieri"
+        },
+        "message": {
+            "attention": "Attenzione",
+            "enableFromSettings": "Abilita l'accesso direttamente dalle impostazioni del dispositivo",
+            "enableFromSettingsTitle": "Invia immagine",
+            "invitationAcceptance": "Ehi, ho accettato il tuo invito. Seguimi per connetterti.",
+            "invitationAcceptanceTitle": "Segui per connetterti!",
+            "invitationAlert": "Ehi, vuoi invitare {0} a usare {APP_NAME}?",
+            "invitationBody": "Sei stato invitato a chattare. Entusiasmante!\n\n",
+            "invitationError": "Invio dell'invito non riuscito. Riprova",
+            "invitationFailure": "Invio dell'invito a partecipare a {APP_NAME} non riuscito",
+            "invitationForReceiver": "L'utente ti ha invitato",
+            "invitationForSender": "Invitato da te",
+            "invitationSuccess": "Un invito a partecipare a {APP_NAME} è stato inviato con successo.",
+            "invitationTitle": "Unisciti a me!",
+            "messagesBlockedByYou": "Hai bloccato i messaggi",
+            "messagesUnblockedByYou": "Hai sbloccato i messaggi",
+            "messageTooLong": "Il tuo messaggio è più lungo di {0} caratteri.",
+            "tapToResend": "Tocca per inviare di nuovo",
+            "tapToSendAgain": "Tocca per inviare di nuovo",
+            "userBlockedMessages": "Messaggi bloccati dall'utente",
+            "userUnblockedMessages": "Messaggi sbloccati dall'utente"
+        },
+        "notice": {
+            "heyUser": "Ehi {0}",
+            "invitationReceipt": "Il tuo amico {0} ti ha invitato a connetterti in {APP_NAME}. Conferma e inizia a chattare",
+            "start": "Inizia"
+        },
+        "toast": {
+            "invitationSuccess": "Hai invitato con successo un nuovo utente!",
+            "messagesBlocked": "Messaggi bloccati",
+            "messagesUnblocked": "Messaggi sbloccati"
+        }
+    },
+    "contacts": {
+        "addContact": "Aggiungi contatto",
+        "addressBookContacts": "Rubrica",
+        "contactCreated": "Nuovo contatto creato",
+        "contactDeleted": "Contatto eliminato",
+        "contactUpdated": "Informazioni di contatto aggiornate",
+        "createAndContinue": "Crea e continua",
+        "deleteContact": "Elimina",
+        "editContact": "Modifica contatto",
+        "error": {
+            "failedToDelete": "Non è stato possibile eliminare il contatto. Riprova più tardi",
+            "failedToSendSMSInvitation": "Non è stato possibile inviare l'invito via SMS",
+            "failedToUpdate": "Non è stato possibile aggiornare il contatto. Riprova più tardi"
+        },
+        "friends": "Amici",
+        "giveAccessToContacts": "Consenti l'accesso ai tuoi contatti",
+        "info": {
+            "firstName": "Nome",
+            "lastName": "Cognome",
+            "tonAddress": "Indirizzo del wallet Free TON"
+        },
+        "invitation": {
+            "view": {
+                "button": "Condividi l'invito",
+                "hint": "Creeremo una chat e contatteremo la persona invitata non appena il tuo invito viene accettato",
+                "placeholder": "Nome..."
+            }
+        },
+        "inviteFriends": "Invita gli amici",
+        "inviteMessage": "Ehi, guarda cos'ho trovato! Un fantastico wallet Free TON e banca online, tutto in uno! Ti piace l'idea? Allora segui il link per scaricare l'app TON Surf:\n\n{INSTALL_LINK_HOST}",
+        "inviteToApplication": "Invita a {APP_NAME}",
+        "newContact": "Nuovo contatto",
+        "otherContacts": "Contatti",
+        "recentContacts": "Contatti recenti",
+        "remove": "Rimuovi dai contatti",
+        "saveAndClose": "Salva e chiudi",
+        "searchForAction": "Cerca per nome o indirizzo ...",
+        "searchFriends": "Cerca amici ...",
+        "selectRecipient": {
+            "deliveryHint": {
+                "email": "Invia tramite e-mail",
+                "share": "Condivisione diretta",
+                "sms": "Invia tramite SMS"
+            },
+            "retry": "Riprova",
+            "sendButton": {
+                "email": "Invia e-mail",
+                "share": "Condividi link",
+                "sms": "Invia SMS"
+            },
+            "sendManually": "Condivisione diretta"
+        },
+        "shareApplication": "Condividi {APP_NAME}",
+        "support": "Assistente",
+        "supportNotAvailable": "Assistente temporaneamente non disponibile, riprova più tardi",
+        "undo": "Annulla",
+        "update": "Aggiorna"
+    },
+    "currencies": {
+        "crypto": {
+            "BTC": "Bitcoin",
+            "ETH": "Ethereum"
+        },
+        "fiat": {
+            "EUR": "Euro",
+            "USD": "US Dollar"
+        },
+        "types": {
+            "crypto": "Crypto",
+            "fiat": "Fiat"
+        }
+    },
+    "debotsOptions": {
+        "title": "Opzioni DeBot"
+    },
+    "donate": {
+        "title": "Dona a Surf"
+    },
+    "feedback": {
+        "mainComponent": {
+            "inputContactPlaceHolder": "La tua email o numero di telefono",
+            "inputFeedbackPlaceHolder": "Descrivi il tuo problema o la tua idea ...",
+            "invalidContact": "E-mail o numero di telefono non validi",
+            "sendFeedback": "Invia",
+            "title": "Condividi le tue idee"
+        },
+        "reportProblem": "Segnala un problema",
+        "sent": "Grazie per averci aiutato a rendere il mondo un posto migliore!",
+        "shareYourIdeasButton": "Condividi le tue idee"
+    },
+    "getTONs": {
+        "contests": {
+            "governance": "Governance",
+            "title": "Contests"
+        },
+        "exchanges": {
+            "bitcoin": "Bitcoin.com",
+            "coineal": "Coineal",
+            "digifinex": "DigiFinex",
+            "hitbtc": "HitBTC",
+            "kuna": "Kuna",
+            "mexc": "MEXC",
+            "title": "Exchanges"
+        },
+        "title": "Get TONs",
+        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+    },
+    "interfaceOptions": {
+        "assetsBalance": {
+            "button": "Assets balance"
+        },
+        "confirmationOfSending": {
+            "button": "Confirmation of sending"
+        },
+        "interfaceOptionsButton": "Interface options",
+        "nightTheme": {
+            "button": "Night theme"
+        },
+        "promoCards": {
+            "button": "Promo cards"
+        },
+        "title": "Interface options"
+    },
+    "legalNotes": {
+        "businessDetails": {
+            "address": {
+                "title": "Indirizzo",
+                "value": "Tuukri 19-314, 10152 Tallinn, Estonia"
+            },
+            "company": {
+                "title": "Azienda",
+                "value": "Wallet solutions Ltd."
+            },
+            "copyright": {
+                "title": "Copyright",
+                "value": "TON Labs (TON Venture Studio Ltd.)"
+            },
+            "email": {
+                "body": "Indirizzo: {0}\n Versione: {1}\n {2} : {3}\n Dispositivo: {4}",
+                "subject": "Segnala un problema",
+                "title": "E-mail"
+            },
+            "faq": {
+                "title": "Centro assistenza"
+            },
+            "licence": {
+                "title": "Licenza",
+                "value": "Fornitore di servizi di portafoglio di valuta virtuale FVR001411 emesso 28.02.2020 dalla FIU estone."
+            },
+            "licence2": {
+                "title": "Licenza",
+                "value": "Fornitore di servizi di scambio di valuta virtuale con valuta fiat FRK001293 emessa il 28.02.2020 dalla FIU estone."
+            },
+            "phone": {
+                "title": "Telefono",
+                "value": "+372 7124030"
+            },
+            "registration": {
+                "title": "Reg.numero",
+                "value": "2004764, BVI"
+            },
+            "site": {
+                "title": "Sito",
+                "value": "ton.surf"
+            },
+            "title": "Dettagli commerciali"
+        },
+        "confirmation": {
+            "antiFraud": "Ho letto e accetto la Politica Antifrode",
+            "common": "Ho letto e accetto",
+            "confirm": "Conferma",
+            "cookies": "Ho letto e accetto la Cookie Policy",
+            "gotIt": "Fatto",
+            "kycAml": "Ho letto e accetto la politica di KYC & AML",
+            "makeSure": "Ciao, facciamo le cose per bene e iniziamo da accordi e politiche:",
+            "openUrl": "Apri le note legali",
+            "privacyPolicy": "Ho letto e accetto l'informativa sulla privacy",
+            "termsOfUse": "Ho letto e accetto le Condizioni di utilizzo",
+            "title": "Accetta per continuare"
+        },
+        "mainScreen": {
+            "businessDetails": "Dettagli commerciali",
+            "cookiesPolicy": "Cookie Policy",
+            "privacyPolicy": "Privacy Policy",
+            "surfDecentralizationPolicy": "Policy di decentralizzazione di Surf",
+            "termsOfUse": "Termini di utilizzo",
+            "title": "Note legali"
+        },
+        "profileButtonTitle": "Policy di decentralizzazione"
+    },
+    "lockScreen": {
+        "attention": {
+            "text": "Si consiglia vivamente di eseguire il backup della password {HD_WORD_COUNT} prima di disconnettersi.\n\nIl backup è l'unica possibilità per recuperare l'accesso a Surf se dimentichi il codice PIN o effettui logout dall'app. Se perdi la tua master password, perdi irreversibilmente l'accesso ai tuoi fondi.",
+            "title": "Attenzione"
+        },
+        "biometryFailed": "Troppi tentativi. Riprova più tardi",
+        "deleteAndExit": "Delete and exit",
+        "logout": "Logout",
+        "PINCorrect": "PIN corretto",
+        "PINNotCorrect": "PIN errato",
+        "temporarilyBlocked": "Bloccato temporaneamente",
+        "tryAgainLater": "Riprova {0}",
+        "unlock": "Sblocca",
+        "youHaveNAttemptsRemaining": "Hai {0} tentativi rimanenti"
+    },
+    "memoryCheck": {
+        "mainComponent": {
+            "description": "Assicurati di avere a disposizione la tua password e inseriscila qui sotto.",
+            "doneButton": "Va bene, siamo a posto!",
+            "title": "Controllo della memoria"
+        },
+        "memoryCheckButton": "Salvato. Controlla due volte"
+    },
+    "multiWallets": {
+        "create": "Create wallet",
+        "defaultWalletName": "My Surf",
+        "editWallet": "Modifica portafoglio",
+        "manage": "Gestisci",
+        "manageWallets": "Gestire i portafogli",
+        "migrate": "Migrate wallet to Surf",
+        "name": "Nome",
+        "newWalletName": "Wallet",
+        "pair": "Pair hardware wallet",
+        "removeWallet": "Rimuovere il portafoglio",
+        "restore": "Restore wallet",
+        "addWallet": "Add wallet",
+        "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
+        "update": "Aggiornare",
+        "wallets": "Portafogli",
+        "nameTaken": "Choose another name. This one is taken already",
+        "walletNotUnique": "Same address wallet has been added already"
+    },
+    "networks": {
+        "names": {
+            "mainnet": "Mainnet",
+            "rustnet": "Rustnet",
+            "tonlabs": "Devnet"
+        },
+        "sections": {
+            "main": "Rete principale",
+            "test": "Reti di test",
+            "custom": "Custom networks"
+        },
+        "errors": {
+            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection",
+            "nameTaken": "Choose another name. This one is taken already"
+        }
+    },
+    "operationsHistory": {
+        "button": "Storia delle operazioni",
+        "empty": "Ancora nessuna transazione",
+        "title": "Storia delle operazioni"
+    },
+    "profile": {
+        "otherProducts": "Altri prodotti",
+        "questionsAndAnswers": "Domande e risposte",
+        "rate": "Vota Surf"
+    },
+    "questionsAndAnswers": {
+        "accountManagement": "Gestione dell'account",
+        "buysSells": "Acquisti e vendite",
+        "emergency": "Emergenza",
+        "freeTonTons": "Free TON e token TON",
+        "limitsStatusesAndPromos": "Limiti, status e promo",
+        "securityPrivacy": "Sicurezza e privacy",
+        "servicesTransactions": "Servizi e transazioni",
+        "title": "Domande e risposte"
+    },
+    "rebalance": {
+        "amount": "Quantità",
+        "amountIsLow": "Importo del trasferimento troppo basso",
+        "confirm": "Conferma",
+        "congrats": "Congratulazioni per aver fatto dei cambiamenti nella tua vita. Non fa mai male.",
+        "currencies": {
+            "CRYSTAL": {
+                "comment": "Free TON tokens",
+                "stake": "Crystal Stakes",
+                "title": "My Crystals"
+            },
+            "RUBY": {
+                "comment": "Free TON test tokens",
+                "stake": "Ruby Stakes",
+                "title": "My Rubies"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "stake": "",
+                "title": "My Surf Medals"
+            }
+        },
+        "disableAutoresume": "Disattiva Autoresume",
+        "from": "Da",
+        "insufficientBalance": "Saldo insufficiente.",
+        "notEnoughBalance": "Il tuo account Devnet non dispone di fondi sufficienti per pagare le commissioni di rete.",
+        "oneMore": "Ancora uno",
+        "success": "Trasferimento riuscito",
+        "to": "A",
+        "toTransfer": "Per trasferire i token, disabilita l'Autoresume",
+        "toTransferMore": "Per trasferire più di {0} token, disabilita l'Autoresume.",
+        "transfer": "Trasferimento",
+        "transferAll": "Trasferisci tutto",
+        "willBeAvailable": "I token saranno disponibili per il prelievo entro {0}"
+    },
+    "restorePassword": {
+        "mainComponent": {
+            "description": "Ecco la tua Master Password di Surf. Scrivila e conservala in un luogo sicuro.",
+            "title": "Master Password"
+        },
+        "restorePasswordButton": "Master password"
+    },
+    "safetyProtection": {
+        "address": "Indirizzo",
+        "addressAndKeys": "Indirizzo e chiavi",
+        "altAddress": "Formato indirizzo alternativo",
+        "biometry": {
+            "face": "Faccia",
+            "faceID": "Face ID",
+            "fingerprint": "Impronta digitale",
+            "iris": "Iris",
+            "touchID": "Touch ID"
+        },
+        "changePinCode": "Cambia PIN",
+        "confirmNewPin": "Conferma PIN",
+        "enterNewPin": "Nuovo PIN",
+        "enterPin": "Inserisci il tuo PIN",
+        "hidePrivateKey": "Nascondi la chiave privata",
+        "isCopied": "Copiato negli appunti",
+        "lockApp": "Lock app",
+        "lockMethod": {
+            "button": "Metodo di blocco",
+            "title": "Metodo di blocco"
+        },
+        "logOut": {
+            "button": "Delete local data and exit",
+            "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
+        },
+        "neverShare": "La tua chiave privata può concedere a chiunque l'accesso completo ai tuoi fondi. Non dovresti mai condividerla con persone o applicazioni di cui non ti fidi.",
+        "nonMainAccountPrivateKeyNote": "Questa chiave privata non influisce sulla sicurezza del tuo account Surf principale. Tuttavia, se la chiave viene compromessa, eventuali altri fondi e dati protetti da questa chiave privata potrebbero essere messi in pericolo. Non condividere mai la chiave con persone o applicazioni di cui non ti fidi.",
+        "noThanks": "No grazie",
+        "PINChangeFailed": "Non è stato possibile cambiare il PIN",
+        "PINChangeSuccess": "PIN cambiato",
+        "PINCorrect": "PIN corretto",
+        "PINDoesNotMatch": "I PIN non corrispondono",
+        "PINNotCorrect": "PIN errato",
+        "privateKey": "Chiave privata",
+        "publicKey": "Chiave pubblica",
+        "safelyShare": "L'indirizzo del tuo portafoglio e la chiave pubblica possono essere condivisi in modo sicuro con chiunque.",
+        "safetyProtectionButton": "Impostazioni di sicurezza",
+        "safetyRules": {
+            "buttonTitle": "Regole di sicurezza",
+            "description": "Queste semplici regole ti aiuteranno a mantenere i tuoi fondi al sicuro.",
+            "gotItButton": "Fatto",
+            "rules": [
+                "Installa Surf solo da fonti verificate (App Store, Google Play)",
+                "Fai il backup della tua Master Password. Idealmente dovrebbe essere memorizzata su carta in un luogo a cui solo tu puoi accedere. Non tenerla mai sullo stesso dispositivo in cui usi Surf.",
+                "Non svelare la Master Password a nessuna persona o a nessuna app diversa da Surf. Usala solo per ripristinare l'accesso al tuo Surf wallet.",
+                "Usa un codice PIN che puoi facilmente ricordare senza doverlo scrivere. Non utilizzare lo stesso codice PIN in altre applicazioni. Non condividerlo con nessuno.",
+                "Utilizza la Security Card per garantire ai tuoi fondi la massima sicurezza. Grazie a questa sarai in grado di ripristinare l'accesso anche se perdi la Master Password."
+            ],
+            "screenTitle": "Regole di sicurezza"
+        },
+        "securityCard": {
+            "activateAnotherCard": "Attiva un'altra carta",
+            "activation": "Attivazione",
+            "cardCode": "Numero di carta",
+            "cardConnected": "Carta collegata",
+            "cardConnection": "Connessione della carta...",
+            "cardsReadyToUse": {
+                "btn": "Fatto!",
+                "description": "Le carte attivate sono equivalenti. Ti consigliamo di utilizzarne una per confermare le azioni, e nascondere l'altra in un luogo sicuro.",
+                "title": "Le carte sono pronte per l'uso"
+            },
+            "checkingCardIntegrity": "Controllo dell'integrità della carta...",
+            "codeScanning": "Scansione del codice...",
+            "comingSoonText": "Anche noi attendiamo trepidanti tutte le nuove opportunità che porterà la Security Card",
+            "comingSoonTitle": "Prossimamente",
+            "confirm": "Conferma",
+            "confirmAndBuy": "Conferma e acquista",
+            "confirmAndOrder": "Confermare e ordina",
+            "connectionStatuses": {
+                "connected": {
+                    "description": "Tieni la carta vicina ",
+                    "title": "Connesso"
+                },
+                "connecting": {
+                    "description": "Tocca la Security Card",
+                    "title": "Connessione..."
+                },
+                "connectionLost": {
+                    "description": "Prova a riconnetterti",
+                    "title": "Connessione persa"
+                },
+                "error": {
+                    "description": "",
+                    "title": ""
+                },
+                "lookingFor": {
+                    "description": "Tieni la carta più vicina",
+                    "title": "Cercando..."
+                },
+                "processing": {
+                    "description": "Non rimuovere la carta",
+                    "title": "Elaborazione..."
+                },
+                "success": {
+                    "description": "La carta può essere rimossa",
+                    "title": "Completato"
+                }
+            },
+            "continue": "Continua",
+            "deactivate": "Disattiva carte",
+            "deactivateApprovalDescription": "Le carte funzioneranno solo con questo account e dovrai ripetere l'attivazione.",
+            "deactivateApprovalTitle": "Disattiva le Security Card?",
+            "deactivateBtn": "Disattiva",
+            "deactivatedCards": "Security Card disattivate",
+            "deactivateDescription": "È possibile riattivarle immediatamente.",
+            "details": "Dettagli",
+            "detailsText": "Surf traccia te né le tue attività. Surf non raccoglie i tuoi dati. Non utilizziamo alcun software di analisi. Non abbiamo nemmeno un semplice tracker. Niente cookie. Nessun trattamento dei dati personali. Niente. Questa è la nostra vocazione e la nostra missione.\n\nAttenzione! Tuttavia, altri servizi di terze parti su cui non abbiamo alcun controllo, possono, a loro esclusiva discrezione e volontà, raccogliere e utilizzare i tuoi dati. Dovresti essere molto attento ed estremamente prudente nel controllare la loro Privacy Policy, la Cookie Policy, i Termini di utilizzo e qualsiasi altra politica e documentazione contrattualmente vincolanti prima di accettare di utilizzare i loro servizi in Surf",
+            "detailsTitle": "Come abbiamo già detto nella Decentralization Policy",
+            "enterCode": "Inserisci il codice",
+            "enterCodeDescription": "Inserisci il codice della carta e posiziona la carta accanto al dispositivo per stabilire una connessione.",
+            "free": "Free",
+            "included": "Inc.",
+            "keepInformed": "OK. Tienimi informato",
+            "laterBtn": "No, più tardi",
+            "learnMore": {
+                "developers": {
+                    "description": "Con l'SDK di Free TON è possibile programmare la carta per i propri smart contract secondo le proprie necessità.",
+                    "title": "Open Source, per gli sviluppatori"
+                },
+                "development": {
+                    "description": "Falla tua con l'SDK di FreeTON. È possibile programmare la carta per i propri smart contract e le proprie necessità.",
+                    "title": "Open Source ed espandibile"
+                },
+                "personalization": {
+                    "description": "Personalizzata per te dal momento in cui si effettua l'ordine. La chiave crittografica  privata generata dall'hardware non viene mai rivelata.",
+                    "title": "Personalizzata per te fin dall'inizio"
+                },
+                "personalized": {
+                    "description": "La tua carta è assegnata al tuo account dal momento dell'ordine e non può essere manomessa.",
+                    "title": "Personalizzata fin dal momento dell'ordine"
+                },
+                "protectTech": {
+                    "description": "Il design a chip singolo, la certificazione EAL 6+, un wallet smart contract multi-firma verificato e la crittografia proteggono i tuoi fondi. La tua chiave privata non viene mai rivelata, neanche a te!",
+                    "title": "Tecnologia di protezione all'avanguardia"
+                },
+                "simpleness": {
+                    "description": "Nessuna batteria, nessun cavo, nessuna spina. Si mette facilmente in borsa o in tasca. La carta si attiva in meno di 2 minuti tramite l'NFC del tuo smartphone.",
+                    "title": "Facile da avere, semplice da usare"
+                },
+                "technology": {
+                    "description": "Il design a chip singolo, la certificazione EAL 6+, un wallet smart contract multi-firma verificato e la crittografia proteggono i tuoi fondi.",
+                    "title": "Tecnologia di sicurezza all'avanguardia"
+                },
+                "title": "Vantaggi"
+            },
+            "menuTitle": "Security Card",
+            "moreFeaturesSoon": "Altre funzionalità per la Security Card saranno presto disponibili.",
+            "options": "Opzioni",
+            "order": "Ordina",
+            "orderName": "TON Labs Security Card",
+            "orderStatuses": {
+                "confirming": "In conferma",
+                "gettingReady": "Preparazione",
+                "onItsWay": "Sta arrivando",
+                "processed": "Emessa",
+                "reactivate": "Riattivazione necessaria",
+                "reorder": "Riordina per favore"
+            },
+            "orderStep": "Passo {0} di 4",
+            "paymentDetails": "Dettagli di pagamento",
+            "promoBtn": "Ordina la Security Card",
+            "promoText": "Portafoglio hardware personalizzato per firmare transazioni e memorizzare le tue chiavi private.",
+            "promoTitle": "Un modo semplice per tenere i tuoi fondi al sicuro",
+            "purchaseSuccessMsg": "Congratulazioni! Hai acquistato con successo una Security Card. Per monitorare lo stato di consegna avvia il Security Card DeBot",
+            "purchaseSuccessTitle": "Acquisto riuscito",
+            "putCardOnPhoneDescription": "Per attivare la carta tienila premuta sul retro del telefono",
+            "putCardOnPhoneTitle": "Premi la carta sul retro del tuo telefono",
+            "readingCardData": "Lettura dati della carta...",
+            "recipientInfo": "Informazioni sul destinatario",
+            "reissue": "Riemetti la carta",
+            "reissueApprovalDescription": "Quando una carta viene riemessa, tutte le altre carte verranno temporaneamente disattivate",
+            "reissueApprovalTitle": "Riemettere le Security Card?",
+            "reissueBtn": "Riemetti",
+            "reissueDescription": "Quando una carta viene riemessa, tutte le altre carte vengono temporaneamente disattivate",
+            "reviewOrder": "Riepilogo ordine",
+            "scanCode": "Scansiona il codice a barre della carta",
+            "scanCodeDescription": "Scansiona il codice a barre e posiziona la carta sul retro del tuo dispositivo per stabilire una connessione.",
+            "screenTitle": "Security Card",
+            "shareSecurityCardMessage": "Hardware wallet completamente personalizzato su blockchain Free TON: solo tu lo possiedi e lo controlli dal momento in cui effettui l'ordine.\n\n{0}\n",
+            "shareSecurityCardSubtitle": "Security Card\nTON Labs",
+            "shareSecurityCardSuccess": "Link copiato negli appunti",
+            "shipping": "Spedizione",
+            "shippingAddress": "Indirizzo di spedizione",
+            "signTransfers": "Firma trasferimenti",
+            "signTransfersDisabled": "Firma di trasferimento disabilitata",
+            "signTransfersEnabled": "Firma di trasferimento abilitata",
+            "statusInfo": {
+                "confirming": {
+                    "button": "Bene!",
+                    "description": "Stiamo facendo in modo che tutto sia pronto per l'emissione della carta. Riceverai una notifica sull'esito",
+                    "title": "Preparazione"
+                },
+                "gettingReady": {
+                    "button": "Bene!",
+                    "description": "Stiamo facendo in modo che tutto sia pronto per l'emissione della carta. Riceverai una notifica sull'esito",
+                    "title": "Preparazione"
+                },
+                "onItsWay": {
+                    "button": "Traccia",
+                    "description": "La carta è quasi arrivata, il suo numero di tracking è: {0} Attivala appena la ricevi",
+                    "title": "Sta arrivando",
+                    "txtButton": "Attiva"
+                },
+                "processed": {
+                    "button": "Fatto!",
+                    "description": "La carta è quasi pronta. Presto sarà affidata al servizio di consegna",
+                    "title": "Elaborata"
+                },
+                "reorder": {
+                    "button": "Riordina",
+                    "description": "Non possiamo emettere la carta: ci sono alcuni errori nei dati da te inseriti",
+                    "title": "Riordina",
+                    "txtButton": "Chiedi aiuto"
+                }
+            },
+            "subtotal": "Subtotale ( {0} elementi)",
+            "tapSecurityCard": "Tocca Security Card",
+            "tapSecurityCardDescription": "Toccare la carta per confermare l'azione.",
+            "taxAndFees": "Tasse e commissioni",
+            "techSpecs": {
+                "dimensions": {
+                    "description": "Abbiamo voluto rendere l'hardware wallet comodo e facile da usare e l'abbiamo progettato nella forma di una carta di pagamento: 85.6 mm × 53.98 mm × 0.76 mm.",
+                    "title": "Dimensioni"
+                },
+                "extended": {
+                    "description": "Ci sono 120 KB di spazio libero sulla carta, così che puoi scriverci sopra i tuoi dati.\n\nTi forniamo l'SDK open source di FreeTON, così potrai programmare la carta con i tuoi smart contract e usarla, ad esempio, come carta di pagamento, come carta di accesso per edifici o nel modo che preferisci.",
+                    "title": "Uso esteso"
+                },
+                "extendedUse": {
+                    "description": "Ci sono 120 KB di spazio libero sulla carta, così che puoi scriverci sopra i tuoi dati.\n\nTi forniamo l'SDK open source di FreeTON, così potrai programmare la carta con i tuoi smart contract e usarla, ad esempio, come carta di pagamento, come carta di accesso per edifici o nel modo che preferisci.",
+                    "title": "Uso esteso"
+                },
+                "hardware": {
+                    "description": "Per garantire un funzionamento senza problemi e mitigare i rischi di exploit abbiamo utilizzato un singolo chip NFC (ISO 14443) e un chip sicuro certificato SE CC EAL 6+.",
+                    "title": "Hardware"
+                },
+                "protection": {
+                    "description": "Sicurezza e privacy sono le nostre priorità. Utilizziamo il CC EAL 6 + Infineon Secure Element, protetto fin dalla progettazione da attacchi side-channel.\nLa tua password principale (Seed Phrase) non lascia mai la carta.\nLa tua carta viene assegnata al tuo account dal momento in cui effettui l'ordine e può essere attivata solo per il portafoglio crypto utilizzato per ordinarla.",
+                    "title": "Protezione"
+                },
+                "title": "Specifiche tecniche"
+            },
+            "total": "Totale",
+            "turningOnCardWallet": "Attivazione del card wallet...",
+            "understand": "Fatto",
+            "verifyIdentity": "Verifica la tua identità",
+            "verifyIdentityDescription": "Guarda lo schermo",
+            "waitlist": {
+                "added": "Sei stato aggiunto alla lista d'attesa. Ti informeremo non appena sarà disponibile l'ordinazione delle carte",
+                "addedToastMsg": "Sei stato aggiunto alla lista d'attesa",
+                "comingThisDecemberBtn": "In arrivo questo dicembre",
+                "description": "La Ton Labs Security Card per FreeTON è una smart card NFC unica: mantiene i tuoi dati al sicuro e può essere adattata alle tue necessità.",
+                "joinWaitlistBtn": "Iscriviti alla lista d'attesa",
+                "learnMoreBtn": "Scopri di più",
+                "policy": "Utilizzando la TON Labs Security Card per la blockchain FreeTON, si accettano i nostri Termini di Servizio.",
+                "techSpecsBtn": "Specifiche tecniche",
+                "title": "Più di un semplice hardware wallet"
+            }
+        },
+        "showPrivateKey": "Mostra chiave privata",
+        "title": "Impostazioni di sicurezza",
+        "TONAddress": "Indirizzo Free TON",
+        "verifyYourIdentity": "Verifica la tua identità"
+    },
+    "security": {
+        "readMore": "Leggi di più",
+        "screenshotWarning": "Non scattare foto o screenshot. Altre applicazioni possono avere accesso alle foto. Scrivi tutto su carta e conservalo in un luogo sicuro.",
+        "thirdPartyServicesWarning": "Stai abbandonando il porto sicuro. Un servizio di terze parti potrebbe raccogliere e utilizzare i tuoi dati privati.",
+        "title": "Avvertenza di sicurezza!",
+        "understand": "Fatto"
+    },
+    "sendGram": {
+        "deposit": "Deposit",
+        "fee": "Commissioni",
+        "feeAmount": "≈ {0}",
+        "makeAnotherTransfer": "Fai un altro trasferimento",
+        "maxValueAlert": "Con un saldo zero non potrai eseguire determinate operazioni. Considera di lasciare alcuni token sul saldo se stai pianificando di continuare a utilizzare questo account",
+        "minValueAlert": "L'importo minimo del trasferimento è {0} token",
+        "operationPreview": {
+            "amount": "Quantità",
+            "comment": "Commenta",
+            "commentEncrypted": "Encrypted comment cannot be decrypted by anyone, other than its sender and recipient",
+            "commentUnencrypted": "Unencrypted comment will be visible to everyone on the blockchain",
+            "encrypted": "Crittografato",
+            "fees": "Commissioni",
+            "from": "Da",
+            "immediately": "Immediatamente",
+            "no": "No",
+            "send": "Invia",
+            "time": "Tempo",
+            "title": "Anteprima dell'operazione",
+            "to": "A",
+            "yes": "Sì"
+        },
+        "sendAll": "Invia tutto",
+        "sendSuccessButton": "Apri la chat",
+        "sendSuccessDescription": "Congratulazioni! Il tuo trasferimento è appena arrivato a destinazione.",
+        "sendSuccessTitle": "Trasferimento riuscito",
+        "sendTo": "A",
+        "title": "Invia token",
+        "transfer": "Trasferisci token",
+        "transferSendTitle": "Il trasferimento è stato inviato"
+    },
+    "settings": {
+        "title": "Impostazioni"
+    },
+    "setup": {
+        "confirmLocalPassword": {
+            "placeholder": "Ripetere il codice di accesso",
+            "success": "Successo."
+        },
+        "firstInteractions": {
+            "notifications": {
+                "button": "Ricevi le notifiche",
+                "description": "Attiva le notifiche, così non perderai messaggi e trasferimenti da altri utenti e importanti aggiornamenti di Surf",
+                "title": "Notifica importante"
+            },
+            "protection": {
+                "button": "Attiva la protezione",
+                "descriptionFace": "Attiva il riconoscimento facciale per assicurarti che solo tu abbia accesso al tuo Surf.",
+                "descriptionFinger": "Abilita il riconoscimento a impronta per assicurarti che solo tu abbia accesso al tuo Surf.",
+                "title": "Protezione supplementare"
+            },
+            "remindLater": "Ricordamelo più tardi"
+        },
+        "main": {
+            "earlyAccess": {
+                "button": "Ho capito",
+                "description": "Ton Labs è entusiasta di rilasciare Ton Surf al pubblico! È ancora ad accesso anticipato, quindi potrebbero verificarsi comportamenti imprevisti.",
+                "devDescription": "Ton Labs è entusiasta di rilasciare Ton Surf al pubblico! È ancora accesso anticipato con Ruby di Free TON di test, quindi potrebbero verificarsi comportamenti imprevisti.",
+                "title": "Importante"
+            },
+            "securityCard": {
+                "create": "Collega un nuovo Surf",
+                "restore": "Collega un Surf esistente"
+            },
+            "wallet": {
+                "create": "Crea un wallet",
+                "restore": "Ripristina"
+            }
+        },
+        "newPhraseView": {
+            "details": "Annota tutte queste parole su carta e tienile in un luogo sicuro. Ne avrai bisogno se perdi o reinstalli il wallet."
+        },
+        "pinCode": {
+            "confirmPin": "Conferma PIN",
+            "createPin": "Crea PIN",
+            "enterPin": "Inserisci il tuo PIN",
+            "itWorkLocal": "Funzionerà solo su questo dispositivo."
+        },
+        "promoCards": {
+            "backupPassword": {
+                "initial": "Fai il backup della\nMaster Password"
+            },
+            "card": {
+                "initial": "Più di \nun semplice\nhardware wallet"
+            },
+            "faq": {
+                "initial": "Domande\nFrequenti"
+            },
+            "stakeDeposit": {
+                "initial": "Lascia che i token\nti facciano guadagnare\nprofitti"
+            }
+        },
+        "restore": {
+            "button": "Accedi",
+            "description": "Accedi con la password di backup.",
+            "hint": "12 o 24 parole",
+            "masterPassword": "Master password",
+            "title": "Ripristina Surf"
+        },
+        "start": {
+            "securityCard": {
+                "description": "Per massimizzare la sicurezza ogni carta è collegata al tuo account Surf",
+                "title": "Personalizzazione della carta"
+            },
+            "wallet": {
+                "description": "Surf per le migliori opportunità, stai al sicuro e prendi decisioni informate.",
+                "title": "Lascia che Surf ti aiuti a esplorare la blockchain di Free TON"
+            }
+        },
+        "welcome": {
+            "item1": {
+                "description": "Un'interfaccia blockchain\ngratuita, privata e semplice\nper persone intelligenti"
+            },
+            "item2": {
+                "description": "Transazioni veloci\ne sicure\novunque nel mondo"
+            },
+            "item3": {
+                "description": "Meno discorsi,\npiù comunicazione\nattraverso chat sicure"
+            },
+            "item4": {
+                "description": "Autentica\nsicurezza a 360 gradi\nsotto il tuo controllo"
+            }
+        }
+    },
+    "signatures": {
+        "actions": {
+            "deriveThreePairs": "Ricava 3 paia di chiavi",
+            "importKeys": "Importazione di chiavi"
+        },
+        "defaultSignatureName": "Signature",
+        "details": {
+            "name": "Name",
+            "privateKey": "Chiave privata",
+            "publicKey": "Chiave pubblica",
+            "publicKeyCopied": "Chiave pubblica copiata negli Appunti",
+            "showKey": "Mostra chiave",
+            "title": "Signature"
+        },
+        "mainSignature": "My Surf",
+        "medalSignatures": {
+            "bronzeKeys": "Chiavi di bronzo",
+            "goldenKeys": "Chiavi d'oro",
+            "silverKeys": "Chiavi d'argento"
+        },
+        "securityCard": {
+            "name": "Security card",
+            "serialNumber": "Serial Number",
+            "serialNumberCopied": "Serial Number copied to clipboard"
+        },
+        "title": "Signatures",
+        "types":  {
+            "digital": "Digital",
+            "hardware": "Hardware"
+        }
+    },
+    "stake": {
+        "about": {
+            "button": "Fatto!",
+            "description": "Crea uno stake per partecipare alla convalida dei blocchi di Free TON e per trarne un guadagno.\n\nGli stake sono raggruppati in nodi che partecipano alle elezioni dei validatori. Quando inizia un'elezione, gli stake vengono bloccati.\n\nSe il tuo nodo perde, lo stake viene rilasciato. Se vince, lo stake rimane bloccato fino alla fine di un round di convalida. Quando il round termina, gli stake e i guadagni vengono restituiti agli utenti.\n\nEffettua uno stale singolo o abilita l'opzione \"Autoresume\" per eseguire più stake rinnovabili alternati.\n\nTieni presente che in caso di cattiva condotta da parte del validatore c'è il rischio di perdita totale o parziale dello stake.",
+            "title": "Cos'è lo Staking?"
+        },
+        "bot": {
+            "autoresumeDisable": "Disabilita autoresume",
+            "autoresumeDisabled": "Autoresume disabilitato",
+            "autoresumeEnable": "Abilita l'autoresume",
+            "autoresumeEnabled": "Autoresume abilitato",
+            "autoresumeFee": "Commissione per l'autoresume",
+            "available": "{0} sono disponibili per il prelievo",
+            "compliment": "Complimenti",
+            "deposit": "{0} aggiunti allo stake e disponibili per il turno successivo. L'opzione Autoresume è stata abilitata.",
+            "errors": {
+                "autoresume": "Saldo insufficiente per effettuare la transazione. Si prega di ricaricare il saldo",
+                "closedPool": "La Staking Pool è chiusa.",
+                "default": "Si è verificato un errore. I tuoi fondi sono stati trasferiti di nuovo al tuo portafoglio Surf",
+                "lessThanMinStake": "Stake rifiutato: l'importo messo in stake è inferiore allo stake minimo consentito",
+                "noRoundsInPool": "Nessun round nella Staking Pool",
+                "notEnoughFeesForOperation": "Transazione fallita: importo insufficiente per essere ricevuto",
+                "roundIsFull": "Il limite di stake del round è stato raggiunto. Non sono accettati altri stale. Attendi fino al prossimo round",
+                "stakeDeposit": "Non è stato possibile iniziare lo stake",
+                "stakeholderHasNoStakeInPool": "Nessuno stale rilevato per lo specifico stakeholder",
+                "success": "Fondi aggiunti con successo al deposito",
+                "withdraw": "Nessun token disponibile per il prelievo. Assicurati di disabilitare L'opzione Autoresume per prelevare dallo stake",
+                "withdrawError": "È impossibile prelevare fondi in questo momento. Riprova più tardi."
+            },
+            "noRewardMessages": {
+                "lostElections": "l'elezione è stata persa",
+                "missedElections": "l'elezione è stata persa",
+                "nodeStakeTooSmall": "lo stake del nodo era troppo piccolo",
+                "notEnoughTotal": "l'ammontare totale dello stake non era sufficiente",
+                "poolClosed": "il pool era chiuso",
+                "roundWasFinished": "Il round è terminato prematuramente senza pagamento delle ricompense. Motivo: {0}",
+                "stakeRejected": "stake rifiutato",
+                "wentWrong": "qualcosa è andato storto"
+            },
+            "reinvest": "{0} sono stati messi nuovamente in stake per il round successivo",
+            "reward": "Ricompensa",
+            "stakeDeposit": "Stake",
+            "stakeWithdraw": "Ritira",
+            "stakingFee": "Commissione di Staking",
+            "withdrawalFee": "Commissione di prelievo",
+            "withdrawFunds": "Preleva fondi"
+        },
+        "decode": {
+            "inDePool": "impalato in round.",
+            "reinvest": "Ricompensa reinvestita",
+            "reward": "La tua ricompensa per questo round è"
+        },
+        "dePoolStaking": {
+            "age": {
+                "definition": " – this indicates how many rounds this DePool has been active.",
+                "term": "Age"
+            },
+            "annualReward": {
+                "definition": " – this is the expected annual interest rate of your stake, provided the DePool succesfully validates for the whole year.",
+                "term": "Annual reward"
+            },
+            "anonymity": "Complete anonymity",
+            "assurance": {
+                "definition": " – this is the minimum amount of tokens the DePool owner is obliged to invest each validation round, and these funds will be the first lost, in case of any validator node malfunction. Only if they are not enough to cover the losses of the total stake, will the funds of other pool members be affected. This way the DePool owner is strongly motivated to maintain proper operation of the validator node.",
+                "term": "Assurance"
+            },
+            "availablePool": {
+                "definition": " – this is the maximum amount you can currently stake in Surf DePools.",
+                "term": "Available pool"
+            },
+            "balance": {
+                "definition": " – this is the total amount of funds in the DePool.",
+                "term": "Balance"
+            },
+            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
+            "contribution": "Contribution to blockchain infrastructure and decentralization",
+            "dash": "—",
+            "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
+            "fundsControl": "Full control of your funds",
+            "lockUpPeriod": {
+                "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
+                "term": "Lock-up period"
+            },
+            "members": {
+                "definition": " – this is the current number of members in the DePool.",
+                "term": "Members"
+            },
+            "minStake": {
+                "definition": " – this is the minimum stake set in the DePool. You cannot stake less than this amount.",
+                "term": "Min.Stake"
+            },
+            "replenishment": "Replenishment is allowed",
+            "rewardFee": {
+                "definition": " – this is the percentage of your reward that goes to the DePool owner for maintaining the DePool and the validator node.",
+                "term": "Reward fee"
+            },
+            "rewardPaid": {
+                "definition": " – this is how much all participants of Surf DePools have earned in total up until now.",
+                "term": "Reward paid"
+            },
+            "staking": "Staking is a new way of depositing funds on the blockchain. Delegate tokens to DePool smart contract and enjoy your rewards every day. And you also get benefits.",
+            "successful": {
+                "definition": " — percentuale di tutti i turni di convalida a cui il DePools ha partecipato, in cui ha vinto le elezioni di convalida, ha completato con successo la convalida e ha ricevuto la ricompensa.",
+                "term": "Round di successo"
+            },
+            "title": "DePool staking",
+            "withdrawal": "Full withdrawal at any time without losing accrued rewards"
+        },
+        "details": {
+            "autoresume": "Autoresume",
+            "available": "Disponibile",
+            "current": "Puntata",
+            "income": "Reddito previsto",
+            "off": "Fuori",
+            "on": "Sopra",
+            "period": "Periodo di picchettamento",
+            "stakingPeriod": "{0} min",
+            "title": "Saldo"
+        },
+        "info": {
+            "button": "OK. Tienimi informato",
+            "description": "Proprio come te, non vediamo l'ora che venga lanciato lo staking per godere dei suoi benefici",
+            "title": "Prossimamente"
+        },
+        "main": {
+            "button": "Riequilibrare"
+        },
+        "promo": {
+            "about": "About",
+            "stakeNow": "Stake now",
+            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
+            "title": "Earn {0} % a year just for holding crystals"
+        },
+        "stakingScreen": {
+            "about": "Informazioni",
+            "advancedFeatures": "Advanced features",
+            "age": "Età",
+            "assurance": "Garanzia",
+            "availablePool": "Available pool",
+            "balance": "Saldo",
+            "btnBreakUnstake": "Decline withdrawal",
+            "btnRestake": "Restake",
+            "btnStake": "Stake",
+            "btnStakeAnotherRound": "Try to stake later",
+            "btnUnstake": "Unstake",
+            "declineRequest": "Withdrawal canceled.",
+            "depools": "Your dePools",
+            "fee": "Tassa di staking",
+            "help": "Help",
+            "max": "max.",
+            "members": "Membri",
+            "min": "min.",
+            "minStake": "Min. stake",
+            "moreInfo": "More info",
+            "period": "Periodo di lock-up",
+            "reward": "Ricompensa annuale",
+            "rewarded": "Your reward",
+            "rewardPaid": "Ricompensa pagata",
+            "stakes": "Stake",
+            "stakingRequest": "La richiesta di stakeing è stata inviata. Potrebbe richiedere un po' di tempo.",
+            "successfulRounds": "Round di successo",
+            "unstakeBanner": "Durante il periodo di lock-up i tuoi fondi saranno trasferiti sul conto principale. Effettua un riaccredito se desideri annullare il prelievo.",
+            "withdrawRequest": "La richiesta di prelievo è stata inviata"
+        }
+    },
+    "support": {
+        "askQuestion": "Fai una domanda",
+        "button": "Ottenere supporto",
+        "giveFeedback": {
+            "button": "Invia feedback",
+            "subject": "Feedback"
+        },
+        "group": "Gruppo di supporto",
+        "makeSuggestion": "Fare un suggerimento",
+        "message": {
+            "first": "Ciao, sono TON Surf Assistant.",
+            "second": "Chiedimi qualsiasi cosa e ti dirò cosa può fare il Surf al riguardo."
+        },
+        "title": "Ottenere supporto",
+        "videoTutorials": "Video tutorial"
+    },
+    "system": {
+        "dictionary": {
+            "at": "all'indirizzo"
+        },
+        "noConnect": {
+            "button": "Contattaci per assistenza",
+            "description": "Potresti essere offline o il nostro server potrebbe riscontrare problemi. Surf cercherà automaticamente di riconnettersi.",
+            "title": "Sembra che la tua connessione non funzioni correttamente"
+        },
+        "openFile": {
+            "title": "Vuoi aprire il file?"
+        }
+    },
+    "transactions": {
+        "buy": {
+            "item": "Item",
+            "payment": "Payment",
+            "seller": "Seller",
+            "title": "Buy",
+            "totalPrice": "Prezzo totale"
+        },
+        "comments": {
+            "commentOptional": "Commento (opzionale)",
+            "lengthWarning": "Solo 120 caratteri",
+            "message": "Messaggio",
+            "messageOrMemo": "Messaggio o Memo",
+            "useCommentEncryption": "Encrypt comment",
+            "useNoteEncryption": "Encrypt note",
+            "writeMessage": "Scrivi un messaggio..."
+        },
+        "details": {
+            "failedToFetchTransactionData": "Impossibile caricare i dati dei dettagli."
+        },
+        "message": {
+            "transactionInvitation": "Ehi {0}. Ti invito a ricevere una transazione in {APP_NAME}. Accettala qui",
+            "transactionInvitationTitle": "Accetta!",
+            "transactionInvoice": "Ehi {0} . Sono pronto a ricevere la tua transazione. Segui il link",
+            "transactionInvoiceTitle": "Accetta!"
+        },
+        "notice": {
+            "accept": "Accetta",
+            "confirmationSentToChat": "Abbiamo inviato la conferma tramite chat la segreta del wallet.",
+            "heyUser": "Ehi {0}",
+            "transactionInvitation": "Il tuo amico {0} ti ha invitato a ricevere una transazione. Confermare la ricezione"
+        },
+        "vote": {
+            "contest": "Contest",
+            "cost": "Cost",
+            "proposal": "Proposal",
+            "signature": "Signature",
+            "title": "Vote"
+        }
+    },
+    "wallet": {
+        "chats": {
+            "attachDocument": "Documento",
+            "attachImage": "Immagine",
+            "listTitle": "Attività",
+            "messageType": {
+                "document": "📄 {0}",
+                "image": "📷 Foto",
+                "sticker": "🙂 Adesivo"
+            },
+            "newConversation": "Nuova chat",
+            "talks": "Conversazioni",
+            "welcomePrivateChat": "Benvenuto nel nostro servizio di chat privata crittografata end-to-end."
+        },
+        "devCoins": {
+            "alreadyReceived": "Spiacenti, hai già ricevuto tutti i Ruby disponibili",
+            "alreadyRequested": "I Ruby sono già stati richiesti. Attendere prego"
+        },
+        "error": {
+            "failedToDecrypt": "Decodifica fallita. Sembra che tu debba accedere con un altro portafoglio",
+            "failedToLoadAccounts": "Impossibile caricare gli account.",
+            "failedToLoadWallet": "Impossibile caricare il wallet.",
+            "failedToLoginInTheWallet": "Impossibile accedere al wallet.",
+            "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
+            "limitInvalidValue": "Il valore limite non è valido o è troppo grande.",
+            "timeIsNotSynced": "Tempo non sincronizzato. Sfortunatamente, le transazioni non possono essere elaborate. Usa l'impostazione automatica dell'ora."
+        },
+        "main": {
+            "assets": "Fondi",
+            "assetsBalance": "Saldo attivo",
+            "contacts": "Contatti",
+            "invite": "Invita",
+            "receive": "Ricevi",
+            "send": "Invia",
+            "tokenValue": "Token value",
+            "updating": "In aggiornamento...",
+            "yourBalance": "Il tuo saldo"
+        },
+        "payInvoice": {
+            "buyNetTokens": "Acquista {0} token",
+            "cardNumber": "Numero di carta",
+            "expiryDate": "Data di scadenza",
+            "nameOnCard": "Nome sulla carta",
+            "payFor": "per {0}",
+            "rejected": {
+                "authorizationRequest": "Richiesta autorizzata non riuscita.",
+                "limitExceeded": "Limite superato.",
+                "payment": "Pagamento fallito.",
+                "response3DSec": "Controllo di sicurezza 3D non riuscito",
+                "transfer": "Transazione fallita."
+            },
+            "secure": "Codice di sicurezza",
+            "secureText": "Le ultime {0} cifre sulla striscia della firma.",
+            "title": "Dettagli di pagamento"
+        },
+        "protectGrams": {
+            "button": "Password di backup",
+            "description": "Ora hai alcuni token TON sul tuo saldo. Si consiglia vivamente di eseguire il backup della password nel caso in cui sia necessario il ripristino dell'accesso",
+            "title": "Proteggi i tuoi token"
+        },
+        "recipient": {
+            "address": "Indirizzo TON",
+            "email": "E-mail",
+            "phone": "Telefono"
+        },
+        "sendGrams": {
+            "confirm": "Conferma",
+            "confirmAndSend": "Conferma e invia",
+            "currencies": {
+                "mainnet": "crystal",
+                "private": "ruby",
+                "tonlabs": "ruby"
+            },
+            "enterValidAddress": "Indirizzo Free TON ...",
+            "from": "Da",
+            "invalidAddress": "Indirizzo TON non valido.",
+            "recipientWarning": "Assicurati che l'indirizzo sia corretto! Le transazioni effettuate non possono essere invertite!",
+            "title": "Invia token"
+        },
+        "transaction": {
+            "aborted": "Abortito",
+            "amount": "Quantità",
+            "change": "Cambia",
+            "comment": "Comment",
+            "encrypted": "Crittografato",
+            "fee": "Commissioni",
+            "from": "Da",
+            "fromBankCard": "Dalla carta di credito",
+            "goToExplorer": "Go to explorer",
+            "moreDetails": "Più dettagli",
+            "networkFees": "Commissioni di rete",
+            "no": "No",
+            "pending": "In attesa...",
+            "received": "Ricevuto",
+            "repeatTransaction": "Ripeti la transazione",
+            "result": "Risultato",
+            "reverseTransaction": "Inverti transazione",
+            "sent": "Inviato",
+            "share": "Share",
+            "statusSuccess": "Successo",
+            "time": "Time",
+            "to": "A",
+            "transactionNotSend": "Trasferimento non inviato. Riprova.",
+            "transferDetails": "Dettagli del trasferimento",
+            "yes": "Sì"
+        },
+        "warning": {
+            "awaitTransaction": "Trasferimento precedente in corso.",
+            "couldNotIdentifyQRCode": "Impossibile identificare il codice QR",
+            "insufficientBalance": "Fondi insufficienti",
+            "insufficientBalanceForFee": "Fondi insufficienti per le commissioni di rete",
+            "insufficientFundsToActivate": "Fondi insufficienti per attivare il tuo portafoglio",
+            "limitReached": "L'importo supera uno dei limiti stabiliti",
+            "notYetSupported": "Non ancora supportato",
+            "pleaseWait": "Attendere prego"
+        },
+        "withdrawGram": {
+            "amount": "Quantità",
+            "amountDescription": "{0} + {1} commissione ( {2} %)",
+            "amountDescriptionSold": "Venduto per {0} e commissione {1} %",
+            "amountHint": "Specifica, quanti gettoni vuoi prelevare.",
+            "completedSuccessfully": "Pagamento riuscito",
+            "completedSuccessMessage": "Sei appena diventato meno ricco e hai reso qualcun altro più felice",
+            "getAmount": "Ottieni {0}",
+            "great": "Fantastico!",
+            "title": "Preleva token",
+            "useDefaultCard": "Usa la carta predefinita",
+            "withdrawToCard": "Preleva su carta"
+        }
+    }
+}

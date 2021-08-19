@@ -1,0 +1,1385 @@
+{
+    "accounts": {
+        "assets": {
+            "addressCopied": "ウオレットアドレスはコーヒーされました。",
+            "copyAddressHint": "ウォレットアドレスをコピーする",
+            "copyAddressHint2": "Tap to copy address",
+            "description": "ドラッグアンドドロップで資金を交換し、資産のバランスを取り直します",
+            "title": "資産"
+        },
+        "charts": {
+            "monthAgo": "30日前",
+            "today": "今日"
+        },
+        "details": {
+            "buttons": {
+                "callBot": "デボットを呼ぶ",
+                "disableAutoresume": "自動更新を無効にする",
+                "enableAutoresume": "自動更新を有効にする",
+                "keepMeInformed": "オッケーです。何かがあれば、知らせてください。",
+                "makeStake": "ステークを作る",
+                "operationsHistory": "運用履歴",
+                "sendCoins": "トークンを送信する",
+                "share": "Share",
+                "shareMyAddress": "ウォレットアドレスを共有する",
+                "stakeMore": "もっとステークを作る",
+                "whatIsStaking": "ステーキングとは何ですか？",
+                "withdraw": "撤回"
+            },
+            "labels": {
+                "app": "Surf",
+                "newCoinsSoonMsg": "あなたと同じように、私たちは新しい資産のリリースを楽しみにしています。",
+                "shareMsg": "私の{0}アドレス：\n{1}"
+            },
+            "nets": {
+                "mainnet": "Free TON",
+                "private": "プライベート",
+                "tonlabs": "デブネット"
+            },
+            "titles": {
+                "newCoinsSoon": "新しい資産がまもなく登場します"
+            }
+        },
+        "separators": {
+            "accounts": "アカウント",
+            "investments": "サービス",
+            "tokens": "トークン"
+        },
+        "subscriptions": {
+            "actions": {
+                "edit": "Edit",
+                "goToExplorer": "Go to explorer",
+                "openThread": "Open thread",
+                "send": "Send",
+                "showAddress": "Show address",
+                "title": "Actions",
+                "transfer": "Transfer",
+                "viewHistory": "View history",
+                "viewKeys": "View keys"
+            },
+            "addressPlaceholder": "Account address",
+            "alreadyTracked": "You have already subscribed to this address",
+            "assetsSubtitle": "Subscriptions",
+            "namePlaceholder": "Account name",
+            "subscribeAndOpenBtn": "Subscribe and open a thread",
+            "subscribeBtn": "Subscribe",
+            "titleAdd": "Add Subscription",
+            "titleEdit": "Edit subscription",
+            "titleSubscription": "Subscription",
+            "unsubscribeBtn": "Unsubscribe"
+        }
+    },
+    "advancedSettings": {
+        "advancedSettingsButton": "詳細設定",
+        "biometry": {
+            "button": "{0}でロックを解除",
+            "buttonFace": "Use face unlock",
+            "buttonFingerprint": "Use fingerprint unlock",
+            "disabledFaceMessage": "Face unlock disabled",
+            "disabledFingerprintMessage": "Fingerprint unlock disabled",
+            "disabledMessage": "{0}ロック解除が無効",
+            "enabledFaceMessage": "Face unlock enabled",
+            "enabledFingerprintMessage": "Fingerprint unlock enabled",
+            "enabledMessage": "{0}ロック解除が有効",
+            "off": "オフ",
+            "on": "オン",
+            "saveTitle": "Saving biometric data"
+        },
+        "currencies": {
+            "button": "Currencies",
+            "title": "Currencies"
+        },
+        "languages": {
+            "button": "言語",
+            "hint": "ローカリゼーション作業は進行中です。"
+        },
+        "localizationHelper": {
+            "enable": "Enable localization helper",
+            "disable": "Disable localization helper",
+            "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
+        },
+        "network": {
+            "button": "Network",
+            "title": "Network",
+            "titleAdd": "New network",
+            "btnAdd": "Add",
+            "btnUpdate": "Update",
+            "btnRemove": "Remove network",
+            "titleEdit": "Edit network",
+            "name": "Name",
+            "endpoint": "Endpoint"
+        },
+        "suggestLanguage": {
+            "button": "Suggest language",
+            "hint": "If you can't find the language you want, please suggest it in the translation community."
+        },
+        "title": "詳細設定"
+    },
+    "backupReminder": {
+        "logOut": "バックアップなしでログアウトする",
+        "submit": "バックアップ",
+        "text": "注意！パスワードを安全な場所に保存して下さい。パスワードを紛失すると、資金へのアクセスが元に戻せなくなります。",
+        "title": "パスワードのバックアップ"
+    },
+    "chats": {
+        "bots": {
+            "chainRider": {
+                "messages": {
+                    "devIncomeCoinsMessage": "素晴らしい！これで、ルビーを友達に送ることができます。そのため、友達をSurfに招待してください。",
+                    "devWelcomeMessages": [
+                        "こんにちは！",
+                        "私はチェーンライダー、デボット(分散型ボット)です。Surfで助けるためにここにいます。まずは、残高を上げてウオレットを有効にしましょう。",
+                        "友達があなたにトークンを送れるように、ウォレットアドレスを友達と共有してください。少額のウォレット入会金は、最初に受け取った送金から差し引かれます。"
+                    ],
+                    "emptyChat": "ウォレットアドレスを友達と共有する",
+                    "getCoinsMessages": [
+                        "ルビーはテスト目的でのみ提供されます。数分以内に入手できます。",
+                        "最初のルビーを受け取ると、小さなワンタイムウォレット開始料が差し引かれます。"
+                    ],
+                    "goodSurfing": "素敵なサーフを！",
+                    "incomeCoinsMessage": "素晴らしい！これで、トークンを友達に送ることができます。そのため、友達をSurfに招待してください。",
+                    "walletInitiation": "ウォレットの開始",
+                    "welcomeMessages": [
+                        "こんにちは！",
+                        "私はチェーンライダー、デボット(分散型ボット)です。Surfで助けるためにここにいます。まずは、残高を上げてウオレットを有効にしましょう。",
+                        "友達があなたにトークンを送れるように、ウォレットアドレスを友達と共有してください。少額のウォレット入会金は、最初に受け取った送金から差し引かれます。"
+                    ]
+                },
+                "name": "Chain Rider"
+            },
+            "debot": "デボット",
+            "stakingBot": {
+                "messages": {
+                    "emptyChat": "新しいステークを作るために私を呼んでください…",
+                    "welcomeMessages": [
+                        "こんにちは、私はルビー・ステークです。デボット（分散型ボット）であり、資産管理アドバイザーです。",
+                        "私はルビーをステークしたり、現在のステーク金額を増やしたり、取り戻したり、統計（収入と取引履歴）を確認したりするのを手伝うためにここにいます。"
+                    ]
+                },
+                "name": "ルビー・ステーク",
+                "shortcuts": {
+                    "makeStake": "ステークを作る",
+                    "showBalance": "残高の表示",
+                    "stakeMore": "もっとステークを作る",
+                    "whatIsStaking": "ステーキクとは何ですか？"
+                }
+            }
+        },
+        "button": {
+            "actions": {
+                "addToContacts": "連絡先に追加",
+                "blockMessages": "ブロック",
+                "buy": "購入",
+                "checkStakes": "ステークスを確認する",
+                "devCoins": "ルビーを手に入れる",
+                "inviteFriends": "友達を招待する",
+                "makeStake": "ステークを作る",
+                "save": "Save",
+                "shareAddress": "ウォレットアドレスを共有する",
+                "unblockMessages": "ブロックを解除する",
+                "withdraw": "撤回"
+            },
+            "chat": "チャット",
+            "goToConversation": "チャットへ"
+        },
+        "debots": {
+            "addressInput": {
+                "auto": "Select main address",
+                "enterAddress": "Enter your address",
+                "invalidAddress": "Invalid TON address.",
+                "manual": "Enter manually"
+            },
+            "agree": "I understand",
+            "agreement": "DeBot — third party service and may expose you to identity and other information disclosure that is out of the control of TON Surf.",
+            "blockchain": "Blockchain",
+            "browse": "Browse DeBots...",
+            "debot": "DeBot",
+            "debotError": "Oops!! I'm a little broken. Stay in touch",
+            "defaultHello": "Hi! I'm DeBot",
+            "encryptionBox": {
+                "encryptDecryptWithSurf": "Use Surf keys"
+            },
+            "favorites": "Favorites",
+            "functionalUnsupported": "Oops!! The functionality is temporarily not supported. Stay in touch",
+            "history": "History",
+            "info": {
+                "about": "About",
+                "actions": "Actions",
+                "addToFavorites": "Add to favorites",
+                "addToFavoritesNotification": "DeBot added to favorites",
+                "author": "Author",
+                "creator": "Creator",
+                "donate": "Donate",
+                "error": {
+                    "failedToSaveFavorite": "Failed save favorite status. Try again later"
+                },
+                "goToExplorer": "Go to explorer",
+                "publisher": "by {0}",
+                "removeFromFavorites": "Remove from favorites",
+                "removeFromFavoritesNotification": "DeBot removed from favorites",
+                "showAddress": "Show address",
+                "version": "v. {0}",
+                "writeToDeveloper": "Write to developer"
+            },
+            "notFound": "Debot not found",
+            "nothingFound": "Nothing found",
+            "open": "Open DeBot",
+            "recommended": "Recommended",
+            "restart": "Restart",
+            "search": "Enter DeBot address…",
+            "searching": "Searching...",
+            "securityCard": {
+                "notSupport": "Unfortunately your device does not support NFC, which is required for proper operation. Please turn it on, or use another device."
+            },
+            "signingBox": {
+                "signature": "Signature",
+                "signWithSurf": "Sign with Surf"
+            },
+            "title": "DeBots"
+        },
+        "error": {
+            "failedToLoad": "チャットを読み込めませんでした。後でもう一度やり直してください",
+            "failedToSend": "メッセージを送信できませんでした。後でもう一度やり直してください"
+        },
+        "labels": {
+            "address": "無料のTONウォレットアドレス",
+            "establishingConnection": "安全な接続を確立しています...",
+            "today": "今日",
+            "yesterday": "昨日"
+        },
+        "message": {
+            "attention": "注意",
+            "enableFromSettings": "お使いのデバイスの設定でアクセスを有効にしてください",
+            "enableFromSettingsTitle": "画像を送信する",
+            "invitationAcceptance": "こんにちは！私はあなたの招待を受け入れました。コネクトするようにフォローしてください。",
+            "invitationAcceptanceTitle": "コネクトするようにフォローしてください！",
+            "invitationAlert": "{0}を{APP_NAME}へ招待しますか？",
+            "invitationBody": "チャットに招待されました！",
+            "invitationError": "招待の送信に失敗しました。もう一度やり直してください",
+            "invitationFailure": "{APP_NAME}へ招待の送信に失敗しました。",
+            "invitationForReceiver": "ユーザーがあなたを招待しました",
+            "invitationForSender": "招待されたユーザー",
+            "invitationSuccess": "{APP_NAME}への招待は送信されました。",
+            "invitationTitle": "参加してください！",
+            "messagesBlockedByYou": "メッセージをブロックしました",
+            "messagesUnblockedByYou": "メッセージのブロックを解除されました",
+            "messageTooLong": "メッセージが{0}文字より長くなっています。",
+            "tapToResend": "タップして再送信する",
+            "tapToSendAgain": "タップして、もう一度送信する",
+            "userBlockedMessages": "ユーザーがメッセージをブロックしました。",
+            "userUnblockedMessages": "ユーザーがメッセージのブロックを解除しました。"
+        },
+        "notice": {
+            "heyUser": "{0}、こんにちは。",
+            "invitationReceipt": "友だち{0}から{APP_NAME}で接続するよう招待がありました。確認してチャットを開始します。",
+            "start": "スタート"
+        },
+        "toast": {
+            "invitationSuccess": "新しいユーザーを招待しました。",
+            "messagesBlocked": "ブロックされたメッセージ",
+            "messagesUnblocked": "ブロック解除されたメッセージ"
+        }
+    },
+    "contacts": {
+        "addContact": "連絡先を追加する",
+        "addressBookContacts": "アドレス帳",
+        "contactCreated": "新しい連絡先が作成されました",
+        "contactDeleted": "連絡先が削除されました",
+        "contactUpdated": "連絡先の情報が更新されました",
+        "createAndContinue": "作成して、続行する",
+        "deleteContact": "削除",
+        "editContact": "連絡先を編集する",
+        "error": {
+            "failedToDelete": "連絡先を削除できませんでした。後でもう一度やり直してください",
+            "failedToSendSMSInvitation": "SMS 招待を送信できませんでした",
+            "failedToUpdate": "連絡先を更新できませんでした。後でもう一度やり直してください"
+        },
+        "friends": "友達",
+        "giveAccessToContacts": "連絡先へのアクセスを許可する",
+        "info": {
+            "firstName": "名",
+            "lastName": "姓",
+            "tonAddress": "無料のTONウォレットアドレス"
+        },
+        "invitation": {
+            "view": {
+                "button": "Share a personal invitation",
+                "hint": "We will create a chat and contact with that name as soon as your invitation is accepted.",
+                "placeholder": "Name..."
+            }
+        },
+        "inviteFriends": "友達を招待する",
+        "inviteMessage": "素晴らしいことを見つけました！無料のTONウォレットとモバイルバンクがすべて1つに！いかがですか？次のリンクをクリックするとTONSurfアプリを入手します。\n\n {INSTALL_LINK_HOST}",
+        "inviteToApplication": "{APP_NAME} に招待する",
+        "newContact": "新しい連絡先",
+        "otherContacts": "連絡先",
+        "recentContacts": "最近の連絡先",
+        "remove": "連絡先から削除する",
+        "saveAndClose": "保存して閉じる",
+        "searchForAction": "名前またはアドレスで検索...",
+        "searchFriends": "友達を検索する...",
+        "selectRecipient": {
+            "deliveryHint": {
+                "email": "メールで送信",
+                "share": "直接共有",
+                "sms": "SMSで送信"
+            },
+            "retry": "再試行",
+            "sendButton": {
+                "email": "メールを送信する",
+                "share": "リンクを共有する",
+                "sms": "SMSを送信する"
+            },
+            "sendManually": "直接共有"
+        },
+        "shareApplication": "共有{APP_NAME}",
+        "support": "アシスタント",
+        "supportNotAvailable": "アシスタントは一時的に利用できません。しばらくお待ちしてからもう一度お試しください",
+        "undo": "取り消し",
+        "update": "更新する"
+    },
+    "currencies": {
+        "crypto": {
+            "BTC": "Bitcoin",
+            "ETH": "Ethereum"
+        },
+        "fiat": {
+            "EUR": "Euro",
+            "USD": "US Dollar"
+        },
+        "types": {
+            "crypto": "Crypto",
+            "fiat": "Fiat"
+        }
+    },
+    "debotsOptions": {
+        "title": "DeBots options"
+    },
+    "donate": {
+        "title": "Donate to Surf"
+    },
+    "feedback": {
+        "mainComponent": {
+            "inputContactPlaceHolder": "メールまたは電話番号",
+            "inputFeedbackPlaceHolder": "ご意見又は問題を説明してください…",
+            "invalidContact": "無効なメールアドレスまたは電話番号",
+            "sendFeedback": "送信",
+            "title": "アイデアを共有する"
+        },
+        "reportProblem": "問題を報告する",
+        "sent": "世界をより良い場所にすることでの手伝ってくれてありがとう！",
+        "shareYourIdeasButton": "アイデアを共有する"
+    },
+    "getTONs": {
+        "contests": {
+            "governance": "Governance",
+            "title": "Contests"
+        },
+        "exchanges": {
+            "bitcoin": "Bitcoin.com",
+            "coineal": "Coineal",
+            "digifinex": "DigiFinex",
+            "hitbtc": "HitBTC",
+            "kuna": "Kuna",
+            "mexc": "MEXC",
+            "title": "Exchanges"
+        },
+        "title": "Get TONs",
+        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+    },
+    "interfaceOptions": {
+        "assetsBalance": {
+            "button": "Assets balance"
+        },
+        "confirmationOfSending": {
+            "button": "Confirmation of sending"
+        },
+        "interfaceOptionsButton": "Interface options",
+        "nightTheme": {
+            "button": "Night theme"
+        },
+        "promoCards": {
+            "button": "Promo cards"
+        },
+        "title": "Interface options"
+    },
+    "legalNotes": {
+        "businessDetails": {
+            "address": {
+                "title": "住所",
+                "value": "トゥクリ 19-314, 10152 タリン, エストニア"
+            },
+            "company": {
+                "title": "会社",
+                "value": "Wallet solutions Ltd."
+            },
+            "copyright": {
+                "title": "著作権",
+                "value": "TON Labs (TON Venture Studio Ltd.)"
+            },
+            "email": {
+                "body": "アドレス：{0}\nバージョン：{1}\n{2}：{3}\nデバイス：{4}",
+                "subject": "問題を報告する",
+                "title": "Eメール"
+            },
+            "faq": {
+                "title": "ヘルプセンター"
+            },
+            "licence": {
+                "title": "ライセンス",
+                "value": "仮想通貨ウォレットサービスの提供すること、エストニアのFIUが2020年2月28日に発行したFVR001411。"
+            },
+            "licence2": {
+                "title": "ライセンス",
+                "value": "仮想通貨を法定通貨と交換するサービスを提供すること、エストニアのFIUが2020年2月28日に発行したFRK001293。"
+            },
+            "phone": {
+                "title": "電話",
+                "value": "+372 7124030"
+            },
+            "registration": {
+                "title": "登録番号",
+                "value": "2004764, BVI"
+            },
+            "site": {
+                "title": "サイト",
+                "value": "ton.surf"
+            },
+            "title": "事業内容"
+        },
+        "confirmation": {
+            "antiFraud": "私は詐欺防止のポリシーを読み、同意しました。",
+            "common": "私はそれを読み、同意しました。",
+            "confirm": "確認",
+            "cookies": "クッキーポリシーを読み、同意しました",
+            "gotIt": "了解しました",
+            "kycAml": "KYC＆AMLポリシーを読み、同意しました",
+            "makeSure": "こんにちは。正しいことをして、契約とポリシーから始めましょう。",
+            "openUrl": "法的通知を開く",
+            "privacyPolicy": "プライバシーポリシーを読み、同意します",
+            "termsOfUse": "利用規約を読み、同意します。",
+            "title": "続行する前に同意してください"
+        },
+        "mainScreen": {
+            "businessDetails": "事業内容",
+            "cookiesPolicy": "クッキーポリシー",
+            "privacyPolicy": "プライバシーポリシー",
+            "surfDecentralizationPolicy": "Surfの分散ポリシー",
+            "termsOfUse": "利用規約",
+            "title": "法的通知"
+        },
+        "profileButtonTitle": "分散ポリシー"
+    },
+    "lockScreen": {
+        "attention": {
+            "text": "ログアウトする前に、 {HD_WORD_COUNT}パスワードをバックアップすることを強くお勧めします。\n\n PINコードを忘れた場合やアプリからログアウトした場合に、Surfへのアクセスを回復するにはバックアップしかありません。パスワードを紛失すると、資金へのアクセスが不可逆的に失われます。",
+            "title": "注意"
+        },
+        "biometryFailed": "試行回数が多すぎます。後でもう一度やり直してください",
+        "deleteAndExit": "Delete and exit",
+        "logout": "ログアウト",
+        "PINCorrect": "PINが正しいです",
+        "PINNotCorrect": "PINが正しくありません",
+        "temporarilyBlocked": "一時的にブロックされました",
+        "tryAgainLater": "もう一度{0}をやり直してください。",
+        "unlock": "ロックを解除する",
+        "youHaveNAttemptsRemaining": "残り{0}試行があります"
+    },
+    "memoryCheck": {
+        "mainComponent": {
+            "description": "パスワードが利用可能であることを確認し、下に入力してください。",
+            "doneButton": "よし、準備が完成です！",
+            "title": "メモリチェック"
+        },
+        "memoryCheckButton": "保存しました。ダブルチェック"
+    },
+    "multiWallets": {
+        "create": "Create wallet",
+        "defaultWalletName": "My Surf",
+        "editWallet": "Edit wallet",
+        "manage": "管理する",
+        "manageWallets": "Manage wallets",
+        "migrate": "Migrate wallet to Surf",
+        "name": "名前",
+        "newWalletName": "Wallet",
+        "pair": "Pair hardware wallet",
+        "removeWallet": "Remove wallet",
+        "restore": "Restore wallet",
+        "addWallet": "Add wallet",
+        "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
+        "update": "更新する",
+        "wallets": "Wallets",
+        "nameTaken": "Choose another name. This one is taken already",
+        "walletNotUnique": "Same address wallet has been added already"
+    },
+    "networks": {
+        "names": {
+            "mainnet": "Mainnet",
+            "rustnet": "Rustnet",
+            "tonlabs": "デブネット"
+        },
+        "sections": {
+            "main": "Main network",
+            "test": "Test networks",
+            "custom": "Custom networks"
+        },
+        "errors": {
+            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection",
+            "nameTaken": "Choose another name. This one is taken already"
+        }
+    },
+    "operationsHistory": {
+        "button": "操作履歴",
+        "empty": "まだトランザクションがありません",
+        "title": "運用履歴"
+    },
+    "profile": {
+        "otherProducts": "その他の製品",
+        "questionsAndAnswers": "質問と回答",
+        "rate": "Rate Surf"
+    },
+    "questionsAndAnswers": {
+        "accountManagement": "アカウント管理",
+        "buysSells": "売買",
+        "emergency": "緊急",
+        "freeTonTons": "無料TONとTONトークン",
+        "limitsStatusesAndPromos": "制限、ステータス、プロモ",
+        "securityPrivacy": "安全とプライバシー",
+        "servicesTransactions": "サービスとトランザクション",
+        "title": "質問と回答"
+    },
+    "rebalance": {
+        "amount": "金額",
+        "amountIsLow": "運送の金額が安すぎます。",
+        "confirm": "確認",
+        "congrats": "人生を変えて、おめでとうございます。これは痛くないですね。",
+        "currencies": {
+            "CRYSTAL": {
+                "comment": "Free TON tokens",
+                "stake": "Crystal Stakes",
+                "title": "My Crystals"
+            },
+            "RUBY": {
+                "comment": "Free TON test tokens",
+                "stake": "Ruby Stakes",
+                "title": "My Rubies"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "stake": "",
+                "title": "My Surf Medals"
+            }
+        },
+        "disableAutoresume": "自動再開を無効にする",
+        "from": "差出人",
+        "insufficientBalance": "残高が不十分です。",
+        "notEnoughBalance": "Devnet アカウントには、ネットワーク料金を支払うための十分な資金がありません。",
+        "oneMore": "もう1つ",
+        "success": "転送が完了です",
+        "to": "宛先",
+        "toTransfer": "トークンを転送するには、自動再開を無効にしてください。",
+        "toTransferMore": "{0}以上のトークンを転送するには、自動再開を無効にしてください。",
+        "transfer": "転送",
+        "transferAll": "すべてを転送する",
+        "willBeAvailable": "トークンは、{0}内の引き出しに利用可能になります"
+    },
+    "restorePassword": {
+        "mainComponent": {
+            "description": "これがSurfのマスターパスワードです。それを書き留めて、安全な場所に保管してください。",
+            "title": "マスターパスワード"
+        },
+        "restorePasswordButton": "マスターパスワード"
+    },
+    "safetyProtection": {
+        "address": "アドレス",
+        "addressAndKeys": "アドレスとキー",
+        "altAddress": "代替アドレス形式",
+        "biometry": {
+            "face": "顔",
+            "faceID": "FaceID",
+            "fingerprint": "指紋",
+            "iris": "Iris",
+            "touchID": "タッチ ID"
+        },
+        "changePinCode": "PINを変更する",
+        "confirmNewPin": "PINを確認する",
+        "enterNewPin": "新しいPIN",
+        "enterPin": "PINを入力してください",
+        "hidePrivateKey": "秘密キーを隠す",
+        "isCopied": "コピーされました",
+        "lockApp": "Lock app",
+        "lockMethod": {
+            "button": "ロックする方式",
+            "title": "ロックする方式"
+        },
+        "logOut": {
+            "button": "Delete local data and exit",
+            "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
+        },
+        "neverShare": "秘密キーを使って、誰でも資金に対するフルアクセスを許可することができます。信頼できない人やアプリケーションと共有しないでください。",
+        "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
+        "noThanks": "いいえ、結構です",
+        "PINChangeFailed": "PINを変更できませんでした。",
+        "PINChangeSuccess": "PINが変更されました",
+        "PINCorrect": "PINが正しいです",
+        "PINDoesNotMatch": "PIN が一致しません",
+        "PINNotCorrect": "PINが正しくありません",
+        "privateKey": "秘密キー",
+        "publicKey": "公共キー",
+        "safelyShare": "ウォレットアドレスと公開キーは誰とでも安全に共有できます。",
+        "safetyProtectionButton": "安全保護",
+        "safetyRules": {
+            "buttonTitle": "安全のルール",
+            "description": "これらの簡単なルールは、資金を安全に保ちます。",
+            "gotItButton": "了解しました！",
+            "rules": [
+                "検証済みのソース（App Store、Google Play）からのみSurfをインストールしてください。",
+                "マスターパスワードをバックアップします。理想の場合には、あなただけがアクセスできる場所に紙に保管する必要があります。 Surfと同じデバイスに保管しないでください。",
+                "マスターパスワードをSurf以外の人やアプリに開示しないでください。 Surfでウォレットへのアクセスを復元するためにのみ使用してください。",
+                "覚えやすいPINコードを使用し、決して書き留めないでください。他のアプリケーションで同じPINコードを使用しないでください。誰とも共有しないでください。",
+                "ウォレットのセキュリティを最大化するには、セキュリティカードを使用してください。カードを使用すると、マスターパスワードを紛失した場合でもアクセスを復元できます。"
+            ],
+            "screenTitle": "安全のルール"
+        },
+        "securityCard": {
+            "activateAnotherCard": "別のカードを有効にする",
+            "activation": "活性化",
+            "cardCode": "カードのコード",
+            "cardConnected": "カードが接続されています。",
+            "cardConnection": "カード接続…",
+            "cardsReadyToUse": {
+                "btn": "了解しました！",
+                "description": "活性化されたカードは同等です。一枚をアクションの確認に使用し、もう一枚を安全な場所に隠すことをお勧めします。",
+                "title": "カードを使用できます。"
+            },
+            "checkingCardIntegrity": "カードの完全性を確認しています。",
+            "codeScanning": "コードをスキャンしている…",
+            "comingSoonText": "私たちも、セキュリティカードが開くすべての新しい可能性を楽しみにしています。",
+            "comingSoonTitle": "近日公開",
+            "confirm": "確認",
+            "confirmAndBuy": "確認して購入する",
+            "confirmAndOrder": "確認して注文する",
+            "connectionStatuses": {
+                "connected": {
+                    "description": "Keep the card close ",
+                    "title": "接続済み"
+                },
+                "connecting": {
+                    "description": "セキュリティカードをタップしてください",
+                    "title": "接続しています..."
+                },
+                "connectionLost": {
+                    "description": "Try to reconnect",
+                    "title": "接続が失われました"
+                },
+                "error": {
+                    "description": "",
+                    "title": ""
+                },
+                "lookingFor": {
+                    "description": "Put the card closer",
+                    "title": "Trying to find..."
+                },
+                "processing": {
+                    "description": "Don't remove the card",
+                    "title": "Processing..."
+                },
+                "success": {
+                    "description": "The card can be removed",
+                    "title": "完成"
+                }
+            },
+            "continue": "続く",
+            "deactivate": "カードを無効にする",
+            "deactivateApprovalDescription": "カードはこのアカウントのみで動作し、アクティベーションを繰り返す必要があります。",
+            "deactivateApprovalTitle": "セキュリティカードを無効しますか?",
+            "deactivateBtn": "無効にする",
+            "deactivatedCards": "セキュリティ カードが無効にされています",
+            "deactivateDescription": "すぐに再有効できます。",
+            "details": "詳細",
+            "detailsText": "サーフはあなたとあなたの使用、期間を追跡しません。サーフは、あなたのデータのいずれかを収集しません。当社は、分析ソフトウェアを使用しません。単純なトラッカーでもありません。クッキーもありません。個人データ処理なし。何もない。これがわたしたちのミッションです。\n\n警告！ただし、当社が管理できない他の第三者サービスは、その単独の裁量と意志で、お客様のデータを収集して使用する可能性があります。Surfでのサービスの使用を受け入れる前に、プライバシー、クッキー、利用規約、および他のすべての契約上拘束力のあるポリシーと文書を見直す際に非常に注意深く、非常に慎重しなければなりません。",
+            "detailsTitle": "地方分権ポリシーで既に述べたように",
+            "enterCode": "コードを入力する",
+            "enterCodeDescription": "カードにコードを入力し、デバイスの横にカードを置いたら、接続します。",
+            "free": "無料",
+            "included": "株式会社",
+            "keepInformed": "オッケーです。何かがあれば、知らせてください。",
+            "laterBtn": "いいえ、後で",
+            "learnMore": {
+                "developers": {
+                    "description": "Free TON SDKでは、自分のスマートコントラクトとユースケースに合わせてカードをプログラムできます",
+                    "title": "開発者向けのオープンソース"
+                },
+                "development": {
+                    "description": "Free TON SDKでは、自分のスマートコントラクトとユースケースに合わせてカードをプログラムできます。",
+                    "title": "オープンソースで拡張可能"
+                },
+                "personalization": {
+                    "description": "発注からパーソナライズ。ハードウェアで生成された暗号化秘密キーが表示されることは決してありません。",
+                    "title": "最初からあなたのためにパーソナライズされた"
+                },
+                "personalized": {
+                    "description": "あなたのカードは注文の瞬間からあなたのアカウントに割り当てられ、易感染性になれません",
+                    "title": "発注からパーソナライズ"
+                },
+                "protectTech": {
+                    "description": "シングルチップ設計、EAL 6+認定、フォーマル検証済みマルチシグニチャウォレットスマートコントラクト、および暗号化により、資産を安全に保ちます。あなたの秘密キーは、あなたにも明らかにされることはありません！",
+                    "title": "最先端のセキュリティ"
+                },
+                "simpleness": {
+                    "description": "バッテリーもケーブルもプラグもありません。財布やポケットにピッタリ。携帯電話のNFCで2分以内にカードをアクティブにします。簡単に！",
+                    "title": "入手しやすく、使いやすい"
+                },
+                "technology": {
+                    "description": "シングルチップ設計、EAL 6+認定、フォーマル検証済みマルチシグニチャウォレットスマートコントラクト、および暗号化により、資産を安全に保ちます",
+                    "title": "最先端のセキュリティ技術"
+                },
+                "title": "FreeTON用のセキュリティカード"
+            },
+            "menuTitle": "セキュリティカード",
+            "moreFeaturesSoon": "セキュリティカードの機能がまもなく登場します。",
+            "options": "オプション",
+            "order": "注文",
+            "orderName": "TON Labs　セキュリティカード",
+            "orderStatuses": {
+                "confirming": "準備中です。",
+                "gettingReady": "準備中です",
+                "onItsWay": "配達中です",
+                "processed": "処理",
+                "reactivate": "再アクティべート",
+                "reorder": "再注文してください"
+            },
+            "orderStep": "4ステップの{0}",
+            "paymentDetails": "支払詳細",
+            "promoBtn": "カードを注文する",
+            "promoText": "トランザクションに署名し、秘密キーを格納するためのパーソナライズされたハードウェアウォレット。",
+            "promoTitle": "資金を安全に保つ簡単な方法。",
+            "purchaseSuccessMsg": "おめでとう！セキュリティカードの購入が完了です。配達状況を追跡するには、セキュリティカードデボットを呼び出してください。",
+            "purchaseSuccessTitle": "購入が完了です",
+            "putCardOnPhoneDescription": "カードでスマホの裏側をタッチして、アクティブにしてください",
+            "putCardOnPhoneTitle": "カードで電話をタップしてください",
+            "readingCardData": "カードデータが読み取り中...",
+            "recipientInfo": "受信者情報",
+            "reissue": "カードを再発行する",
+            "reissueApprovalDescription": "カードが再発行されると、他のすべてのカードは一時的に無効になります",
+            "reissueApprovalTitle": "セキュリティカードを再発行しますか?",
+            "reissueBtn": "再発行する",
+            "reissueDescription": "カードが再発行されると、他のすべてのカードは一時的に無効になります",
+            "reviewOrder": "注文の概要",
+            "scanCode": "コードをスキャンする",
+            "scanCodeDescription": "カードのコードをスキャンし、カードをデバイスの横に置いたら、接続します。",
+            "screenTitle": "セキュリティカード",
+            "shareSecurityCardMessage": "FreeTONブロックチェーンでの完全にパーソナライズされたハードウェアウォレット：最初からあなたしか管理できないものです。\n\n{0}",
+            "shareSecurityCardSubtitle": "セキュリティカード\nTON Labs",
+            "shareSecurityCardSuccess": "リンクはコピーされました。",
+            "shipping": "出荷",
+            "shippingAddress": "お届け先の住所",
+            "signTransfers": "転送をサインする",
+            "signTransfersDisabled": "転送署名が無効されています",
+            "signTransfersEnabled": "転送署名が有効されています",
+            "statusInfo": {
+                "confirming": {
+                    "button": "よし！",
+                    "description": "カード発行の準備が整っていることを確認しています。結果のこと通知します。",
+                    "title": "準備中です"
+                },
+                "gettingReady": {
+                    "button": "よし！",
+                    "description": "カード発行の準備が整っていることを確認しています。結果のこと通知します。",
+                    "title": "準備中です。"
+                },
+                "onItsWay": {
+                    "button": "追跡",
+                    "description": "カードがまもなく届きます、その追跡番号:{0}。カードが届いたら、すぐ活性化してください。。",
+                    "title": "配達中です",
+                    "txtButton": "活性化する"
+                },
+                "processed": {
+                    "button": "了解しました！",
+                    "description": "カードはほとんどできています。まもなく配送サービスに転送されます。",
+                    "title": "処理"
+                },
+                "reorder": {
+                    "button": "再注文",
+                    "description": "カードを発行できません。 入力されたデータの一部にエラーがあります。",
+                    "title": "再注文してください",
+                    "txtButton": "助けを得ます"
+                }
+            },
+            "subtotal": "小計（ {0}アイテム）",
+            "tapSecurityCard": "セキュリティカードをタップします",
+            "tapSecurityCardDescription": "カードをタップしてアクションを確認します。",
+            "taxAndFees": "税金と料金",
+            "techSpecs": {
+                "dimensions": {
+                    "description": "ハードウェアウォレットを使いやすいものにしたかったので、85.6×53.98×0.76センチのプラスチックカードの形にデザインしました。",
+                    "title": "寸法"
+                },
+                "extended": {
+                    "description": "カードには120KBの空きメモリーがあるため、独自のデータをカードに書き込むことができます。\nオープンソースのFree TON SDKを提供しているので、カードを自分のスマートコントラクトでプログラムして、銀行カード、建物のアクセスカードなどの使い方が可能です。",
+                    "title": "拡張使用"
+                },
+                "extendedUse": {
+                    "description": "カードには120KBの空きメモリーがあるため、独自のデータをカードに書き込むことができます。\nオープンソースのTONLabs APIを提供しているので、カードを自分のスマートコントラクトでプログラムして、銀行カード、建物のアクセスカードなどの使い方が可能です。",
+                    "title": "拡張使用"
+                },
+                "hardware": {
+                    "description": "トラブルのない動作を保証し、悪用のリスクを軽減するために、シングルチップNFCのみの設計（ISO 14443）と認定されたセキュアチップSECC EAL6 +を使用しました。",
+                    "title": "ハードウェア"
+                },
+                "protection": {
+                    "description": "セキュリティとプライバシーは私たちの優先事項です。設計によりサイドチャネル攻撃から保護されたCCEAL 6+ Infineon SecureElementを使用しています。\nマスターパスワード（シードフレーズ）がカードから離れることはありません。\nあなたのカードはあなたが注文した瞬間からあなたのアカウントに割り当てられ、それを注文するために使用された暗号ウォレットに対してのみアクティブにすることができます。",
+                    "title": "保護"
+                },
+                "title": "技術仕様"
+            },
+            "total": "トータル",
+            "turningOnCardWallet": "カードウォレットをオンにする...",
+            "understand": "了解しました！",
+            "verifyIdentity": "本人確認してください",
+            "verifyIdentityDescription": "画面を見てください",
+            "waitlist": {
+                "added": "待機リストに追加されました。カード注文の開始についてお知らせします。",
+                "addedToastMsg": "待機リストに追加されました",
+                "comingThisDecemberBtn": "今年の12月に",
+                "description": "無料TONのためのTONLabs セキュリティカードは、ユニークなNFCスマートカードです 。 あなたのデータを安全に保ち、あなただけの特別な使い方もできるカードです。",
+                "joinWaitlistBtn": "順番待ちリストに参加する",
+                "learnMoreBtn": "詳細情報",
+                "policy": "TONLabsセキュリティカードをFreeTONで使用することにより、あなたは、当社の利用規約とポリシーに同意します。",
+                "techSpecsBtn": "技術仕様",
+                "title": "普通のハードウェアウォレットじゃありません"
+            }
+        },
+        "showPrivateKey": "秘密キーを表示する",
+        "title": "安全保護",
+        "TONAddress": "無料のTONアドレス",
+        "verifyYourIdentity": "本人確認してください"
+    },
+    "security": {
+        "readMore": "続きを読む",
+        "screenshotWarning": "写真やスクリーンショットを撮らないでください。他のアプリがそれらにアクセスできる場合がございます。すべてを紙に書き留めて、安全な場所に保管してください。",
+        "thirdPartyServicesWarning": "あなたは安全なハーバーを出ます。第三者のサービスは、お客様の個人データを収集して使用する場合があります。",
+        "title": "安全警告!",
+        "understand": "了解しました"
+    },
+    "sendGram": {
+        "deposit": "Deposit",
+        "fee": "料金",
+        "feeAmount": "≈ {0}",
+        "makeAnotherTransfer": "別の転送を行う",
+        "maxValueAlert": "残高がゼロだと、特定の操作を実行できなくなります。このアカウントを使い続けることを計画している場合は、残高にいくつかのトークンを残すことを検討してください。",
+        "minValueAlert": "最小転送量は{0}トークンです",
+        "operationPreview": {
+            "amount": "金額",
+            "comment": "コメント",
+            "commentEncrypted": "Encrypted comment cannot be decrypted by anyone, other than its sender and recipient",
+            "commentUnencrypted": "Unencrypted comment will be visible to everyone on the blockchain",
+            "encrypted": "暗号済み",
+            "fees": "料金",
+            "from": "差出人",
+            "immediately": "すぐに",
+            "no": "いいえ",
+            "send": "送信済み",
+            "time": "時間",
+            "title": "操作のプレビュー",
+            "to": "宛先",
+            "yes": "はい"
+        },
+        "sendAll": "すべてを送信する",
+        "sendSuccessButton": "チャットを開く",
+        "sendSuccessDescription": "おめでとう！あなたの転送はどその目的に届きました。",
+        "sendSuccessTitle": "転送が完了です。",
+        "sendTo": "宛先",
+        "title": "トークンを送信する",
+        "transfer": "Transfer",
+        "transferSendTitle": "転送は送信済みです。"
+    },
+    "settings": {
+        "title": "設定"
+    },
+    "setup": {
+        "confirmLocalPassword": {
+            "placeholder": "パスコードを繰り返す",
+            "success": "完成"
+        },
+        "firstInteractions": {
+            "notifications": {
+                "button": "通知を受け取る",
+                "description": "他のユーザーからのメッセージや転送、重要なSurfの更新を見逃さないように、通知を有効にしてください。",
+                "title": "重要な通知"
+            },
+            "protection": {
+                "button": "保護を有効にする",
+                "descriptionFace": "他の人はあなたのSurfにアクセスできないように、顔認識を有効にしてください。",
+                "descriptionFinger": "他の人はあなたのSurfにアクセスできないように、指紋を有効にしてください。",
+                "title": "追加の保護"
+            },
+            "remindLater": "後で思い出させる"
+        },
+        "main": {
+            "earlyAccess": {
+                "button": "理解した",
+                "description": "TON LabsはTON Surf をリリースことに興奮しています!早期アクセスのバージョンであり、予期しない動作が発生する可能性があります。",
+                "devDescription": "TON LabsはTON Surf をリリースことに興奮しています!無料のTONテストルビーでの早期アクセスのバージョンであり、予期しない動作が発生する可能性があります。",
+                "title": "重要"
+            },
+            "securityCard": {
+                "create": "新しいSurfに繋がる",
+                "restore": "既存へのリンク"
+            },
+            "wallet": {
+                "create": "ウォレットを作成する",
+                "restore": "復元"
+            }
+        },
+        "newPhraseView": {
+            "details": "この言葉を紙に書き留め、安全な場所に保管してください。あなたは、ウォレットの紛失・再インストールの場合、必要になります。"
+        },
+        "pinCode": {
+            "confirmPin": "PINコードを確認する",
+            "createPin": "PINコードを作成する",
+            "enterPin": "PINコードを入力してください",
+            "itWorkLocal": "このデバイスでのみ動作します。"
+        },
+        "promoCards": {
+            "backupPassword": {
+                "initial": "マスター\nパスワードを\nバックアップする"
+            },
+            "card": {
+                "initial": "ハードウェア\nウォレット以上\nのもの"
+            },
+            "faq": {
+                "initial": "よく\nある\n質問"
+            },
+            "stakeDeposit": {
+                "initial": "トークンで\n利益を\n上げましょう"
+            }
+        },
+        "restore": {
+            "button": "サインイン",
+            "description": "パスワードバックアップでサインインします。",
+            "hint": "12 or 24 words",
+            "masterPassword": "マスターパスワード",
+            "title": "Surfを復元する"
+        },
+        "start": {
+            "securityCard": {
+                "description": "セキュリティを最大化するために、各カードはSurfアカウントにつながっています",
+                "title": "カードをパーソナライズ"
+            },
+            "wallet": {
+                "description": "最高の機会のにSurfし、安全を維持し、情報に基づいた意思決定を行います。",
+                "title": "Surfは、無料TONブロックチェーンでナビゲートするのに役立ちます。"
+            }
+        },
+        "welcome": {
+            "item1": {
+                "description": "スマートな人向けの\n無料・プライベート・使いやすい\nブロックチェーンインターフェース"
+            },
+            "item2": {
+                "description": "世界でどこでも\n利用料無料の\n安全なトランザクション"
+            },
+            "item3": {
+                "description": "時間を無駄に\nしないで、安全なチャットで\n会話する。"
+            },
+            "item4": {
+                "description": "あなたしか管理できない360度の特別なセキュリティ。"
+            }
+        }
+    },
+    "signatures": {
+        "actions": {
+            "deriveThreePairs": "Derive 3 pairs of keys",
+            "importKeys": "Import keys"
+        },
+        "defaultSignatureName": "Signature",
+        "details": {
+            "name": "Name",
+            "privateKey": "Private key",
+            "publicKey": "Public key",
+            "publicKeyCopied": "Public key copied to clipboard",
+            "showKey": "Show key",
+            "title": "Signature"
+        },
+        "mainSignature": "My Surf",
+        "medalSignatures": {
+            "bronzeKeys": "Bronze keys",
+            "goldenKeys": "Golden keys",
+            "silverKeys": "Silver keys"
+        },
+        "securityCard": {
+            "name": "Security card",
+            "serialNumber": "Serial Number",
+            "serialNumberCopied": "Serial Number copied to clipboard"
+        },
+        "title": "Signatures",
+        "types":  {
+            "digital": "Digital",
+            "hardware": "Hardware"
+        }
+    },
+    "stake": {
+        "about": {
+            "button": "了解しました！",
+            "description": "Free TONブロック検証に参加し、それから利益を得るためにステークを作成します。\n\nステークは、バリデーターの選挙に参加するノードにプールされます。選挙が始まると、ステークはロックされます。\n\nノードが負けた場合、ステークは解放されます。それが勝った場合、ステークは検証ラウンドが終了するまでロックされたままになります。ラウンドが終了すると、ステークと収益はユーザーに返済されます。\n\n単一のステークを作成するか、[自動再開]オプションを有効にして、複数の再生可能なステークを交互に実行しする操作があります。\n\nバリデーターの不正行為により、ステークの全部または一部が失われるリスクがあることをご了承ください。",
+            "title": "ステーキングとは何ですか？"
+        },
+        "bot": {
+            "autoresumeDisable": "自動再開を無効にする",
+            "autoresumeDisabled": "自動再開が無効済み",
+            "autoresumeEnable": "自動再開を有効にする",
+            "autoresumeEnabled": "自動再開が有効",
+            "autoresumeFee": "自動再開料",
+            "available": "{0}は引き出し可能です",
+            "compliment": "お世辞",
+            "deposit": "{0}がステークに追加され、次のラウンドで利用できるようになります。自動再開オプションが有効になりました。",
+            "errors": {
+                "autoresume": "トランザクションを作成するための残高が不十分です。残高を補充してください",
+                "closedPool": "ステーキングプールは閉鎖されています。",
+                "default": "エラーが発生しました。資金はあなたのSurfウォレットに戻されました",
+                "lessThanMinStake": "ステークが拒否されました：ステークの金額が許容最小金額よりも少ない",
+                "noRoundsInPool": "ステーキングプールにはラウンドがありません。",
+                "notEnoughFeesForOperation": "トランザクションが失敗しました: 不十分な受け取り金額",
+                "roundIsFull": "ステークラウンド制限に達しました。新しいステークは受け入れられません。次のラウンドまでお待ちください。",
+                "stakeDeposit": "ステークデポジットを開けません。",
+                "stakeholderHasNoStakeInPool": "指定された利害関係者に対するステークが検出されない",
+                "success": "資金がデポシットに追加されました",
+                "withdraw": "現在、引き出し可能なトークンはありません。ステークから引き出には、必ず自動再開オプションを無効にしてください",
+                "withdrawError": "現時、資金を引き出すことはできません。後でもう一度やり直してください。"
+            },
+            "noRewardMessages": {
+                "lostElections": "選挙は失われました",
+                "missedElections": "選挙は逃した",
+                "nodeStakeTooSmall": "ノードのステークが小さすぎます",
+                "notEnoughTotal": "総出資数が十分ではありませんでした",
+                "poolClosed": "プールが閉じられました",
+                "roundWasFinished": "ラウンドは報酬の支払いなしで途中で終了しました。理由: {0}",
+                "stakeRejected": "ステークは拒否されました",
+                "wentWrong": "何かがうまくいかなかったです。"
+            },
+            "reinvest": "{0}は次のラウンドに再賭けられます",
+            "reward": "報酬",
+            "stakeDeposit": "ステーク",
+            "stakeWithdraw": "引き出す",
+            "stakingFee": "ステーキング料金",
+            "withdrawalFee": "引き出し手数料",
+            "withdrawFunds": "資金を引き出す"
+        },
+        "decode": {
+            "inDePool": "staked in round.",
+            "reinvest": "Reward reinvested.",
+            "reward": "Your reward for this round is"
+        },
+        "dePoolStaking": {
+            "age": {
+                "definition": " – this indicates how many rounds this DePool has been active.",
+                "term": "Age"
+            },
+            "annualReward": {
+                "definition": " – this is the expected annual interest rate of your stake, provided the DePool succesfully validates for the whole year.",
+                "term": "Annual reward"
+            },
+            "anonymity": "Complete anonymity",
+            "assurance": {
+                "definition": " – this is the minimum amount of tokens the DePool owner is obliged to invest each validation round, and these funds will be the first lost, in case of any validator node malfunction. Only if they are not enough to cover the losses of the total stake, will the funds of other pool members be affected. This way the DePool owner is strongly motivated to maintain proper operation of the validator node.",
+                "term": "Assurance"
+            },
+            "availablePool": {
+                "definition": " – this is the maximum amount you can currently stake in Surf DePools.",
+                "term": "Available pool"
+            },
+            "balance": {
+                "definition": " – this is the total amount of funds in the DePool.",
+                "term": "Balance"
+            },
+            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
+            "contribution": "Contribution to blockchain infrastructure and decentralization",
+            "dash": "—",
+            "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
+            "fundsControl": "Full control of your funds",
+            "lockUpPeriod": {
+                "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
+                "term": "Lock-up period"
+            },
+            "members": {
+                "definition": " – this is the current number of members in the DePool.",
+                "term": "Members"
+            },
+            "minStake": {
+                "definition": " – this is the minimum stake set in the DePool. You cannot stake less than this amount.",
+                "term": "Min.Stake"
+            },
+            "replenishment": "Replenishment is allowed",
+            "rewardFee": {
+                "definition": " – this is the percentage of your reward that goes to the DePool owner for maintaining the DePool and the validator node.",
+                "term": "Reward fee"
+            },
+            "rewardPaid": {
+                "definition": " – this is how much all participants of Surf DePools have earned in total up until now.",
+                "term": "Reward paid"
+            },
+            "staking": "Staking is a new way of depositing funds on the blockchain. Delegate tokens to DePool smart contract and enjoy your rewards every day. And you also get benefits.",
+            "successful": {
+                "definition": " — percentage of all validation rounds the DePools participated in, where it won validator elections, successfully completed validation and received its reward.",
+                "term": "Successful rounds"
+            },
+            "title": "DePool staking",
+            "withdrawal": "Full withdrawal at any time without losing accrued rewards"
+        },
+        "details": {
+            "autoresume": "自動再開",
+            "available": "利用可能",
+            "current": "ステーク済み",
+            "income": "期待収益",
+            "off": "オフ",
+            "on": "オン",
+            "period": "ステーキング期間",
+            "stakingPeriod": "{0}分",
+            "title": "残高"
+        },
+        "info": {
+            "button": "OK、知らせてください",
+            "description": "あなたと同じように、私たちはステーキングの開始を楽しみにしています。",
+            "title": "近日公開"
+        },
+        "main": {
+            "button": "リバランス"
+        },
+        "promo": {
+            "about": "About",
+            "stakeNow": "Stake now",
+            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
+            "title": "Earn {0} % a year just for holding crystals"
+        },
+        "stakingScreen": {
+            "about": "About",
+            "advancedFeatures": "Advanced features",
+            "age": "Age",
+            "assurance": "Assurance",
+            "availablePool": "Available pool",
+            "balance": "Balance",
+            "btnBreakUnstake": "Decline withdrawal",
+            "btnRestake": "Restake",
+            "btnStake": "Stake",
+            "btnStakeAnotherRound": "Try to stake later",
+            "btnUnstake": "Withdraw",
+            "declineRequest": "Withdrawal canceled.",
+            "depools": "Your dePools",
+            "fee": "Reward fee",
+            "help": "Help",
+            "max": "max.",
+            "members": "Members",
+            "min": "min.",
+            "minStake": "Min. stake",
+            "moreInfo": "More info",
+            "period": "Lock-up period",
+            "reward": "Estimated annual reward",
+            "rewarded": "Your reward",
+            "rewardPaid": "Reward paid",
+            "stakes": "Stakes",
+            "stakingRequest": "Staking request was sent. It may take a little time.",
+            "successfulRounds": "Successful rounds",
+            "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
+            "withdrawRequest": "Withdraw request was sent. It may take a short while."
+        }
+    },
+    "support": {
+        "askQuestion": "質問する",
+        "button": "Get support",
+        "giveFeedback": {
+            "button": "Give feedback",
+            "subject": "Feedback"
+        },
+        "group": "Support group",
+        "makeSuggestion": "Make a suggestion",
+        "message": {
+            "first": "はじめまして、TONSurfのアシスタントです。",
+            "second": "何でも聞いてください。Surfがそれに対して何ができるか答えます。"
+        },
+        "title": "Get support",
+        "videoTutorials": "Video tutorials"
+    },
+    "system": {
+        "dictionary": {
+            "at": "で"
+        },
+        "noConnect": {
+            "button": "ヘルプが必要な場合はお問い合わせください",
+            "description": "オフラインになっているか、サーバーの問題が発生している可能性があります。サーフは自動的に再接続します。",
+            "title": "接続が正しく機能していないようです。"
+        },
+        "openFile": {
+            "title": "ファイルを開きますか？"
+        }
+    },
+    "transactions": {
+        "buy": {
+            "item": "Item",
+            "payment": "Payment",
+            "seller": "Seller",
+            "title": "Buy",
+            "totalPrice": "Total price"
+        },
+        "comments": {
+            "commentOptional": "コメント（オプション）",
+            "lengthWarning": "120 文字のみ",
+            "message": "メッセージ",
+            "messageOrMemo": "Message or Memo",
+            "useCommentEncryption": "Encrypt comment",
+            "useNoteEncryption": "Encrypt note",
+            "writeMessage": "メッセージを書く..."
+        },
+        "details": {
+            "failedToFetchTransactionData": "詳細データを読み込めませんでした。"
+        },
+        "message": {
+            "transactionInvitation": "こんにちは、{0} 。 {APP_NAME}で取引を受け取るように招待します。ここで受け取ってください。",
+            "transactionInvitationTitle": "受け入れる！",
+            "transactionInvoice": "こんにちは、{0} 。取引を受け取る準備ができました。リンクをクリックください。",
+            "transactionInvoiceTitle": "受け入れる！"
+        },
+        "notice": {
+            "accept": "受け入れる",
+            "confirmationSentToChat": "ウォレットシークレットチャットで確認を送信しました。",
+            "heyUser": "こんにちは、{0}",
+            "transactionInvitation": "あなたの友人{0}が取引を受け取るようにあなたを招待しました。確認を返してください。"
+        },
+        "vote": {
+            "contest": "Contest",
+            "cost": "Cost",
+            "proposal": "Proposal",
+            "signature": "Signature",
+            "title": "Vote"
+        }
+    },
+    "wallet": {
+        "chats": {
+            "attachDocument": "ドキュメント",
+            "attachImage": "画像",
+            "listTitle": "活動",
+            "messageType": {
+                "document": "📄 {0}",
+                "image": "📷写真",
+                "sticker": "🙂ステッカー"
+            },
+            "newConversation": "新しいチャット",
+            "talks": "会談",
+            "welcomePrivateChat": "エンドツーエンド暗号化されたプライベートチャットルームサービスへようこそ。"
+        },
+        "devCoins": {
+            "alreadyReceived": "申し訳ありませんが、あなたはすでに利用可能なすべてのルビーを受け取りました",
+            "alreadyRequested": "ルビーはすでに要求されています。お待ちください"
+        },
+        "error": {
+            "failedToDecrypt": "データ暗号できませんでした。別のウォレットでログインしてみてください。",
+            "failedToLoadAccounts": "アカウントを読み込めませんでした。",
+            "failedToLoadWallet": "ウォレットを読み込めませんでした。",
+            "failedToLoginInTheWallet": "ウォレットにログインできませんでした。",
+            "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
+            "limitInvalidValue": "制限値が無効であるか、大きすぎます。",
+            "timeIsNotSynced": "時刻が同期されていません。残念ながら、トランザクションは処理できません。 [時刻を自動的に設定する]オプションを有効にしてください。"
+        },
+        "main": {
+            "assets": "資産",
+            "assetsBalance": "資産残高",
+            "contacts": "連絡先",
+            "invite": "招待する",
+            "receive": "受信",
+            "send": "送信",
+            "tokenValue": "Token value",
+            "updating": "更新中...",
+            "yourBalance": "あなたの残高"
+        },
+        "payInvoice": {
+            "buyNetTokens": "{0}トークンを購入する",
+            "cardNumber": "カード番号",
+            "expiryDate": "有効期限",
+            "nameOnCard": "カードでのお名前",
+            "payFor": "{0}用",
+            "rejected": {
+                "authorizationRequest": "承認されたリクエストは失敗しました。",
+                "limitExceeded": "限度超過。",
+                "payment": "支払い失敗しました。",
+                "response3DSec": "3Dセキュリティチェック失敗しました。",
+                "transfer": "トランザクション失敗しました。"
+            },
+            "secure": "安全のコード",
+            "secureText": "署名ストリップの最後の{0}桁。",
+            "title": "支払詳細"
+        },
+        "protectGrams": {
+            "button": "パスワードのバックアップ",
+            "description": "残高にいくつかのTONトークンがあります。アクセス回復が必要な場合に備えて、パスワードをバックアップすることを強くお勧めします。",
+            "title": "トークンを保護する"
+        },
+        "recipient": {
+            "address": "TONアドレス",
+            "email": "メールアドレス",
+            "phone": "電話"
+        },
+        "sendGrams": {
+            "confirm": "確認",
+            "confirmAndSend": "確認と送信",
+            "currencies": {
+                "mainnet": "crystals",
+                "private": "rubies",
+                "tonlabs": "rubies"
+            },
+            "enterValidAddress": "無料のTONアドレス",
+            "from": "差出人",
+            "invalidAddress": "無効なTONアドレス。",
+            "recipientWarning": "注: エラーがあった場合、資金は失われます",
+            "title": "トークンを送信する"
+        },
+        "transaction": {
+            "aborted": "中止されました。",
+            "amount": "金額",
+            "change": "変更",
+            "comment": "コメント",
+            "encrypted": "暗号済み",
+            "fee": "料金",
+            "from": "差出人",
+            "fromBankCard": "銀行カードから",
+            "goToExplorer": "Go to explorer",
+            "moreDetails": "詳細",
+            "networkFees": "ネットワーク料金",
+            "no": "いいえ",
+            "pending": "保留中...",
+            "received": "受信済み",
+            "repeatTransaction": "トランザクションを繰り返す",
+            "result": "結果",
+            "reverseTransaction": "トランザクションの取消",
+            "sent": "送信済み",
+            "share": "Share",
+            "statusSuccess": "完成",
+            "time": "Time",
+            "to": "宛先",
+            "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
+            "transferDetails": "転送の詳細",
+            "yes": "はい"
+        },
+        "warning": {
+            "awaitTransaction": "以前の転送が進行中です。",
+            "couldNotIdentifyQRCode": "Couldn't identify QR code",
+            "insufficientBalance": "残高不足",
+            "insufficientBalanceForFee": "ネットワーク料金の資金が不足です",
+            "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
+            "limitReached": "金額が設定された制限のいずれかを超えています",
+            "notYetSupported": "まだサポートされていません",
+            "pleaseWait": "お待ちください"
+        },
+        "withdrawGram": {
+            "amount": "金額",
+            "amountDescription": "{0} + {1}料金（ {2} ％）",
+            "amountDescriptionSold": "{0}と手数料{1} ％で販売",
+            "amountHint": "引き出すトークンの数を指定してください。",
+            "completedSuccessfully": "支払い完了",
+            "completedSuccessMessage": "このお金で誰かがもうちょっと幸せになりました。",
+            "getAmount": "{0}を取得する",
+            "great": "素晴らしい！",
+            "title": "トークンを引き出す",
+            "useDefaultCard": "既定のカードを使用する",
+            "withdrawToCard": "カードに引き出す"
+        }
+    }
+}

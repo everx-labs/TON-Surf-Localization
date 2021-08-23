@@ -1,0 +1,28 @@
+{
+  "name": "ton-surf-localization",
+  "version": "6.2.1",
+  "description": "TON-Surf localization files",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonlabs/TON-Surf-Localization.git"
+  },
+  "keywords": [
+    "TON-Surf",
+    "Surf",
+    "Free TON",
+    "localization"
+  ],
+  "author": "TON Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonlabs/TON-Surf-Localization/issues"
+  },
+  "homepage": "https://github.com/tonlabs/TON-Surf-Localization#readme",
+  "dependencies": {
+    "typescript": "4.1.2"
+  }
+}

@@ -1,0 +1,1385 @@
+{
+    "accounts": {
+        "assets": {
+            "addressCopied": "Cüzdan adresi panoya kopyalandı",
+            "copyAddressHint": "Cüzdan adresini kopyala",
+            "copyAddressHint2": "Adresi kopyala",
+            "description": "Para takası yapmak ve varlıklarınızı yeniden dengelemek için sürükle ve bırak",
+            "title": "Varlık"
+        },
+        "charts": {
+            "monthAgo": "30 gün önce",
+            "today": "bugün"
+        },
+        "details": {
+            "buttons": {
+                "callBot": "DeBot'u ara",
+                "disableAutoresume": "Otomatik yenilemeyi kapat",
+                "enableAutoresume": "Otomatik yenilemeyi etkinleştir",
+                "keepMeInformed": "Tamam. Beni bilgilendir",
+                "makeStake": "Stake yap",
+                "operationsHistory": "İşlem geçmişi",
+                "sendCoins": "Para gönder",
+                "share": "Paylaş",
+                "shareMyAddress": "Cüzdan adresini paylaş",
+                "stakeMore": "Daha fazla stake yap",
+                "whatIsStaking": "Stake etme nedir?",
+                "withdraw": "Parayı çek"
+            },
+            "labels": {
+                "app": "Surf",
+                "newCoinsSoonMsg": "Tıpkı sizin gibi, yeni varlıkların piyasaya sürülmesinin faydalarından yararlanmak için bekleyemeyiz",
+                "shareMsg": "{0}  adresim:\n{1}"
+            },
+            "nets": {
+                "mainnet": "Free TON",
+                "private": "Özel",
+                "tonlabs": "Geliştirici ağı"
+            },
+            "titles": {
+                "newCoinsSoon": "Yeni varlıklar yakında gelecek"
+            }
+        },
+        "separators": {
+            "accounts": "Hesaplar",
+            "investments": "Hizmetler",
+            "tokens": "Belirteçler"
+        },
+        "subscriptions": {
+            "actions": {
+                "edit": "Düzenle",
+                "goToExplorer": "Gezgine git",
+                "openThread": "Konuyu aç",
+                "send": "Send",
+                "showAddress": "Show address",
+                "title": "Eylemler",
+                "transfer": "Transfer",
+                "viewHistory": "Geçmişi görüntüle",
+                "viewKeys": "View keys"
+            },
+            "addressPlaceholder": "Hesap adresi",
+            "alreadyTracked": "Zaten bu adrese abone oldunuz",
+            "assetsSubtitle": "Abonelik",
+            "namePlaceholder": "Hesap adı",
+            "subscribeAndOpenBtn": "Abone ol ve konuyu aç",
+            "subscribeBtn": "Abone ol",
+            "titleAdd": "Abonelik Ekle",
+            "titleEdit": "Aboneliği düzenle",
+            "titleSubscription": "Abonelik",
+            "unsubscribeBtn": "Abonelikten çık"
+        }
+    },
+    "advancedSettings": {
+        "advancedSettingsButton": "Gelişmiş ayarlar",
+        "biometry": {
+            "button": "{0} ile doğrulama",
+            "buttonFace": "Kilidi yüz tanıma ile aç",
+            "buttonFingerprint": "Kilidi parmak izi ile aç",
+            "disabledFaceMessage": "Yüz tanıma kilidi devre dışı",
+            "disabledFingerprintMessage": "Parmak izi ile kilit açma devre dışı",
+            "disabledMessage": "{0} kapalı",
+            "enabledFaceMessage": "Yüz tanıma kilidi etkin",
+            "enabledFingerprintMessage": "Parmak izi ile kilit açma etkin",
+            "enabledMessage": "{0} etkin",
+            "off": "Kapalı",
+            "on": "Etkin",
+            "saveTitle": "Biyometrik verilerin kaydedilmesi"
+        },
+        "currencies": {
+            "button": "Currencies",
+            "title": "Currencies"
+        },
+        "languages": {
+            "button": "Dil",
+            "hint": "Yerelleştirme üzerinde çalışılıyor..."
+        },
+        "localizationHelper": {
+            "enable": "Enable localization helper",
+            "disable": "Disable localization helper",
+            "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
+        },
+        "network": {
+            "button": "Network",
+            "title": "Network",
+            "titleAdd": "New network",
+            "btnAdd": "Add",
+            "btnUpdate": "Update",
+            "btnRemove": "Remove network",
+            "titleEdit": "Edit network",
+            "name": "Name",
+            "endpoint": "Endpoint"
+        },
+        "suggestLanguage": {
+            "button": "Dil öner",
+            "hint": "İstediğiniz dil listede yoksa, lütfen çeviri topluluğunda önerin"
+        },
+        "title": "Gelişmiş ayarlar"
+    },
+    "backupReminder": {
+        "logOut": "Yedeklemeden çıkış yap",
+        "submit": "Yedekleme",
+        "text": "Şifrenizi güvenli bir yere kaydedin. Onu kaybederseniz, paranıza erişimi kalıcı olarak kaybedersiniz.",
+        "title": "Şifreni yedekle"
+    },
+    "chats": {
+        "bots": {
+            "chainRider": {
+                "messages": {
+                    "devIncomeCoinsMessage": "Harika! Artık arkadaşlarınıza belirteç gönderebilirsiniz. Onları sizinle Surf yapmak için davet edin",
+                    "devWelcomeMessages": [
+                        "Selam!",
+                        "Ben Chain Rider, DeBot, yani, ademimerkeziyetçi botuyum. Sana yardım etmek için buradayım. Öncelikle bakiyenizi doldurarak cüzdanınızı aktif hale getirelim.",
+                        "Cüzdan adresinizi arkadaşlarınızla paylaşın, böylece size para gönderebilirler. Aldığınız ilk aktarımdan küçük bir cüzdan başlatma ücreti düşülecektir."
+                    ],
+                    "emptyChat": "Cüzdan adresinizi arkadaşlarınız içinde paylaşın...",
+                    "getCoinsMessages": [
+                        "Yakutlar yalnızca deneme içindir. Onları birkaç dakika içinde alacaksınız.",
+                        "İlk Yakutlarınızı aldığınızda, tek defalık küçük bir cüzdan başlangıç ücreti düşülecektir."
+                    ],
+                    "goodSurfing": "İyi Sörfler!",
+                    "incomeCoinsMessage": "Harika! Artık arkadaşlarınıza belirteç gönderebilirsiniz, sadece onları sizinle Surf yapmaya davet edin",
+                    "walletInitiation": "Cüzdan başlatması",
+                    "welcomeMessages": [
+                        "Selam!",
+                        "Ben Chain Rider, DeBot, yani, ademimerkeziyetçi botuyum. Surf etmeyinizde yardımcı olmak için burdayım. Öncelikle bakiyenizi doldurarak cüzdanınızı aktif hale getirelim.",
+                        "Cüzdan adresinizi arkadaşlarınızla paylaşın, böylece size para gönderebilirler.  Aldığınız ilk aktarımdan küçük bir cüzdan başlatma ücreti düşülecektir."
+                    ]
+                },
+                "name": "Chain Rider"
+            },
+            "debot": "DeBot",
+            "stakingBot": {
+                "messages": {
+                    "emptyChat": "Yeni stake yapmak için bana yazın…",
+                    "welcomeMessages": [
+                        "Selam, ben Ruby Stake, DeBot, yani, ademimerkeziyetçi bir botum, varlık yönetimi danışmanınızım.",
+                        "Yakutları yatırmanıza, mevcut stake'inizi artırmanıza, geri almanıza veya gelir ile işlem geçmişi istatistiklerinizi gözden geçirmenize yardımcı olmak için buradayım."
+                    ]
+                },
+                "name": "Ruby Stake",
+                "shortcuts": {
+                    "makeStake": "Stake yap",
+                    "showBalance": "Bakiyeyi göster",
+                    "stakeMore": "Daha fazla stake yap",
+                    "whatIsStaking": "Stake etme nedir?"
+                }
+            }
+        },
+        "button": {
+            "actions": {
+                "addToContacts": "Kişilere ekle",
+                "blockMessages": "Yasakla",
+                "buy": "Satın Al",
+                "checkStakes": "Stake'leri kontrol et",
+                "devCoins": "Yakut al",
+                "inviteFriends": "Arkadaşları davet et",
+                "makeStake": "Stake yap",
+                "save": "Kaydet",
+                "shareAddress": "Cüzdan adresini paylaş",
+                "unblockMessages": "Yasağı kaldır",
+                "withdraw": "Parayı çek"
+            },
+            "chat": "Sohbet",
+            "goToConversation": "Sohbeti aç"
+        },
+        "debots": {
+            "addressInput": {
+                "auto": "Ana adresi seç",
+                "enterAddress": "Adresinizi girin",
+                "invalidAddress": "Geçersiz TON adresi.",
+                "manual": "Elle gir"
+            },
+            "agree": "Anladım",
+            "agreement": "DeBot — third party service and may expose you to identity and other information disclosure that is out of the control of TON Surf.",
+            "blockchain": "Blok zinciri",
+            "browse": "DeBot'ları Ara...",
+            "debot": "DeBot",
+            "debotError": "Oops!! I'm a little broken. Stay in touch",
+            "defaultHello": "Hi! I'm DeBot",
+            "encryptionBox": {
+                "encryptDecryptWithSurf": "Use Surf keys"
+            },
+            "favorites": "Favorites",
+            "functionalUnsupported": "Oops!! The functionality is temporarily not supported. Stay in touch",
+            "history": "History",
+            "info": {
+                "about": "About",
+                "actions": "Actions",
+                "addToFavorites": "Add to favorites",
+                "addToFavoritesNotification": "DeBot added to favorites",
+                "author": "Author",
+                "creator": "Creator",
+                "donate": "Donate",
+                "error": {
+                    "failedToSaveFavorite": "Failed save favorite status. Try again later"
+                },
+                "goToExplorer": "Go to explorer",
+                "publisher": "by {0}",
+                "removeFromFavorites": "Remove from favorites",
+                "removeFromFavoritesNotification": "DeBot removed from favorites",
+                "showAddress": "Show address",
+                "version": "v. {0}",
+                "writeToDeveloper": "Write to developer"
+            },
+            "notFound": "Debot bulunamadı",
+            "nothingFound": "Hiçbirşey bulunamadı",
+            "open": "DeBot'u Aç",
+            "recommended": "Recommended",
+            "restart": "Yeniden başlat",
+            "search": "Enter DeBot address…",
+            "searching": "Aranıyor...",
+            "securityCard": {
+                "notSupport": "Unfortunately your device does not support NFC, which is required for proper operation. Please turn it on, or use another device."
+            },
+            "signingBox": {
+                "signature": "İmza",
+                "signWithSurf": "Sign with Surf"
+            },
+            "title": "Debotlar"
+        },
+        "error": {
+            "failedToLoad": "Sohbet yüklenemedi. Daha sonra tekrar deneyin",
+            "failedToSend": "Mesaj gönderilemedi. Daha sonra tekrar deneyin"
+        },
+        "labels": {
+            "address": "Free TON cüzdan adresi",
+            "establishingConnection": "Güvenli bağlantı oluşturuluyor...",
+            "today": "Bugün",
+            "yesterday": "Dün"
+        },
+        "message": {
+            "attention": "Dikkat",
+            "enableFromSettings": "Lütfen cihaz Ayarlar'ından erişimi etkinleştirin",
+            "enableFromSettingsTitle": "Resmi gönder",
+            "invitationAcceptance": "Davet kabul edildi. Bağlanın.",
+            "invitationAcceptanceTitle": "Bağlanmak için takip edin!",
+            "invitationAlert": "{0} kişisini {APP_NAME} uygulamasını kullanmaya davet etmek ister misiniz?",
+            "invitationBody": "Sohbete davet edildiniz. Heyecan verici bir durum!",
+            "invitationError": "Davet gönderilemedi. Lütfen tekrar deneyin",
+            "invitationFailure": "{APP_NAME} uygulamasına davet bağlantısı gönderilemedi",
+            "invitationForReceiver": "Sizi davet etti",
+            "invitationForSender": "Siz davet ettiniz",
+            "invitationSuccess": "{APP_NAME} uygulamasına davet bağlantısı başarıyla gönderildi.",
+            "invitationTitle": "Katılın!",
+            "messagesBlockedByYou": "Mesajları engellediniz",
+            "messagesUnblockedByYou": "Mesajların engelini kaldırdınız",
+            "messageTooLong": "Mesajınız {0} karakterden uzun.",
+            "tapToResend": "Yeniden gönder",
+            "tapToSendAgain": "Tekrar gönder",
+            "userBlockedMessages": "Kullanıcı mesajları engelledi",
+            "userUnblockedMessages": "Kullanıcı mesaj engellemesini kaldırdı"
+        },
+        "notice": {
+            "heyUser": "Selam {0}",
+            "invitationReceipt": "{0} adlı arkadaşınız sizi {APP_NAME} uygulamasında bağlantı kurmaya davet etti. Onaylayın ve sohbete başlayın",
+            "start": "Başla"
+        },
+        "toast": {
+            "invitationSuccess": "Yeni kullanıcıyı başarıyla davet ettiniz!",
+            "messagesBlocked": "Mesajlar engellendi",
+            "messagesUnblocked": "Mesajların engellenmesi kaldırıldı"
+        }
+    },
+    "contacts": {
+        "addContact": "Kişi ekle",
+        "addressBookContacts": "Kişiler",
+        "contactCreated": "Yeni kişi oluşturuldu",
+        "contactDeleted": "Kişi silindi",
+        "contactUpdated": "İletişim bilgileri güncellendi",
+        "createAndContinue": "Oluştur ve devam et",
+        "deleteContact": "Sil",
+        "editContact": "Kişiyi düzenle",
+        "error": {
+            "failedToDelete": "Kişi silinemedi. Daha sonra tekrar deneyin",
+            "failedToSendSMSInvitation": "SMS daveti gönderilemedi",
+            "failedToUpdate": "Kişi güncellenemedi. Daha sonra tekrar deneyin"
+        },
+        "friends": "Arkadaşlar",
+        "giveAccessToContacts": "Kişilerinize erişime izin verin",
+        "info": {
+            "firstName": "Ad",
+            "lastName": "Soyad",
+            "tonAddress": "Free TON cüzdan adresi"
+        },
+        "invitation": {
+            "view": {
+                "button": "Daveti paylaş",
+                "hint": "Davetiniz kabul edilende bir sohbet oluşturacağız ve davet edilen kişiyle iletişime geçeceğiz",
+                "placeholder": "Ad..."
+            }
+        },
+        "inviteFriends": "Arkadaşları davet et",
+        "inviteMessage": "Selam! Bil bakalım ne buldum? Harika bir Free TON cüzdanı ve mobil banka hepsi bir arada! Kulağa iyi geliyor? O zaman TON Surf uygulamasını edinmek için bağlantıyı takip edin:\n\n{INSTALL_LINK_HOST}",
+        "inviteToApplication": "{APP_NAME} uygulamasına davet et",
+        "newContact": "Yeni kişi",
+        "otherContacts": "Kişiler",
+        "recentContacts": "Son iletişime geçilenler",
+        "remove": "Kişilerden kaldır",
+        "saveAndClose": "Kaydet ve kapat",
+        "searchForAction": "Ada veya adrese göre ara...",
+        "searchFriends": "Arkadaşları bul...",
+        "selectRecipient": {
+            "deliveryHint": {
+                "email": "E-posta ile gönder",
+                "share": "Doğrudan paylaş",
+                "sms": "Kısa mesaj ile gönder"
+            },
+            "retry": "Yeniden dene",
+            "sendButton": {
+                "email": "E-posta gönder",
+                "share": "Bağlantıyı paylaş",
+                "sms": "Kısa mesaj gönder"
+            },
+            "sendManually": "Doğrudan paylaş"
+        },
+        "shareApplication": "{APP_NAME} bağlantısını paylaş",
+        "support": "Yardımcı",
+        "supportNotAvailable": "Yardımcı geçici olarak müsait değil, lütfen daha sonra tekrar deneyin",
+        "undo": "Geri al",
+        "update": "Güncelle"
+    },
+    "currencies": {
+        "crypto": {
+            "BTC": "Bitcoin",
+            "ETH": "Ethereum"
+        },
+        "fiat": {
+            "EUR": "Avro",
+            "USD": "ABD Doları"
+        },
+        "types": {
+            "crypto": "Kripto",
+            "fiat": "Fiat"
+        }
+    },
+    "debotsOptions": {
+        "title": "DeBot seçenekleri"
+    },
+    "donate": {
+        "title": "Surf'e Bağış Yap"
+    },
+    "feedback": {
+        "mainComponent": {
+            "inputContactPlaceHolder": "E-posta adresiniz veya telefon numaranız",
+            "inputFeedbackPlaceHolder": "Sorununuzu veya fikrinizi açıklayın...",
+            "invalidContact": "Geçersiz e-posta veya telefon numarası",
+            "sendFeedback": "Gönder",
+            "title": "Fikir paylaşmak"
+        },
+        "reportProblem": "Sorunu bildir",
+        "sent": "Dünyayı daha iyi bir haline getirmemize yardım ettiğiniz için teşekkür ederiz!",
+        "shareYourIdeasButton": "Fikir paylaşmak"
+    },
+    "getTONs": {
+        "contests": {
+            "governance": "Governance",
+            "title": "Contests"
+        },
+        "exchanges": {
+            "bitcoin": "Bitcoin.com",
+            "coineal": "Coineal",
+            "digifinex": "DigiFinex",
+            "hitbtc": "HitBTC",
+            "kuna": "Kuna",
+            "mexc": "MEXC",
+            "title": "Exchanges"
+        },
+        "title": "Get TONs",
+        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+    },
+    "interfaceOptions": {
+        "assetsBalance": {
+            "button": "Assets balance"
+        },
+        "confirmationOfSending": {
+            "button": "Confirmation of sending"
+        },
+        "interfaceOptionsButton": "Interface options",
+        "nightTheme": {
+            "button": "Night theme"
+        },
+        "promoCards": {
+            "button": "Promo cards"
+        },
+        "title": "Interface options"
+    },
+    "legalNotes": {
+        "businessDetails": {
+            "address": {
+                "title": "Adres",
+                "value": "Tuukri 19-314, 10152 Tallinn, Estonya"
+            },
+            "company": {
+                "title": "Şirket",
+                "value": "Wallet solutions Ltd."
+            },
+            "copyright": {
+                "title": "Telif Hakkı",
+                "value": "TON Labs (TON Venture Studio Ltd.)"
+            },
+            "email": {
+                "body": "Adres: {0}\nSürüm: {1}\n{2}:{3}\nCihaz: {4}",
+                "subject": "Sorunu bildir",
+                "title": "E-posta"
+            },
+            "faq": {
+                "title": "Yardım merkezi"
+            },
+            "licence": {
+                "title": "Lisans",
+                "value": "FVR001411 sanal para cüzdanı hizmetinin yayınlanması Estonya MASAK'ı tarafından 28.02.2020 tarihinde sağlanmıştır."
+            },
+            "licence2": {
+                "title": "Lisans",
+                "value": "Fiat ve sanal para biriminlerinin takas edilmesi hizmetleri Estonya MASAK'ı tarafından 28.02.2020 tarihinde sağlanmıştır."
+            },
+            "phone": {
+                "title": "Telefon",
+                "value": "+372 7124030"
+            },
+            "registration": {
+                "title": "Kayıt numarası",
+                "value": "2004764, BVI"
+            },
+            "site": {
+                "title": "Site",
+                "value": "ton.surf"
+            },
+            "title": "İş ayrıntıları"
+        },
+        "confirmation": {
+            "antiFraud": "Dolandırıcılıkla Mücadele Politikasını okudum ve kabul ediyorum",
+            "common": "Okudum ve kabul ediyorum",
+            "confirm": "Kabul et",
+            "cookies": "Çerez Politikasını okudum ve kabul ediyorum",
+            "gotIt": "Anladım",
+            "kycAml": "KYC & AML Politikasını okudum ve kabul ediyorum",
+            "makeSure": "Selam, hadi herşeyi doğru yapalım ve anlaşmalar ve politikalarla başlayalım:",
+            "openUrl": "Yasal Uyarıları Aç",
+            "privacyPolicy": "Gizlilik Politikasını okudum ve kabul ediyorum",
+            "termsOfUse": "Kullanım Koşullarını okudum ve kabul ediyorum",
+            "title": "Devam için kabul edin"
+        },
+        "mainScreen": {
+            "businessDetails": "İş ayrıntıları",
+            "cookiesPolicy": "Çerez Politikası",
+            "privacyPolicy": "Gizlilik Politikası",
+            "surfDecentralizationPolicy": "Surf Ademimerkeziyet Politikası",
+            "termsOfUse": "Kullanım Şartları",
+            "title": "Yasal Uyarılar"
+        },
+        "profileButtonTitle": "Ademimerkeziyet Politikası"
+    },
+    "lockScreen": {
+        "attention": {
+            "text": "Oturumu kapatmadan önce {HD_WORD_COUNT} şifrenizi yedeklemeniz şiddetle tavsiye edilir.\n\nPIN kodunuzu unutursanız veya uygulamadan çıkış yaparsanız, Surf'e erişimi kurtarmak için Şifre Yedeklemesi tek seçenektir. Ana şifrenizi kaybederseniz, paranıza asla erişemezsiniz.",
+            "title": "Dikkat"
+        },
+        "biometryFailed": "Çok fazla girişim, lütfen daha sonra tekrar deneyin",
+        "deleteAndExit": "Delete and exit",
+        "logout": "Oturumu kapat",
+        "PINCorrect": "PIN doğrudur",
+        "PINNotCorrect": "Yanlış PIN",
+        "temporarilyBlocked": "Geçici olarak engellendi",
+        "tryAgainLater": "Tekrar dene {0}",
+        "unlock": "Kilidi aç",
+        "youHaveNAttemptsRemaining": "{0} girişiminiz kaldı"
+    },
+    "memoryCheck": {
+        "mainComponent": {
+            "description": "Şifrenizi kaydettiğinizden emin olmak için aşağıya girin.",
+            "doneButton": "Tamam, hazırız!",
+            "title": "Hafıza kontrolü"
+        },
+        "memoryCheckButton": "Kaydedildi. Tekrar gözden geçir"
+    },
+    "multiWallets": {
+        "create": "Create wallet",
+        "defaultWalletName": "My Surf",
+        "editWallet": "Edit wallet",
+        "manage": "Yönet",
+        "manageWallets": "Manage wallets",
+        "migrate": "Migrate wallet to Surf",
+        "name": "Ad",
+        "newWalletName": "Wallet",
+        "pair": "Pair hardware wallet",
+        "removeWallet": "Remove wallet",
+        "restore": "Restore wallet",
+        "addWallet": "Add wallet",
+        "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
+        "update": "Güncelle",
+        "wallets": "Wallets",
+        "nameTaken": "Choose another name. This one is taken already",
+        "walletNotUnique": "Same address wallet has been added already"
+    },
+    "networks": {
+        "names": {
+            "mainnet": "Mainnet",
+            "rustnet": "Rustnet",
+            "tonlabs": "Geliştirici ağı"
+        },
+        "sections": {
+            "main": "Main network",
+            "test": "Test networks",
+            "custom": "Custom networks"
+        },
+        "errors": {
+            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection",
+            "nameTaken": "Choose another name. This one is taken already"
+        }
+    },
+    "operationsHistory": {
+        "button": "İşlem geçmişi",
+        "empty": "Henüz işlem yok",
+        "title": "İşlem geçmişi"
+    },
+    "profile": {
+        "otherProducts": "Diğer ürünler",
+        "questionsAndAnswers": "Sorular ve Cevaplar",
+        "rate": "Rate Surf"
+    },
+    "questionsAndAnswers": {
+        "accountManagement": "Hesap Yönetimi",
+        "buysSells": "Alım ve Satım",
+        "emergency": "Acil Durum",
+        "freeTonTons": "Free TON ve TON belirteçleri",
+        "limitsStatusesAndPromos": "Limit, statü ve promosyonlar",
+        "securityPrivacy": "Güvenlik ve gizlilik",
+        "servicesTransactions": "Hizmetler ve İşlemler",
+        "title": "Sorular ve Cevaplar"
+    },
+    "rebalance": {
+        "amount": "Miktar",
+        "amountIsLow": "Aktarım miktarı çok düşük",
+        "confirm": "Onayla",
+        "congrats": "Hayatınızda değişiklik yaptığınız için tebrikler. Zararsız olsun.",
+        "currencies": {
+            "CRYSTAL": {
+                "comment": "Free TON tokens",
+                "stake": "Crystal Stakes",
+                "title": "My Crystals"
+            },
+            "RUBY": {
+                "comment": "Free TON test tokens",
+                "stake": "Ruby Stakes",
+                "title": "My Rubies"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "stake": "",
+                "title": "My Surf Medals"
+            }
+        },
+        "disableAutoresume": "Otomatik Devamı kapat",
+        "from": "Gönderen:",
+        "insufficientBalance": "Yetersiz bakiye.",
+        "notEnoughBalance": "Geliştirici ağı hesabınız, ağ ücretini ödemek için yeterli bakiyeye sahip değil.",
+        "oneMore": "Bir daha",
+        "success": "Başarılı Aktarıldı",
+        "to": "Alıcı:",
+        "toTransfer": "Para aktarmak için Otomatik Devamı kapatın",
+        "toTransferMore": "{0} belirteçten fazlasını aktarmak için Otomatik Devamı kapatın.",
+        "transfer": "Aktar",
+        "transferAll": "Tümünü aktar",
+        "willBeAvailable": "Belirteçler, {0} içinde çekilebilecek"
+    },
+    "restorePassword": {
+        "mainComponent": {
+            "description": "Bu, Surf Ana Şifrenizdir. Yazın ve güvenli bir yerde saklayın, bu cihazda değil!",
+            "title": "Ana Şifre"
+        },
+        "restorePasswordButton": "Ana şifre"
+    },
+    "safetyProtection": {
+        "address": "Adres",
+        "addressAndKeys": "Adres ve Anahtarlar",
+        "altAddress": "Alternatif adres biçimi",
+        "biometry": {
+            "face": "Yüz",
+            "faceID": "Yüz Kimliği",
+            "fingerprint": "Parmak izi",
+            "iris": "İris",
+            "touchID": "Dokunmatik Kimlik"
+        },
+        "changePinCode": "Pin'i değiştir",
+        "confirmNewPin": "PIN'i onayla",
+        "enterNewPin": "Yeni PIN",
+        "enterPin": "PIN kodunuzu girin",
+        "hidePrivateKey": "Anahtarı gizle",
+        "isCopied": "Kopyalandı",
+        "lockApp": "Lock app",
+        "lockMethod": {
+            "button": "Kilit yöntemi",
+            "title": "Kilit yöntemi"
+        },
+        "logOut": {
+            "button": "Delete local data and exit",
+            "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
+        },
+        "neverShare": "Özel anahtarınız, herhangi birine paranıza tam erişim verebilir. Güvenmediğiniz kişiler, uygulamalarla ve diğer yerlerde asla paylaşmamalısınız.",
+        "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
+        "noThanks": "Hayır, teşekkürler",
+        "PINChangeFailed": "PIN değiştirilemedi",
+        "PINChangeSuccess": "PIN değiştirildi",
+        "PINCorrect": "PIN doğrudur",
+        "PINDoesNotMatch": "PIN'ler eşleşmiyor",
+        "PINNotCorrect": "Yanlış PIN",
+        "privateKey": "Özel anahtar",
+        "publicKey": "Açık anahtar",
+        "safelyShare": "Cüzdan adresiniz ve açık anahtarınız herkesle güvenle paylaşılabilir, bir tehlike yok.",
+        "safetyProtectionButton": "Güvenlik koruması",
+        "safetyRules": {
+            "buttonTitle": "Güvenlik kuralları",
+            "description": "Bu basit kurallar, paranızı güvende tutmanıza yardımcı olacaktır",
+            "gotItButton": "Anladım",
+            "rules": [
+                "Surf'ü yalnızca doğrulanmış kaynaklardan yükleyin (App Store, Google Play)",
+                "Ana şifrenizi yedekleyin. Bir kağıda yazarak yalnızca sizin erişebileceğiniz yerde saklayın. Ekran görüntüsü almayın. Ana şifreni asla Surf ile aynı cihazda saklamayın!",
+                "Ana şifrenizi Surf dışında herhangi bir kişiye veya herhangi bir uygulamaya ifşa etmeyin. Yalnızca Surf'te cüzdanınıza erişimi geri yüklemek için kullanın.",
+                "Kolayca hatırlayabileceğiniz ve asla bir yere yazamayacağınız bir PIN kullanın. Diğer uygulamalarda aynı PIN kodunu kullanmayın. Bunu kimseyle paylaşmayın.",
+                "Varlıklarınızın en yüksek düzey güvenliği için Güvenlik Kartı kullanın. Ana Şifrenizi kaybetseniz bile cüzdanınıza yeniden erişim sağlamanıza yardımcı olabilir"
+            ],
+            "screenTitle": "Güvenlik kuralları"
+        },
+        "securityCard": {
+            "activateAnotherCard": "Başka bir kartı etkinleştir",
+            "activation": "Etkinleştirme",
+            "cardCode": "Kart kodu",
+            "cardConnected": "Kart bağlandı.",
+            "cardConnection": "Kart bağlanıyor…",
+            "cardsReadyToUse": {
+                "btn": "Anladım!",
+                "description": "Etkinleştirilen kartlar eşdeğerdir. Birini işlemleri onaylamak için kullanmanızı ve diğerini güvenli bir yerde saklamanızı öneririz.",
+                "title": "Kartlar kullanıma hazır"
+            },
+            "checkingCardIntegrity": "Kart bütünlüğü kontrol ediliyor...",
+            "codeScanning": "Kod taranıyor…",
+            "comingSoonText": "Güvenlik Kartının açacağı tüm yeni fırsatları biz de sabırsızca bekliyoruz.",
+            "comingSoonTitle": "Çok yakında",
+            "confirm": "Onayla",
+            "confirmAndBuy": "Onayla ve satın al",
+            "confirmAndOrder": "Onayla ve Sipariş Et",
+            "connectionStatuses": {
+                "connected": {
+                    "description": "Kartı yakın tutun",
+                    "title": "Bağlandı"
+                },
+                "connecting": {
+                    "description": "Güvenlik kartınını yakın koyun",
+                    "title": "Bağlanıyor..."
+                },
+                "connectionLost": {
+                    "description": "Yeniden bağlanmayı dene",
+                    "title": "Bağlantı kesildi"
+                },
+                "error": {
+                    "description": "",
+                    "title": ""
+                },
+                "lookingFor": {
+                    "description": "Kartı daha da yaklaştırın",
+                    "title": "Bulmaya çalışıyor..."
+                },
+                "processing": {
+                    "description": "Kartı yana çekmeyin",
+                    "title": "İşleniyor…"
+                },
+                "success": {
+                    "description": "Kartı uzaklaştırabilirsiniz",
+                    "title": "Başarılı"
+                }
+            },
+            "continue": "Devam",
+            "deactivate": "Kartları devre dışı bırak",
+            "deactivateApprovalDescription": "Kartlar yalnızca bu hesap altında çalışacak ve yeniden etkinleştirmeniz gerekecek",
+            "deactivateApprovalTitle": "Güvenlik Kartları devre dışı bırakılsın mı?",
+            "deactivateBtn": "Devre dışı bırak",
+            "deactivatedCards": "Güvenlik Kartları devre dışı bırakıldı",
+            "deactivateDescription": "Onları hemen yeniden etkinleştirebilirsiniz.",
+            "details": "Detaylar",
+            "detailsText": "Surf sizi veya etkinliğinizi takip etmez. Surf hiçbir verinizi toplamaz. Herhangi bir analiz yazılımı kullanmıyoruz. Basit bir izleyicimiz bile yok. Çerez yok. Kişisel veri işleme yok. Hiçbir şey. Bu bizim mevkimiz ve misyonumuzdur.\n\nDikkat! Bununla birlikte, üzerinde kontrolümüz olmayan diğer üçüncü taraf hizmetleri, tamamen kendi takdirine ve iradesine bağlı olarak verilerinizi toplayabilir ve kullanabilir. Hizmetlerini Surf'te kullanmak istiyorsanız, gizliliklerini, tanımlama bilgilerini, kullanım koşullarını ve diğer tüm sözleşmeye dayalı bağlayıcı politikaları ve belgeleri kabul etmeden önce çok dikkatli ve son derece ihtiyatlı olmalısınız.",
+            "detailsTitle": "Ademimerkeziyet Politikasında daha önce bahsettiğimiz gibi",
+            "enterCode": "Kodu girin",
+            "enterCodeDescription": "Karttaki kodu girin ve bağlantı oluşturmak için kartı cihazın yanına yerleştirin.",
+            "free": "Ücretsiz",
+            "included": "A.Ş",
+            "keepInformed": "Tamam. Beni bilgilendir",
+            "laterBtn": "Şimdi değil",
+            "learnMore": {
+                "developers": {
+                    "description": "Free TON SDK ile kartı kendi akıllı sözleşmeleriniz ve kullanım ihtiyaçlarınız için programlayabilirsiniz.",
+                    "title": "Geliştiriciler için açık kaynak"
+                },
+                "development": {
+                    "description": "Free TON SDK ile özel hale getirin. Kartı özel akıllı sözleşmeleriniz ve kullanım durumlarınız için programlayabilirsiniz.",
+                    "title": "Açık kaynak ve genişletilebilen"
+                },
+                "personalization": {
+                    "description": "Siparişinizi verdiğiniz andan itibaren sizin için kişiselleştirilmiştir. Donanım tarafından üretilen şifrelenmiş gizli anahtarı asla kimse görmez",
+                    "title": "Başından beri sizin için kişiselleştirildi"
+                },
+                "personalized": {
+                    "description": "Kartınız sipariş verdiğiniz andan itibaren hesabınıza atanır; kart tehlikeye atılamaz",
+                    "title": "Sipariş yerleşiminden kişiselleştirilmiş"
+                },
+                "protectTech": {
+                    "description": "Tek yongalı tasarım, EAL 6+ sertifikası, resmi olarak doğrulanmış çoklu imzalı cüzdan akıllı sözleşmesi ve şifreleme, varlıklarınızı güvende tutar. Gizli anahtarınız size bile asla açıklanmaz!",
+                    "title": "En gelişmiş güvenlik teknolojisi"
+                },
+                "simpleness": {
+                    "description": "Pil yok, kablo yok, fiş yok. Çantanıza veya cebinize kolayca sığar. Kartı, telefonunuzda NFC aracılığıyla 2 dakikadan kısa sürede etkinleştirin. Sadece kullanın!",
+                    "title": "Kullanımı kolay ve basit"
+                },
+                "technology": {
+                    "description": "Tek yongalı tasarım, EAL 6+ sertifikası, resmi olarak doğrulanmış çoklu imzalı cüzdan akıllı sözleşmesi ve şifreleme, varlıklarınızı güvende tutar.",
+                    "title": "En gelişmiş güvenlik teknolojisi"
+                },
+                "title": "Üstünlükleri"
+            },
+            "menuTitle": "Güvenlik kartı",
+            "moreFeaturesSoon": "Güvenlik Kartı için daha fazla özellik yakında görünecektir.",
+            "options": "Seçenekler",
+            "order": "Sipariş",
+            "orderName": "TON Labs Güvenlik Kartı",
+            "orderStatuses": {
+                "confirming": "Hazırlanıyor",
+                "gettingReady": "Hazırlanıyor",
+                "onItsWay": "Yolunda",
+                "processed": "İşlenmiş",
+                "reactivate": "Yeniden etkinleştir",
+                "reorder": "Lütfen yeniden sipariş edin"
+            },
+            "orderStep": "Adım {0}/4",
+            "paymentDetails": "Ödeme detayları",
+            "promoBtn": "Kart sipariş et",
+            "promoText": "İşlemleri imzalamak ve özel anahtarlarınızı saklamak için kişiselleştirilmiş donanım cüzdanı",
+            "promoTitle": "Paranızı güvende tutmanın basit bir yolu",
+            "purchaseSuccessMsg": "Tebrikler! Başarıyla güvenlik kartı satın aldınız. Teslimat durumunu takip etmek için Güvenlik Kartı DeBot'una yazın",
+            "purchaseSuccessTitle": "Başarılı  satın alındı",
+            "putCardOnPhoneDescription": "Kartı etkinleştirmek için telefonunuzun arkasına tutun",
+            "putCardOnPhoneTitle": "Kartı telefona tutun",
+            "readingCardData": "Kart verileri okunuyor...",
+            "recipientInfo": "Alıcı Bilgileri",
+            "reissue": "yeniden kart çıkar",
+            "reissueApprovalDescription": "Kart yeniden verildiğinde, diğer tüm kartlar geçici olarak devre dışı bırakılır",
+            "reissueApprovalTitle": "Güvenlik Kartları yeniden verilsin mi?",
+            "reissueBtn": "Yeniden yayım",
+            "reissueDescription": "Kart yeniden verildiğinde, diğer tüm kartlar geçici olarak devre dışı bırakılır",
+            "reviewOrder": "Sipariş Özeti",
+            "scanCode": "Kodu tara",
+            "scanCodeDescription": "Bağlantı kurmak için karttaki barkodu tarayın ve kartı cihazınızın karşısına yerleştirin",
+            "screenTitle": "Güvenlik Kartı",
+            "shareSecurityCardMessage": "Free TON blok zincirinde tamamen kişiselleştirilmiş donanım cüzdanı: Siparişin verildiğiniz andan itibaren sadece siz sahipsiniz ve sadece siz kontrol edersiniz\n\n{0}",
+            "shareSecurityCardSubtitle": "TON Labs\nGüvenlik Kartı",
+            "shareSecurityCardSuccess": "Bağlantı kopyalandı",
+            "shipping": "Teslimat",
+            "shippingAddress": "Teslimat adresi",
+            "signTransfers": "Aktarım imzalamak",
+            "signTransfersDisabled": "Aktarım imzası devre dışı bırakıldı",
+            "signTransfersEnabled": "Aktarım imzası etkinleştirildi",
+            "statusInfo": {
+                "confirming": {
+                    "button": "Güzel!",
+                    "description": "Kart sorununda her şeyin hazır olduğunu kontrol ediyoruz. Sonuç size bildirilecektir.",
+                    "title": "Hazırlanıyor"
+                },
+                "gettingReady": {
+                    "button": "Güzel!",
+                    "description": "Kart sorununda her şeyin hazır olduğunu kontrol ediyoruz. Sonuç size bildirilecektir.",
+                    "title": "Hazırlanıyor"
+                },
+                "onItsWay": {
+                    "button": "İzlemek",
+                    "description": "Kart neredeyse orada, takip numarası {0}. Kartı aldığınız anda etkinleştirin.",
+                    "title": "Yola Çıktı",
+                    "txtButton": "Etkinleştir"
+                },
+                "processed": {
+                    "button": "Anladım!",
+                    "description": "Kart hazır olmak üzere. Yakında teslimat servisine teslim edilecektir",
+                    "title": "İşlenmiş"
+                },
+                "reorder": {
+                    "button": "Tekrar Sipariş",
+                    "description": "Kartı düzenleyemiyoruz: girdiğiniz verilerden bazıları hata içeriyor",
+                    "title": "Lütfen yeniden sipariş edin",
+                    "txtButton": "Yardım al"
+                }
+            },
+            "subtotal": "Ara toplam ({0} ürün)",
+            "tapSecurityCard": "Güvenlik Kartına Dokunun",
+            "tapSecurityCardDescription": "Eylemi onaylamak için karta dokunun.",
+            "taxAndFees": "Vergi ve Ücret",
+            "techSpecs": {
+                "dimensions": {
+                    "description": "Donanım cüzdanını kullanımı kolay ve sabit hale getirmek istedik ve plastik kart şeklinde tasarladık: 85,6 mm × 53,98 mm × 0,76 mm.",
+                    "title": "Boyutlar"
+                },
+                "extended": {
+                    "description": "Kartta kendi verilerinizi saklamak için 120 KB boş alan vardır.\n\n Size açık kaynak Free TON SDK sunuyoruz, böylece kartı kendi akıllı sözleşmelerinizle programlayabilir ve örneğin bir ödeme kartı, bir bina erişim kartı gibi veya istediğiniz gibi kullanabilirsiniz.",
+                    "title": "Genişletilmiş kullanım"
+                },
+                "extendedUse": {
+                    "description": "Kartta kendi verilerinizi saklamak için 120 KB boş alan vardır.\n\nSize kartı kendi akıllı sözleşmelerinizi programlayabilmeniz için açık kaynak TON Labs API'yi sağlıyoruz. Bunu, örneğin bir banka kartı, bina erişim kartı veya neye ihtiyacınız varsa onun için kullanabilirsiniz.",
+                    "title": "Genişletilmiş kullanım"
+                },
+                "hardware": {
+                    "description": "Sorunsuz kullanımı garanti etmek ve kırma risklerini azaltmak için, tek yongalı NFC tasarımı (ISO 14443) ve sertifikalı güvenli SE CC EAL 6+ yongası kullandık.",
+                    "title": "Donanım"
+                },
+                "protection": {
+                    "description": "Güvenlik ve gizlilik önceliklerimizdir. Tasarım gereği yan kanal saldırılarından korunan CC EAL 6+ Infineon Güvenli Elemanı kullanıyoruz.\nAna parolanız (seed phrase) asla karttan çıkmaz.\nKartınız, siparişi verdiğiniz andan itibaren hesabınıza atanır ve yalnızca sipariş vermek için kullanılan kripto cüzdanı için etkinleştirilebilir.",
+                    "title": "Koruma"
+                },
+                "title": "Teknik özellikler"
+            },
+            "total": "Toplam",
+            "turningOnCardWallet": "Kart cüzdanı açılıyor...",
+            "understand": "Anladım",
+            "verifyIdentity": "Kimliğinizi doğrulayın",
+            "verifyIdentityDescription": "Ekrana bakın",
+            "waitlist": {
+                "added": "Bekleme listesine eklendiniz. Kart siparişi hazır olan zaman sizi bilgilendireceğiz",
+                "addedToastMsg": "Bekleme listesine eklendiniz",
+                "comingThisDecemberBtn": "Aralık ayında geliyor",
+                "description": "Free TON için kullanılan TON Labs Güvenlik Kartı NFC destekleyen akıllı karttır. Bu kart verilerinizi güvende tutar ve kendi ihtiyaçlarınıza göre uyarlanabilir",
+                "joinWaitlistBtn": "Bekleme listesine katıl",
+                "learnMoreBtn": "Daha fazla",
+                "policy": "Free TON için TON Labs Güvenlik kartını kullanarak, Şartlar ve Politikamızı kabul etmiş olursunuz.",
+                "techSpecsBtn": "Teknik özellikler",
+                "title": "Bu sıradan bir donanım cüzdanı değil"
+            }
+        },
+        "showPrivateKey": "Özel anahtarı göster",
+        "title": "Güvenlik Koruması",
+        "TONAddress": "Free TON adresi",
+        "verifyYourIdentity": "Kimliğinizi doğrulayın"
+    },
+    "security": {
+        "readMore": "Devamını Oku",
+        "screenshotWarning": "Fotoğraf çekmeyin veya ekran görüntüsü almayın. Diğer uygulamalar bunlara erişebilir. Her şeyi bir kağıda yazın ve güvenli bir yerde saklayın.",
+        "thirdPartyServicesWarning": "Güvenli limanı terk ediyorsunuz. Üçüncü taraf uygulaması, özel verilerinizi toplayabilir ve kullanabilir.",
+        "title": "Güvenlik uyarısı!",
+        "understand": "Anladım"
+    },
+    "sendGram": {
+        "deposit": "Deposit",
+        "fee": "Ücret",
+        "feeAmount": "≈ {0}",
+        "makeAnotherTransfer": "Başka bir aktarım yap",
+        "maxValueAlert": "Sıfır bakiye ile belirli işlemleri gerçekleştiremezsiniz. Bu hesabı kullanmaya devam etmeyi planlıyorsanız bakiyede birkaç belirteç bırakmayı düşünün.",
+        "minValueAlert": "Minimum aktarım {0} tutarında olmalıdır",
+        "operationPreview": {
+            "amount": "Miktar",
+            "comment": "Yorum",
+            "commentEncrypted": "Encrypted comment cannot be decrypted by anyone, other than its sender and recipient",
+            "commentUnencrypted": "Unencrypted comment will be visible to everyone on the blockchain",
+            "encrypted": "Şifrelenmiş",
+            "fees": "Ücret",
+            "from": "Gönderen:",
+            "immediately": "Hemen",
+            "no": "Hayır",
+            "send": "Gönder",
+            "time": "Süre",
+            "title": "İşlem Önizlemesi",
+            "to": "Alıcı:",
+            "yes": "Evet"
+        },
+        "sendAll": "Hepsini gönder",
+        "sendSuccessButton": "Sohbeti aç",
+        "sendSuccessDescription": "Tebrikler! Aktarımnıız hedefine az önce Sörf yaptı.",
+        "sendSuccessTitle": "Başarılı Aktarıldı",
+        "sendTo": "Alıcı:",
+        "title": "Para gönder",
+        "transfer": "Para aktar",
+        "transferSendTitle": "Para aktarıldı"
+    },
+    "settings": {
+        "title": "Ayarlar"
+    },
+    "setup": {
+        "confirmLocalPassword": {
+            "placeholder": "Şifreyi Tekrarlayın",
+            "success": "Başarılı."
+        },
+        "firstInteractions": {
+            "notifications": {
+                "button": "Bildirimleri al",
+                "description": "Kullanıcılardan gelen mesajları ve aktarımları ve ayrıca önemli Surf güncellemelerini kaçırmamak için bildirimleri etkinleştirin.",
+                "title": "Önemli bildirim"
+            },
+            "protection": {
+                "button": "Korumayı etkinleştir",
+                "descriptionFace": "Yüz tanıma ile doğrulamayı açın ve uygulamaya sizden başka hiç kimsenin erişimi olmamasından emin olun.",
+                "descriptionFinger": "Parmak izi ile doğrulamayı açın ve uygulamaya sizden başka hiç kimsenin erişimi olmamasından emin olun.",
+                "title": "Ek koruma"
+            },
+            "remindLater": "Daha sonra hatırlat"
+        },
+        "main": {
+            "earlyAccess": {
+                "button": "Anlaşıldı",
+                "description": "TON Labs, TON Surf'ü halka göstermekten heyecanını duyuyor! Hala erken erişim olduğundan beklenmedik davranışlar ortaya çıkabilir",
+                "devDescription": "TON Labs, TON Surf'ü halka göstermekten heyecanını duyuyor! Free TON deneme Yakutları ile hala erken erişimdir, bu nedenle beklenmedik davranışlar ortaya çıkabilir.",
+                "title": "Önemli"
+            },
+            "securityCard": {
+                "create": "Yeni Surf'ü bağla",
+                "restore": "Mevcut bağlantılar"
+            },
+            "wallet": {
+                "create": "Cüzdan Oluştur",
+                "restore": "Geri yükle"
+            }
+        },
+        "newPhraseView": {
+            "details": "Bu kelimeleri bir kağıda yazın ve güvenli yerde saklayın. Cüzdanı kaybederseniz veya yeniden kurarsanız onlara ihtiyacınız olacak."
+        },
+        "pinCode": {
+            "confirmPin": "PIN'i onayla",
+            "createPin": "PIN oluştur",
+            "enterPin": "PIN kodunuzu girin",
+            "itWorkLocal": "Sadece bu cihazda çalışacak."
+        },
+        "promoCards": {
+            "backupPassword": {
+                "initial": "Ana\nŞifreni\nYedekle"
+            },
+            "card": {
+                "initial": "Bir donanım\ncüzdanından\ndaha fazlası"
+            },
+            "faq": {
+                "initial": "Sıkça\nSorulan\nSorular"
+            },
+            "stakeDeposit": {
+                "initial": "Belirteçleriniz\nsize kar\nkazandırsın"
+            }
+        },
+        "restore": {
+            "button": "Oturum aç",
+            "description": "Yedekleme şifresiyle oturum aç.",
+            "hint": "12 veya 24 kelime",
+            "masterPassword": "Ana şifre",
+            "title": "Surf'ü Geri Yükle"
+        },
+        "start": {
+            "securityCard": {
+                "description": "Daha güvenli olmak için tüm kartlar Surf hesabınıza bağlanır",
+                "title": "Kart Kişiselleştirme"
+            },
+            "wallet": {
+                "description": "En iyi fırsatları bulun, güvende kalın ve bilgili kararlar verin.",
+                "title": "Surf, Free TON blok zincirinde gezinmenize yardımcı olmasını sağlayın"
+            }
+        },
+        "welcome": {
+            "item1": {
+                "description": "Akıllı insanlara uygun\nücretsiz, özel ve kolay\nbir blok zinciri arayüzü"
+            },
+            "item2": {
+                "description": "Dünyanın her yerinde\ngizli ve hızlı\nişlemler"
+            },
+            "item3": {
+                "description": "Güvenli sohbetlerde\ndaha az konuşma,\ndaha fazla iletişim"
+            },
+            "item4": {
+                "description": "Tek sizin kontrolünüz altında olan gerçek 360 derece güvenlik"
+            }
+        }
+    },
+    "signatures": {
+        "actions": {
+            "deriveThreePairs": "Derive 3 pairs of keys",
+            "importKeys": "Import keys"
+        },
+        "defaultSignatureName": "Signature",
+        "details": {
+            "name": "Name",
+            "privateKey": "Private key",
+            "publicKey": "Açık anahtar",
+            "publicKeyCopied": "Public key copied to clipboard",
+            "showKey": "Show key",
+            "title": "Signature"
+        },
+        "mainSignature": "My Surf",
+        "medalSignatures": {
+            "bronzeKeys": "Bronze keys",
+            "goldenKeys": "Golden keys",
+            "silverKeys": "Silver keys"
+        },
+        "securityCard": {
+            "name": "Security card",
+            "serialNumber": "Serial Number",
+            "serialNumberCopied": "Serial Number copied to clipboard"
+        },
+        "title": "Signatures",
+        "types":  {
+            "digital": "Digital",
+            "hardware": "Hardware"
+        }
+    },
+    "stake": {
+        "about": {
+            "button": "Anladım!",
+            "description": "Free TON blok doğrulamasına katılmak ve bundan kazanç sağlamak için bir stake (hisse) oluşturun. \n\nStake'ler, doğrulayıcı seçimlere katılan düğümlerde toplanır. Seçim başladığında, stake'ler kilitlenir. \n\nDüğümünüz kaybederse stake serbest bırakılır. Stake kazanırsa, doğrulama devrenin sonuna kadar kilitli kalır. Devre sona erdiğinde, stake'ler ve gelirler kullanıcılara geri ödenir. \n\nStake'e bir kez para gönderin veya stake'i sonraki seçime otomatik olarak göndermek için otomatik yenileme işlevini etkinleştirin.\n\nDoğrulayıcının suistimalinden dolayı tamamen veya kısmen stake kaybı riski olduğunu unutmayın.",
+            "title": "Stake etme nedir?"
+        },
+        "bot": {
+            "autoresumeDisable": "Otomatik devamı kapat",
+            "autoresumeDisabled": "Otomatik devam kapalı",
+            "autoresumeEnable": "Otomatik devamı etkinleştir",
+            "autoresumeEnabled": "Otomatik devam etkin",
+            "autoresumeFee": "Otomatik devam ücreti",
+            "available": "{0} çekilebilir",
+            "compliment": "İltifat",
+            "deposit": "{0} stake tutarına eklendi ve sonraki devre için kullanılabilir. Otomatik devam etkindir",
+            "errors": {
+                "autoresume": "İşlemi yapmak için yetersiz bakiye. Lütfen bakiyenizi doldurun",
+                "closedPool": "Stake etme havuzu kapalıdır",
+                "default": "Hata oluştu. Paranız Surf cüzdanınıza geri aktarıldı",
+                "lessThanMinStake": "Stake reddedildi: stake tutarı, izin verilen minimumdan küçüktür",
+                "noRoundsInPool": "Stake etme havuzunda devre yok",
+                "notEnoughFeesForOperation": "İşlem başarısız oldu: yetersiz miktar",
+                "roundIsFull": "Stake devresi limitine ulaşıldı. Yeni stake kabul edilmez. Lütfen sonraki devreye kadar bekleyin",
+                "stakeDeposit": "Stake açılamadı",
+                "stakeholderHasNoStakeInPool": "Bu paydaş için stake tespit edilmedi",
+                "success": "Para mevduata başarıyla eklendi",
+                "withdraw": "Şimdi çekilebilecek belirteç yok. Stake'ten para çekmek için stake otomatik devam seçeneğini devre dışı bırakın",
+                "withdrawError": "Şu anda para çekmek imkansız. Lütfen daha sonra tekrar deneyin."
+            },
+            "noRewardMessages": {
+                "lostElections": "seçim kaybedildi",
+                "missedElections": "seçim kaçırıldı",
+                "nodeStakeTooSmall": "düğüm stake'i çok küçük",
+                "notEnoughTotal": "toplam stake tutarı yeterli değil",
+                "poolClosed": "havuz kapatıldı",
+                "roundWasFinished": "Devre, ödül ödemesi olmadan sona erdi. Nedeni: {0}",
+                "stakeRejected": "stake reddedildi",
+                "wentWrong": "bir şeyler yanlış gitti"
+            },
+            "reinvest": "{0} sonraki tur için yeniden stake yapıldı",
+            "reward": "Ödül",
+            "stakeDeposit": "Stake",
+            "stakeWithdraw": "Parayı çek",
+            "stakingFee": "Stake etme ücreti",
+            "withdrawalFee": "Para çekme ücreti",
+            "withdrawFunds": "Parayı çek"
+        },
+        "decode": {
+            "inDePool": "staked in round.",
+            "reinvest": "Reward reinvested.",
+            "reward": "Your reward for this round is"
+        },
+        "dePoolStaking": {
+            "age": {
+                "definition": " – this indicates how many rounds this DePool has been active.",
+                "term": "Age"
+            },
+            "annualReward": {
+                "definition": " – this is the expected annual interest rate of your stake, provided the DePool succesfully validates for the whole year.",
+                "term": "Annual reward"
+            },
+            "anonymity": "Complete anonymity",
+            "assurance": {
+                "definition": " – this is the minimum amount of tokens the DePool owner is obliged to invest each validation round, and these funds will be the first lost, in case of any validator node malfunction. Only if they are not enough to cover the losses of the total stake, will the funds of other pool members be affected. This way the DePool owner is strongly motivated to maintain proper operation of the validator node.",
+                "term": "Assurance"
+            },
+            "availablePool": {
+                "definition": " – this is the maximum amount you can currently stake in Surf DePools.",
+                "term": "Available pool"
+            },
+            "balance": {
+                "definition": " – this is the total amount of funds in the DePool.",
+                "term": "Balance"
+            },
+            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
+            "contribution": "Contribution to blockchain infrastructure and decentralization",
+            "dash": "—",
+            "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
+            "fundsControl": "Full control of your funds",
+            "lockUpPeriod": {
+                "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
+                "term": "Lock-up period"
+            },
+            "members": {
+                "definition": " – this is the current number of members in the DePool.",
+                "term": "Members"
+            },
+            "minStake": {
+                "definition": " – this is the minimum stake set in the DePool. You cannot stake less than this amount.",
+                "term": "Min.Stake"
+            },
+            "replenishment": "Replenishment is allowed",
+            "rewardFee": {
+                "definition": " – this is the percentage of your reward that goes to the DePool owner for maintaining the DePool and the validator node.",
+                "term": "Ödül ücreti"
+            },
+            "rewardPaid": {
+                "definition": " – this is how much all participants of Surf DePools have earned in total up until now.",
+                "term": "Reward paid"
+            },
+            "staking": "Staking is a new way of depositing funds on the blockchain. Delegate tokens to DePool smart contract and enjoy your rewards every day. And you also get benefits.",
+            "successful": {
+                "definition": " — percentage of all validation rounds the DePools participated in, where it won validator elections, successfully completed validation and received its reward.",
+                "term": "Successful rounds"
+            },
+            "title": "DePool staking",
+            "withdrawal": "Full withdrawal at any time without losing accrued rewards"
+        },
+        "details": {
+            "autoresume": "Otomatik devam edilsin",
+            "available": "Mevcut",
+            "current": "Stake",
+            "income": "Beklenen gelir",
+            "off": "Kapa",
+            "on": "Aç",
+            "period": "Stake etme dönemi",
+            "stakingPeriod": "{0} dk",
+            "title": "Bakiye"
+        },
+        "info": {
+            "button": "Tamam. Beni bilgilendir",
+            "description": "Tıpkı sizin gibi, biz de stake'in faydalarından yararlanmak için onun piyasaya sürülmesini bekliyoruz.",
+            "title": "Çok yakında"
+        },
+        "main": {
+            "button": "Yeniden dengele"
+        },
+        "promo": {
+            "about": "About",
+            "stakeNow": "Stake now",
+            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
+            "title": "Earn {0} % a year just for holding crystals"
+        },
+        "stakingScreen": {
+            "about": "Hakkında",
+            "advancedFeatures": "Advanced features",
+            "age": "Age",
+            "assurance": "Güvence",
+            "availablePool": "Available pool",
+            "balance": "Bakiye",
+            "btnBreakUnstake": "Decline withdrawal",
+            "btnRestake": "Yeniden stake et",
+            "btnStake": "Stake et",
+            "btnStakeAnotherRound": "Try to stake later",
+            "btnUnstake": "Stake geri al",
+            "declineRequest": "Withdrawal canceled.",
+            "depools": "Your dePools",
+            "fee": "Stake etme ücreti",
+            "help": "Help",
+            "max": "en çok",
+            "members": "Üye sayısı",
+            "min": "en azı",
+            "minStake": "En az stake miktarı",
+            "moreInfo": "More info",
+            "period": "Kilitlenme süresi",
+            "reward": "Yıllık ödül",
+            "rewarded": "Your reward",
+            "rewardPaid": "Ödül ödendi",
+            "stakes": "Stake sayısı",
+            "stakingRequest": "Staking isteği gönderildi. Biraz zaman alabilir.",
+            "successfulRounds": "Successful rounds",
+            "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
+            "withdrawRequest": "Para çekme isteği gönderildi"
+        }
+    },
+    "support": {
+        "askQuestion": "Soru sor",
+        "button": "Get support",
+        "giveFeedback": {
+            "button": "Give feedback",
+            "subject": "Feedback"
+        },
+        "group": "Support group",
+        "makeSuggestion": "Make a suggestion",
+        "message": {
+            "first": "Selam! ben TON Surf Yardımcısıyım.",
+            "second": "Bana bir şey sorun, ben de size Surf'ün bu konuda neler yapabileceğini söyleyeyim."
+        },
+        "title": "Get support",
+        "videoTutorials": "Video tutorials"
+    },
+    "system": {
+        "dictionary": {
+            "at": " "
+        },
+        "noConnect": {
+            "button": "Yardım için bize ulaşın",
+            "description": "Bağlalanmanızda veya sunucumuzda sorun olabilir. Surf otomatik olarak yeniden bağlanmayı deneyecek",
+            "title": "Görünüşe göre bağlantınız düzgün çalışmıyor"
+        },
+        "openFile": {
+            "title": "Dosyayı açmak istiyor musunuz?"
+        }
+    },
+    "transactions": {
+        "buy": {
+            "item": "Item",
+            "payment": "Payment",
+            "seller": "Seller",
+            "title": "Buy",
+            "totalPrice": "Total price"
+        },
+        "comments": {
+            "commentOptional": "Yorum (isteğe bağlı)",
+            "lengthWarning": "Sadece 120 karakter",
+            "message": "Message",
+            "messageOrMemo": "Message or Memo",
+            "useCommentEncryption": "Encrypt comment",
+            "useNoteEncryption": "Encrypt note",
+            "writeMessage": "Mesaj yaz..."
+        },
+        "details": {
+            "failedToFetchTransactionData": "Detay verileri yüklenemedi."
+        },
+        "message": {
+            "transactionInvitation": "Selam {0}, Sizi {APP_NAME} uygulamasında aktarım almaya davet ediyorum. Lütfen burada kabul edin",
+            "transactionInvitationTitle": "Kabul et!",
+            "transactionInvoice": "Selam {0}, aktarımı almaya hazırım. Lütfen bağlantıyı takip edin",
+            "transactionInvoiceTitle": "Kabul et!"
+        },
+        "notice": {
+            "accept": "Kabul et",
+            "confirmationSentToChat": "Cüzdan gizli sohbeti aracılığıyla onay gönderdik.",
+            "heyUser": "Selam {0}",
+            "transactionInvitation": "{0} adlı arkadaşınız size bir aktarım gönderdi. Makbuzu onaylayın"
+        },
+        "vote": {
+            "contest": "Contest",
+            "cost": "Cost",
+            "proposal": "Proposal",
+            "signature": "Signature",
+            "title": "Vote"
+        }
+    },
+    "wallet": {
+        "chats": {
+            "attachDocument": "Belge",
+            "attachImage": "Resim",
+            "listTitle": "Etkinlik",
+            "messageType": {
+                "document": "📄 {0}",
+                "image": "📷 Fotoğraf",
+                "sticker": "🙂 Çıkartması"
+            },
+            "newConversation": "Yeni sohbet",
+            "talks": "Sohbetler",
+            "welcomePrivateChat": "Uçtan uca şifrelenmiş (E2EE) gizli sohbet odası hizmetimize hoş geldiniz."
+        },
+        "devCoins": {
+            "alreadyReceived": "Üzgünüz, kullanabileceğiniz tüm Yakutları zaten aldınız",
+            "alreadyRequested": "Yakutlar zaten talep edildi. Lütfen bekleyin"
+        },
+        "error": {
+            "failedToDecrypt": "Şifre çözmesi başarısız oldu. Görünüşe göre başka cüzdana giriş yapmanız gerekiyor",
+            "failedToLoadAccounts": "Hesaplar yüklenemedi.",
+            "failedToLoadWallet": "Cüzdan yüklenemedi.",
+            "failedToLoginInTheWallet": "Cüzdana giriş başarısız oldu.",
+            "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
+            "limitInvalidValue": "Sınır değeri geçerli değil veya çok büyük.",
+            "timeIsNotSynced": "Zamanlama eşitlenmemiştir. Maalesef işlemler başarısız oluyor. Lütfen saati otomatik olarak ayarlamak seçeneğini etkinleştirin."
+        },
+        "main": {
+            "assets": "Varlık",
+            "assetsBalance": "Varlık bakiyesi",
+            "contacts": "Kişiler",
+            "invite": "Davet",
+            "receive": "Teslim al",
+            "send": "Gönder",
+            "tokenValue": "Token value",
+            "updating": "Güncelleniyor...",
+            "yourBalance": "Bakiyeniz"
+        },
+        "payInvoice": {
+            "buyNetTokens": "{0} belirteç satın al",
+            "cardNumber": "Kart numarası",
+            "expiryDate": "Son kullanma tarihi",
+            "nameOnCard": "Karttaki ad",
+            "payFor": "{0}",
+            "rejected": {
+                "authorizationRequest": "Yetkili istek başarısız oldu.",
+                "limitExceeded": "Sınır aşıldı.",
+                "payment": "Ödeme başarısız oldu.",
+                "response3DSec": "3D güvenlik denetimi başarısız oldu",
+                "transfer": "İşlem başarısız oldu."
+            },
+            "secure": "Güvenli kod",
+            "secureText": "İmza şeridindeki son {0} rakam.",
+            "title": "Ödeme Detayları"
+        },
+        "protectGrams": {
+            "button": "Yedek Şifre",
+            "description": "Artık bakiyenizde biraz TON belirteçleri var. Erişim kurtarmaya ihtiyaç duymanız durumunda şifrenizi yedeklemenizi şiddetle tavsiye ederiz.",
+            "title": "Belirteçlerinizi koruyun"
+        },
+        "recipient": {
+            "address": "TON adresi",
+            "email": "E-posta",
+            "phone": "Telefon numarası"
+        },
+        "sendGrams": {
+            "confirm": "Onayla",
+            "confirmAndSend": "Onayla ve Gönder",
+            "currencies": {
+                "mainnet": "kristal",
+                "private": "yakut",
+                "tonlabs": "yakut"
+            },
+            "enterValidAddress": "Free TON adresi...",
+            "from": "Gönderen:",
+            "invalidAddress": "Geçersiz TON adresi.",
+            "recipientWarning": "Adresin doğru olduğunu kontrol edin! Gönderilen aktarım geri alınamaz!",
+            "title": "Para gönder"
+        },
+        "transaction": {
+            "aborted": "İptal edildi",
+            "amount": "Miktar",
+            "change": "Değiştir",
+            "comment": "Yorum",
+            "encrypted": "Şifrelenmiş",
+            "fee": "Ücret",
+            "from": "Gönderen:",
+            "fromBankCard": "Banka kartından",
+            "goToExplorer": "Gezgine git",
+            "moreDetails": "Daha fazla bilgi",
+            "networkFees": "Ağ ücreti",
+            "no": "Yok",
+            "pending": "Bekleyen...",
+            "received": "Alındı",
+            "repeatTransaction": "İşlemi tekrarla",
+            "result": "Sonuç",
+            "reverseTransaction": "Aktarımı geri al",
+            "sent": "Gönderildi",
+            "share": "Paylaş",
+            "statusSuccess": "Başarılı",
+            "time": "Time",
+            "to": "Alıcı:",
+            "transactionNotSend": "Aktarılamadı. Lütfen tekrar deneyin.",
+            "transferDetails": "Aktarım detayları",
+            "yes": "Evet"
+        },
+        "warning": {
+            "awaitTransaction": "Önceki aktarım devam ediyor.",
+            "couldNotIdentifyQRCode": "Couldn't identify QR code",
+            "insufficientBalance": "Yetersiz bakiye",
+            "insufficientBalanceForFee": "Ağ ücreti için yetersiz bakiye",
+            "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
+            "limitReached": "Miktar, belirlenen limitlerden birini aşıyor",
+            "notYetSupported": "Henüz desteklenmiyor",
+            "pleaseWait": "Lütfen bekleyin"
+        },
+        "withdrawGram": {
+            "amount": "Miktar",
+            "amountDescription": "{0} + {1} ücret (% {2} )",
+            "amountDescriptionSold": "{0} ve %{1} ücret karşılığında satıldı",
+            "amountHint": "Çekmek istediğiniz belirteç sayısını yazın.",
+            "completedSuccessfully": "Başarılı ödendi",
+            "completedSuccessMessage": "Daha az zengin oldunuz ve başka birini daha mutlu ettiniz",
+            "getAmount": "{0} Al",
+            "great": "Harika!",
+            "title": "Belirteçleri geri çek",
+            "useDefaultCard": "Varsayılan kartı kullan",
+            "withdrawToCard": "Parayı karta çek"
+        }
+    }
+}

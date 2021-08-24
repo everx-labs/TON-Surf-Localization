@@ -26,6 +26,7 @@
     },
     "homepage": "https://github.com/tonlabs/TON-Surf-Localization#readme",
     "dependencies": {
+        "@tonlabs/uikit.localization": "^2.3.0",
         "typescript": "4.1.2"
     }
 }

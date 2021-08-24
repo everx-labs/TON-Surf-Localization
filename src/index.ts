@@ -1,3 +1,6 @@
+import type { Languages } from '@tonlabs/uikit.localization';
+
+/* eslint-disable camelcase */
 import en from './en.json';
 import ru from './ru.json';
 import fr from './fr.json';
@@ -12,7 +15,7 @@ import tr from './tr.json';
 
 export type TONSurfLocalization = typeof en;
 
-const languages = {
+const languages: Languages<TONSurfLocalization> = {
     en,
     ru,
     fr,

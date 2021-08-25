@@ -11,6 +11,16 @@
             "monthAgo": "30 days ago",
             "today": "today"
         },
+        "collectibles": {
+            "address": "Address",
+            "author": "Author",
+            "amountFromSupply": "{0} of {1}",
+            "collectibles": "Collectibles",
+            "created": "Created",
+            "title": "My Surfer",
+            "tokens": "Tokens",
+            "trueNftMarket": "True NFT Market"
+        },
         "details": {
             "buttons": {
                 "callBot": "Call the DeBot",
@@ -43,7 +53,7 @@
         "separators": {
             "accounts": "Accounts",
             "investments": "Services",
-            "tokens": "Tokens"
+            "collectibles": "Collectibles"
         },
         "subscriptions": {
             "actions": {
@@ -107,7 +117,8 @@
             "btnUpdate": "Update",
             "btnRemove": "Remove network",
             "name": "Name",
-            "endpoint": "Endpoint"
+            "endpoint": "Endpoint",
+            "endpointHint": "Please cut the number of endpoints to one address"
         },
         "suggestLanguage": {
             "button": "Suggest language",

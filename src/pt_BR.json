@@ -11,6 +11,16 @@
             "monthAgo": "há 30 dias",
             "today": "hoje"
         },
+        "collectibles": {
+            "address": "Address",
+            "amountFromSupply": "{0} of {1}",
+            "author": "Author",
+            "collectibles": "Collectibles",
+            "created": "Created",
+            "title": "My Surfer",
+            "tokens": "Tokens",
+            "trueNftMarket": "True NFT Market"
+        },
         "details": {
             "buttons": {
                 "callBot": "Chamar o DeBot",
@@ -42,6 +52,7 @@
         },
         "separators": {
             "accounts": "Contas",
+            "collectibles": "Collectibles",
             "investments": "Serviços",
             "tokens": "Tokens"
         },
@@ -94,20 +105,24 @@
             "hint": "Tradução em andamento…"
         },
         "localizationHelper": {
-            "enable": "Enable localization helper",
             "disable": "Disable localization helper",
-            "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
+            "enable": "Enable localization helper",
+            "hint": "Show localization path when hovering on text.\nAlt + Click for copying to clipboard"
         },
         "network": {
+            "btnAdd": "Add",
+            "btnRemove": "Remover rede",
+            "btnUpdate": "Update",
             "button": "Rede",
+            "endpoint": "Endpoint",
+            "endpointHint": "Please cut the number of endpoints to one address",
+            "name": "Nome",
             "title": "Rede",
             "titleAdd": "New network",
-            "btnAdd": "Add",
-            "btnUpdate": "Update",
-            "btnRemove": "Remove network",
-            "titleEdit": "Edit network",
-            "name": "Name",
-            "endpoint": "Endpoint"
+            "titleEdit": "Edit network"
+        },
+        "nightTheme": {
+            "button": "Tema escuro"
         },
         "suggestLanguage": {
             "button": "Sugerir idioma",
@@ -197,7 +212,7 @@
             "debotError": "Oops!! Estou um pouco quebrado. Fique em contato",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
-                "encryptDecryptWithSurf": "Use Surf keys"
+                "encryptDecryptWithSurf": "Criptografar / descriptografar com Surf"
             },
             "favorites": "Favoritos",
             "functionalUnsupported": "Oops!! A funcionalidade está sem suporte temporariamente. Volte depois",
@@ -232,8 +247,8 @@
                 "notSupport": "Infelizmente, seu dispositivo não suporta NFC, que é necessário para o funcionamento adequado. Favor ativar o NFC, ou usar outro dispositivo."
             },
             "signingBox": {
-                "signature": "Assinatura",
-                "signWithSurf": "Cadastre-se com o Surf"
+                "signWithSurf": "Cadastre-se com o Surf",
+                "signature": "Assinatura"
             },
             "title": "DeBots"
         },
@@ -261,9 +276,9 @@
             "invitationForSender": "Convidado por você",
             "invitationSuccess": "Um convite para participar do {APP_NAME} foi enviado com sucesso.",
             "invitationTitle": "Vem comigo!",
+            "messageTooLong": "Sua mensagem tem mais de {0} caracteres.",
             "messagesBlockedByYou": "Você bloqueou mensagens",
             "messagesUnblockedByYou": "Você desbloqueou mensagens",
-            "messageTooLong": "Sua mensagem tem mais de {0} caracteres.",
             "tapToResend": "Toque para reenviar",
             "tapToSendAgain": "Toque para enviar novamente",
             "userBlockedMessages": "Mensagens bloqueadas pelo usuário",
@@ -389,19 +404,19 @@
     },
     "interfaceOptions": {
         "assetsBalance": {
-            "button": "Assets balance"
+            "button": "Seu saldo"
         },
         "confirmationOfSending": {
-            "button": "Confirmation of sending"
+            "button": "Сonfirmação de envio"
         },
-        "interfaceOptionsButton": "Interface options",
+        "interfaceOptionsButton": "Opções de interface",
         "nightTheme": {
-            "button": "Night theme"
+            "button": "Tema noturno"
         },
         "promoCards": {
-            "button": "Promo cards"
+            "button": "Cartões promocionais"
         },
-        "title": "Interface options"
+        "title": "Opções de interface"
     },
     "legalNotes": {
         "businessDetails": {
@@ -425,13 +440,13 @@
             "faq": {
                 "title": "Central de ajuda"
             },
-            "licence": {
-                "title": "Licença",
-                "value": "Prestação de serviço de carteira de moeda virtual FVR001411 emitido em 28.02.2020 pela FIU da Estônia."
-            },
             "licence2": {
                 "title": "Licença",
                 "value": "Prestação de serviços de câmbio de uma moeda virtual por uma moeda fiduciária FRK001293 emitida em 28.02.2020 pela FIU da Estônia."
+            },
+            "licence": {
+                "title": "Licença",
+                "value": "Prestação de serviço de carteira de moeda virtual FVR001411 emitido em 28.02.2020 pela FIU da Estônia."
             },
             "phone": {
                 "title": "Telefone",
@@ -471,6 +486,8 @@
         "profileButtonTitle": "Política de Descentralização"
     },
     "lockScreen": {
+        "PINCorrect": "Código PIN correto",
+        "PINNotCorrect": "Código PIN incorreto",
         "attention": {
             "text": "É altamente recomendável fazer backup de sua senha {HD_WORD_COUNT} antes de sair.\n\nO backup é a única opção para recuperar o acesso ao Surf se você esquecer seu código PIN ou se desconectar do app. Perder a senha significa a perda irreversível de acesso aos seus fundos.",
             "title": "Atenção"
@@ -478,8 +495,6 @@
         "biometryFailed": "Muitas tentativas com falha de autenticação. Tente novamente mais tarde",
         "deleteAndExit": "Delete and exit",
         "logout": "Sair",
-        "PINCorrect": "Código PIN correto",
-        "PINNotCorrect": "Código PIN incorreto",
         "temporarilyBlocked": "Bloqueado temporariamente",
         "tryAgainLater": "Tente novamente {0}",
         "unlock": "Desbloquear",
@@ -494,38 +509,38 @@
         "memoryCheckButton": "Salvo. Dupla checagem"
     },
     "multiWallets": {
-        "create": "Create wallet",
-        "defaultWalletName": "My Surf",
+        "addWallet": "Add wallet",
+        "create": "Criar carteira",
+        "defaultWalletName": "Meu Surf",
         "editWallet": "Editar carteira",
         "manage": "Gerenciar",
         "manageWallets": "Gerenciar carteiras",
-        "migrate": "Migrate wallet to Surf",
+        "migrate": "Migrar a carteira para o Surf",
         "name": "Nome",
-        "newWalletName": "Wallet",
-        "pair": "Pair hardware wallet",
-        "removeWallet": "Retirar a carteira",
-        "restore": "Restore wallet",
-        "addWallet": "Add wallet",
-        "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
-        "update": "Atualizar",
-        "wallets": "Carteiras",
         "nameTaken": "Choose another name. This one is taken already",
-        "walletNotUnique": "Same address wallet has been added already"
+        "newWalletName": "Carteira",
+        "pair": "Vincular hardware wallet com conta",
+        "removeWallet": "Retirar a carteira",
+        "restore": "Restaurar carteira",
+        "restoreHint": "Você pode restaurar uma carteira criada apenas no Surf",
+        "update": "Atualizar",
+        "walletNotUnique": "Same address wallet has been added already",
+        "wallets": "Carteiras"
     },
     "networks": {
+        "errors": {
+            "nameTaken": "Especifique outro nome. Este já foi levado.",
+            "networkUnavailable": "Nada adicionado. Por favor, especifique um endereço de ponto final válido ou verifique a conexão de rede."
+        },
         "names": {
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "Devnetz"
         },
         "sections": {
+            "custom": "Redes personalizadas",
             "main": "Rede principal",
-            "test": "Redes de teste",
-            "custom": "Custom networks"
-        },
-        "errors": {
-            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection",
-            "nameTaken": "Choose another name. This one is taken already"
+            "test": "Redes de teste"
         }
     },
     "operationsHistory": {
@@ -567,7 +582,7 @@
             "SRFM": {
                 "comment": "Surf Medal True NFT tokens",
                 "stake": "",
-                "title": "My Surf Medals"
+                "title": "Minhas medalhas de Surf"
             }
         },
         "disableAutoresume": "Desabilitar o Reinvestimento Automático",
@@ -591,6 +606,12 @@
         "restorePasswordButton": "Senha mestra"
     },
     "safetyProtection": {
+        "PINChangeFailed": "Falha ao alterar o código PIN.",
+        "PINChangeSuccess": "Código PIN alterado com sucesso.",
+        "PINCorrect": "PIN correto",
+        "PINDoesNotMatch": "Os códigos PIN inseridos não coincidem",
+        "PINNotCorrect": "PIN incorreto",
+        "TONAddress": "Endereço Free TON",
         "address": "Endereço",
         "addressAndKeys": "Endereço e chaves",
         "altAddress": "Formato de endereço alternativo",
@@ -617,13 +638,8 @@
             "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
         },
         "neverShare": "Sua chave privada pode conceder a qualquer pessoa, acesso total aos seus fundos. Você nunca deve compartilhá-la com pessoas ou aplicativos nos quais você não confia.",
-        "nonMainAccountPrivateKeyNote": "Esta chave privada não afeta a segurança de sua conta principal do Surf. No entanto, se a chave estiver comprometida, quaisquer outros fundos e dados protegidos por esta chave privada podem estar em perigo. Nunca compartilhe a chave com pessoas ou aplicativos em que você não confia.",
         "noThanks": "Não, obrigado",
-        "PINChangeFailed": "Falha ao alterar o código PIN.",
-        "PINChangeSuccess": "Código PIN alterado com sucesso.",
-        "PINCorrect": "PIN correto",
-        "PINDoesNotMatch": "Os códigos PIN inseridos não coincidem",
-        "PINNotCorrect": "PIN incorreto",
+        "nonMainAccountPrivateKeyNote": "Esta chave privada não afeta a segurança de sua conta principal do Surf. No entanto, se a chave estiver comprometida, quaisquer outros fundos e dados protegidos por esta chave privada podem estar em perigo. Nunca compartilhe a chave com pessoas ou aplicativos em que você não confia.",
         "privateKey": "Chave privada",
         "publicKey": "Chave pública",
         "safelyShare": "O endereço de sua carteira e sua chave pública podem ser compartilhados com qualquer pessoa.",
@@ -694,8 +710,8 @@
             "deactivateApprovalDescription": "Os cartões funcionarão apenas com esta conta e você precisará reativá-los.",
             "deactivateApprovalTitle": "Desativar Cartões de Segurança?",
             "deactivateBtn": "Desativar",
-            "deactivatedCards": "Cartões de Segurança desativados",
             "deactivateDescription": "Você pode reativá-los imediatamente.",
+            "deactivatedCards": "Cartões de Segurança desativados",
             "details": "Detalhes",
             "detailsText": "O app Surf não rastreia você e suas ações, nem coleta nenhum dos seus dados. Não usamos nenhum software analítico. Não temos sequer um rastreador simples. Nada de cookies. Nenhum processamento de dados pessoais. Nada. Este é o nosso chamado e missão. \n\nAtenção! No entanto, outros serviços de terceiros sobre os quais não temos controle, podem, a seu exclusivo critério e vontade, coletar e usar seus dados. Você deve estar muito atento e extremamente prudente antes de aceitar sua política de privacidade, cookies, termos de uso e qualquer e todas as outras políticas e documentação contratualmente vinculativas se você quiser usar seus serviços no Surf",
             "detailsTitle": "Conforme já mencionamos na Política de Descentralização",
@@ -852,7 +868,6 @@
         },
         "showPrivateKey": "Mostrar chave privada",
         "title": "Configurações de Segurança",
-        "TONAddress": "Endereço Free TON",
         "verifyYourIdentity": "Verifique sua identidade"
     },
     "security": {
@@ -1008,12 +1023,12 @@
             "silverKeys": "Chaves de prata"
         },
         "securityCard": {
-            "name": "Security card",
-            "serialNumber": "Serial Number",
-            "serialNumberCopied": "Serial Number copied to clipboard"
+            "name": "Cartão de segurança",
+            "serialNumber": "Número de série",
+            "serialNumberCopied": "Número de série copiado"
         },
         "title": "Signatures",
-        "types":  {
+        "types": {
             "digital": "Digital",
             "hardware": "Hardware"
         }
@@ -1062,13 +1077,8 @@
             "stakeDeposit": "Depositar",
             "stakeWithdraw": "Sacar",
             "stakingFee": "Taxa de Staking",
-            "withdrawalFee": "Taxa de saque",
-            "withdrawFunds": "Sacar fundos"
-        },
-        "decode": {
-            "inDePool": "apostado em redondo.",
-            "reinvest": "Recompensa reinvestida",
-            "reward": "Sua recompensa para esta rodada é"
+            "withdrawFunds": "Sacar fundos",
+            "withdrawalFee": "Taxa de saque"
         },
         "dePoolStaking": {
             "age": {
@@ -1126,6 +1136,11 @@
             "title": "DePool staking",
             "withdrawal": "Full withdrawal at any time without losing accrued rewards"
         },
+        "decode": {
+            "inDePool": "apostado em redondo.",
+            "reinvest": "Recompensa reinvestida",
+            "reward": "Sua recompensa para esta rodada é"
+        },
         "details": {
             "autoresume": "Reinvestimento Automático",
             "available": "Disponível",
@@ -1153,7 +1168,7 @@
         },
         "stakingScreen": {
             "about": "Detalhes",
-            "advancedFeatures": "Advanced features",
+            "advancedFeatures": "Características avançadas",
             "age": "Idade",
             "assurance": "Garantia",
             "availablePool": "Pool disponível",
@@ -1164,18 +1179,18 @@
             "btnStakeAnotherRound": "Tente fazer o stake mais tarde",
             "btnUnstake": "Desistir do Stake",
             "declineRequest": "Withdrawal canceled.",
-            "depools": "Your dePools",
+            "depools": "DePools",
             "fee": "Taxa de recompensa",
-            "help": "Help",
+            "help": "Ajuda",
             "max": "máx.",
             "members": "Membros",
             "min": "min.",
             "minStake": "Stake mínimo",
-            "moreInfo": "More info",
+            "moreInfo": "Mais informações",
             "period": "Período de bloqueio",
             "reward": "Recompensa anual estimada",
-            "rewarded": "Your reward",
             "rewardPaid": "Recompensa paga",
+            "rewarded": "Recompensado",
             "stakes": "Stakes",
             "stakingRequest": "A requisição de Staking foi enviada. Pode levar algum tempo para ser processada.",
             "successfulRounds": "Rodadas de sucesso",
@@ -1373,8 +1388,8 @@
             "amountDescription": "{0} + taxa de {1} ({2}%)",
             "amountDescriptionSold": "Vendido por {0} e taxa de {1} %",
             "amountHint": "Especifique quantos tokens você deseja sacar.",
-            "completedSuccessfully": "Pagamento bem sucedido",
             "completedSuccessMessage": "Você ficou menos rico e fez outra pessoa mais feliz",
+            "completedSuccessfully": "Pagamento bem sucedido",
             "getAmount": "Obter {0}",
             "great": "Excelente!",
             "title": "Sacar tokens",

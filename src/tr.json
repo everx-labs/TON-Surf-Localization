@@ -11,6 +11,16 @@
             "monthAgo": "30 gün önce",
             "today": "bugün"
         },
+        "collectibles": {
+            "address": "Address",
+            "amountFromSupply": "{0} of {1}",
+            "author": "Author",
+            "collectibles": "Collectibles",
+            "created": "Created",
+            "title": "My Surfer",
+            "tokens": "Tokens",
+            "trueNftMarket": "True NFT Market"
+        },
         "details": {
             "buttons": {
                 "callBot": "DeBot'u ara",
@@ -42,6 +52,7 @@
         },
         "separators": {
             "accounts": "Hesaplar",
+            "collectibles": "Collectibles",
             "investments": "Hizmetler",
             "tokens": "Belirteçler"
         },
@@ -94,20 +105,24 @@
             "hint": "Yerelleştirme üzerinde çalışılıyor..."
         },
         "localizationHelper": {
-            "enable": "Enable localization helper",
             "disable": "Disable localization helper",
+            "enable": "Enable localization helper",
             "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
         },
         "network": {
+            "btnAdd": "Add",
+            "btnRemove": "Ağı kaldır",
+            "btnUpdate": "Update",
             "button": "Network",
+            "endpoint": "Bitiş noktası",
+            "endpointHint": "Please cut the number of endpoints to one address",
+            "name": "Ad",
             "title": "Network",
             "titleAdd": "New network",
-            "btnAdd": "Add",
-            "btnUpdate": "Update",
-            "btnRemove": "Remove network",
-            "titleEdit": "Edit network",
-            "name": "Name",
-            "endpoint": "Endpoint"
+            "titleEdit": "Edit network"
+        },
+        "nightTheme": {
+            "button": "Gece teması"
         },
         "suggestLanguage": {
             "button": "Dil öner",
@@ -197,7 +212,7 @@
             "debotError": "Oops!! I'm a little broken. Stay in touch",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
-                "encryptDecryptWithSurf": "Use Surf keys"
+                "encryptDecryptWithSurf": "Surf ile şifrele / şifresini çöz"
             },
             "favorites": "Favorites",
             "functionalUnsupported": "Oops!! The functionality is temporarily not supported. Stay in touch",
@@ -215,8 +230,8 @@
                 },
                 "goToExplorer": "Go to explorer",
                 "publisher": "by {0}",
-                "removeFromFavorites": "Remove from favorites",
-                "removeFromFavoritesNotification": "DeBot removed from favorites",
+                "removeFromFavorites": "Favorilerden kaldir",
+                "removeFromFavoritesNotification": "DeBot favorilerden kaldırıldı",
                 "showAddress": "Show address",
                 "version": "v. {0}",
                 "writeToDeveloper": "Write to developer"
@@ -232,8 +247,8 @@
                 "notSupport": "Unfortunately your device does not support NFC, which is required for proper operation. Please turn it on, or use another device."
             },
             "signingBox": {
-                "signature": "İmza",
-                "signWithSurf": "Sign with Surf"
+                "signWithSurf": "Sign with Surf",
+                "signature": "İmza"
             },
             "title": "Debotlar"
         },
@@ -261,9 +276,9 @@
             "invitationForSender": "Siz davet ettiniz",
             "invitationSuccess": "{APP_NAME} uygulamasına davet bağlantısı başarıyla gönderildi.",
             "invitationTitle": "Katılın!",
+            "messageTooLong": "Mesajınız {0} karakterden uzun.",
             "messagesBlockedByYou": "Mesajları engellediniz",
             "messagesUnblockedByYou": "Mesajların engelini kaldırdınız",
-            "messageTooLong": "Mesajınız {0} karakterden uzun.",
             "tapToResend": "Yeniden gönder",
             "tapToSendAgain": "Tekrar gönder",
             "userBlockedMessages": "Kullanıcı mesajları engelledi",
@@ -389,19 +404,19 @@
     },
     "interfaceOptions": {
         "assetsBalance": {
-            "button": "Assets balance"
+            "button": "Varlık bakiyesi"
         },
         "confirmationOfSending": {
-            "button": "Confirmation of sending"
+            "button": "Gönderme onayı"
         },
-        "interfaceOptionsButton": "Interface options",
+        "interfaceOptionsButton": "Arayüz seçenekleri",
         "nightTheme": {
-            "button": "Night theme"
+            "button": "Gece teması"
         },
         "promoCards": {
-            "button": "Promo cards"
+            "button": "Promosyon kartları"
         },
-        "title": "Interface options"
+        "title": "Arayüz seçenekleri"
     },
     "legalNotes": {
         "businessDetails": {
@@ -425,13 +440,13 @@
             "faq": {
                 "title": "Yardım merkezi"
             },
-            "licence": {
-                "title": "Lisans",
-                "value": "FVR001411 sanal para cüzdanı hizmetinin yayınlanması Estonya MASAK'ı tarafından 28.02.2020 tarihinde sağlanmıştır."
-            },
             "licence2": {
                 "title": "Lisans",
                 "value": "Fiat ve sanal para biriminlerinin takas edilmesi hizmetleri Estonya MASAK'ı tarafından 28.02.2020 tarihinde sağlanmıştır."
+            },
+            "licence": {
+                "title": "Lisans",
+                "value": "FVR001411 sanal para cüzdanı hizmetinin yayınlanması Estonya MASAK'ı tarafından 28.02.2020 tarihinde sağlanmıştır."
             },
             "phone": {
                 "title": "Telefon",
@@ -471,6 +486,8 @@
         "profileButtonTitle": "Ademimerkeziyet Politikası"
     },
     "lockScreen": {
+        "PINCorrect": "PIN doğrudur",
+        "PINNotCorrect": "Yanlış PIN",
         "attention": {
             "text": "Oturumu kapatmadan önce {HD_WORD_COUNT} şifrenizi yedeklemeniz şiddetle tavsiye edilir.\n\nPIN kodunuzu unutursanız veya uygulamadan çıkış yaparsanız, Surf'e erişimi kurtarmak için Şifre Yedeklemesi tek seçenektir. Ana şifrenizi kaybederseniz, paranıza asla erişemezsiniz.",
             "title": "Dikkat"
@@ -478,8 +495,6 @@
         "biometryFailed": "Çok fazla girişim, lütfen daha sonra tekrar deneyin",
         "deleteAndExit": "Delete and exit",
         "logout": "Oturumu kapat",
-        "PINCorrect": "PIN doğrudur",
-        "PINNotCorrect": "Yanlış PIN",
         "temporarilyBlocked": "Geçici olarak engellendi",
         "tryAgainLater": "Tekrar dene {0}",
         "unlock": "Kilidi aç",
@@ -494,38 +509,38 @@
         "memoryCheckButton": "Kaydedildi. Tekrar gözden geçir"
     },
     "multiWallets": {
+        "addWallet": "Add wallet",
         "create": "Create wallet",
-        "defaultWalletName": "My Surf",
+        "defaultWalletName": "Benim Surf",
         "editWallet": "Edit wallet",
         "manage": "Yönet",
-        "manageWallets": "Manage wallets",
+        "manageWallets": "Cüzdanları yönet",
         "migrate": "Migrate wallet to Surf",
         "name": "Ad",
-        "newWalletName": "Wallet",
-        "pair": "Pair hardware wallet",
-        "removeWallet": "Remove wallet",
+        "nameTaken": "Choose another name. This one is taken already",
+        "newWalletName": "Cüzdan",
+        "pair": "Donanım cüzdanını hesaba bağlamak için",
+        "removeWallet": "Cüzdanı kaldır",
         "restore": "Restore wallet",
-        "addWallet": "Add wallet",
         "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
         "update": "Güncelle",
-        "wallets": "Wallets",
-        "nameTaken": "Choose another name. This one is taken already",
-        "walletNotUnique": "Same address wallet has been added already"
+        "walletNotUnique": "Same address wallet has been added already",
+        "wallets": "Cüzdan"
     },
     "networks": {
+        "errors": {
+            "nameTaken": "Başka bir ad belirtin. Bu zaten alınmış.",
+            "networkUnavailable": "Hiçbir şey eklenmedi. Lütfen geçerli bir uç nokta adresi belirtin veya ağ bağlantısını doğrulayın."
+        },
         "names": {
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "Geliştirici ağı"
         },
         "sections": {
+            "custom": "Özel ağlar",
             "main": "Main network",
-            "test": "Test networks",
-            "custom": "Custom networks"
-        },
-        "errors": {
-            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection",
-            "nameTaken": "Choose another name. This one is taken already"
+            "test": "Test networks"
         }
     },
     "operationsHistory": {
@@ -591,6 +606,12 @@
         "restorePasswordButton": "Ana şifre"
     },
     "safetyProtection": {
+        "PINChangeFailed": "PIN değiştirilemedi",
+        "PINChangeSuccess": "PIN değiştirildi",
+        "PINCorrect": "PIN doğrudur",
+        "PINDoesNotMatch": "PIN'ler eşleşmiyor",
+        "PINNotCorrect": "Yanlış PIN",
+        "TONAddress": "Free TON adresi",
         "address": "Adres",
         "addressAndKeys": "Adres ve Anahtarlar",
         "altAddress": "Alternatif adres biçimi",
@@ -617,13 +638,8 @@
             "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
         },
         "neverShare": "Özel anahtarınız, herhangi birine paranıza tam erişim verebilir. Güvenmediğiniz kişiler, uygulamalarla ve diğer yerlerde asla paylaşmamalısınız.",
-        "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
         "noThanks": "Hayır, teşekkürler",
-        "PINChangeFailed": "PIN değiştirilemedi",
-        "PINChangeSuccess": "PIN değiştirildi",
-        "PINCorrect": "PIN doğrudur",
-        "PINDoesNotMatch": "PIN'ler eşleşmiyor",
-        "PINNotCorrect": "Yanlış PIN",
+        "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
         "privateKey": "Özel anahtar",
         "publicKey": "Açık anahtar",
         "safelyShare": "Cüzdan adresiniz ve açık anahtarınız herkesle güvenle paylaşılabilir, bir tehlike yok.",
@@ -694,8 +710,8 @@
             "deactivateApprovalDescription": "Kartlar yalnızca bu hesap altında çalışacak ve yeniden etkinleştirmeniz gerekecek",
             "deactivateApprovalTitle": "Güvenlik Kartları devre dışı bırakılsın mı?",
             "deactivateBtn": "Devre dışı bırak",
-            "deactivatedCards": "Güvenlik Kartları devre dışı bırakıldı",
             "deactivateDescription": "Onları hemen yeniden etkinleştirebilirsiniz.",
+            "deactivatedCards": "Güvenlik Kartları devre dışı bırakıldı",
             "details": "Detaylar",
             "detailsText": "Surf sizi veya etkinliğinizi takip etmez. Surf hiçbir verinizi toplamaz. Herhangi bir analiz yazılımı kullanmıyoruz. Basit bir izleyicimiz bile yok. Çerez yok. Kişisel veri işleme yok. Hiçbir şey. Bu bizim mevkimiz ve misyonumuzdur.\n\nDikkat! Bununla birlikte, üzerinde kontrolümüz olmayan diğer üçüncü taraf hizmetleri, tamamen kendi takdirine ve iradesine bağlı olarak verilerinizi toplayabilir ve kullanabilir. Hizmetlerini Surf'te kullanmak istiyorsanız, gizliliklerini, tanımlama bilgilerini, kullanım koşullarını ve diğer tüm sözleşmeye dayalı bağlayıcı politikaları ve belgeleri kabul etmeden önce çok dikkatli ve son derece ihtiyatlı olmalısınız.",
             "detailsTitle": "Ademimerkeziyet Politikasında daha önce bahsettiğimiz gibi",
@@ -852,7 +868,6 @@
         },
         "showPrivateKey": "Özel anahtarı göster",
         "title": "Güvenlik Koruması",
-        "TONAddress": "Free TON adresi",
         "verifyYourIdentity": "Kimliğinizi doğrulayın"
     },
     "security": {
@@ -1008,14 +1023,14 @@
             "silverKeys": "Silver keys"
         },
         "securityCard": {
-            "name": "Security card",
-            "serialNumber": "Serial Number",
-            "serialNumberCopied": "Serial Number copied to clipboard"
+            "name": "Güvenlik kartı",
+            "serialNumber": "Seri numarası",
+            "serialNumberCopied": "Seri numarası panoya kopyalandı"
         },
         "title": "Signatures",
-        "types":  {
-            "digital": "Digital",
-            "hardware": "Hardware"
+        "types": {
+            "digital": "Dijital",
+            "hardware": "Donanım"
         }
     },
     "stake": {
@@ -1062,13 +1077,8 @@
             "stakeDeposit": "Stake",
             "stakeWithdraw": "Parayı çek",
             "stakingFee": "Stake etme ücreti",
-            "withdrawalFee": "Para çekme ücreti",
-            "withdrawFunds": "Parayı çek"
-        },
-        "decode": {
-            "inDePool": "staked in round.",
-            "reinvest": "Reward reinvested.",
-            "reward": "Your reward for this round is"
+            "withdrawFunds": "Parayı çek",
+            "withdrawalFee": "Para çekme ücreti"
         },
         "dePoolStaking": {
             "age": {
@@ -1126,6 +1136,11 @@
             "title": "DePool staking",
             "withdrawal": "Full withdrawal at any time without losing accrued rewards"
         },
+        "decode": {
+            "inDePool": "staked in round.",
+            "reinvest": "Reward reinvested.",
+            "reward": "Your reward for this round is"
+        },
         "details": {
             "autoresume": "Otomatik devam edilsin",
             "available": "Mevcut",
@@ -1153,7 +1168,7 @@
         },
         "stakingScreen": {
             "about": "Hakkında",
-            "advancedFeatures": "Advanced features",
+            "advancedFeatures": "Gelişmiş özellikler",
             "age": "Age",
             "assurance": "Güvence",
             "availablePool": "Available pool",
@@ -1166,16 +1181,16 @@
             "declineRequest": "Withdrawal canceled.",
             "depools": "Your dePools",
             "fee": "Stake etme ücreti",
-            "help": "Help",
+            "help": "Yardım",
             "max": "en çok",
             "members": "Üye sayısı",
             "min": "en azı",
             "minStake": "En az stake miktarı",
-            "moreInfo": "More info",
+            "moreInfo": "Daha fazla bilgi",
             "period": "Kilitlenme süresi",
             "reward": "Yıllık ödül",
-            "rewarded": "Your reward",
             "rewardPaid": "Ödül ödendi",
+            "rewarded": "Ödüllendirildi",
             "stakes": "Stake sayısı",
             "stakingRequest": "Staking isteği gönderildi. Biraz zaman alabilir.",
             "successfulRounds": "Successful rounds",
@@ -1373,8 +1388,8 @@
             "amountDescription": "{0} + {1} ücret (% {2} )",
             "amountDescriptionSold": "{0} ve %{1} ücret karşılığında satıldı",
             "amountHint": "Çekmek istediğiniz belirteç sayısını yazın.",
-            "completedSuccessfully": "Başarılı ödendi",
             "completedSuccessMessage": "Daha az zengin oldunuz ve başka birini daha mutlu ettiniz",
+            "completedSuccessfully": "Başarılı ödendi",
             "getAmount": "{0} Al",
             "great": "Harika!",
             "title": "Belirteçleri geri çek",

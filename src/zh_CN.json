@@ -3,13 +3,23 @@
         "assets": {
             "addressCopied": "钱包地址复制到剪贴板",
             "copyAddressHint": "复制钱包地址",
-            "copyAddressHint2": "Tap to copy address",
+            "copyAddressHint2": "",
             "description": "拖放以交换资金并重新平衡您的资产",
             "title": "资产"
         },
         "charts": {
             "monthAgo": "30天前",
             "today": "今天"
+        },
+        "collectibles": {
+            "address": "",
+            "amountFromSupply": "",
+            "author": "",
+            "collectibles": "",
+            "created": "",
+            "title": "",
+            "tokens": "",
+            "trueNftMarket": ""
         },
         "details": {
             "buttons": {
@@ -20,7 +30,7 @@
                 "makeStake": "下赌注",
                 "operationsHistory": "操作历史",
                 "sendCoins": "发送代币",
-                "share": "Share",
+                "share": "",
                 "shareMyAddress": "共享钱包地址",
                 "stakeMore": "下赌注更多",
                 "whatIsStaking": "赌注是什么？",
@@ -42,31 +52,32 @@
         },
         "separators": {
             "accounts": "账户",
+            "collectibles": "",
             "investments": "服务",
             "tokens": "代币"
         },
         "subscriptions": {
             "actions": {
-                "edit": "Edit",
-                "goToExplorer": "Go to explorer",
-                "openThread": "Open thread",
-                "send": "Send",
-                "showAddress": "Show address",
-                "title": "Actions",
-                "transfer": "Transfer",
-                "viewHistory": "View history",
-                "viewKeys": "View keys"
+                "edit": "",
+                "goToExplorer": "",
+                "openThread": "",
+                "send": "",
+                "showAddress": "",
+                "title": "",
+                "transfer": "",
+                "viewHistory": "",
+                "viewKeys": ""
             },
-            "addressPlaceholder": "Account address",
-            "alreadyTracked": "You have already subscribed to this address",
-            "assetsSubtitle": "Subscriptions",
-            "namePlaceholder": "Account name",
-            "subscribeAndOpenBtn": "Subscribe and open a thread",
-            "subscribeBtn": "Subscribe",
-            "titleAdd": "Add Subscription",
-            "titleEdit": "Edit subscription",
-            "titleSubscription": "Subscription",
-            "unsubscribeBtn": "Unsubscribe"
+            "addressPlaceholder": "",
+            "alreadyTracked": "",
+            "assetsSubtitle": "",
+            "namePlaceholder": "",
+            "subscribeAndOpenBtn": "",
+            "subscribeBtn": "",
+            "titleAdd": "",
+            "titleEdit": "",
+            "titleSubscription": "",
+            "unsubscribeBtn": ""
         }
     },
     "advancedSettings": {
@@ -86,32 +97,36 @@
             "saveTitle": "保存生物识别数据"
         },
         "currencies": {
-            "button": "Currencies",
-            "title": "Currencies"
+            "button": "",
+            "title": ""
         },
         "languages": {
             "button": "语言",
             "hint": "本土化在\n进行中"
         },
         "localizationHelper": {
-            "enable": "Enable localization helper",
-            "disable": "Disable localization helper",
-            "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
+            "disable": "",
+            "enable": "",
+            "hint": ""
         },
         "network": {
-            "button": "Network",
-            "title": "Network",
-            "titleAdd": "New network",
-            "btnAdd": "Add",
-            "btnUpdate": "Update",
-            "btnRemove": "Remove network",
-            "titleEdit": "Edit network",
-            "name": "Name",
-            "endpoint": "Endpoint"
+            "btnAdd": "",
+            "btnRemove": "移除网络",
+            "btnUpdate": "",
+            "button": "",
+            "endpoint": "端点",
+            "endpointHint": "",
+            "name": "名字",
+            "title": "",
+            "titleAdd": "",
+            "titleEdit": ""
+        },
+        "nightTheme": {
+            "button": "夜间主题"
         },
         "suggestLanguage": {
-            "button": "Suggest language",
-            "hint": "If you can't find the language you want, please suggest it in the translation community."
+            "button": "",
+            "hint": ""
         },
         "title": "高级设置"
     },
@@ -174,7 +189,7 @@
                 "devCoins": "得到红宝石",
                 "inviteFriends": "邀请朋友们",
                 "makeStake": "下赌注",
-                "save": "Save",
+                "save": "",
                 "shareAddress": "共享钱包地址",
                 "unblockMessages": "解除封锁",
                 "withdraw": "撤回"
@@ -184,58 +199,58 @@
         },
         "debots": {
             "addressInput": {
-                "auto": "Select main address",
-                "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
-                "manual": "Enter manually"
+                "auto": "",
+                "enterAddress": "",
+                "invalidAddress": "",
+                "manual": ""
             },
-            "agree": "I understand",
-            "agreement": "DeBot — third party service and may expose you to identity and other information disclosure that is out of the control of TON Surf.",
-            "blockchain": "Blockchain",
-            "browse": "Browse DeBots...",
-            "debot": "DeBot",
-            "debotError": "Oops!! I'm a little broken. Stay in touch",
-            "defaultHello": "Hi! I'm DeBot",
+            "agree": "",
+            "agreement": "",
+            "blockchain": "",
+            "browse": "",
+            "debot": "",
+            "debotError": "",
+            "defaultHello": "",
             "encryptionBox": {
-                "encryptDecryptWithSurf": "Use Surf keys"
+                "encryptDecryptWithSurf": "使用 Surf 加密/解密"
             },
-            "favorites": "Favorites",
-            "functionalUnsupported": "Oops!! The functionality is temporarily not supported. Stay in touch",
-            "history": "History",
+            "favorites": "",
+            "functionalUnsupported": "",
+            "history": "",
             "info": {
-                "about": "About",
-                "actions": "Actions",
-                "addToFavorites": "Add to favorites",
-                "addToFavoritesNotification": "DeBot added to favorites",
-                "author": "Author",
-                "creator": "Creator",
-                "donate": "Donate",
+                "about": "",
+                "actions": "",
+                "addToFavorites": "",
+                "addToFavoritesNotification": "",
+                "author": "",
+                "creator": "",
+                "donate": "",
                 "error": {
-                    "failedToSaveFavorite": "Failed save favorite status. Try again later"
+                    "failedToSaveFavorite": ""
                 },
-                "goToExplorer": "Go to explorer",
-                "publisher": "by {0}",
-                "removeFromFavorites": "Remove from favorites",
-                "removeFromFavoritesNotification": "DeBot removed from favorites",
-                "showAddress": "Show address",
-                "version": "v. {0}",
-                "writeToDeveloper": "Write to developer"
+                "goToExplorer": "",
+                "publisher": "",
+                "removeFromFavorites": "从收藏夹中删除",
+                "removeFromFavoritesNotification": "DeBot 从收藏夹中删除",
+                "showAddress": "",
+                "version": "",
+                "writeToDeveloper": ""
             },
-            "notFound": "Debot not found",
-            "nothingFound": "Nothing found",
-            "open": "Open DeBot",
-            "recommended": "Recommended",
-            "restart": "Restart",
-            "search": "Enter DeBot address…",
-            "searching": "Searching...",
+            "notFound": "",
+            "nothingFound": "",
+            "open": "",
+            "recommended": "",
+            "restart": "",
+            "search": "",
+            "searching": "",
             "securityCard": {
-                "notSupport": "Unfortunately your device does not support NFC, which is required for proper operation. Please turn it on, or use another device."
+                "notSupport": ""
             },
             "signingBox": {
-                "signature": "Signature",
-                "signWithSurf": "Sign with Surf"
+                "signWithSurf": "",
+                "signature": ""
             },
-            "title": "DeBots"
+            "title": ""
         },
         "error": {
             "failedToLoad": "无法加载聊天。请稍后再试",
@@ -261,9 +276,9 @@
             "invitationForSender": "受您邀请",
             "invitationSuccess": "加入{APP_NAME}的邀请已成功发送。",
             "invitationTitle": "加入我！",
+            "messageTooLong": "您的消息超过{0}个字符。",
             "messagesBlockedByYou": "您阻止了消息",
             "messagesUnblockedByYou": "您解除了邮件的阻止",
-            "messageTooLong": "您的消息超过{0}个字符。",
             "tapToResend": "为了重新发送，点按这里",
             "tapToSendAgain": "为了再一次发送，点按这里",
             "userBlockedMessages": "用户阻止的邮件",
@@ -303,9 +318,9 @@
         },
         "invitation": {
             "view": {
-                "button": "Share a personal invitation",
-                "hint": "We will create a chat and contact with that name as soon as your invitation is accepted.",
-                "placeholder": "Name..."
+                "button": "",
+                "hint": "",
+                "placeholder": ""
             }
         },
         "inviteFriends": "邀请朋友们",
@@ -340,16 +355,16 @@
     },
     "currencies": {
         "crypto": {
-            "BTC": "Bitcoin",
-            "ETH": "Ethereum"
+            "BTC": "",
+            "ETH": ""
         },
         "fiat": {
-            "EUR": "Euro",
-            "USD": "US Dollar"
+            "EUR": "",
+            "USD": ""
         },
         "types": {
-            "crypto": "Crypto",
-            "fiat": "Fiat"
+            "crypto": "",
+            "fiat": ""
         }
     },
     "debotsOptions": {
@@ -372,36 +387,36 @@
     },
     "getTONs": {
         "contests": {
-            "governance": "Governance",
-            "title": "Contests"
+            "governance": "",
+            "title": ""
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
-            "coineal": "Coineal",
-            "digifinex": "DigiFinex",
-            "hitbtc": "HitBTC",
-            "kuna": "Kuna",
-            "mexc": "MEXC",
-            "title": "Exchanges"
+            "bitcoin": "",
+            "coineal": "",
+            "digifinex": "",
+            "hitbtc": "",
+            "kuna": "",
+            "mexc": "",
+            "title": ""
         },
-        "title": "Get TONs",
-        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+        "title": "",
+        "warning": ""
     },
     "interfaceOptions": {
         "assetsBalance": {
-            "button": "Assets balance"
+            "button": "资产余额"
         },
         "confirmationOfSending": {
-            "button": "Confirmation of sending"
+            "button": "确认发送"
         },
-        "interfaceOptionsButton": "Interface options",
+        "interfaceOptionsButton": "接口选项",
         "nightTheme": {
-            "button": "Night theme"
+            "button": "夜间主题"
         },
         "promoCards": {
-            "button": "Promo cards"
+            "button": "促销卡"
         },
-        "title": "Interface options"
+        "title": ""
     },
     "legalNotes": {
         "businessDetails": {
@@ -425,13 +440,13 @@
             "faq": {
                 "title": "帮助中心"
             },
-            "licence": {
-                "title": "许可证",
-                "value": "提供虚拟货币钱包服务FVR001411爱沙尼亚FIU于28.02.2020发行。"
-            },
             "licence2": {
                 "title": "许可证",
                 "value": "提供将法定货币兑换成虚拟货币的服务FRK001293 爱沙尼亚FIU于28.02.2020发行。"
+            },
+            "licence": {
+                "title": "许可证",
+                "value": "提供虚拟货币钱包服务FVR001411爱沙尼亚FIU于28.02.2020发行。"
             },
             "phone": {
                 "title": "电话",
@@ -471,15 +486,15 @@
         "profileButtonTitle": "分权政策"
     },
     "lockScreen": {
+        "PINCorrect": "PIN码正确",
+        "PINNotCorrect": "PIN错误",
         "attention": {
             "text": "强烈建议您，在登出之前备份您的{HD_WORD_COUNT}密码。\n\n如果您忘记了PIN码或登出了应用程序，备份是恢复冲浪的访问的唯一选择。丢失密码意味着不可逆转的存取您的资金的损失。",
             "title": "注意"
         },
         "biometryFailed": "尝试太多了。请稍后再试",
-        "deleteAndExit": "Delete and exit",
+        "deleteAndExit": "",
         "logout": "登出",
-        "PINCorrect": "PIN码正确",
-        "PINNotCorrect": "PIN错误",
         "temporarilyBlocked": "暂时阻止",
         "tryAgainLater": "再试一次{0}",
         "unlock": "解锁",
@@ -494,38 +509,38 @@
         "memoryCheckButton": "已保存了。再检查一遍"
     },
     "multiWallets": {
-        "create": "Create wallet",
-        "defaultWalletName": "My Surf",
-        "editWallet": "Edit wallet",
+        "addWallet": "",
+        "create": "",
+        "defaultWalletName": "",
+        "editWallet": "",
         "manage": "管理",
-        "manageWallets": "Manage wallets",
-        "migrate": "Migrate wallet to Surf",
+        "manageWallets": "管理钱包",
+        "migrate": "",
         "name": "名字",
-        "newWalletName": "Wallet",
-        "pair": "Pair hardware wallet",
-        "removeWallet": "Remove wallet",
-        "restore": "Restore wallet",
-        "addWallet": "Add wallet",
-        "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
+        "nameTaken": "",
+        "newWalletName": "钱包",
+        "pair": "",
+        "removeWallet": "移除钱包",
+        "restore": "",
+        "restoreHint": "",
         "update": "更新",
-        "wallets": "Wallets",
-        "nameTaken": "Choose another name. This one is taken already",
-        "walletNotUnique": "Same address wallet has been added already"
+        "walletNotUnique": "",
+        "wallets": "钱包"
     },
     "networks": {
+        "errors": {
+            "nameTaken": "指定另一个名称。这个已经拿走了。",
+            "networkUnavailable": ""
+        },
         "names": {
-            "mainnet": "Mainnet",
-            "rustnet": "Rustnet",
+            "mainnet": "",
+            "rustnet": "",
             "tonlabs": "开发网"
         },
         "sections": {
-            "main": "Main network",
-            "test": "Test networks",
-            "custom": "Custom networks"
-        },
-        "errors": {
-            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection",
-            "nameTaken": "Choose another name. This one is taken already"
+            "custom": "自定义网络",
+            "main": "",
+            "test": ""
         }
     },
     "operationsHistory": {
@@ -536,7 +551,7 @@
     "profile": {
         "otherProducts": "其他产品",
         "questionsAndAnswers": "问题和回答",
-        "rate": "Rate Surf"
+        "rate": ""
     },
     "questionsAndAnswers": {
         "accountManagement": "客户管理",
@@ -555,19 +570,19 @@
         "congrats": "恭喜您改变生活。永远不会痛。",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Free TON tokens",
-                "stake": "Crystal Stakes",
-                "title": "My Crystals"
+                "comment": "",
+                "stake": "",
+                "title": ""
             },
             "RUBY": {
-                "comment": "Free TON test tokens",
-                "stake": "Ruby Stakes",
-                "title": "My Rubies"
+                "comment": "",
+                "stake": "",
+                "title": ""
             },
             "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
+                "comment": "",
                 "stake": "",
-                "title": "My Surf Medals"
+                "title": ""
             }
         },
         "disableAutoresume": "禁用自动恢复",
@@ -591,6 +606,12 @@
         "restorePasswordButton": "主口令"
     },
     "safetyProtection": {
+        "PINChangeFailed": "更改PIN码失败",
+        "PINChangeSuccess": "PIN已更改",
+        "PINCorrect": "PIN码正确",
+        "PINDoesNotMatch": "PIN码不匹配",
+        "PINNotCorrect": "PIN码错误",
+        "TONAddress": "免费TON地址",
         "address": "地址",
         "addressAndKeys": "地址和密钥",
         "altAddress": "备用地址格式",
@@ -607,23 +628,18 @@
         "enterPin": "输入您的PIN",
         "hidePrivateKey": "隐藏私钥",
         "isCopied": "复制到剪贴板",
-        "lockApp": "Lock app",
+        "lockApp": "",
         "lockMethod": {
             "button": "锁定方法",
             "title": "锁定方法"
         },
         "logOut": {
-            "button": "Delete local data and exit",
-            "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
+            "button": "",
+            "hint": ""
         },
         "neverShare": "您的私钥可授予任何人您资金的完全访问权限。您永远不要与不信任的人或应用共享它。",
-        "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
         "noThanks": "不要， 谢谢",
-        "PINChangeFailed": "更改PIN码失败",
-        "PINChangeSuccess": "PIN已更改",
-        "PINCorrect": "PIN码正确",
-        "PINDoesNotMatch": "PIN码不匹配",
-        "PINNotCorrect": "PIN码错误",
+        "nonMainAccountPrivateKeyNote": "",
         "privateKey": "私有密钥",
         "publicKey": "公开密钥",
         "safelyShare": "您的钱包地址和公钥可以安全地与任何人共享。",
@@ -694,8 +710,8 @@
             "deactivateApprovalDescription": "卡将只对这个账户有效，您需要重复激活。",
             "deactivateApprovalTitle": "停用安全卡吗？",
             "deactivateBtn": "禁用",
-            "deactivatedCards": "安全卡已禁用了",
             "deactivateDescription": "您可以立即重新激活它们。",
+            "deactivatedCards": "安全卡已禁用了",
             "details": "细节",
             "detailsText": "Surf不会跟踪您以及您的使用情况。 Surf不收集您的任何数据。我们不使用任何分析软件。我们甚至简单的跟踪器都没有。没有coolies。没有个人数据处理。什么都没有。这是我们的志向，也是我们的使命。\n\n请注意！不过，我们无法控制其他第三方的服务，可能会自行决定是否自愿收集和使用您的数据。在接受在冲浪中使用其服务之前，您应审慎并非常谨慎地查看其隐私，cookies，使用条款以及任何及所有其他具有合同约束力的政策和文档。",
             "detailsTitle": "正如我们在分权政策上已经提到的",
@@ -852,7 +868,6 @@
         },
         "showPrivateKey": "显示私钥",
         "title": "安全保护",
-        "TONAddress": "免费TON地址",
         "verifyYourIdentity": "验证您的身份"
     },
     "security": {
@@ -863,7 +878,7 @@
         "understand": "明白了"
     },
     "sendGram": {
-        "deposit": "Deposit",
+        "deposit": "",
         "fee": "费用",
         "feeAmount": "≈ {0}",
         "makeAnotherTransfer": "传输再一次",
@@ -872,8 +887,8 @@
         "operationPreview": {
             "amount": "数量",
             "comment": "评论",
-            "commentEncrypted": "Encrypted comment cannot be decrypted by anyone, other than its sender and recipient",
-            "commentUnencrypted": "Unencrypted comment will be visible to everyone on the blockchain",
+            "commentEncrypted": "",
+            "commentUnencrypted": "",
             "encrypted": "加密的",
             "fees": "费用",
             "from": "从",
@@ -891,7 +906,7 @@
         "sendSuccessTitle": "传输成功",
         "sendTo": "至",
         "title": "发送代币",
-        "transfer": "Transfer",
+        "transfer": "",
         "transferSendTitle": "传输已发送了"
     },
     "settings": {
@@ -989,33 +1004,33 @@
     },
     "signatures": {
         "actions": {
-            "deriveThreePairs": "Derive 3 pairs of keys",
-            "importKeys": "Import keys"
+            "deriveThreePairs": "",
+            "importKeys": ""
         },
-        "defaultSignatureName": "Signature",
+        "defaultSignatureName": "",
         "details": {
-            "name": "Name",
-            "privateKey": "Private key",
-            "publicKey": "Public key",
-            "publicKeyCopied": "Public key copied to clipboard",
-            "showKey": "Show key",
-            "title": "Signature"
+            "name": "",
+            "privateKey": "",
+            "publicKey": "",
+            "publicKeyCopied": "",
+            "showKey": "",
+            "title": ""
         },
-        "mainSignature": "My Surf",
+        "mainSignature": "",
         "medalSignatures": {
-            "bronzeKeys": "Bronze keys",
-            "goldenKeys": "Golden keys",
-            "silverKeys": "Silver keys"
+            "bronzeKeys": "",
+            "goldenKeys": "",
+            "silverKeys": ""
         },
         "securityCard": {
-            "name": "Security card",
-            "serialNumber": "Serial Number",
-            "serialNumberCopied": "Serial Number copied to clipboard"
+            "name": "安全卡",
+            "serialNumber": "序号",
+            "serialNumberCopied": "序列号已复制到剪贴板"
         },
-        "title": "Signatures",
-        "types":  {
-            "digital": "Digital",
-            "hardware": "Hardware"
+        "title": "",
+        "types": {
+            "digital": "数字的",
+            "hardware": "硬件"
         }
     },
     "stake": {
@@ -1062,69 +1077,69 @@
             "stakeDeposit": "Stake",
             "stakeWithdraw": "提取",
             "stakingFee": "Stake费",
-            "withdrawalFee": "提取费",
-            "withdrawFunds": "提取资金"
-        },
-        "decode": {
-            "inDePool": "staked in round.",
-            "reinvest": "Reward reinvested.",
-            "reward": "Your reward for this round is"
+            "withdrawFunds": "提取资金",
+            "withdrawalFee": "提取费"
         },
         "dePoolStaking": {
             "age": {
-                "definition": " – this indicates how many rounds this DePool has been active.",
-                "term": "Age"
+                "definition": "",
+                "term": ""
             },
             "annualReward": {
-                "definition": " – this is the expected annual interest rate of your stake, provided the DePool succesfully validates for the whole year.",
-                "term": "Annual reward"
+                "definition": "",
+                "term": ""
             },
-            "anonymity": "Complete anonymity",
+            "anonymity": "",
             "assurance": {
-                "definition": " – this is the minimum amount of tokens the DePool owner is obliged to invest each validation round, and these funds will be the first lost, in case of any validator node malfunction. Only if they are not enough to cover the losses of the total stake, will the funds of other pool members be affected. This way the DePool owner is strongly motivated to maintain proper operation of the validator node.",
-                "term": "Assurance"
+                "definition": "",
+                "term": ""
             },
             "availablePool": {
-                "definition": " – this is the maximum amount you can currently stake in Surf DePools.",
-                "term": "Available pool"
+                "definition": "",
+                "term": ""
             },
             "balance": {
-                "definition": " – this is the total amount of funds in the DePool.",
-                "term": "Balance"
+                "definition": "",
+                "term": ""
             },
-            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
-            "contribution": "Contribution to blockchain infrastructure and decentralization",
-            "dash": "—",
-            "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
-            "fundsControl": "Full control of your funds",
+            "balanceRequirement": "",
+            "contribution": "",
+            "dash": "",
+            "description": "",
+            "fundsControl": "",
             "lockUpPeriod": {
-                "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
-                "term": "Lock-up period"
+                "definition": "",
+                "term": ""
             },
             "members": {
-                "definition": " – this is the current number of members in the DePool.",
-                "term": "Members"
+                "definition": "",
+                "term": ""
             },
             "minStake": {
-                "definition": " – this is the minimum stake set in the DePool. You cannot stake less than this amount.",
-                "term": "Min.Stake"
+                "definition": "",
+                "term": ""
             },
-            "replenishment": "Replenishment is allowed",
+            "replenishment": "",
             "rewardFee": {
-                "definition": " – this is the percentage of your reward that goes to the DePool owner for maintaining the DePool and the validator node.",
-                "term": "Reward fee"
+                "definition": "",
+                "term": ""
             },
             "rewardPaid": {
-                "definition": " – this is how much all participants of Surf DePools have earned in total up until now.",
-                "term": "Reward paid"
+                "definition": "",
+                "term": ""
             },
-            "staking": "Staking is a new way of depositing funds on the blockchain. Delegate tokens to DePool smart contract and enjoy your rewards every day. And you also get benefits.",
+            "staking": "",
             "successful": {
-                "definition": " — percentage of all validation rounds the DePools participated in, where it won validator elections, successfully completed validation and received its reward.",
-                "term": "Successful rounds"
+                "definition": "",
+                "term": ""
             },
-            "title": "DePool staking",
-            "withdrawal": "Full withdrawal at any time without losing accrued rewards"
+            "title": "",
+            "withdrawal": ""
+        },
+        "decode": {
+            "inDePool": "",
+            "reinvest": "",
+            "reward": ""
         },
         "details": {
             "autoresume": "自动恢复",
@@ -1146,58 +1161,58 @@
             "button": "重新平衡"
         },
         "promo": {
-            "about": "About",
-            "stakeNow": "Stake now",
-            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
-            "title": "Earn {0} % a year just for holding crystals"
+            "about": "",
+            "stakeNow": "",
+            "text": "",
+            "title": ""
         },
         "stakingScreen": {
-            "about": "About",
-            "advancedFeatures": "Advanced features",
-            "age": "Age",
-            "assurance": "Assurance",
-            "availablePool": "Available pool",
-            "balance": "Balance",
-            "btnBreakUnstake": "Decline withdrawal",
-            "btnRestake": "Restake",
-            "btnStake": "Stake",
-            "btnStakeAnotherRound": "Try to stake later",
-            "btnUnstake": "Withdraw",
-            "declineRequest": "Withdrawal canceled.",
-            "depools": "Your dePools",
-            "fee": "Reward fee",
-            "help": "Help",
-            "max": "max.",
-            "members": "Members",
-            "min": "min.",
-            "minStake": "Min. stake",
-            "moreInfo": "More info",
-            "period": "Lock-up period",
-            "reward": "Estimated annual reward",
-            "rewarded": "Your reward",
-            "rewardPaid": "Reward paid",
-            "stakes": "Stakes",
-            "stakingRequest": "Staking request was sent. It may take a little time.",
-            "successfulRounds": "Successful rounds",
-            "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
-            "withdrawRequest": "Withdraw request was sent. It may take a short while."
+            "about": "",
+            "advancedFeatures": "高级功能",
+            "age": "",
+            "assurance": "",
+            "availablePool": "",
+            "balance": "",
+            "btnBreakUnstake": "",
+            "btnRestake": "",
+            "btnStake": "",
+            "btnStakeAnotherRound": "",
+            "btnUnstake": "",
+            "declineRequest": "",
+            "depools": "",
+            "fee": "",
+            "help": "帮助",
+            "max": "",
+            "members": "",
+            "min": "",
+            "minStake": "",
+            "moreInfo": "更多信息",
+            "period": "",
+            "reward": "",
+            "rewardPaid": "",
+            "rewarded": "",
+            "stakes": "",
+            "stakingRequest": "",
+            "successfulRounds": "",
+            "unstakeBanner": "",
+            "withdrawRequest": ""
         }
     },
     "support": {
         "askQuestion": "提出问题",
-        "button": "Get support",
+        "button": "",
         "giveFeedback": {
-            "button": "Give feedback",
-            "subject": "Feedback"
+            "button": "",
+            "subject": ""
         },
-        "group": "Support group",
-        "makeSuggestion": "Make a suggestion",
+        "group": "",
+        "makeSuggestion": "",
         "message": {
             "first": "嗨， 我是TON冲浪助理。",
             "second": "问我任何事情，我会告诉您可以做什么冲浪。"
         },
-        "title": "Get support",
-        "videoTutorials": "Video tutorials"
+        "title": "",
+        "videoTutorials": ""
     },
     "system": {
         "dictionary": {
@@ -1214,19 +1229,19 @@
     },
     "transactions": {
         "buy": {
-            "item": "Item",
-            "payment": "Payment",
-            "seller": "Seller",
-            "title": "Buy",
-            "totalPrice": "Total price"
+            "item": "",
+            "payment": "",
+            "seller": "",
+            "title": "",
+            "totalPrice": ""
         },
         "comments": {
             "commentOptional": "评论（可选）",
             "lengthWarning": "只有120个字符",
             "message": "消息",
-            "messageOrMemo": "Message or Memo",
-            "useCommentEncryption": "Encrypt comment",
-            "useNoteEncryption": "Encrypt note",
+            "messageOrMemo": "",
+            "useCommentEncryption": "",
+            "useNoteEncryption": "",
             "writeMessage": "写短信..."
         },
         "details": {
@@ -1245,11 +1260,11 @@
             "transactionInvitation": "您的朋友{0}邀请您进行交易。发回确认。"
         },
         "vote": {
-            "contest": "Contest",
-            "cost": "Cost",
-            "proposal": "Proposal",
-            "signature": "Signature",
-            "title": "Vote"
+            "contest": "",
+            "cost": "",
+            "proposal": "",
+            "signature": "",
+            "title": ""
         }
     },
     "wallet": {
@@ -1275,7 +1290,7 @@
             "failedToLoadAccounts": "未能加载账户。",
             "failedToLoadWallet": "加载钱包失败。",
             "failedToLoginInTheWallet": "加载钱包失败。",
-            "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
+            "insufficientFunds": "",
             "limitInvalidValue": "限制值无效或太大。",
             "timeIsNotSynced": "时间未同步。很遗憾，交易无法处理。请启用自动设置时间选项。"
         },
@@ -1286,7 +1301,7 @@
             "invite": "邀请",
             "receive": "接收",
             "send": "发送",
-            "tokenValue": "Token value",
+            "tokenValue": "",
             "updating": "正在更新。。。",
             "yourBalance": "您的余额"
         },
@@ -1321,9 +1336,9 @@
             "confirm": "确认",
             "confirmAndSend": "确认并发送",
             "currencies": {
-                "mainnet": "crystals",
-                "private": "rubies",
-                "tonlabs": "rubies"
+                "mainnet": "",
+                "private": "",
+                "tonlabs": ""
             },
             "enterValidAddress": "免费TON地址",
             "from": "从",
@@ -1340,7 +1355,7 @@
             "fee": "费用",
             "from": "从",
             "fromBankCard": "从银行卡",
-            "goToExplorer": "Go to explorer",
+            "goToExplorer": "",
             "moreDetails": "更多细节",
             "networkFees": "网络费用",
             "no": "不",
@@ -1350,9 +1365,9 @@
             "result": "结果",
             "reverseTransaction": "反向交易",
             "sent": "发送了",
-            "share": "Share",
+            "share": "",
             "statusSuccess": "成功",
-            "time": "Time",
+            "time": "",
             "to": "至",
             "transactionNotSend": "传输未发送。请再试一次。",
             "transferDetails": "传输详细信息",
@@ -1360,10 +1375,10 @@
         },
         "warning": {
             "awaitTransaction": "上一个传输正在进行中。",
-            "couldNotIdentifyQRCode": "Couldn't identify QR code",
+            "couldNotIdentifyQRCode": "",
             "insufficientBalance": "资金不足",
             "insufficientBalanceForFee": "网络费用资金不足",
-            "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
+            "insufficientFundsToActivate": "",
             "limitReached": "金额超过既定限制之一",
             "notYetSupported": "尚未支持",
             "pleaseWait": "请稍等"
@@ -1373,8 +1388,8 @@
             "amountDescription": "{0} + {1}费用（ {2} ％）",
             "amountDescriptionSold": "卖出{0} &费用{1}%",
             "amountHint": "请指定你要提取多少代币。",
-            "completedSuccessfully": "支付成功",
             "completedSuccessMessage": "你只是变得不那么富有，而使别人更快乐",
+            "completedSuccessfully": "支付成功",
             "getAmount": "得到{0}",
             "great": "太好了！",
             "title": "提取代币",

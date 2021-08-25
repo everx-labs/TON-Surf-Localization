@@ -1,15 +1,25 @@
 {
     "accounts": {
         "assets": {
-            "addressCopied": "지갑 주소가 클립 보드에 복사되었습니다.",
+            "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",
             "copyAddressHint": "지갑 주소 복사하기",
-            "copyAddressHint2": "Tap to copy address",
-            "description": "자금을 교환하고 자산을 재조정하기 위해 드래그 앤 드롭하기",
+            "copyAddressHint2": "지갑 주소 복사하기",
+            "description": "끌어 놓기로 자금을 교환하고 자산을 재조정하세요",
             "title": "자산"
         },
         "charts": {
             "monthAgo": "30일 전",
             "today": "오늘"
+        },
+        "collectibles": {
+            "address": "",
+            "amountFromSupply": "",
+            "author": "",
+            "collectibles": "",
+            "created": "",
+            "title": "",
+            "tokens": "",
+            "trueNftMarket": ""
         },
         "details": {
             "buttons": {
@@ -17,18 +27,18 @@
                 "disableAutoresume": "자동 갱신 비활성화하기",
                 "enableAutoresume": "자동 갱신 활성화하기",
                 "keepMeInformed": "OK. 계속 알려주세요",
-                "makeStake": "스테이킹 하기",
+                "makeStake": "스테이킹하기",
                 "operationsHistory": "운영 기록",
                 "sendCoins": "토큰 보내기",
-                "share": "Share",
+                "share": "공유하기",
                 "shareMyAddress": "지갑 주소 공유하기",
-                "stakeMore": "스테이킹 더하기",
+                "stakeMore": "스테이킹을 더 많이 하기",
                 "whatIsStaking": "스테이킹이 무엇인가요?",
-                "withdraw": "돈을 인출하기"
+                "withdraw": "인출하기"
             },
             "labels": {
-                "app": "서핑",
-                "newCoinsSoonMsg": "사용자와 마찬가지로 우리는 새로운 자산의 출시를 기다릴 수 없습니다.",
+                "app": "Surf",
+                "newCoinsSoonMsg": "귀하와 마찬가지로 새로운 자산이 출시되어 혜택을 누릴 수 있기에 대한 기대가 큽니다",
                 "shareMsg": "제 {0} 주소: \n{1}"
             },
             "nets": {
@@ -42,44 +52,45 @@
         },
         "separators": {
             "accounts": "계정",
+            "collectibles": "",
             "investments": "서비스",
             "tokens": "토큰"
         },
         "subscriptions": {
             "actions": {
-                "edit": "Edit",
-                "goToExplorer": "Go to explorer",
-                "openThread": "Open thread",
+                "edit": "수정하기",
+                "goToExplorer": "익스플로러로 이동하기",
+                "openThread": "스레드를 열기",
                 "send": "보내기",
                 "showAddress": "주소 표시",
-                "title": "활동",
+                "title": "기록",
                 "transfer": "송금",
                 "viewHistory": "기록 보기",
-                "viewKeys": "View keys"
+                "viewKeys": "키를 보기"
             },
-            "addressPlaceholder": "Account address",
-            "alreadyTracked": "You have already subscribed to this address",
-            "assetsSubtitle": "Subscriptions",
-            "namePlaceholder": "Account name",
-            "subscribeAndOpenBtn": "Subscribe and open a thread",
-            "subscribeBtn": "Subscribe",
-            "titleAdd": "Add Subscription",
-            "titleEdit": "Edit subscription",
-            "titleSubscription": "Subscription",
-            "unsubscribeBtn": "Unsubscribe"
+            "addressPlaceholder": "계정 주소",
+            "alreadyTracked": "이미 이 주소에 가입했습니다",
+            "assetsSubtitle": "구독",
+            "namePlaceholder": "",
+            "subscribeAndOpenBtn": "스레드 열기 및 구독하기",
+            "subscribeBtn": "구독하기",
+            "titleAdd": "구독을 추가하기",
+            "titleEdit": "구독을 수정하기",
+            "titleSubscription": "구독",
+            "unsubscribeBtn": "구독을 취소하기"
         }
     },
     "advancedSettings": {
         "advancedSettingsButton": "고급 설정",
         "biometry": {
             "button": "{0}(으)로 잠금 해제",
-            "buttonFace": "얼굴 인식 잠금 해제 사용",
+            "buttonFace": "얼굴인식 잠금해제 사용",
             "buttonFingerprint": "지문 잠금 해제 사용",
             "disabledFaceMessage": "얼굴 인식 잠금 해제 사용 중지됨",
             "disabledFingerprintMessage": "지문 잠금 해제 사용 중지됨",
             "disabledMessage": "{0} 잠금 해제 비활성화됨",
-            "enabledFaceMessage": "Face unlock enabled",
-            "enabledFingerprintMessage": "Fingerprint unlock enabled",
+            "enabledFaceMessage": "",
+            "enabledFingerprintMessage": "",
             "enabledMessage": "{0} 잠금 해제 활성화됨",
             "off": "끄기",
             "on": "켜기",
@@ -91,12 +102,12 @@
         },
         "languages": {
             "button": "언어",
-            "hint": "Localization in progress..."
+            "hint": "현지화 중..."
         },
         "localizationHelper": {
-            "enable": "Enable localization helper",
-            "disable": "Disable localization helper",
-            "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
+            "disable": "현지화 헬퍼를 비활성화하기",
+            "enable": "현지화 헬퍼를 활성화하기",
+            "hint": "텍스트 위로 마우스를 가져갈 때 현지화 경로를 표시합니다.\n클립보드에 복사하려면 Alt + 클릭하십시오"
         },
         "network": {
             "btnAdd": "추가",
@@ -104,21 +115,25 @@
             "btnUpdate": "업데이트하기",
             "button": "네트워크",
             "endpoint": "엔드포인트",
+            "endpointHint": "",
             "name": "이름",
             "title": "네트워크",
             "titleAdd": "새 네트워크",
-            "titleEdit": "네트워크 수정"
+            "titleEdit": "네트워크를 수정하기"
+        },
+        "nightTheme": {
+            "button": "밤 테마"
         },
         "suggestLanguage": {
             "button": "언어 제안하기",
-            "hint": "If you can't find the language you want, please suggest it in the translation community."
+            "hint": ""
         },
         "title": "고급 설정"
     },
     "backupReminder": {
-        "logOut": "백업 없이 로그아웃",
+        "logOut": "백업 없이 로그아웃하기",
         "submit": "백업",
-        "text": "주목! 비밀번호를 안전한 위치에 저장하십시오. 비밀번호를 분실하면 자금에 영구적으로 액세스할 수 없게 됩니다.",
+        "text": "암호를 안전한 위치에 저장하십시오. 암호를 분실하면 자금에 영구적으로 액세스할 수 없게 됩니다.",
         "title": "비밀번호 백업"
     },
     "chats": {
@@ -128,24 +143,24 @@
                     "devIncomeCoinsMessage": "좋습니다! 지금 사용자는 친구에게 루비를 보낼 수 있습니다. 그냥 친구들을 서핑에 초대하십시오",
                     "devWelcomeMessages": [
                         "안녕하세요!",
-                        "저는 Debot (탈 중앙화 봇) 체인 라이더입니다. 저는 사용자의 서핑 도움이입니다. 우선은 잔액을 보충해서 지갑을 활성화합시다.",
-                        "지갑 주소를 친구와 공유하여 토큰을 보낼 수 있습니다. 작은 지갑 개시 수수료는 받은 첫 번째 송금에서 공제됩니다."
+                        "저는 Chain Rider라고 DeBot(탈중앙화 보트)입니다. Surf를 도와 주러 왔습니다. 먼저 잔액을 충전하여 지갑을 활성화합니다.",
+                        "친구들이 토큰을 보낼 수 있도록 지갑 주소를 친구들과 공유하세요. 소액의 지갑 개설비는 귀하가 받는 첫 번째 송금에서 공제됩니다."
                     ],
                     "emptyChat": "친구와 지갑 주소를 공유하기 ...",
                     "getCoinsMessages": [
-                        "루비는 테스트 목적으로 만 제공됩니다. 몇 분 안에 얻을 수 있습니다.",
-                        "첫 번째 루비를 받으면 소액의 일회성 지갑의 시작 수수료가 공제됩니다."
+                        "루비는 테스트 목적으로만 제공됩니다. 몇 분 안에 받을 수 있습니다.",
+                        "첫 번째 루비를 받으면 소액의 일회성 지갑 개설비가 공제됩니다."
                     ],
-                    "goodSurfing": "좋은 서핑을 하세요!",
-                    "incomeCoinsMessage": "좋습니다! 지금 사용자는 친구에게 톤을 보낼 수 있습니다. 그냥 친구들을 서핑에 초대하십시오",
+                    "goodSurfing": "좋은 Surf를 하세요!",
+                    "incomeCoinsMessage": "좋습니다! 이제 친구에게 토큰을 보낼 수 있습니다. 친구를 Surf에 초대하기만 하면 됩니다",
                     "walletInitiation": "지갑 시작",
                     "welcomeMessages": [
                         "안녕하세요!",
-                        "저는 Debot (탈 중앙화 봇) 체인 라이더입니다. 저는 사용자의 서핑 도움이입니다. 우선은 잔액을 보충해서 지갑을 활성화합시다.",
-                        "지갑 주소를 친구와 공유하여 토큰을 보낼 수 있습니다. 작은 지갑 개시 수수료는 받은 첫 번째 송금에서 공제됩니다."
+                        "저는 Chain Rider라고 DeBot(탈중앙화 보트)입니다. Surf를 도와 주러 왔습니다. 먼저 잔액을 충전하여 지갑을 활성화합니다.",
+                        "친구들이 토큰을 보낼 수 있도록 지갑 주소를 친구들과 공유하세요. 소액의 지갑 개설비는 귀하가 받는 첫 번째 송금에서 공제됩니다."
                     ]
                 },
-                "name": "체인 라이더"
+                "name": "Chain Rider"
             },
             "debot": "Debot",
             "stakingBot": {
@@ -158,9 +173,9 @@
                 },
                 "name": "루비 스테이킹",
                 "shortcuts": {
-                    "makeStake": "스테이킹 하기",
+                    "makeStake": "스테이킹하기",
                     "showBalance": "잔액 보기",
-                    "stakeMore": "스테이킹 더하기",
+                    "stakeMore": "스테이킹을 더 많이 하기",
                     "whatIsStaking": "스테이킹이 무엇인가요?"
                 }
             }
@@ -173,27 +188,27 @@
                 "checkStakes": "스테이킹을 확인하기",
                 "devCoins": "루비 받기",
                 "inviteFriends": "친구를 초대하기",
-                "makeStake": "스테이킹 하기",
-                "save": "Save",
+                "makeStake": "스테이킹하기",
+                "save": "저장하기",
                 "shareAddress": "지갑 주소 공유하기",
                 "unblockMessages": "차단 해제하기",
                 "withdraw": "인출하기"
             },
             "chat": "채팅",
-            "goToConversation": "채팅 열기"
+            "goToConversation": "스레드를 열기"
         },
         "debots": {
             "addressInput": {
-                "auto": "Select main address",
-                "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
-                "manual": "Enter manually"
+                "auto": "",
+                "enterAddress": "",
+                "invalidAddress": "",
+                "manual": ""
             },
             "agree": "알겠습니다",
             "agreement": "DeBot는 제3자 서비스입니다. 귀하의 신원 및 기타 정보 공개를 노출시킬 가능성이 있습니다. TON Surf가 DeBot를 통제할 수 없습니다.",
             "blockchain": "블록체인",
             "browse": "DeBot 검색...",
-            "debot": "DeBot",
+            "debot": "",
             "debotError": "이크! 저는 좀 망가졌어요. 연락을 유지해 주세요",
             "defaultHello": "안녕하세요? 저는 DeBot입니다",
             "encryptionBox": {
@@ -201,33 +216,33 @@
             },
             "favorites": "즐겨찾는 항목",
             "functionalUnsupported": "앗! 이 기능은 일시적으로 사용할 수 없습니다. 연락을 유지해 주세요",
-            "history": "History",
+            "history": "기록",
             "info": {
-                "about": "About",
-                "actions": "Actions",
-                "addToFavorites": "Add to favorites",
-                "addToFavoritesNotification": "DeBot added to favorites",
-                "author": "Author",
-                "creator": "Creator",
-                "donate": "Donate",
+                "about": "자세한 내용",
+                "actions": "기록",
+                "addToFavorites": "즐겨찾기에 추가",
+                "addToFavoritesNotification": "즐겨찾기에 DeBot를 추가됨",
+                "author": "저작자",
+                "creator": "제작자",
+                "donate": "기부하기",
                 "error": {
-                    "failedToSaveFavorite": "Failed save favorite status. Try again later"
+                    "failedToSaveFavorite": "즐겨찾기 상태를 저장하지 못했습니다. 나중에 다시 시도해 주세요"
                 },
-                "goToExplorer": "Go to explorer",
-                "publisher": "by {0}",
-                "removeFromFavorites": "Remove from favorites",
-                "removeFromFavoritesNotification": "DeBot removed from favorites",
-                "showAddress": "Show address",
-                "version": "v. {0}",
-                "writeToDeveloper": "Write to developer"
+                "goToExplorer": "익스플로러로 이동하기",
+                "publisher": "{0}(으)로",
+                "removeFromFavorites": "즐겨찾기에서 제거하기",
+                "removeFromFavoritesNotification": "DeBot 즐겨찾기에서 제거됨",
+                "showAddress": "주소 표시",
+                "version": "",
+                "writeToDeveloper": "개발자에게 쓰기"
             },
-            "notFound": "Debot not found",
-            "nothingFound": "Nothing found",
-            "open": "Open DeBot",
-            "recommended": "Recommended",
-            "restart": "Restart",
-            "search": "Enter DeBot address…",
-            "searching": "Searching...",
+            "notFound": "Debot를 찾을 수 없습니다",
+            "nothingFound": "아무것도 찾지 못했습니다",
+            "open": "DeBot를 열기",
+            "recommended": "추천 사항",
+            "restart": "다시 시작",
+            "search": "DeBot 주소를 입력하세요",
+            "searching": "검색 중...",
             "securityCard": {
                 "notSupport": "불행하게도 귀하의 장치는 올바른 작동에 필요한 NFC를 지원하지 않습니다. 전원을 켜거나 다른 기기를 사용하세요."
             },
@@ -238,8 +253,8 @@
             "title": "DeBot"
         },
         "error": {
-            "failedToLoad": "채팅 로딩실패했습니다. 나중에 다시 시도해주세요",
-            "failedToSend": "메시지를 보내지 못했습니다. 나중에 다시 시도해주세요"
+            "failedToLoad": "채팅을 로드하지 못했습니다. 나중에 다시 시도해 보세요",
+            "failedToSend": "메시지를 보내지 못했습니다. 나중에 다시 시도해 보세요"
         },
         "labels": {
             "address": "무료 TON 지갑 주소",
@@ -253,11 +268,11 @@
             "enableFromSettingsTitle": "이미지 보내기",
             "invitationAcceptance": "안녕하세요, 귀하의 초대를 수락했습니다. 연결하려면 팔로우하세요.",
             "invitationAcceptanceTitle": "연결하려면 팔로우하세요!",
-            "invitationAlert": "안녕하세요! {0} 를 {APP_NAME} 에 초대할까요?",
-            "invitationBody": "채팅에 초대되었습니다.좋습니다!",
+            "invitationAlert": "{APP_NAME}(을)를 이용 사작하기에 {0}(을)를 초대할까요?",
+            "invitationBody": "안녕하세요! 간단하고 안전한 블록체인 커뮤니케이터로 Surf에서 채팅하고 서로에게 토큰을 보내도록 초대하고 싶습니다.",
             "invitationError": "초대장을 보내지 못했습니다. 다시 시도하십시오",
-            "invitationFailure": "{APP_NAME} 에 가입 초대장을 보내지 못했습니다.",
-            "invitationForReceiver": "사용자가 초대했습니다.",
+            "invitationFailure": "{APP_NAME} 가입 초대를 보내지 못했습니다",
+            "invitationForReceiver": "Surf 유저가 귀하를 초대했습니다",
             "invitationForSender": "귀하가 초대하신 항목",
             "invitationSuccess": "{APP_NAME} 가입 초대가 성공적으로 전송되었습니다.",
             "invitationTitle": "함께 합시다!",
@@ -288,7 +303,7 @@
         "contactUpdated": "연락처 정보가 업데이트되었습니다.",
         "createAndContinue": "만들고 계속하기",
         "deleteContact": "삭제",
-        "editContact": "연락처 수정",
+        "editContact": "연락처를 수정하기",
         "error": {
             "failedToDelete": "연락처를 삭제하지 못했습니다. 나중에 다시 시도해주세요",
             "failedToSendSMSInvitation": "메시지로 초대장을 보내지 못했습니다.",
@@ -315,22 +330,22 @@
         "otherContacts": "연락처",
         "recentContacts": "최근의 연락처",
         "remove": "연락처에서 제거하기",
-        "saveAndClose": "저장하고 닫기",
+        "saveAndClose": "연락처 저장 및 닫기",
         "searchForAction": "이름 또는 주소로 검색하기...",
         "searchFriends": "친구를 찾는 중...",
         "selectRecipient": {
             "deliveryHint": {
-                "email": "Send via email",
-                "share": "Direct share",
-                "sms": "Send via SMS"
+                "email": "",
+                "share": "",
+                "sms": ""
             },
-            "retry": "Retry",
+            "retry": "",
             "sendButton": {
-                "email": "Send email",
-                "share": "Share link",
-                "sms": "Send SMS"
+                "email": "",
+                "share": "",
+                "sms": ""
             },
-            "sendManually": "Direct share"
+            "sendManually": ""
         },
         "shareApplication": "{APP_NAME} 공유하기",
         "support": "어시스턴트",
@@ -372,20 +387,20 @@
     },
     "getTONs": {
         "contests": {
-            "governance": "Governance",
-            "title": "Contests"
+            "governance": "거버넌스",
+            "title": "콘테스트"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
-            "coineal": "Coineal",
-            "digifinex": "DigiFinex",
-            "hitbtc": "HitBTC",
-            "kuna": "Kuna",
-            "mexc": "MEXC",
-            "title": "Exchanges"
+            "bitcoin": "",
+            "coineal": "",
+            "digifinex": "",
+            "hitbtc": "",
+            "kuna": "",
+            "mexc": "",
+            "title": "화폐 교환"
         },
-        "title": "Get TONs",
-        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+        "title": "TON 받기",
+        "warning": "토큰을 얻는 가장 안전한 방법은 여전히 콘테스트와 서브 거버넌스입니다. Surf는 귀하의 개인 데이터를 수집할 수 있는 제3자 서비스에 대해 책임을 지지 않습니다."
     },
     "interfaceOptions": {
         "assetsBalance": {
@@ -419,7 +434,7 @@
             },
             "email": {
                 "body": "주소: {0}\n버전: {1}\n{2}: {3}\n장치: {4}",
-                "subject": "문제 리포트하기",
+                "subject": "문제에 대해 문의하기",
                 "title": "이메일"
             },
             "faq": {
@@ -431,7 +446,7 @@
             },
             "licence": {
                 "title": "라이센스",
-                "value": "에스토니아 금융 기관(FIU)에서 2020.02.28에 발행한 가상 화폐 지갑 서비스(FVR001411)를 제공합니다."
+                "value": "에스토니아 금융 기관(FIU)에서 2020.02.28에 발행한 가상 화폐 지갑 서비스(FVR001411)를 제공합니다"
             },
             "phone": {
                 "title": "핸드폰",
@@ -450,7 +465,7 @@
         "confirmation": {
             "antiFraud": "사기 방지 정책을 읽고 수락했습니다.",
             "common": "저는 내용을 읽고 동의합니다",
-            "confirm": "확정해주세요",
+            "confirm": "확인하기",
             "cookies": "쿠키 정책을 읽고 수락했습니다.",
             "gotIt": "오케이",
             "kycAml": "KYC 및 AML 정책을 읽고 수락했습니다.",
@@ -464,7 +479,7 @@
             "businessDetails": "비즈니스 세부 정보",
             "cookiesPolicy": "쿠키 정책",
             "privacyPolicy": "개인 정보 정책",
-            "surfDecentralizationPolicy": "서핑 탈 중앙화 정책",
+            "surfDecentralizationPolicy": "Surf 탈중앙화 정책",
             "termsOfUse": "이용 약관",
             "title": "법적 고지"
         },
@@ -474,7 +489,7 @@
         "PINCorrect": "정확한 암호",
         "PINNotCorrect": "잘못된 암호",
         "attention": {
-            "text": "로그아웃하기 전에 암호를 백업하는 것이 좋습니다. \n\n 백업은 암호를 잊어버리거나 앱에서 로그아웃한 경우 Surf에 대한 액세스를 복구할 수 있는 유일한 방법입니다. 시드 프레이지를 분실하면 자금에 액세스할 수 없습니다.",
+            "text": "로그아웃하기 전에 암호를 백업하는 것이 좋습니다.\n\n백업은 암호를 잊어버리거나 앱에서 로그아웃한 경우 Surf에 대한 액세스를 복구할 수 있는 유일한 방법입니다. 시드 프레이지를 분실하면 자금에 액세스할 수 없습니다.",
             "title": "주의"
         },
         "biometryFailed": "시도 횟수가 너무 많습니다. 나중에 다시 시도해 보세요",
@@ -491,9 +506,10 @@
             "doneButton": "좋습니다! 확인이 완료되었습니다",
             "title": "확인"
         },
-        "memoryCheckButton": "저장됨. 재확인하기"
+        "memoryCheckButton": "저장되었습니다. 재확인하기"
     },
     "multiWallets": {
+        "addWallet": "지갑을 추가하기",
         "create": "지갑 생성하기",
         "defaultWalletName": "내 Surf",
         "editWallet": "지갑을 수정하기",
@@ -501,29 +517,28 @@
         "manageWallets": "지갑을 관리하기",
         "migrate": "지갑을 Surf로 이동하기",
         "name": "이름",
+        "nameTaken": "다른 이름을 선택하십시오. 이 이름을 다른 분이 이미 선택했습니다",
         "newWalletName": "지갑",
         "pair": "계정을 하드웨어 지갑에 몪기",
         "removeWallet": "지갑을 제거하기",
         "restore": "지갑 복구하기",
+        "restoreHint": "Surf에서만 생성된 지갑은 복구할 수 있습니다",
         "update": "업데이트하기",
-        "wallets": "지갑",
-        "addWallet": "지갑 추가",
-        "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
-        "nameTaken": "다른 이름을 선택하십시오. 이 이름은 이미 지정되어 있습니다.",
-        "walletNotUnique": "Same address wallet has been added already"
+        "walletNotUnique": "동일한 주소의 지갑이 이미 추가되었습니다",
+        "wallets": "지갑"
     },
     "networks": {
         "errors": {
-            "nameTaken": "Choose another name. This one is taken already",
+            "nameTaken": "다른 이름을 선택하십시오. 이 이름은 이미 지정되어 있습니다.",
             "networkUnavailable": "아무것도 추가되지 않았습니다. 유효한 엔드포인트 주소를 지정하거나 네트워크 연결을 확인하십시오"
         },
         "names": {
             "mainnet": "메인넷",
-            "rustnet": "Rustnet",
+            "rustnet": "",
             "tonlabs": "데브넷"
         },
         "sections": {
-            "custom": "Custom networks",
+            "custom": "",
             "main": "메인 네트워크",
             "test": "테스트넷"
         }
@@ -551,7 +566,7 @@
     "rebalance": {
         "amount": "액수",
         "amountIsLow": "양도 금액이 너무 적습니다.",
-        "confirm": "확정해주세요",
+        "confirm": "확인하기",
         "congrats": "인생의 변화를 축하합니다. 결코 아프지 않습니다.",
         "currencies": {
             "CRYSTAL": {
@@ -561,19 +576,19 @@
             },
             "RUBY": {
                 "comment": "Free TON 테스트 토큰",
-                "stake": "Ruby Stakes",
-                "title": "My Rubies"
+                "stake": "",
+                "title": ""
             },
             "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
+                "comment": "Surf 메달 True NFT 토큰",
                 "stake": "",
-                "title": "My Surf Medals"
+                "title": "내 Surf 메달"
             }
         },
-        "disableAutoresume": "이력서 자동 생성 비활성화하기",
+        "disableAutoresume": "Auto-resume 기능 끄기",
         "from": "보낸 사람",
         "insufficientBalance": "잔액이 부족합니다.",
-        "notEnoughBalance": "Devnet 계정에 네트워크 요금을 지불 할 자금이 없습니다.",
+        "notEnoughBalance": "Devnet 계정에 네트워크 요금을 지불할 자금이 충분하지 않습니다.",
         "oneMore": "다시",
         "success": "전송이 성공되었습니다",
         "to": "받는 사람",
@@ -599,21 +614,21 @@
         "TONAddress": "Free TON 주소",
         "address": "주소",
         "addressAndKeys": "주소 및 키",
-        "altAddress": "대안 주소 형식",
+        "altAddress": "대체 주소 형식",
         "biometry": {
-            "face": "페이스",
-            "faceID": "페이스아이디",
+            "face": "얼굴",
+            "faceID": "Face ID",
             "fingerprint": "지문",
             "iris": "아이리스",
             "touchID": "Touch ID"
         },
         "changePinCode": "암호 변경하기",
         "confirmNewPin": "암호 확인하기",
-        "enterNewPin": "새 PIN",
-        "enterPin": "PIN 입력하기",
+        "enterNewPin": "새 암호",
+        "enterPin": "암호 입력하기",
         "hidePrivateKey": "개인 키 숨기기",
         "isCopied": "클립보드에 복사하기",
-        "lockApp": "Lock app",
+        "lockApp": "앱 잠금",
         "lockMethod": {
             "button": "잠금 방식",
             "title": "잠금 방식"
@@ -657,37 +672,37 @@
             "codeScanning": "코드 스캔하는 중...",
             "comingSoonText": "우리도 보안 카드가 열릴 모든 새로운 기회를 기대하고 있습니다.",
             "comingSoonTitle": "곧 출시",
-            "confirm": "확정해주세요",
+            "confirm": "확인하기",
             "confirmAndBuy": "확인 및 구매",
             "confirmAndOrder": "확인 및 주문",
             "connectionStatuses": {
                 "connected": {
-                    "description": "Keep the card close ",
-                    "title": "Connected"
+                    "description": "",
+                    "title": ""
                 },
                 "connecting": {
-                    "description": "Tap the Security card",
-                    "title": "Connecting..."
+                    "description": "",
+                    "title": ""
                 },
                 "connectionLost": {
-                    "description": "Try to reconnect",
-                    "title": "Connection lost"
+                    "description": "",
+                    "title": ""
                 },
                 "error": {
                     "description": "",
                     "title": ""
                 },
                 "lookingFor": {
-                    "description": "Put the card closer",
-                    "title": "Trying to find..."
+                    "description": "",
+                    "title": "찾아 보는 중..."
                 },
                 "processing": {
-                    "description": "Don't remove the card",
-                    "title": "Processing..."
+                    "description": "카드를 제거하지 마십시오",
+                    "title": "처리 중..."
                 },
                 "success": {
-                    "description": "The card can be removed",
-                    "title": "Success"
+                    "description": "카드를 제거할 수 있습니다.",
+                    "title": "성공"
                 }
             },
             "continue": "계속하기",
@@ -698,10 +713,10 @@
             "deactivateDescription": "즉시 다시 활성화할 수 있습니다",
             "deactivatedCards": "보안 카드가 비활성화되었습니다",
             "details": "세부 정보",
-            "detailsText": "Surf는 귀하와 귀하의 행동을 트래킹, 귀하의 데이터를 수집, 분석 소프트웨어를 사용하지 않습니다. 저희는 간단한 추적 기기조차 가지고 있지 않습니다. 쿠키도 없고 개인 데이터 처리도 없습니다. 이것은 저희의 소명 목표입니다.\n경고! 그러나 저희가 통제할 수 없는 기타 제3자 서비스는 단독 재량에 따라 귀하의 데이터를 수집하고 사용할 수 있습니다. Surf에서 해당 서비스를 사용하려는 경우 개인 정보, 쿠키, 사용 약관 및 기타 모든 계약상 구속력이 있는 정책 및 문서를 수락하기 전에 검토할 때 매우 신중해야 합니다.",
+            "detailsText": "Surf는 귀하와 귀하의 행동을 트래킹, 귀하의 데이터를 수집, 분석 소프트웨어를 사용하지 않습니다. 저희는 간단한 추적 기기조차 가지고 있지 않습니다. 쿠키도 없고 개인 데이터 처리도 없습니다. 이것은 저희의 소명 목표입니다.\n\n경고! 그러나 저희가 통제할 수 없는 기타 제3자 서비스는 단독 재량에 따라 귀하의 데이터를 수집하고 사용할 수 있습니다. Surf에서 해당 서비스를 사용하려는 경우 개인 정보, 쿠키, 사용 약관 및 기타 모든 계약상 구속력이 있는 정책 및 문서를 수락하기 전에 검토할 때 매우 신중해야 합니다.",
             "detailsTitle": "탈중앙화 정책에서 이미 언급했듯이",
             "enterCode": "코드를 입력하기",
-            "enterCodeDescription": "카드 번호를 입력하고 카드를 장치 가까이에 배치해서 연결을 설정하십시오.",
+            "enterCodeDescription": "카드 번호를 입력하고 카드를 장치에 대고 연결을 설정하십시오",
             "free": "무료",
             "included": "Inc.",
             "keepInformed": "OK. 계속 알려주세요",
@@ -721,7 +736,7 @@
                 },
                 "personalized": {
                     "description": "귀하의 카드는 주문 순간부터 귀하의 계정에 할당되며 손상될 수 없습니다",
-                    "title": "주문한 시간부터 개인화가 되었습니다"
+                    "title": "주문하는 순간부터 맞춤형으로 제공됩니다"
                 },
                 "protectTech": {
                     "description": "단일 칩 설계, EAL 6+ 인증, 공식적으로 검증된 다중 서명 지갑 스마트 컨트랙트와 암호화는 이용자 자산의 보호가 됩니다. 이용자의 개인 키는 절대로 공개되지 않습니다!",
@@ -772,7 +787,7 @@
             "screenTitle": "보안 카드",
             "shareSecurityCardMessage": "무료 TON 블록체인에서 완전히 개인화된 하드웨어 지갑: 주문한 시간부터 사용자만의 소유와 통제에 있다.{0}",
             "shareSecurityCardSubtitle": "보안 카드 TON 랩스",
-            "shareSecurityCardSuccess": "링크가 클립 보드에 복사되었습니다.",
+            "shareSecurityCardSuccess": "링크가 클립보드에 복사되었습니다",
             "shipping": "배송",
             "shippingAddress": "배송 주소",
             "signTransfers": "전송을 서명하기",
@@ -813,23 +828,23 @@
             "taxAndFees": "세금 및 수수료",
             "techSpecs": {
                 "dimensions": {
-                    "description": "편리하고 쓰기에 쉽고 플라스틱 카드 모양의 디자인을 가진 하드웨어 지갑을 만들고 싶었습니다: 85.6 mm x 53.98 mm x 0.76 mm",
-                    "title": "치수 도면"
+                    "description": "하드웨어 지갑을 편리하고 사용하기 쉽게 만들고자 85.6mm × 53.98mm × 0.76mm의 결제 카드 모양으로 디자인했습니다.",
+                    "title": "치수"
                 },
                 "extended": {
-                    "description": "카드안에 120Kb의 자유 공간은 있으므로 사용자는 하고 싶은 데로 쓸 수 있습니다. 우리는 TON 랩스 API 라는 오픈 소스를 제공하니 이용자는 자신의 스마트 컨트랙트와 카드를 프로그래밍하고 쓸 수 있습니다. 예를 들면 은행카드, 빌딩 액세스 카드 또는 사용자가 원하는 사용 사례로 사용할 수 있습니다.",
+                    "description": "카드에 120KB의 여유 공간이 있으므로 원하시는 데이터를 쓸 수 있습니다.\n\n저희는 오픈 소스 Free TON SDK를 제공하며 자신의 스마트 계약으로 카드를 프로그래밍하고 예를 들어 결제 카드, 건물 출입 카드 또는 원하는 대로 사용할 수 있습니다.",
                     "title": "확장 사용"
                 },
                 "extendedUse": {
-                    "description": "카드안에 120Kb의 자유 공간은 있으므로 이용자는 하고 싶은 데로 쓸 수 있습니다. 우리는 TON 랩스 API 라는 오픈 소스를 제공하니 사용자는 자신의 스마트 콘트랙트와 카드를 프로그래밍하고 쓸 수 있습니다. 예를 들면 은행카드, 빌딩 액세스 카드 또는 사용자가 필요하는 사용 사례로 사용할 수 있습니다.",
+                    "description": "카드에 120KB의 여유 공간이 있으므로 자신의 데이터를 쓸 수 있습니다.\n\n저희는 귀하에게 오픈 소스 Free TON SDK를 제공하며, 귀하는 귀하의 스마트 계약으로 카드를 프로그래밍하고 예를 들어 지불 카드, 건물 출입 카드로 또는 원하는 대로 사용할 수 있습니다.",
                     "title": "확장 사용"
                 },
                 "hardware": {
-                    "description": "문제가 없는 활동을 보증하고 익스플로잇 리스크를 완화하기 위해 단일칩 NFC - 설계 전용 (ISO 14443)과 보안칩 SE EAL 6+ 사용했습니다.",
+                    "description": "문제 없는 작동을 보장하고 보안 위험을 완화하기 위해 단일 칩 NFC 전용 설계(ISO 14 443)와 인증된 보안 칩 SE CC EAL 6+를 사용했습니다.",
                     "title": "하드웨어"
                 },
                 "protection": {
-                    "description": "보안과 사생활은 우선입니다. 부채널 공격 막으려고 CC EAL 6+이라는 인피니언 보안 요소를 사용하고 있습니다. 이용자의 마스터 암호 (단어 결합)는 카드에서 절대로 사라지지 않습니다. 카드는 주문한 순간부터 계정에 할당되고 주문에 사용된 암호화폐 지갑만 쓰려고 카드를 활성화할 수 있습니다.",
+                    "description": "보안 및 개인 정보 보호는 저희의 우선 순위입니다. 설계로 부채널 공격으로부터 보호되는 CC EAL 6+ Infineon 보안적 요소를 사용합니다.\n시드 프레이즈는 카드를 떠나지 않습니다.\n귀하의 카드는 주문하는 순간부터 귀하의 계정에 할당되며 주문에 사용된 암호화 지갑에 대해서만 활성화할 수 있습니다.",
                     "title": "보호"
                 },
                 "title": "기술 명세서"
@@ -863,17 +878,17 @@
         "understand": "알았어요"
     },
     "sendGram": {
-        "deposit": "Deposit",
+        "deposit": "",
         "fee": "수수료",
         "feeAmount": "≈ {0}",
         "makeAnotherTransfer": "다른 전송을 하기",
         "maxValueAlert": "잔액이 없다면 특정 작업을 수행 할 수 없습니다. 이 계정을 계속 사용할 계획이라면 잔액에 토큰을 남겨 두는 것이 좋습니다.",
         "minValueAlert": "최소 전송 비용은 {0} 토큰입니다.",
         "operationPreview": {
-            "amount": "액수",
+            "amount": "",
             "comment": "댓글 남기기",
-            "commentEncrypted": "Encrypted comment cannot be decrypted by anyone, other than its sender and recipient",
-            "commentUnencrypted": "Unencrypted comment will be visible to everyone on the blockchain",
+            "commentEncrypted": "",
+            "commentUnencrypted": "",
             "encrypted": "암호화됨",
             "fees": "수수료",
             "from": "보낸 사람",
@@ -899,7 +914,7 @@
     },
     "setup": {
         "confirmLocalPassword": {
-            "placeholder": "비밀번호를 다시 입력하기",
+            "placeholder": "암호 다시 입력하기",
             "success": "성공."
         },
         "firstInteractions": {
@@ -924,7 +939,7 @@
                 "title": "중요합니다"
             },
             "securityCard": {
-                "create": "새로운 서핑 연결하기",
+                "create": "새로운 Surf 연결하기",
                 "restore": "기존 링크"
             },
             "wallet": {
@@ -933,12 +948,12 @@
             }
         },
         "newPhraseView": {
-            "details": "이 모든 단어를 종이에 적어 안전한 곳에 보관하십시오. 지갑을 분실하거나 다시 설치하는 경우에 필요할것입니다."
+            "details": "이 모든 단어를 종이에 적어 안전한 장소에 보관하십시오. 지갑을 분실하거나 다시 설치하는 경우 필요합니다."
         },
         "pinCode": {
-            "confirmPin": "PIN 확인하기",
-            "createPin": "PIN 만들기",
-            "enterPin": "PIN 입력하기",
+            "confirmPin": "암호 확인하기",
+            "createPin": "암호 만들기",
+            "enterPin": "암호 입력하기",
             "itWorkLocal": "이 장치에서만 작동합니다."
         },
         "promoCards": {
@@ -1005,10 +1020,10 @@
         "medalSignatures": {
             "bronzeKeys": "브론즈 키",
             "goldenKeys": "골든 키",
-            "silverKeys": "Silver keys"
+            "silverKeys": "실버 키"
         },
         "securityCard": {
-            "name": "Security card",
+            "name": "보안 카드",
             "serialNumber": "일련 번호",
             "serialNumberCopied": "일련 번호가 클립보드에 복사되었습니다"
         },
@@ -1029,8 +1044,8 @@
             "autoresumeDisabled": "자동 생성 비활성화됨",
             "autoresumeEnable": "자동 생성 활성화하기",
             "autoresumeEnabled": "자동 생성 활성화됨",
-            "autoresumeFee": "자동 추정 수수료",
-            "available": "{0} 를 인출할 수 있습니다.",
+            "autoresumeFee": "Auto-resume 수수료",
+            "available": "{0}  인출할 수 있습니다",
             "compliment": "칭찬",
             "deposit": "{0} 스테이킹에 추가되었고 다음 라운드에서 사용할 수 있습니다. 자동 추정 옵션이 활성화되었습니다.",
             "errors": {
@@ -1067,56 +1082,56 @@
         },
         "dePoolStaking": {
             "age": {
-                "definition": " – this indicates how many rounds this DePool has been active.",
-                "term": "Age"
+                "definition": ": 이것은 이 DePool이 활성화된 라운드 수를 나타냅니다.",
+                "term": "수명 (age)"
             },
             "annualReward": {
-                "definition": " – this is the expected annual interest rate of your stake, provided the DePool succesfully validates for the whole year.",
-                "term": "Annual reward"
+                "definition": ": DePool이 1년 내내 성공적으로 검증하는 경우 이는 스테이크의 예상 연간 이자율입니다.",
+                "term": "연간 보상"
             },
-            "anonymity": "Complete anonymity",
+            "anonymity": "완전한 익명성",
             "assurance": {
-                "definition": " – this is the minimum amount of tokens the DePool owner is obliged to invest each validation round, and these funds will be the first lost, in case of any validator node malfunction. Only if they are not enough to cover the losses of the total stake, will the funds of other pool members be affected. This way the DePool owner is strongly motivated to maintain proper operation of the validator node.",
-                "term": "Assurance"
+                "definition": ": 이것은 DePool 소유자가 각 검증 라운드에 투자해야 하는 최소 토큰 금액이며, 검증인 노드가 오작동하는 경우 이 자금은 가장 먼저 손실됩니다. 전체 지분의 손실을 덮기에 충분하지 않은 경우에만 다른 풀 구성원의 자금이 영향을 받습니다. 이렇게 하면 DePool 소유자는 검증인 노드의 적절한 작동을 유지하려는 강한 동기를 갖게 됩니다.",
+                "term": "Available pool "
             },
             "availablePool": {
-                "definition": " – this is the maximum amount you can currently stake in Surf DePools.",
-                "term": "Available pool"
+                "definition": ": 현재 Surf DePool에 스테이킹할 수 있는 최대 금액입니다.",
+                "term": "사용 가능한 풀"
             },
             "balance": {
-                "definition": " – this is the total amount of funds in the DePool.",
-                "term": "Balance"
+                "definition": ": DePool의 총액입니다.",
+                "term": "잔액"
             },
-            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
-            "contribution": "Contribution to blockchain infrastructure and decentralization",
-            "dash": "—",
-            "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
-            "fundsControl": "Full control of your funds",
+            "balanceRequirement": "모든 작업(스테이킹, 출금 등)에는 DePool 운영 비용을 지불하는 데 사용되는 0.5 토큰의 최소 지갑 잔액이 필요합니다. 거스름돈을 돌려줍니다.",
+            "contribution": "블록체인 인프라 및 탈중앙화 기여",
+            "dash": "",
+            "description": "DePool은 누구나 스테이크를 공통 풀에 투자할 수 있도록 하는 스마트 계약입니다. 이 스테이크 투자한 사용자들을 대표하여 검증인이 검증인 선거에 스테이크를 사용하며 성공적인 검증 시 기여도에 비례하여 모든 구성원에게 보상을 지급합니다.",
+            "fundsControl": "자금에 대한 완전한 통제",
             "lockUpPeriod": {
-                "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
-                "term": "Lock-up period"
+                "definition": ": DePool이 선거에 들어간 후 자금이 잠긴 기간입니다. 자금을 인출하기로 결정하면 자금이 잠금 해제되는 즉시 반환됩니다. 즉, 인출을 요청한 후 최대 1회의 잠금 기간이 필요합니다.",
+                "term": "락업 기간"
             },
             "members": {
-                "definition": " – this is the current number of members in the DePool.",
-                "term": "Members"
+                "definition": ": DePool의 현재 회원 수입니다.",
+                "term": "회원"
             },
             "minStake": {
-                "definition": " – this is the minimum stake set in the DePool. You cannot stake less than this amount.",
-                "term": "Min.Stake"
+                "definition": ": DePool에 설정된 최소 지분입니다. 이 금액보다 적은 금액을 스테이킹할 수 없습니다.",
+                "term": ""
             },
-            "replenishment": "Replenishment is allowed",
+            "replenishment": "보충 허용",
             "rewardFee": {
-                "definition": " – this is the percentage of your reward that goes to the DePool owner for maintaining the DePool and the validator node.",
-                "term": "Reward fee"
+                "definition": ": DePool 및 검증자 노드를 유지 관리하기 위해 DePool 소유자에게 가는 보상의 비율입니다.",
+                "term": "보상 수수료"
             },
             "rewardPaid": {
-                "definition": " – this is how much all participants of Surf DePools have earned in total up until now.",
-                "term": "Reward paid"
+                "definition": ": Surf DePool의 모든 참가자가 지금까지 얻은 총 금액입니다.",
+                "term": "적립된 보상"
             },
-            "staking": "Staking is a new way of depositing funds on the blockchain. Delegate tokens to DePool smart contract and enjoy your rewards every day. And you also get benefits.",
+            "staking": "스테이킹은 블록체인에 자금을 예치하는 새로운 방법입니다. DePool 스마트 계약에 토큰을 위임하고 매일 보상을 즐기시고 혜택도 받으세요.",
             "successful": {
-                "definition": " — percentage of all validation rounds the DePools participated in, where it won validator elections, successfully completed validation and received its reward.",
-                "term": "Successful rounds"
+                "definition": ": DePool이 참여한 모든 검증 라운드의 백분율입니다. 즉, 검증인 선거에서 승리하고 검증을 성공적으로 완료하고 보상을 받았을 때의 수수료입니다.",
+                "term": "성공적인 라운드"
             },
             "title": "DePool 스테이킹",
             "withdrawal": "적립된 보상을 잃지 않고 언제든지 전체 인출"
@@ -1146,21 +1161,21 @@
             "button": "재조정하기"
         },
         "promo": {
-            "about": "About",
-            "stakeNow": "Stake now",
-            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
-            "title": "Earn {0} % a year just for holding crystals"
+            "about": "자세한 내용",
+            "stakeNow": "지금 스테이킹하기",
+            "text": "스마트 계약에 토큰을 위임하고 매일 보상을 받으세요",
+            "title": "크리스탈을 소유하는 것만으로도 연간 {0}%를 얻습니다"
         },
         "stakingScreen": {
-            "about": "About",
-            "advancedFeatures": "Advanced features",
-            "age": "Age",
-            "assurance": "Assurance",
-            "availablePool": "Available pool",
-            "balance": "Balance",
-            "btnBreakUnstake": "Decline withdrawal",
-            "btnRestake": "Restake",
-            "btnStake": "Stake",
+            "about": "자세한 내용",
+            "advancedFeatures": "고급 기능",
+            "age": "수명 (age)",
+            "assurance": "보증금",
+            "availablePool": "사용 가능한 풀",
+            "balance": "잔액",
+            "btnBreakUnstake": "인출 거부",
+            "btnRestake": "다시 스크이킹하기",
+            "btnStake": "스테이킹",
             "btnStakeAnotherRound": "나중에 스테이킹 시도해 보세요",
             "btnUnstake": "인출하기",
             "declineRequest": "인출이 취소되었습니다.",
@@ -1168,19 +1183,19 @@
             "fee": "보상 수수료",
             "help": "도움말",
             "max": "최대",
-            "members": "Members",
-            "min": "min.",
-            "minStake": "Min. stake",
+            "members": "회원",
+            "min": "",
+            "minStake": "최소 스테이크 금액",
             "moreInfo": "자세한 정보",
             "period": "락업 기간",
             "reward": "예상 연간 보상",
-            "rewardPaid": "보상이 적립되었습니다",
+            "rewardPaid": "적립된 보상",
             "rewarded": "보상",
             "stakes": "스테이크",
             "stakingRequest": "스테이킹 요청이 전송되었습니다. 시간이 조금 걸릴 수 있습니다.",
             "successfulRounds": "성공적인 라운드",
-            "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
-            "withdrawRequest": "Withdraw request was sent. It may take a short while."
+            "unstakeBanner": "",
+            "withdrawRequest": ""
         }
     },
     "support": {
@@ -1188,7 +1203,7 @@
         "button": "지원 받기",
         "giveFeedback": {
             "button": "피드백을 제시하기",
-            "subject": "Feedback"
+            "subject": ""
         },
         "group": "지원 그룹",
         "makeSuggestion": "제안 보내기",
@@ -1214,11 +1229,11 @@
     },
     "transactions": {
         "buy": {
-            "item": "Item",
-            "payment": "Payment",
-            "seller": "Seller",
-            "title": "Buy",
-            "totalPrice": "Total price"
+            "item": "",
+            "payment": "",
+            "seller": "",
+            "title": "",
+            "totalPrice": ""
         },
         "comments": {
             "commentOptional": "댓글 남기기",
@@ -1245,11 +1260,11 @@
             "transactionInvitation": "친구 {0} 가 귀하에게 송금을 보냈습니다. 영수증 확인하기"
         },
         "vote": {
-            "contest": "Contest",
-            "cost": "Cost",
-            "proposal": "Proposal",
-            "signature": "Signature",
-            "title": "Vote"
+            "contest": "콘테스트",
+            "cost": "비용",
+            "proposal": "제안",
+            "signature": "서명",
+            "title": "투표"
         }
     },
     "wallet": {
@@ -1271,11 +1286,11 @@
             "alreadyRequested": "루비는 이미 요청되었습니다. 기다리세요"
         },
         "error": {
-            "failedToDecrypt": "Decryption failed. Looks like you need to log in with another wallet",
+            "failedToDecrypt": "",
             "failedToLoadAccounts": "계정을 로드하지 못했습니다.",
             "failedToLoadWallet": "지갑을 로드하지 못했습니다.",
             "failedToLoginInTheWallet": "지갑에 로그인하지 못했습니다.",
-            "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
+            "insufficientFunds": "",
             "limitInvalidValue": "한계 값이 유효하지 않거나 너무 큽니다.",
             "timeIsNotSynced": "시간 동기화 오류가 발생했습니다. 안타깝게도 트랜잭션을 처리할 수 없습니다. 시간 자동 설정 옵션을 활성화하십시오."
         },
@@ -1286,9 +1301,9 @@
             "invite": "초대하기",
             "receive": "받기",
             "send": "보내기",
-            "tokenValue": "Token value",
+            "tokenValue": "토큰 값",
             "updating": "업데이트 중 ...",
-            "yourBalance": "잔액"
+            "yourBalance": "귀하 잔액"
         },
         "payInvoice": {
             "buyNetTokens": "{0} 토큰 구매하기",
@@ -1308,24 +1323,24 @@
             "title": "결제 세부 정보"
         },
         "protectGrams": {
-            "button": "백업 비밀번호",
+            "button": "암호를 백업하기",
             "description": "이제 잔액에 TON 토큰이 있습니다. 액세스 복구가 필요하는 경우 비밀번호를 백업하는 것이 좋습니다.",
             "title": "토큰 보호하기"
         },
         "recipient": {
             "address": "TON 주소",
             "email": "이메일",
-            "phone": "전화"
+            "phone": "핸드폰"
         },
         "sendGrams": {
-            "confirm": "확정해주세요",
-            "confirmAndSend": "확인 및 전송",
+            "confirm": "확인하기",
+            "confirmAndSend": "확인 및 보내기",
             "currencies": {
-                "mainnet": "crystals",
-                "private": "rubies",
-                "tonlabs": "rubies"
+                "mainnet": "",
+                "private": "루비",
+                "tonlabs": "루비"
             },
-            "enterValidAddress": "무료 TON 주소 ...",
+            "enterValidAddress": "Free TON 주소 ...",
             "from": "보낸 사람",
             "invalidAddress": "유효하지 않은 TON 주소입니다",
             "recipientWarning": "주소가 정확한지 확인하십시오! 전송된 이체는 되돌릴 수 없습니다!",
@@ -1334,13 +1349,13 @@
         "transaction": {
             "aborted": "중단됨",
             "amount": "액수",
-            "change": "변경하기",
+            "change": "잔액 변경",
             "comment": "댓글 남기기",
             "encrypted": "암호화됨",
             "fee": "수수료",
             "from": "보낸 사람",
             "fromBankCard": "은행 카드에서",
-            "goToExplorer": "Go to explorer",
+            "goToExplorer": "익스플로러로 이동하기",
             "moreDetails": "자세한 정보",
             "networkFees": "네트워크 수수료",
             "no": "아니오",
@@ -1348,22 +1363,22 @@
             "received": "받음",
             "repeatTransaction": "트랜잭션 반복하기",
             "result": "결과",
-            "reverseTransaction": "역방향 트랜잭션",
+            "reverseTransaction": "트랜잭션을 취소하기",
             "sent": "전송됨",
-            "share": "Share",
+            "share": "공유하기",
             "statusSuccess": "성공",
-            "time": "Time",
+            "time": "시간",
             "to": "받는 사람",
             "transactionNotSend": "송금이 전송되지 않았습니다. 다시 시도하십시오.",
-            "transferDetails": "송금 세부 정보",
+            "transferDetails": "세부 정보",
             "yes": "예"
         },
         "warning": {
             "awaitTransaction": "이전 전송이 진행 중입니다.",
-            "couldNotIdentifyQRCode": "Couldn't identify QR code",
+            "couldNotIdentifyQRCode": "",
             "insufficientBalance": "부족한 자금",
             "insufficientBalanceForFee": "네트워크 수수료를 지불할 금액이 부족합니다",
-            "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
+            "insufficientFundsToActivate": "",
             "limitReached": "금액이 설정된 한도 중 하나를 초과합니다.",
             "notYetSupported": "아직 지원되지 않음",
             "pleaseWait": "조금만 기다려주세요"

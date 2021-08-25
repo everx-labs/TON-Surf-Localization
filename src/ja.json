@@ -3,13 +3,23 @@
         "assets": {
             "addressCopied": "ウオレットアドレスはコーヒーされました。",
             "copyAddressHint": "ウォレットアドレスをコピーする",
-            "copyAddressHint2": "Tap to copy address",
+            "copyAddressHint2": "",
             "description": "ドラッグアンドドロップで資金を交換し、資産のバランスを取り直します",
             "title": "資産"
         },
         "charts": {
             "monthAgo": "30日前",
             "today": "今日"
+        },
+        "collectibles": {
+            "address": "",
+            "amountFromSupply": "",
+            "author": "",
+            "collectibles": "",
+            "created": "",
+            "title": "",
+            "tokens": "",
+            "trueNftMarket": ""
         },
         "details": {
             "buttons": {
@@ -20,7 +30,7 @@
                 "makeStake": "ステークを作る",
                 "operationsHistory": "運用履歴",
                 "sendCoins": "トークンを送信する",
-                "share": "Share",
+                "share": "",
                 "shareMyAddress": "ウォレットアドレスを共有する",
                 "stakeMore": "もっとステークを作る",
                 "whatIsStaking": "ステーキングとは何ですか？",
@@ -42,76 +52,81 @@
         },
         "separators": {
             "accounts": "アカウント",
+            "collectibles": "",
             "investments": "サービス",
             "tokens": "トークン"
         },
         "subscriptions": {
             "actions": {
-                "edit": "Edit",
-                "goToExplorer": "Go to explorer",
-                "openThread": "Open thread",
-                "send": "Send",
-                "showAddress": "Show address",
-                "title": "Actions",
-                "transfer": "Transfer",
-                "viewHistory": "View history",
-                "viewKeys": "View keys"
+                "edit": "",
+                "goToExplorer": "",
+                "openThread": "",
+                "send": "",
+                "showAddress": "",
+                "title": "",
+                "transfer": "",
+                "viewHistory": "",
+                "viewKeys": ""
             },
-            "addressPlaceholder": "Account address",
-            "alreadyTracked": "You have already subscribed to this address",
-            "assetsSubtitle": "Subscriptions",
-            "namePlaceholder": "Account name",
-            "subscribeAndOpenBtn": "Subscribe and open a thread",
-            "subscribeBtn": "Subscribe",
-            "titleAdd": "Add Subscription",
-            "titleEdit": "Edit subscription",
-            "titleSubscription": "Subscription",
-            "unsubscribeBtn": "Unsubscribe"
+            "addressPlaceholder": "",
+            "alreadyTracked": "",
+            "assetsSubtitle": "",
+            "namePlaceholder": "",
+            "subscribeAndOpenBtn": "",
+            "subscribeBtn": "",
+            "titleAdd": "",
+            "titleEdit": "",
+            "titleSubscription": "",
+            "unsubscribeBtn": ""
         }
     },
     "advancedSettings": {
         "advancedSettingsButton": "詳細設定",
         "biometry": {
             "button": "{0}でロックを解除",
-            "buttonFace": "Use face unlock",
-            "buttonFingerprint": "Use fingerprint unlock",
-            "disabledFaceMessage": "Face unlock disabled",
-            "disabledFingerprintMessage": "Fingerprint unlock disabled",
+            "buttonFace": "",
+            "buttonFingerprint": "",
+            "disabledFaceMessage": "",
+            "disabledFingerprintMessage": "",
             "disabledMessage": "{0}ロック解除が無効",
-            "enabledFaceMessage": "Face unlock enabled",
-            "enabledFingerprintMessage": "Fingerprint unlock enabled",
+            "enabledFaceMessage": "",
+            "enabledFingerprintMessage": "",
             "enabledMessage": "{0}ロック解除が有効",
             "off": "オフ",
             "on": "オン",
-            "saveTitle": "Saving biometric data"
+            "saveTitle": ""
         },
         "currencies": {
-            "button": "Currencies",
-            "title": "Currencies"
+            "button": "",
+            "title": ""
         },
         "languages": {
             "button": "言語",
             "hint": "ローカリゼーション作業は進行中です。"
         },
         "localizationHelper": {
-            "enable": "Enable localization helper",
-            "disable": "Disable localization helper",
-            "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
+            "disable": "",
+            "enable": "",
+            "hint": ""
         },
         "network": {
-            "button": "Network",
-            "title": "Network",
-            "titleAdd": "New network",
-            "btnAdd": "Add",
-            "btnUpdate": "Update",
-            "btnRemove": "Remove network",
-            "titleEdit": "Edit network",
-            "name": "Name",
-            "endpoint": "Endpoint"
+            "btnAdd": "",
+            "btnRemove": "ネットワークを削除する",
+            "btnUpdate": "",
+            "button": "",
+            "endpoint": "エンドポイント",
+            "endpointHint": "",
+            "name": "名前",
+            "title": "",
+            "titleAdd": "",
+            "titleEdit": ""
+        },
+        "nightTheme": {
+            "button": "夜のテーマ"
         },
         "suggestLanguage": {
-            "button": "Suggest language",
-            "hint": "If you can't find the language you want, please suggest it in the translation community."
+            "button": "",
+            "hint": ""
         },
         "title": "詳細設定"
     },
@@ -174,7 +189,7 @@
                 "devCoins": "ルビーを手に入れる",
                 "inviteFriends": "友達を招待する",
                 "makeStake": "ステークを作る",
-                "save": "Save",
+                "save": "",
                 "shareAddress": "ウォレットアドレスを共有する",
                 "unblockMessages": "ブロックを解除する",
                 "withdraw": "撤回"
@@ -184,58 +199,58 @@
         },
         "debots": {
             "addressInput": {
-                "auto": "Select main address",
-                "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
-                "manual": "Enter manually"
+                "auto": "",
+                "enterAddress": "",
+                "invalidAddress": "",
+                "manual": ""
             },
-            "agree": "I understand",
-            "agreement": "DeBot — third party service and may expose you to identity and other information disclosure that is out of the control of TON Surf.",
-            "blockchain": "Blockchain",
-            "browse": "Browse DeBots...",
-            "debot": "DeBot",
-            "debotError": "Oops!! I'm a little broken. Stay in touch",
-            "defaultHello": "Hi! I'm DeBot",
+            "agree": "",
+            "agreement": "",
+            "blockchain": "",
+            "browse": "",
+            "debot": "",
+            "debotError": "",
+            "defaultHello": "",
             "encryptionBox": {
-                "encryptDecryptWithSurf": "Use Surf keys"
+                "encryptDecryptWithSurf": "Surfで暗号化/復号化"
             },
-            "favorites": "Favorites",
-            "functionalUnsupported": "Oops!! The functionality is temporarily not supported. Stay in touch",
-            "history": "History",
+            "favorites": "",
+            "functionalUnsupported": "",
+            "history": "",
             "info": {
-                "about": "About",
-                "actions": "Actions",
-                "addToFavorites": "Add to favorites",
-                "addToFavoritesNotification": "DeBot added to favorites",
-                "author": "Author",
-                "creator": "Creator",
-                "donate": "Donate",
+                "about": "",
+                "actions": "",
+                "addToFavorites": "",
+                "addToFavoritesNotification": "",
+                "author": "",
+                "creator": "",
+                "donate": "",
                 "error": {
-                    "failedToSaveFavorite": "Failed save favorite status. Try again later"
+                    "failedToSaveFavorite": ""
                 },
-                "goToExplorer": "Go to explorer",
-                "publisher": "by {0}",
-                "removeFromFavorites": "Remove from favorites",
-                "removeFromFavoritesNotification": "DeBot removed from favorites",
-                "showAddress": "Show address",
-                "version": "v. {0}",
-                "writeToDeveloper": "Write to developer"
+                "goToExplorer": "",
+                "publisher": "",
+                "removeFromFavorites": "お気に入りから削除",
+                "removeFromFavoritesNotification": "DeBotがお気に入りから削除されました",
+                "showAddress": "",
+                "version": "",
+                "writeToDeveloper": ""
             },
-            "notFound": "Debot not found",
-            "nothingFound": "Nothing found",
-            "open": "Open DeBot",
-            "recommended": "Recommended",
-            "restart": "Restart",
-            "search": "Enter DeBot address…",
-            "searching": "Searching...",
+            "notFound": "",
+            "nothingFound": "",
+            "open": "",
+            "recommended": "",
+            "restart": "",
+            "search": "",
+            "searching": "",
             "securityCard": {
-                "notSupport": "Unfortunately your device does not support NFC, which is required for proper operation. Please turn it on, or use another device."
+                "notSupport": ""
             },
             "signingBox": {
-                "signature": "Signature",
-                "signWithSurf": "Sign with Surf"
+                "signWithSurf": "",
+                "signature": ""
             },
-            "title": "DeBots"
+            "title": ""
         },
         "error": {
             "failedToLoad": "チャットを読み込めませんでした。後でもう一度やり直してください",
@@ -261,9 +276,9 @@
             "invitationForSender": "招待されたユーザー",
             "invitationSuccess": "{APP_NAME}への招待は送信されました。",
             "invitationTitle": "参加してください！",
+            "messageTooLong": "メッセージが{0}文字より長くなっています。",
             "messagesBlockedByYou": "メッセージをブロックしました",
             "messagesUnblockedByYou": "メッセージのブロックを解除されました",
-            "messageTooLong": "メッセージが{0}文字より長くなっています。",
             "tapToResend": "タップして再送信する",
             "tapToSendAgain": "タップして、もう一度送信する",
             "userBlockedMessages": "ユーザーがメッセージをブロックしました。",
@@ -303,9 +318,9 @@
         },
         "invitation": {
             "view": {
-                "button": "Share a personal invitation",
-                "hint": "We will create a chat and contact with that name as soon as your invitation is accepted.",
-                "placeholder": "Name..."
+                "button": "",
+                "hint": "",
+                "placeholder": ""
             }
         },
         "inviteFriends": "友達を招待する",
@@ -340,23 +355,23 @@
     },
     "currencies": {
         "crypto": {
-            "BTC": "Bitcoin",
-            "ETH": "Ethereum"
+            "BTC": "",
+            "ETH": ""
         },
         "fiat": {
-            "EUR": "Euro",
-            "USD": "US Dollar"
+            "EUR": "",
+            "USD": ""
         },
         "types": {
-            "crypto": "Crypto",
-            "fiat": "Fiat"
+            "crypto": "",
+            "fiat": ""
         }
     },
     "debotsOptions": {
-        "title": "DeBots options"
+        "title": ""
     },
     "donate": {
-        "title": "Donate to Surf"
+        "title": ""
     },
     "feedback": {
         "mainComponent": {
@@ -372,36 +387,36 @@
     },
     "getTONs": {
         "contests": {
-            "governance": "Governance",
-            "title": "Contests"
+            "governance": "",
+            "title": ""
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
-            "coineal": "Coineal",
-            "digifinex": "DigiFinex",
-            "hitbtc": "HitBTC",
-            "kuna": "Kuna",
-            "mexc": "MEXC",
-            "title": "Exchanges"
+            "bitcoin": "",
+            "coineal": "",
+            "digifinex": "",
+            "hitbtc": "",
+            "kuna": "",
+            "mexc": "",
+            "title": ""
         },
-        "title": "Get TONs",
-        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+        "title": "",
+        "warning": ""
     },
     "interfaceOptions": {
         "assetsBalance": {
-            "button": "Assets balance"
+            "button": "資産残高"
         },
         "confirmationOfSending": {
-            "button": "Confirmation of sending"
+            "button": "送信の確認"
         },
-        "interfaceOptionsButton": "Interface options",
+        "interfaceOptionsButton": "インターフェースオプション",
         "nightTheme": {
-            "button": "Night theme"
+            "button": "夜のテーマ"
         },
         "promoCards": {
-            "button": "Promo cards"
+            "button": ""
         },
-        "title": "Interface options"
+        "title": "インターフェースオプション"
     },
     "legalNotes": {
         "businessDetails": {
@@ -425,13 +440,13 @@
             "faq": {
                 "title": "ヘルプセンター"
             },
-            "licence": {
-                "title": "ライセンス",
-                "value": "仮想通貨ウォレットサービスの提供すること、エストニアのFIUが2020年2月28日に発行したFVR001411。"
-            },
             "licence2": {
                 "title": "ライセンス",
                 "value": "仮想通貨を法定通貨と交換するサービスを提供すること、エストニアのFIUが2020年2月28日に発行したFRK001293。"
+            },
+            "licence": {
+                "title": "ライセンス",
+                "value": "仮想通貨ウォレットサービスの提供すること、エストニアのFIUが2020年2月28日に発行したFVR001411。"
             },
             "phone": {
                 "title": "電話",
@@ -471,15 +486,15 @@
         "profileButtonTitle": "分散ポリシー"
     },
     "lockScreen": {
+        "PINCorrect": "PINが正しいです",
+        "PINNotCorrect": "PINが正しくありません",
         "attention": {
             "text": "ログアウトする前に、 {HD_WORD_COUNT}パスワードをバックアップすることを強くお勧めします。\n\n PINコードを忘れた場合やアプリからログアウトした場合に、Surfへのアクセスを回復するにはバックアップしかありません。パスワードを紛失すると、資金へのアクセスが不可逆的に失われます。",
             "title": "注意"
         },
         "biometryFailed": "試行回数が多すぎます。後でもう一度やり直してください",
-        "deleteAndExit": "Delete and exit",
+        "deleteAndExit": "",
         "logout": "ログアウト",
-        "PINCorrect": "PINが正しいです",
-        "PINNotCorrect": "PINが正しくありません",
         "temporarilyBlocked": "一時的にブロックされました",
         "tryAgainLater": "もう一度{0}をやり直してください。",
         "unlock": "ロックを解除する",
@@ -494,38 +509,38 @@
         "memoryCheckButton": "保存しました。ダブルチェック"
     },
     "multiWallets": {
-        "create": "Create wallet",
-        "defaultWalletName": "My Surf",
-        "editWallet": "Edit wallet",
+        "addWallet": "",
+        "create": "",
+        "defaultWalletName": "",
+        "editWallet": "",
         "manage": "管理する",
-        "manageWallets": "Manage wallets",
-        "migrate": "Migrate wallet to Surf",
+        "manageWallets": "財布を管理する",
+        "migrate": "",
         "name": "名前",
-        "newWalletName": "Wallet",
-        "pair": "Pair hardware wallet",
-        "removeWallet": "Remove wallet",
-        "restore": "Restore wallet",
-        "addWallet": "Add wallet",
-        "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
+        "nameTaken": "",
+        "newWalletName": "ウオレット",
+        "pair": "",
+        "removeWallet": "ウォレットを削除する",
+        "restore": "",
+        "restoreHint": "",
         "update": "更新する",
-        "wallets": "Wallets",
-        "nameTaken": "Choose another name. This one is taken already",
-        "walletNotUnique": "Same address wallet has been added already"
+        "walletNotUnique": "",
+        "wallets": "財布"
     },
     "networks": {
+        "errors": {
+            "nameTaken": "別の名前を指定してください。この名前はすでに使われています。",
+            "networkUnavailable": "何も追加されていません。有効なエンドポイントアドレスを指定するか、ネットワーク接続を確認してください。"
+        },
         "names": {
-            "mainnet": "Mainnet",
-            "rustnet": "Rustnet",
+            "mainnet": "",
+            "rustnet": "",
             "tonlabs": "デブネット"
         },
         "sections": {
-            "main": "Main network",
-            "test": "Test networks",
-            "custom": "Custom networks"
-        },
-        "errors": {
-            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection",
-            "nameTaken": "Choose another name. This one is taken already"
+            "custom": "カスタムネットワーク",
+            "main": "",
+            "test": ""
         }
     },
     "operationsHistory": {
@@ -536,7 +551,7 @@
     "profile": {
         "otherProducts": "その他の製品",
         "questionsAndAnswers": "質問と回答",
-        "rate": "Rate Surf"
+        "rate": ""
     },
     "questionsAndAnswers": {
         "accountManagement": "アカウント管理",
@@ -555,19 +570,19 @@
         "congrats": "人生を変えて、おめでとうございます。これは痛くないですね。",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Free TON tokens",
-                "stake": "Crystal Stakes",
-                "title": "My Crystals"
+                "comment": "",
+                "stake": "",
+                "title": ""
             },
             "RUBY": {
-                "comment": "Free TON test tokens",
-                "stake": "Ruby Stakes",
-                "title": "My Rubies"
+                "comment": "",
+                "stake": "",
+                "title": ""
             },
             "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
+                "comment": "",
                 "stake": "",
-                "title": "My Surf Medals"
+                "title": ""
             }
         },
         "disableAutoresume": "自動再開を無効にする",
@@ -591,6 +606,12 @@
         "restorePasswordButton": "マスターパスワード"
     },
     "safetyProtection": {
+        "PINChangeFailed": "PINを変更できませんでした。",
+        "PINChangeSuccess": "PINが変更されました",
+        "PINCorrect": "PINが正しいです",
+        "PINDoesNotMatch": "PIN が一致しません",
+        "PINNotCorrect": "PINが正しくありません",
+        "TONAddress": "無料のTONアドレス",
         "address": "アドレス",
         "addressAndKeys": "アドレスとキー",
         "altAddress": "代替アドレス形式",
@@ -607,23 +628,18 @@
         "enterPin": "PINを入力してください",
         "hidePrivateKey": "秘密キーを隠す",
         "isCopied": "コピーされました",
-        "lockApp": "Lock app",
+        "lockApp": "",
         "lockMethod": {
             "button": "ロックする方式",
             "title": "ロックする方式"
         },
         "logOut": {
-            "button": "Delete local data and exit",
-            "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
+            "button": "",
+            "hint": ""
         },
         "neverShare": "秘密キーを使って、誰でも資金に対するフルアクセスを許可することができます。信頼できない人やアプリケーションと共有しないでください。",
-        "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
         "noThanks": "いいえ、結構です",
-        "PINChangeFailed": "PINを変更できませんでした。",
-        "PINChangeSuccess": "PINが変更されました",
-        "PINCorrect": "PINが正しいです",
-        "PINDoesNotMatch": "PIN が一致しません",
-        "PINNotCorrect": "PINが正しくありません",
+        "nonMainAccountPrivateKeyNote": "",
         "privateKey": "秘密キー",
         "publicKey": "公共キー",
         "safelyShare": "ウォレットアドレスと公開キーは誰とでも安全に共有できます。",
@@ -661,7 +677,7 @@
             "confirmAndOrder": "確認して注文する",
             "connectionStatuses": {
                 "connected": {
-                    "description": "Keep the card close ",
+                    "description": "",
                     "title": "接続済み"
                 },
                 "connecting": {
@@ -669,7 +685,7 @@
                     "title": "接続しています..."
                 },
                 "connectionLost": {
-                    "description": "Try to reconnect",
+                    "description": "",
                     "title": "接続が失われました"
                 },
                 "error": {
@@ -677,15 +693,15 @@
                     "title": ""
                 },
                 "lookingFor": {
-                    "description": "Put the card closer",
-                    "title": "Trying to find..."
+                    "description": "",
+                    "title": ""
                 },
                 "processing": {
-                    "description": "Don't remove the card",
-                    "title": "Processing..."
+                    "description": "カードを取り外さない",
+                    "title": ""
                 },
                 "success": {
-                    "description": "The card can be removed",
+                    "description": "カードは取り外すことができます",
                     "title": "完成"
                 }
             },
@@ -694,8 +710,8 @@
             "deactivateApprovalDescription": "カードはこのアカウントのみで動作し、アクティベーションを繰り返す必要があります。",
             "deactivateApprovalTitle": "セキュリティカードを無効しますか?",
             "deactivateBtn": "無効にする",
-            "deactivatedCards": "セキュリティ カードが無効にされています",
             "deactivateDescription": "すぐに再有効できます。",
+            "deactivatedCards": "セキュリティ カードが無効にされています",
             "details": "詳細",
             "detailsText": "サーフはあなたとあなたの使用、期間を追跡しません。サーフは、あなたのデータのいずれかを収集しません。当社は、分析ソフトウェアを使用しません。単純なトラッカーでもありません。クッキーもありません。個人データ処理なし。何もない。これがわたしたちのミッションです。\n\n警告！ただし、当社が管理できない他の第三者サービスは、その単独の裁量と意志で、お客様のデータを収集して使用する可能性があります。Surfでのサービスの使用を受け入れる前に、プライバシー、クッキー、利用規約、および他のすべての契約上拘束力のあるポリシーと文書を見直す際に非常に注意深く、非常に慎重しなければなりません。",
             "detailsTitle": "地方分権ポリシーで既に述べたように",
@@ -852,7 +868,6 @@
         },
         "showPrivateKey": "秘密キーを表示する",
         "title": "安全保護",
-        "TONAddress": "無料のTONアドレス",
         "verifyYourIdentity": "本人確認してください"
     },
     "security": {
@@ -863,7 +878,7 @@
         "understand": "了解しました"
     },
     "sendGram": {
-        "deposit": "Deposit",
+        "deposit": "",
         "fee": "料金",
         "feeAmount": "≈ {0}",
         "makeAnotherTransfer": "別の転送を行う",
@@ -872,8 +887,8 @@
         "operationPreview": {
             "amount": "金額",
             "comment": "コメント",
-            "commentEncrypted": "Encrypted comment cannot be decrypted by anyone, other than its sender and recipient",
-            "commentUnencrypted": "Unencrypted comment will be visible to everyone on the blockchain",
+            "commentEncrypted": "",
+            "commentUnencrypted": "",
             "encrypted": "暗号済み",
             "fees": "料金",
             "from": "差出人",
@@ -891,7 +906,7 @@
         "sendSuccessTitle": "転送が完了です。",
         "sendTo": "宛先",
         "title": "トークンを送信する",
-        "transfer": "Transfer",
+        "transfer": "",
         "transferSendTitle": "転送は送信済みです。"
     },
     "settings": {
@@ -958,7 +973,7 @@
         "restore": {
             "button": "サインイン",
             "description": "パスワードバックアップでサインインします。",
-            "hint": "12 or 24 words",
+            "hint": "",
             "masterPassword": "マスターパスワード",
             "title": "Surfを復元する"
         },
@@ -989,33 +1004,33 @@
     },
     "signatures": {
         "actions": {
-            "deriveThreePairs": "Derive 3 pairs of keys",
-            "importKeys": "Import keys"
+            "deriveThreePairs": "",
+            "importKeys": ""
         },
-        "defaultSignatureName": "Signature",
+        "defaultSignatureName": "",
         "details": {
-            "name": "Name",
-            "privateKey": "Private key",
-            "publicKey": "Public key",
-            "publicKeyCopied": "Public key copied to clipboard",
-            "showKey": "Show key",
-            "title": "Signature"
+            "name": "",
+            "privateKey": "",
+            "publicKey": "",
+            "publicKeyCopied": "",
+            "showKey": "",
+            "title": ""
         },
-        "mainSignature": "My Surf",
+        "mainSignature": "",
         "medalSignatures": {
-            "bronzeKeys": "Bronze keys",
-            "goldenKeys": "Golden keys",
-            "silverKeys": "Silver keys"
+            "bronzeKeys": "",
+            "goldenKeys": "",
+            "silverKeys": ""
         },
         "securityCard": {
-            "name": "Security card",
-            "serialNumber": "Serial Number",
-            "serialNumberCopied": "Serial Number copied to clipboard"
+            "name": "セキュリティカード",
+            "serialNumber": "シリアル番号",
+            "serialNumberCopied": "クリップボードにコピーされたシリアルナンバー"
         },
-        "title": "Signatures",
-        "types":  {
-            "digital": "Digital",
-            "hardware": "Hardware"
+        "title": "",
+        "types": {
+            "digital": "デジタル",
+            "hardware": "ハードウェア"
         }
     },
     "stake": {
@@ -1062,69 +1077,69 @@
             "stakeDeposit": "ステーク",
             "stakeWithdraw": "引き出す",
             "stakingFee": "ステーキング料金",
-            "withdrawalFee": "引き出し手数料",
-            "withdrawFunds": "資金を引き出す"
-        },
-        "decode": {
-            "inDePool": "staked in round.",
-            "reinvest": "Reward reinvested.",
-            "reward": "Your reward for this round is"
+            "withdrawFunds": "資金を引き出す",
+            "withdrawalFee": "引き出し手数料"
         },
         "dePoolStaking": {
             "age": {
-                "definition": " – this indicates how many rounds this DePool has been active.",
-                "term": "Age"
+                "definition": "",
+                "term": ""
             },
             "annualReward": {
-                "definition": " – this is the expected annual interest rate of your stake, provided the DePool succesfully validates for the whole year.",
-                "term": "Annual reward"
+                "definition": "",
+                "term": ""
             },
-            "anonymity": "Complete anonymity",
+            "anonymity": "",
             "assurance": {
-                "definition": " – this is the minimum amount of tokens the DePool owner is obliged to invest each validation round, and these funds will be the first lost, in case of any validator node malfunction. Only if they are not enough to cover the losses of the total stake, will the funds of other pool members be affected. This way the DePool owner is strongly motivated to maintain proper operation of the validator node.",
-                "term": "Assurance"
+                "definition": "",
+                "term": ""
             },
             "availablePool": {
-                "definition": " – this is the maximum amount you can currently stake in Surf DePools.",
-                "term": "Available pool"
+                "definition": "",
+                "term": ""
             },
             "balance": {
-                "definition": " – this is the total amount of funds in the DePool.",
-                "term": "Balance"
+                "definition": "",
+                "term": ""
             },
-            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
-            "contribution": "Contribution to blockchain infrastructure and decentralization",
-            "dash": "—",
-            "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
-            "fundsControl": "Full control of your funds",
+            "balanceRequirement": "",
+            "contribution": "",
+            "dash": "",
+            "description": "",
+            "fundsControl": "",
             "lockUpPeriod": {
-                "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
-                "term": "Lock-up period"
+                "definition": "",
+                "term": ""
             },
             "members": {
-                "definition": " – this is the current number of members in the DePool.",
-                "term": "Members"
+                "definition": "",
+                "term": ""
             },
             "minStake": {
-                "definition": " – this is the minimum stake set in the DePool. You cannot stake less than this amount.",
-                "term": "Min.Stake"
+                "definition": "",
+                "term": ""
             },
-            "replenishment": "Replenishment is allowed",
+            "replenishment": "",
             "rewardFee": {
-                "definition": " – this is the percentage of your reward that goes to the DePool owner for maintaining the DePool and the validator node.",
-                "term": "Reward fee"
+                "definition": "",
+                "term": ""
             },
             "rewardPaid": {
-                "definition": " – this is how much all participants of Surf DePools have earned in total up until now.",
-                "term": "Reward paid"
+                "definition": "",
+                "term": ""
             },
-            "staking": "Staking is a new way of depositing funds on the blockchain. Delegate tokens to DePool smart contract and enjoy your rewards every day. And you also get benefits.",
+            "staking": "",
             "successful": {
-                "definition": " — percentage of all validation rounds the DePools participated in, where it won validator elections, successfully completed validation and received its reward.",
-                "term": "Successful rounds"
+                "definition": "",
+                "term": ""
             },
-            "title": "DePool staking",
-            "withdrawal": "Full withdrawal at any time without losing accrued rewards"
+            "title": "",
+            "withdrawal": ""
+        },
+        "decode": {
+            "inDePool": "",
+            "reinvest": "",
+            "reward": ""
         },
         "details": {
             "autoresume": "自動再開",
@@ -1146,58 +1161,58 @@
             "button": "リバランス"
         },
         "promo": {
-            "about": "About",
-            "stakeNow": "Stake now",
-            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
-            "title": "Earn {0} % a year just for holding crystals"
+            "about": "",
+            "stakeNow": "",
+            "text": "",
+            "title": ""
         },
         "stakingScreen": {
-            "about": "About",
-            "advancedFeatures": "Advanced features",
-            "age": "Age",
-            "assurance": "Assurance",
-            "availablePool": "Available pool",
-            "balance": "Balance",
-            "btnBreakUnstake": "Decline withdrawal",
-            "btnRestake": "Restake",
-            "btnStake": "Stake",
-            "btnStakeAnotherRound": "Try to stake later",
-            "btnUnstake": "Withdraw",
-            "declineRequest": "Withdrawal canceled.",
-            "depools": "Your dePools",
-            "fee": "Reward fee",
-            "help": "Help",
-            "max": "max.",
-            "members": "Members",
-            "min": "min.",
-            "minStake": "Min. stake",
-            "moreInfo": "More info",
-            "period": "Lock-up period",
-            "reward": "Estimated annual reward",
-            "rewarded": "Your reward",
-            "rewardPaid": "Reward paid",
-            "stakes": "Stakes",
-            "stakingRequest": "Staking request was sent. It may take a little time.",
-            "successfulRounds": "Successful rounds",
-            "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
-            "withdrawRequest": "Withdraw request was sent. It may take a short while."
+            "about": "",
+            "advancedFeatures": "高度な機能",
+            "age": "",
+            "assurance": "",
+            "availablePool": "",
+            "balance": "",
+            "btnBreakUnstake": "",
+            "btnRestake": "",
+            "btnStake": "",
+            "btnStakeAnotherRound": "",
+            "btnUnstake": "",
+            "declineRequest": "",
+            "depools": "",
+            "fee": "",
+            "help": "ヘルプ",
+            "max": "",
+            "members": "",
+            "min": "",
+            "minStake": "",
+            "moreInfo": "詳細",
+            "period": "",
+            "reward": "",
+            "rewardPaid": "",
+            "rewarded": "",
+            "stakes": "",
+            "stakingRequest": "",
+            "successfulRounds": "",
+            "unstakeBanner": "",
+            "withdrawRequest": ""
         }
     },
     "support": {
         "askQuestion": "質問する",
-        "button": "Get support",
+        "button": "",
         "giveFeedback": {
-            "button": "Give feedback",
-            "subject": "Feedback"
+            "button": "",
+            "subject": ""
         },
-        "group": "Support group",
-        "makeSuggestion": "Make a suggestion",
+        "group": "",
+        "makeSuggestion": "",
         "message": {
             "first": "はじめまして、TONSurfのアシスタントです。",
             "second": "何でも聞いてください。Surfがそれに対して何ができるか答えます。"
         },
-        "title": "Get support",
-        "videoTutorials": "Video tutorials"
+        "title": "",
+        "videoTutorials": ""
     },
     "system": {
         "dictionary": {
@@ -1214,19 +1229,19 @@
     },
     "transactions": {
         "buy": {
-            "item": "Item",
-            "payment": "Payment",
-            "seller": "Seller",
-            "title": "Buy",
-            "totalPrice": "Total price"
+            "item": "",
+            "payment": "",
+            "seller": "",
+            "title": "",
+            "totalPrice": ""
         },
         "comments": {
             "commentOptional": "コメント（オプション）",
             "lengthWarning": "120 文字のみ",
             "message": "メッセージ",
-            "messageOrMemo": "Message or Memo",
-            "useCommentEncryption": "Encrypt comment",
-            "useNoteEncryption": "Encrypt note",
+            "messageOrMemo": "",
+            "useCommentEncryption": "",
+            "useNoteEncryption": "",
             "writeMessage": "メッセージを書く..."
         },
         "details": {
@@ -1245,11 +1260,11 @@
             "transactionInvitation": "あなたの友人{0}が取引を受け取るようにあなたを招待しました。確認を返してください。"
         },
         "vote": {
-            "contest": "Contest",
-            "cost": "Cost",
-            "proposal": "Proposal",
-            "signature": "Signature",
-            "title": "Vote"
+            "contest": "",
+            "cost": "",
+            "proposal": "",
+            "signature": "",
+            "title": ""
         }
     },
     "wallet": {
@@ -1275,7 +1290,7 @@
             "failedToLoadAccounts": "アカウントを読み込めませんでした。",
             "failedToLoadWallet": "ウォレットを読み込めませんでした。",
             "failedToLoginInTheWallet": "ウォレットにログインできませんでした。",
-            "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
+            "insufficientFunds": "",
             "limitInvalidValue": "制限値が無効であるか、大きすぎます。",
             "timeIsNotSynced": "時刻が同期されていません。残念ながら、トランザクションは処理できません。 [時刻を自動的に設定する]オプションを有効にしてください。"
         },
@@ -1286,7 +1301,7 @@
             "invite": "招待する",
             "receive": "受信",
             "send": "送信",
-            "tokenValue": "Token value",
+            "tokenValue": "",
             "updating": "更新中...",
             "yourBalance": "あなたの残高"
         },
@@ -1321,9 +1336,9 @@
             "confirm": "確認",
             "confirmAndSend": "確認と送信",
             "currencies": {
-                "mainnet": "crystals",
-                "private": "rubies",
-                "tonlabs": "rubies"
+                "mainnet": "",
+                "private": "",
+                "tonlabs": ""
             },
             "enterValidAddress": "無料のTONアドレス",
             "from": "差出人",
@@ -1340,7 +1355,7 @@
             "fee": "料金",
             "from": "差出人",
             "fromBankCard": "銀行カードから",
-            "goToExplorer": "Go to explorer",
+            "goToExplorer": "",
             "moreDetails": "詳細",
             "networkFees": "ネットワーク料金",
             "no": "いいえ",
@@ -1350,9 +1365,9 @@
             "result": "結果",
             "reverseTransaction": "トランザクションの取消",
             "sent": "送信済み",
-            "share": "Share",
+            "share": "",
             "statusSuccess": "完成",
-            "time": "Time",
+            "time": "",
             "to": "宛先",
             "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
             "transferDetails": "転送の詳細",
@@ -1360,10 +1375,10 @@
         },
         "warning": {
             "awaitTransaction": "以前の転送が進行中です。",
-            "couldNotIdentifyQRCode": "Couldn't identify QR code",
+            "couldNotIdentifyQRCode": "",
             "insufficientBalance": "残高不足",
             "insufficientBalanceForFee": "ネットワーク料金の資金が不足です",
-            "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
+            "insufficientFundsToActivate": "",
             "limitReached": "金額が設定された制限のいずれかを超えています",
             "notYetSupported": "まだサポートされていません",
             "pleaseWait": "お待ちください"
@@ -1373,8 +1388,8 @@
             "amountDescription": "{0} + {1}料金（ {2} ％）",
             "amountDescriptionSold": "{0}と手数料{1} ％で販売",
             "amountHint": "引き出すトークンの数を指定してください。",
-            "completedSuccessfully": "支払い完了",
             "completedSuccessMessage": "このお金で誰かがもうちょっと幸せになりました。",
+            "completedSuccessfully": "支払い完了",
             "getAmount": "{0}を取得する",
             "great": "素晴らしい！",
             "title": "トークンを引き出す",

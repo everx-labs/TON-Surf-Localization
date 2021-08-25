@@ -11,6 +11,16 @@
             "monthAgo": "há 30 dias",
             "today": "hoje"
         },
+        "collectibles": {
+            "address": "",
+            "amountFromSupply": "",
+            "author": "",
+            "collectibles": "",
+            "created": "",
+            "title": "",
+            "tokens": "",
+            "trueNftMarket": ""
+        },
         "details": {
             "buttons": {
                 "callBot": "Chamar o DeBot",
@@ -42,6 +52,7 @@
         },
         "separators": {
             "accounts": "Contas",
+            "collectibles": "",
             "investments": "Serviços",
             "tokens": "Tokens"
         },
@@ -94,20 +105,24 @@
             "hint": "Tradução em andamento…"
         },
         "localizationHelper": {
-            "enable": "Enable localization helper",
-            "disable": "Disable localization helper",
-            "hint": "Show localization path when hover on text.\nAlt + Click for copying to clipboard"
+            "disable": "",
+            "enable": "",
+            "hint": ""
         },
         "network": {
+            "btnAdd": "",
+            "btnRemove": "Remover rede",
+            "btnUpdate": "",
             "button": "Rede",
+            "endpoint": "Endpoint",
+            "endpointHint": "",
+            "name": "Nome",
             "title": "Rede",
-            "titleAdd": "New network",
-            "btnAdd": "Add",
-            "btnUpdate": "Update",
-            "btnRemove": "Remove network",
-            "titleEdit": "Edit network",
-            "name": "Name",
-            "endpoint": "Endpoint"
+            "titleAdd": "",
+            "titleEdit": ""
+        },
+        "nightTheme": {
+            "button": "Tema escuro"
         },
         "suggestLanguage": {
             "button": "Sugerir idioma",
@@ -191,20 +206,20 @@
             },
             "agree": "Eu compreendo",
             "agreement": "DeBots são serviços de terceiros e podem expô-lo à divulgação de identidade e de outras informações que estão fora do controle do TON Surf.",
-            "blockchain": "Blockchain",
+            "blockchain": "",
             "browse": "Procurar DeBots...",
             "debot": "DeBot",
             "debotError": "Oops!! Estou um pouco quebrado. Fique em contato",
-            "defaultHello": "Hi! I'm DeBot",
+            "defaultHello": "",
             "encryptionBox": {
-                "encryptDecryptWithSurf": "Use Surf keys"
+                "encryptDecryptWithSurf": "Criptografar / descriptografar com Surf"
             },
             "favorites": "Favoritos",
             "functionalUnsupported": "Oops!! A funcionalidade está sem suporte temporariamente. Volte depois",
-            "history": "History",
+            "history": "",
             "info": {
                 "about": "Detalhes",
-                "actions": "Actions",
+                "actions": "",
                 "addToFavorites": "Adicionar aos favoritos",
                 "addToFavoritesNotification": "DeBot adicionado aos favoritos",
                 "author": "Projetado por",
@@ -213,27 +228,27 @@
                 "error": {
                     "failedToSaveFavorite": "Falha ao salvar o status de favorito. Tente novamente mais tarde"
                 },
-                "goToExplorer": "Go to explorer",
+                "goToExplorer": "",
                 "publisher": "por {0}",
                 "removeFromFavorites": "Remover dos favoritos",
                 "removeFromFavoritesNotification": "DeBot removido dos favoritos",
                 "showAddress": "Mostrar endereço",
                 "version": "v. {0}",
-                "writeToDeveloper": "Write to developer"
+                "writeToDeveloper": ""
             },
             "notFound": "Debot não encontrado",
             "nothingFound": "Nada foi encontrado",
             "open": "Abrir DeBot",
             "recommended": "Recomendado",
             "restart": "Reiniciar",
-            "search": "Enter DeBot address…",
+            "search": "",
             "searching": "Buscando...",
             "securityCard": {
                 "notSupport": "Infelizmente, seu dispositivo não suporta NFC, que é necessário para o funcionamento adequado. Favor ativar o NFC, ou usar outro dispositivo."
             },
             "signingBox": {
-                "signature": "Assinatura",
-                "signWithSurf": "Cadastre-se com o Surf"
+                "signWithSurf": "Cadastre-se com o Surf",
+                "signature": "Assinatura"
             },
             "title": "DeBots"
         },
@@ -261,9 +276,9 @@
             "invitationForSender": "Convidado por você",
             "invitationSuccess": "Um convite para participar do {APP_NAME} foi enviado com sucesso.",
             "invitationTitle": "Vem comigo!",
+            "messageTooLong": "Sua mensagem tem mais de {0} caracteres.",
             "messagesBlockedByYou": "Você bloqueou mensagens",
             "messagesUnblockedByYou": "Você desbloqueou mensagens",
-            "messageTooLong": "Sua mensagem tem mais de {0} caracteres.",
             "tapToResend": "Toque para reenviar",
             "tapToSendAgain": "Toque para enviar novamente",
             "userBlockedMessages": "Mensagens bloqueadas pelo usuário",
@@ -372,36 +387,36 @@
     },
     "getTONs": {
         "contests": {
-            "governance": "Governance",
-            "title": "Contests"
+            "governance": "",
+            "title": ""
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
-            "coineal": "Coineal",
-            "digifinex": "DigiFinex",
-            "hitbtc": "HitBTC",
-            "kuna": "Kuna",
-            "mexc": "MEXC",
-            "title": "Exchanges"
+            "bitcoin": "",
+            "coineal": "",
+            "digifinex": "",
+            "hitbtc": "",
+            "kuna": "",
+            "mexc": "",
+            "title": ""
         },
-        "title": "Get TONs",
-        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+        "title": "",
+        "warning": ""
     },
     "interfaceOptions": {
         "assetsBalance": {
-            "button": "Assets balance"
+            "button": "Seu saldo"
         },
         "confirmationOfSending": {
-            "button": "Confirmation of sending"
+            "button": "Сonfirmação de envio"
         },
-        "interfaceOptionsButton": "Interface options",
+        "interfaceOptionsButton": "Opções de interface",
         "nightTheme": {
-            "button": "Night theme"
+            "button": "Tema noturno"
         },
         "promoCards": {
-            "button": "Promo cards"
+            "button": "Cartões promocionais"
         },
-        "title": "Interface options"
+        "title": "Opções de interface"
     },
     "legalNotes": {
         "businessDetails": {
@@ -425,13 +440,13 @@
             "faq": {
                 "title": "Central de ajuda"
             },
-            "licence": {
-                "title": "Licença",
-                "value": "Prestação de serviço de carteira de moeda virtual FVR001411 emitido em 28.02.2020 pela FIU da Estônia."
-            },
             "licence2": {
                 "title": "Licença",
                 "value": "Prestação de serviços de câmbio de uma moeda virtual por uma moeda fiduciária FRK001293 emitida em 28.02.2020 pela FIU da Estônia."
+            },
+            "licence": {
+                "title": "Licença",
+                "value": "Prestação de serviço de carteira de moeda virtual FVR001411 emitido em 28.02.2020 pela FIU da Estônia."
             },
             "phone": {
                 "title": "Telefone",
@@ -471,15 +486,15 @@
         "profileButtonTitle": "Política de Descentralização"
     },
     "lockScreen": {
+        "PINCorrect": "Código PIN correto",
+        "PINNotCorrect": "Código PIN incorreto",
         "attention": {
             "text": "É altamente recomendável fazer backup de sua senha {HD_WORD_COUNT} antes de sair.\n\nO backup é a única opção para recuperar o acesso ao Surf se você esquecer seu código PIN ou se desconectar do app. Perder a senha significa a perda irreversível de acesso aos seus fundos.",
             "title": "Atenção"
         },
         "biometryFailed": "Muitas tentativas com falha de autenticação. Tente novamente mais tarde",
-        "deleteAndExit": "Delete and exit",
+        "deleteAndExit": "",
         "logout": "Sair",
-        "PINCorrect": "Código PIN correto",
-        "PINNotCorrect": "Código PIN incorreto",
         "temporarilyBlocked": "Bloqueado temporariamente",
         "tryAgainLater": "Tente novamente {0}",
         "unlock": "Desbloquear",
@@ -494,38 +509,38 @@
         "memoryCheckButton": "Salvo. Dupla checagem"
     },
     "multiWallets": {
-        "create": "Create wallet",
-        "defaultWalletName": "My Surf",
+        "addWallet": "",
+        "create": "Criar carteira",
+        "defaultWalletName": "Meu Surf",
         "editWallet": "Editar carteira",
         "manage": "Gerenciar",
         "manageWallets": "Gerenciar carteiras",
-        "migrate": "Migrate wallet to Surf",
+        "migrate": "Migrar a carteira para o Surf",
         "name": "Nome",
-        "newWalletName": "Wallet",
-        "pair": "Pair hardware wallet",
+        "nameTaken": "",
+        "newWalletName": "Carteira",
+        "pair": "Vincular hardware wallet com conta",
         "removeWallet": "Retirar a carteira",
-        "restore": "Restore wallet",
-        "addWallet": "Add wallet",
-        "restoreHint": "Surf currently supports only verified native wallets. You will not be able to open any other type of wallet.",
+        "restore": "Restaurar carteira",
+        "restoreHint": "Você pode restaurar uma carteira criada apenas no Surf",
         "update": "Atualizar",
-        "wallets": "Carteiras",
-        "nameTaken": "Choose another name. This one is taken already",
-        "walletNotUnique": "Same address wallet has been added already"
+        "walletNotUnique": "",
+        "wallets": "Carteiras"
     },
     "networks": {
+        "errors": {
+            "nameTaken": "Especifique outro nome. Este já foi levado.",
+            "networkUnavailable": "Nada adicionado. Por favor, especifique um endereço de ponto final válido ou verifique a conexão de rede."
+        },
         "names": {
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "Devnetz"
         },
         "sections": {
+            "custom": "Redes personalizadas",
             "main": "Rede principal",
-            "test": "Redes de teste",
-            "custom": "Custom networks"
-        },
-        "errors": {
-            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection",
-            "nameTaken": "Choose another name. This one is taken already"
+            "test": "Redes de teste"
         }
     },
     "operationsHistory": {
@@ -555,19 +570,19 @@
         "congrats": "Parabéns por fazer mudanças em sua vida. Viu como não dói?",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Free TON tokens",
-                "stake": "Crystal Stakes",
-                "title": "My Crystals"
+                "comment": "",
+                "stake": "",
+                "title": ""
             },
             "RUBY": {
-                "comment": "Free TON test tokens",
-                "stake": "Ruby Stakes",
-                "title": "My Rubies"
+                "comment": "",
+                "stake": "",
+                "title": ""
             },
             "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
+                "comment": "",
                 "stake": "",
-                "title": "My Surf Medals"
+                "title": "Minhas medalhas de Surf"
             }
         },
         "disableAutoresume": "Desabilitar o Reinvestimento Automático",
@@ -591,6 +606,12 @@
         "restorePasswordButton": "Senha mestra"
     },
     "safetyProtection": {
+        "PINChangeFailed": "Falha ao alterar o código PIN.",
+        "PINChangeSuccess": "Código PIN alterado com sucesso.",
+        "PINCorrect": "PIN correto",
+        "PINDoesNotMatch": "Os códigos PIN inseridos não coincidem",
+        "PINNotCorrect": "PIN incorreto",
+        "TONAddress": "Endereço Free TON",
         "address": "Endereço",
         "addressAndKeys": "Endereço e chaves",
         "altAddress": "Formato de endereço alternativo",
@@ -607,23 +628,18 @@
         "enterPin": "Digite seu código PIN",
         "hidePrivateKey": "Ocultar chave privada",
         "isCopied": "Copiado para a área de transferência",
-        "lockApp": "Lock app",
+        "lockApp": "",
         "lockMethod": {
             "button": "Método de bloqueio",
             "title": "Método de bloqueio"
         },
         "logOut": {
-            "button": "Delete local data and exit",
-            "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
+            "button": "",
+            "hint": ""
         },
         "neverShare": "Sua chave privada pode conceder a qualquer pessoa, acesso total aos seus fundos. Você nunca deve compartilhá-la com pessoas ou aplicativos nos quais você não confia.",
-        "nonMainAccountPrivateKeyNote": "Esta chave privada não afeta a segurança de sua conta principal do Surf. No entanto, se a chave estiver comprometida, quaisquer outros fundos e dados protegidos por esta chave privada podem estar em perigo. Nunca compartilhe a chave com pessoas ou aplicativos em que você não confia.",
         "noThanks": "Não, obrigado",
-        "PINChangeFailed": "Falha ao alterar o código PIN.",
-        "PINChangeSuccess": "Código PIN alterado com sucesso.",
-        "PINCorrect": "PIN correto",
-        "PINDoesNotMatch": "Os códigos PIN inseridos não coincidem",
-        "PINNotCorrect": "PIN incorreto",
+        "nonMainAccountPrivateKeyNote": "Esta chave privada não afeta a segurança de sua conta principal do Surf. No entanto, se a chave estiver comprometida, quaisquer outros fundos e dados protegidos por esta chave privada podem estar em perigo. Nunca compartilhe a chave com pessoas ou aplicativos em que você não confia.",
         "privateKey": "Chave privada",
         "publicKey": "Chave pública",
         "safelyShare": "O endereço de sua carteira e sua chave pública podem ser compartilhados com qualquer pessoa.",
@@ -694,8 +710,8 @@
             "deactivateApprovalDescription": "Os cartões funcionarão apenas com esta conta e você precisará reativá-los.",
             "deactivateApprovalTitle": "Desativar Cartões de Segurança?",
             "deactivateBtn": "Desativar",
-            "deactivatedCards": "Cartões de Segurança desativados",
             "deactivateDescription": "Você pode reativá-los imediatamente.",
+            "deactivatedCards": "Cartões de Segurança desativados",
             "details": "Detalhes",
             "detailsText": "O app Surf não rastreia você e suas ações, nem coleta nenhum dos seus dados. Não usamos nenhum software analítico. Não temos sequer um rastreador simples. Nada de cookies. Nenhum processamento de dados pessoais. Nada. Este é o nosso chamado e missão. \n\nAtenção! No entanto, outros serviços de terceiros sobre os quais não temos controle, podem, a seu exclusivo critério e vontade, coletar e usar seus dados. Você deve estar muito atento e extremamente prudente antes de aceitar sua política de privacidade, cookies, termos de uso e qualquer e todas as outras políticas e documentação contratualmente vinculativas se você quiser usar seus serviços no Surf",
             "detailsTitle": "Conforme já mencionamos na Política de Descentralização",
@@ -852,7 +868,6 @@
         },
         "showPrivateKey": "Mostrar chave privada",
         "title": "Configurações de Segurança",
-        "TONAddress": "Endereço Free TON",
         "verifyYourIdentity": "Verifique sua identidade"
     },
     "security": {
@@ -992,28 +1007,28 @@
             "deriveThreePairs": "Derivar 3 pares de chaves",
             "importKeys": "Importar chaves"
         },
-        "defaultSignatureName": "Signature",
+        "defaultSignatureName": "",
         "details": {
-            "name": "Name",
+            "name": "",
             "privateKey": "Chave privada",
             "publicKey": "Chave pública",
             "publicKeyCopied": "Chave pública copiada para a prancheta",
             "showKey": "Mostrar chave",
-            "title": "Signature"
+            "title": ""
         },
-        "mainSignature": "My Surf",
+        "mainSignature": "",
         "medalSignatures": {
             "bronzeKeys": "Chaves de bronze",
             "goldenKeys": "Chaves de ouro",
             "silverKeys": "Chaves de prata"
         },
         "securityCard": {
-            "name": "Security card",
-            "serialNumber": "Serial Number",
-            "serialNumberCopied": "Serial Number copied to clipboard"
+            "name": "Cartão de segurança",
+            "serialNumber": "Número de série",
+            "serialNumberCopied": "Número de série copiado"
         },
-        "title": "Signatures",
-        "types":  {
+        "title": "",
+        "types": {
             "digital": "Digital",
             "hardware": "Hardware"
         }
@@ -1062,13 +1077,8 @@
             "stakeDeposit": "Depositar",
             "stakeWithdraw": "Sacar",
             "stakingFee": "Taxa de Staking",
-            "withdrawalFee": "Taxa de saque",
-            "withdrawFunds": "Sacar fundos"
-        },
-        "decode": {
-            "inDePool": "apostado em redondo.",
-            "reinvest": "Recompensa reinvestida",
-            "reward": "Sua recompensa para esta rodada é"
+            "withdrawFunds": "Sacar fundos",
+            "withdrawalFee": "Taxa de saque"
         },
         "dePoolStaking": {
             "age": {
@@ -1079,24 +1089,24 @@
                 "definition": " – esta é a taxa de juros anual esperada de seu investimento, desde que o DePool valide com sucesso durante todo o ano.",
                 "term": "Recompensa anual"
             },
-            "anonymity": "Complete anonymity",
+            "anonymity": "",
             "assurance": {
                 "definition": "- esta é a quantidade mínima de tokens que o proprietário do DePool é obrigado a investir em cada rodada de validação, e esses fundos serão os primeiros perdidos no caso de qualquer mau funcionamento do nó validador. Somente se eles não forem suficientes para cobrir as perdas do investimento total é que os fundos dos outros membros do pool serão afetados. Desta forma, o proprietário do DePool é fortemente motivado para manter a operação adequada do nó validador.",
                 "term": "Garantia"
             },
             "availablePool": {
-                "definition": " – this is the maximum amount you can currently stake in Surf DePools.",
-                "term": "Available pool"
+                "definition": "",
+                "term": ""
             },
             "balance": {
                 "definition": " - este é o montante total depositado no DePool.",
                 "term": "Saldo"
             },
-            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
-            "contribution": "Contribution to blockchain infrastructure and decentralization",
-            "dash": "—",
+            "balanceRequirement": "",
+            "contribution": "",
+            "dash": "",
             "description": "DePool é um contrato inteligente que permite a qualquer pessoa investir em staking em um pool comum. O valor depositado é usado nas eleições de validador em nome do validador proprietário do pool. Após a validação bem-sucedida o DePool paga recompensas a todos os membros do pool proporcionalmente ao valor investido por cada um.",
-            "fundsControl": "Full control of your funds",
+            "fundsControl": "",
             "lockUpPeriod": {
                 "definition": "- este é o tempo que seus fundos ficam bloqueados no DePool depois que ele entra nas eleições. Quando você decidir retirar seus fundos, eles serão devolvidos a você assim que forem desbloqueados, o que levará no máximo um período de bloqueio completo após a solicitação de retirada.",
                 "term": "Período de bloqueio"
@@ -1109,22 +1119,27 @@
                 "definition": "- esta é o depósito mínimo definida no DePool. Você não pode depositar uma quantia inferior a ste valor.",
                 "term": "Mín. Stake"
             },
-            "replenishment": "Replenishment is allowed",
+            "replenishment": "",
             "rewardFee": {
                 "definition": "- esta é a porcentagem de sua recompensa que vai para o proprietário do DePool por manter o DePool e o nó validador.",
                 "term": "Taxa de recompensa"
             },
             "rewardPaid": {
-                "definition": " – this is how much all participants of Surf DePools have earned in total up until now.",
-                "term": "Reward paid"
+                "definition": "",
+                "term": ""
             },
-            "staking": "Staking is a new way of depositing funds on the blockchain. Delegate tokens to DePool smart contract and enjoy your rewards every day. And you also get benefits.",
+            "staking": "",
             "successful": {
                 "definition": " — percentual de todas as rodadas de validação das que os DePools participaram, onde venceu as eleições de validador, completou com sucesso a validação e recebeu sua recompensa.",
                 "term": "Rodadas de sucesso"
             },
             "title": "DePool staking",
-            "withdrawal": "Full withdrawal at any time without losing accrued rewards"
+            "withdrawal": ""
+        },
+        "decode": {
+            "inDePool": "apostado em redondo.",
+            "reinvest": "Recompensa reinvestida",
+            "reward": "Sua recompensa para esta rodada é"
         },
         "details": {
             "autoresume": "Reinvestimento Automático",
@@ -1146,14 +1161,14 @@
             "button": "Rebalancear"
         },
         "promo": {
-            "about": "About",
-            "stakeNow": "Stake now",
-            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
-            "title": "Earn {0} % a year just for holding crystals"
+            "about": "",
+            "stakeNow": "",
+            "text": "",
+            "title": ""
         },
         "stakingScreen": {
             "about": "Detalhes",
-            "advancedFeatures": "Advanced features",
+            "advancedFeatures": "Características avançadas",
             "age": "Idade",
             "assurance": "Garantia",
             "availablePool": "Pool disponível",
@@ -1163,19 +1178,19 @@
             "btnStake": "Depositar em Staking",
             "btnStakeAnotherRound": "Tente fazer o stake mais tarde",
             "btnUnstake": "Desistir do Stake",
-            "declineRequest": "Withdrawal canceled.",
-            "depools": "Your dePools",
+            "declineRequest": "",
+            "depools": "DePools",
             "fee": "Taxa de recompensa",
-            "help": "Help",
+            "help": "Ajuda",
             "max": "máx.",
             "members": "Membros",
             "min": "min.",
             "minStake": "Stake mínimo",
-            "moreInfo": "More info",
+            "moreInfo": "Mais informações",
             "period": "Período de bloqueio",
             "reward": "Recompensa anual estimada",
-            "rewarded": "Your reward",
             "rewardPaid": "Recompensa paga",
+            "rewarded": "Recompensado",
             "stakes": "Stakes",
             "stakingRequest": "A requisição de Staking foi enviada. Pode levar algum tempo para ser processada.",
             "successfulRounds": "Rodadas de sucesso",
@@ -1215,9 +1230,9 @@
     "transactions": {
         "buy": {
             "item": "Item",
-            "payment": "Payment",
+            "payment": "",
             "seller": "Vendedor",
-            "title": "Buy",
+            "title": "",
             "totalPrice": "Preço total"
         },
         "comments": {
@@ -1245,11 +1260,11 @@
             "transactionInvitation": "{0} enviou uma transação para você. Confirme o recebimento"
         },
         "vote": {
-            "contest": "Contest",
-            "cost": "Cost",
-            "proposal": "Proposal",
-            "signature": "Signature",
-            "title": "Vote"
+            "contest": "",
+            "cost": "",
+            "proposal": "",
+            "signature": "",
+            "title": ""
         }
     },
     "wallet": {
@@ -1373,8 +1388,8 @@
             "amountDescription": "{0} + taxa de {1} ({2}%)",
             "amountDescriptionSold": "Vendido por {0} e taxa de {1} %",
             "amountHint": "Especifique quantos tokens você deseja sacar.",
-            "completedSuccessfully": "Pagamento bem sucedido",
             "completedSuccessMessage": "Você ficou menos rico e fez outra pessoa mais feliz",
+            "completedSuccessfully": "Pagamento bem sucedido",
             "getAmount": "Obter {0}",
             "great": "Excelente!",
             "title": "Sacar tokens",

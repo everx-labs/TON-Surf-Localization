@@ -53,8 +53,7 @@
         "separators": {
             "accounts": "Comptes",
             "collectibles": "Collectibles",
-            "investments": "Services",
-            "tokens": "Tokens"
+            "investments": "Services"
         },
         "subscriptions": {
             "actions": {
@@ -120,9 +119,6 @@
             "title": "Réseau",
             "titleAdd": "Nouveau réseau",
             "titleEdit": "Modifier le réseau"
-        },
-        "nightTheme": {
-            "button": "Thème de la nuit"
         },
         "suggestLanguage": {
             "button": "Suggérer une langue",

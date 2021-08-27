@@ -53,8 +53,7 @@
         "separators": {
             "accounts": "Счета",
             "collectibles": "Collectibles",
-            "investments": "Сервисы",
-            "tokens": "Токены"
+            "investments": "Сервисы"
         },
         "subscriptions": {
             "actions": {
@@ -120,9 +119,6 @@
             "title": "Сеть",
             "titleAdd": "Новая сеть",
             "titleEdit": "Настроить сеть"
-        },
-        "nightTheme": {
-            "button": "Ночная тема"
         },
         "suggestLanguage": {
             "button": "Предложить язык",
@@ -226,7 +222,7 @@
                 "creator": "Создано",
                 "donate": "Поддержать",
                 "error": {
-                    "failedToSaveFavorite": "Не удалось обновить статус. Повторите попытку позже"
+                    "failedToSaveFavorite": "Не удалось обновить статус. Повторите попытку позже."
                 },
                 "goToExplorer": "Перейти в проводник",
                 "publisher": "{0}",
@@ -522,7 +518,7 @@
         "pair": "Привязать аппаратный кошелек к учетной записи",
         "removeWallet": "Удалить кошелек",
         "restore": "Восстановить кошелек",
-        "restoreHint": "В настоящее время поддерживается только восстановление кошельков, созданных в Surf.",
+        "restoreHint": "Вы можете восстановить кошелек, созданный только в Surf",
         "update": "Обновить",
         "walletNotUnique": "Кошелек с таким же адресом уже добавлен",
         "wallets": "Кошельки"
@@ -535,7 +531,7 @@
         "names": {
             "mainnet": "Основная сеть",
             "rustnet": "Rust-сеть",
-            "tonlabs": "Сеть разработчика"
+            "tonlabs": "Сеть для тестирования"
         },
         "sections": {
             "custom": "Пользовательские сети",

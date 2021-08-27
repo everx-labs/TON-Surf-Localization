@@ -53,8 +53,7 @@
         "separators": {
             "accounts": "Hesaplar",
             "collectibles": "Collectibles",
-            "investments": "Hizmetler",
-            "tokens": "Belirteçler"
+            "investments": "Hizmetler"
         },
         "subscriptions": {
             "actions": {
@@ -120,9 +119,6 @@
             "title": "Network",
             "titleAdd": "New network",
             "titleEdit": "Edit network"
-        },
-        "nightTheme": {
-            "button": "Gece teması"
         },
         "suggestLanguage": {
             "button": "Dil öner",
@@ -1179,7 +1175,7 @@
             "btnStakeAnotherRound": "Try to stake later",
             "btnUnstake": "Stake geri al",
             "declineRequest": "Withdrawal canceled.",
-            "depools": "DePools",
+            "depools": "Your dePools",
             "fee": "Stake etme ücreti",
             "help": "Yardım",
             "max": "en çok",

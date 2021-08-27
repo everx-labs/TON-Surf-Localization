@@ -570,6 +570,11 @@
                 "stake": "크리스탈 스테이크",
                 "title": "내 크리스탈"
             },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "stake": "",
+                "title": "My {0} tokens"
+            },
             "RUBY": {
                 "comment": "Free TON 테스트 토큰",
                 "stake": "Ruby Stakes",
@@ -878,13 +883,13 @@
         "fee": "수수료",
         "feeAmount": "≈ {0}",
         "makeAnotherTransfer": "다른 전송을 하기",
-        "maxValueAlert": "잔액이 없다면 특정 작업을 수행 할 수 없습니다. 이 계정을 계속 사용할 계획이라면 잔액에 토큰을 남겨 두는 것이 좋습니다.",
-        "minValueAlert": "최소 전송 비용은 {0} 토큰입니다.",
+        "maxValueAlert": "잔액이 없다면 특정 작업을 수행할 수 없습니다. 이 계정을 계속 사용할 계획이라면 잔액에 토큰을 남겨 두는 것이 좋습니다",
+        "minValueAlert": "최소 송금 금액은 {0} 토큰입니다",
         "operationPreview": {
             "amount": "액수",
             "comment": "댓글 남기기",
-            "commentEncrypted": "Encrypted comment cannot be decrypted by anyone, other than its sender and recipient",
-            "commentUnencrypted": "Unencrypted comment will be visible to everyone on the blockchain",
+            "commentEncrypted": "암호화된 댓글은 보낸 사람과 받는 사람이 아닌 다른 사람이 복호화할 수 없습니다",
+            "commentUnencrypted": "암호화되지 않은 댓글은 블록체인의 모든 사용자에게 표시됩니다",
             "encrypted": "암호화됨",
             "fees": "수수료",
             "from": "보낸 사람",
@@ -1175,7 +1180,7 @@
             "btnStakeAnotherRound": "나중에 스테이킹 시도해 보세요",
             "btnUnstake": "인출하기",
             "declineRequest": "인출이 취소되었습니다.",
-            "depools": "My DePools",
+            "depools": "내 DePool",
             "fee": "보상 수수료",
             "help": "도움말",
             "max": "최대",

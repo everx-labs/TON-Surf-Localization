@@ -53,8 +53,7 @@
         "separators": {
             "accounts": "Счета",
             "collectibles": "Collectibles",
-            "investments": "Сервисы",
-            "tokens": "Токены"
+            "investments": "Сервисы"
         },
         "subscriptions": {
             "actions": {
@@ -120,9 +119,6 @@
             "title": "Сеть",
             "titleAdd": "Новая сеть",
             "titleEdit": "Настроить сеть"
-        },
-        "nightTheme": {
-            "button": "Ночная тема"
         },
         "suggestLanguage": {
             "button": "Предложить язык",
@@ -226,7 +222,7 @@
                 "creator": "Создано",
                 "donate": "Поддержать",
                 "error": {
-                    "failedToSaveFavorite": "Не удалось обновить статус. Повторите попытку позже"
+                    "failedToSaveFavorite": "Не удалось обновить статус. Повторите попытку позже."
                 },
                 "goToExplorer": "Перейти в проводник",
                 "publisher": "{0}",
@@ -535,7 +531,7 @@
         "names": {
             "mainnet": "Основная сеть",
             "rustnet": "Rust-сеть",
-            "tonlabs": "Сеть разработчика"
+            "tonlabs": "Сеть для тестирования"
         },
         "sections": {
             "custom": "Пользовательские сети",
@@ -1179,7 +1175,7 @@
             "btnStakeAnotherRound": "Попробуйте сделать ставку позже",
             "btnUnstake": "Отозвать ставку",
             "declineRequest": "Вывод средств отменен",
-            "depools": "ДеПулы",
+            "depools": "Your dePools",
             "fee": "Комиссия за стейкинг",
             "help": "Помощь",
             "max": "макс.",
@@ -1190,7 +1186,7 @@
             "period": "Период блокировки",
             "reward": "Ежегодное вознаграждение",
             "rewardPaid": "Вознаграждение выплачено",
-            "rewarded": "Получили вознаграждение",
+            "rewarded": "Your reward",
             "stakes": "Ставки",
             "stakingRequest": "Запрос на ставку отправлен. Потребуется некоторое время.",
             "successfulRounds": "Успешные раунды",

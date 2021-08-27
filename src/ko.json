@@ -53,8 +53,7 @@
         "separators": {
             "accounts": "계정",
             "collectibles": "수집 항목",
-            "investments": "서비스",
-            "tokens": "토큰"
+            "investments": "서비스"
         },
         "subscriptions": {
             "actions": {
@@ -120,9 +119,6 @@
             "title": "네트워크",
             "titleAdd": "새 네트워크",
             "titleEdit": "네트워크를 수정하기"
-        },
-        "nightTheme": {
-            "button": "밤 테마"
         },
         "suggestLanguage": {
             "button": "언어 제안하기",
@@ -1179,7 +1175,7 @@
             "btnStakeAnotherRound": "나중에 스테이킹 시도해 보세요",
             "btnUnstake": "인출하기",
             "declineRequest": "인출이 취소되었습니다.",
-            "depools": "DePool",
+            "depools": "Your dePools",
             "fee": "보상 수수료",
             "help": "도움말",
             "max": "최대",

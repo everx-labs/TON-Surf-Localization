@@ -570,6 +570,11 @@
                 "stake": "Crystal Stakes",
                 "title": "My Crystals"
             },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "stake": "",
+                "title": "My {0} tokens"
+            },
             "RUBY": {
                 "comment": "Free TON test tokens",
                 "stake": "Ruby Stakes",

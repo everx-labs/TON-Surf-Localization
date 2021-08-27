@@ -570,6 +570,11 @@
                 "stake": "Ставки в кристаллах",
                 "title": "Мои кристаллы"
             },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "stake": "",
+                "title": "My {0} tokens"
+            },
             "RUBY": {
                 "comment": "Тестовые токены Free TON",
                 "stake": "Ставки в рубинах",

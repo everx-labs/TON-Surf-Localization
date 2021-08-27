@@ -570,6 +570,11 @@
                 "stake": "Crystal Stakes",
                 "title": "My Crystals"
             },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "stake": "",
+                "title": "My {0} tokens"
+            },
             "RUBY": {
                 "comment": "Free TON test tokens",
                 "stake": "Ruby Stakes",
@@ -1175,7 +1180,7 @@
             "btnStakeAnotherRound": "Try to stake later",
             "btnUnstake": "Stake geri al",
             "declineRequest": "Withdrawal canceled.",
-            "depools": "Your dePools",
+            "depools": "My DePools",
             "fee": "Stake etme ücreti",
             "help": "Yardım",
             "max": "en çok",
@@ -1186,7 +1191,7 @@
             "period": "Kilitlenme süresi",
             "reward": "Yıllık ödül",
             "rewardPaid": "Ödül ödendi",
-            "rewarded": "Your reward",
+            "rewarded": "My reward",
             "stakes": "Stake sayısı",
             "stakingRequest": "Staking isteği gönderildi. Biraz zaman alabilir.",
             "successfulRounds": "Successful rounds",

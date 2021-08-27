@@ -570,6 +570,11 @@
                 "stake": "Crystal Stakes",
                 "title": "My Crystals"
             },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "stake": "",
+                "title": "My {0} tokens"
+            },
             "RUBY": {
                 "comment": "Free TON test tokens",
                 "stake": "Ruby Stakes",
@@ -1175,7 +1180,7 @@
             "btnStakeAnotherRound": "Try to stake later",
             "btnUnstake": "Unstake",
             "declineRequest": "Withdrawal canceled.",
-            "depools": "Your dePools",
+            "depools": "My DePools",
             "fee": "Tassa di staking",
             "help": "Aiuto",
             "max": "max.",
@@ -1186,7 +1191,7 @@
             "period": "Periodo di lock-up",
             "reward": "Ricompensa annuale",
             "rewardPaid": "Ricompensa pagata",
-            "rewarded": "Your reward",
+            "rewarded": "My reward",
             "stakes": "Stake",
             "stakingRequest": "La richiesta di stakeing è stata inviata. Potrebbe richiedere un po' di tempo.",
             "successfulRounds": "Round di successo",

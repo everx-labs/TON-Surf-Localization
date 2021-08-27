@@ -53,8 +53,7 @@
         "separators": {
             "accounts": "Comptes",
             "collectibles": "Collectibles",
-            "investments": "Services",
-            "tokens": "Tokens"
+            "investments": "Services"
         },
         "subscriptions": {
             "actions": {
@@ -120,9 +119,6 @@
             "title": "Réseau",
             "titleAdd": "Nouveau réseau",
             "titleEdit": "Modifier le réseau"
-        },
-        "nightTheme": {
-            "button": "Thème de la nuit"
         },
         "suggestLanguage": {
             "button": "Suggérer une langue",
@@ -1179,7 +1175,7 @@
             "btnStakeAnotherRound": "Essayez de staker plus tard",
             "btnUnstake": "Retirer",
             "declineRequest": "Retrait annulé.",
-            "depools": "DePools",
+            "depools": "Your dePools",
             "fee": "Frais de récompense",
             "help": "Aide",
             "max": "max.",
@@ -1190,7 +1186,7 @@
             "period": "Période de blocage",
             "reward": "Récompense annuelle estimée",
             "rewardPaid": "Récompense payée",
-            "rewarded": "Récompensé",
+            "rewarded": "Your reward",
             "stakes": "Stakes",
             "stakingRequest": "La demande de staking a été envoyée. Cela peut prendre un peu de temps.",
             "successfulRounds": "Tours réussis",

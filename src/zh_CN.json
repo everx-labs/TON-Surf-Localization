@@ -1,0 +1,1401 @@
+{
+    "accounts": {
+        "assets": {
+            "addressCopied": "钱包地址复制到剪贴板",
+            "copyAddressHint": "复制钱包地址",
+            "copyAddressHint2": "Tap to copy address",
+            "description": "拖放以交换资金并重新平衡您的资产",
+            "title": "资产"
+        },
+        "charts": {
+            "monthAgo": "30天前",
+            "today": "今天"
+        },
+        "collectibles": {
+            "address": "Address",
+            "amountFromSupply": "{0} of {1}",
+            "author": "Author",
+            "collectibles": "Collectibles",
+            "created": "Created",
+            "title": "My Surfer",
+            "tokens": "Tokens",
+            "trueNftMarket": "True NFT Market"
+        },
+        "details": {
+            "buttons": {
+                "callBot": "给分机器人打电话",
+                "disableAutoresume": "禁用自动更新",
+                "enableAutoresume": "启用自动更新",
+                "keepMeInformed": "好的， 随时通知我",
+                "makeStake": "下赌注",
+                "operationsHistory": "操作历史",
+                "sendCoins": "发送代币",
+                "share": "Share",
+                "shareMyAddress": "共享钱包地址",
+                "stakeMore": "下赌注更多",
+                "whatIsStaking": "赌注是什么？",
+                "withdraw": "撤回"
+            },
+            "labels": {
+                "app": "Surf",
+                "newCoinsSoonMsg": "就像您一样，我们迫不及待新资产的推出来享受其收益",
+                "shareMsg": "我的{0}地址：\n{1}"
+            },
+            "nets": {
+                "mainnet": "Free TON",
+                "private": "私人",
+                "tonlabs": "开发网"
+            },
+            "titles": {
+                "newCoinsSoon": "新资产即将面世"
+            }
+        },
+        "separators": {
+            "accounts": "账户",
+            "collectibles": "Collectibles",
+            "investments": "服务"
+        },
+        "subscriptions": {
+            "actions": {
+                "edit": "Edit",
+                "goToExplorer": "Go to explorer",
+                "openThread": "Open thread",
+                "send": "Send",
+                "showAddress": "Show address",
+                "title": "Actions",
+                "transfer": "Transfer",
+                "viewHistory": "View history",
+                "viewKeys": "View keys"
+            },
+            "addressPlaceholder": "Account address",
+            "alreadyTracked": "You have already subscribed to this address",
+            "assetsSubtitle": "Subscriptions",
+            "namePlaceholder": "Account name",
+            "subscribeAndOpenBtn": "Subscribe and open a thread",
+            "subscribeBtn": "Subscribe",
+            "titleAdd": "Add Subscription",
+            "titleEdit": "Edit subscription",
+            "titleSubscription": "Subscription",
+            "unsubscribeBtn": "Unsubscribe"
+        }
+    },
+    "advancedSettings": {
+        "advancedSettingsButton": "高级设置",
+        "biometry": {
+            "button": "用{0}开锁",
+            "buttonFace": "使用面部解锁",
+            "buttonFingerprint": "使用指纹解锁",
+            "disabledFaceMessage": "面部解锁已禁用",
+            "disabledFingerprintMessage": "指纹解锁已禁用",
+            "disabledMessage": "{0}开锁断开的",
+            "enabledFaceMessage": "启用面部解锁",
+            "enabledFingerprintMessage": "启用指纹解锁",
+            "enabledMessage": "{0}开锁开动的",
+            "off": "关",
+            "on": "上",
+            "saveTitle": "保存生物识别数据"
+        },
+        "currencies": {
+            "button": "Currencies",
+            "title": "Currencies"
+        },
+        "languages": {
+            "button": "语言",
+            "hint": "本土化在\n进行中"
+        },
+        "localizationHelper": {
+            "disable": "Disable localization helper",
+            "enable": "Enable localization helper",
+            "hint": "Show localization path when hovering on text.\nAlt + Click for copying to clipboard"
+        },
+        "network": {
+            "btnAdd": "Add",
+            "btnRemove": "移除网络",
+            "btnUpdate": "Update",
+            "button": "Network",
+            "endpoint": "端点",
+            "endpointHint": "Please cut the number of endpoints to one address",
+            "name": "名字",
+            "title": "Network",
+            "titleAdd": "New network",
+            "titleEdit": "Edit network"
+        },
+        "suggestLanguage": {
+            "button": "Suggest language",
+            "hint": "If you can't find the language you want, please suggest it in the translation community."
+        },
+        "title": "高级设置"
+    },
+    "backupReminder": {
+        "logOut": "不备份登出",
+        "submit": "备份",
+        "text": "将密码保存到安全位置。如果您丢失密码，就不能回收您资金的访问。",
+        "title": "密码备份"
+    },
+    "chats": {
+        "bots": {
+            "chainRider": {
+                "messages": {
+                    "devIncomeCoinsMessage": "好极了! 现在你可以给你的朋友们送红宝石。只要邀请他们和你一起Surf",
+                    "devWelcomeMessages": [
+                        "嗨！",
+                        "我是链骑手，分机器人（分散式机器人）。我在这里帮助您Surf。首先，让我们通过充值来激活您的钱包。",
+                        "与您的朋友们分享您的钱包地址，以便他们可以向您发送代币。从您收到的第一笔转账中扣除一笔小额钱包启动费"
+                    ],
+                    "emptyChat": "与朋友们分享您的钱包地址……",
+                    "getCoinsMessages": [
+                        "红宝石仅用于测试目的。几分钟之内就可以拿到",
+                        "收到第一笔红宝石后，扣除少量的一次性钱包启动费"
+                    ],
+                    "goodSurfing": "冲浪愉快！",
+                    "incomeCoinsMessage": "好极了! 现在你可以给你的朋友们送TONs – 只要邀请他们和你一起Surf",
+                    "walletInitiation": "钱包启动",
+                    "welcomeMessages": [
+                        "嗨！",
+                        "我是链骑手，分机器人（分散式机器人）。我在这里帮助您Surf。首先，让我们通过充值来激活您的钱包。",
+                        "与您的朋友们分享您的钱包地址，以便他们向您发送代币。从您收到的第一笔转账中扣除一笔小额钱包启动费"
+                    ]
+                },
+                "name": "Chain Rider"
+            },
+            "debot": "分机器人",
+            "stakingBot": {
+                "messages": {
+                    "emptyChat": "为了下一个新的赌注，给我打电话……",
+                    "welcomeMessages": [
+                        "嗨，我是红宝石赌注，分机器人（分散式机器人），您的资产管理顾问。",
+                        "我在这里是为了帮助您赌注红宝石，增加您目前的赌注或取回或查看您的统计数据：收入和交易记录。"
+                    ]
+                },
+                "name": "红宝石赌注",
+                "shortcuts": {
+                    "makeStake": "下赌注",
+                    "showBalance": "显示余额",
+                    "stakeMore": "下赌注更多",
+                    "whatIsStaking": "赌注是什么？"
+                }
+            }
+        },
+        "button": {
+            "actions": {
+                "addToContacts": "添加到联系人",
+                "blockMessages": "阻止",
+                "buy": "购买",
+                "checkStakes": "检查赌注",
+                "devCoins": "得到红宝石",
+                "inviteFriends": "邀请朋友们",
+                "makeStake": "下赌注",
+                "save": "Save",
+                "shareAddress": "共享钱包地址",
+                "unblockMessages": "解除封锁",
+                "withdraw": "撤回"
+            },
+            "chat": "聊天",
+            "goToConversation": "去聊天"
+        },
+        "debots": {
+            "addressInput": {
+                "auto": "Select main address",
+                "enterAddress": "Enter your address",
+                "invalidAddress": "Invalid TON address.",
+                "manual": "Enter manually"
+            },
+            "agree": "I understand",
+            "agreement": "DeBot — third party service and may expose you to identity and other information disclosure that is out of the control of TON Surf.",
+            "blockchain": "Blockchain",
+            "browse": "Browse DeBots...",
+            "debot": "DeBot",
+            "debotError": "Oops!! I'm a little broken. Stay in touch",
+            "defaultHello": "Hi! I'm DeBot",
+            "encryptionBox": {
+                "encryptDecryptWithSurf": "使用 Surf 加密/解密"
+            },
+            "favorites": "Favorites",
+            "functionalUnsupported": "Oops!! The functionality is temporarily not supported. Stay in touch",
+            "history": "History",
+            "info": {
+                "about": "About",
+                "actions": "Actions",
+                "addToFavorites": "Add to favorites",
+                "addToFavoritesNotification": "DeBot added to favorites",
+                "author": "Author",
+                "creator": "Creator",
+                "donate": "Donate",
+                "error": {
+                    "failedToSaveFavorite": "Failed save favorite status. Try again later"
+                },
+                "goToExplorer": "Go to explorer",
+                "publisher": "by {0}",
+                "removeFromFavorites": "从收藏夹中删除",
+                "removeFromFavoritesNotification": "DeBot 从收藏夹中删除",
+                "showAddress": "Show address",
+                "version": "v. {0}",
+                "writeToDeveloper": "Write to developer"
+            },
+            "notFound": "Debot not found",
+            "nothingFound": "Nothing found",
+            "open": "Open DeBot",
+            "recommended": "Recommended",
+            "restart": "Restart",
+            "search": "Enter DeBot address…",
+            "searching": "Searching...",
+            "securityCard": {
+                "notSupport": "Unfortunately your device does not support NFC, which is required for proper operation. Please turn it on, or use another device."
+            },
+            "signingBox": {
+                "signWithSurf": "Sign with Surf",
+                "signature": "Signature"
+            },
+            "title": "DeBots"
+        },
+        "error": {
+            "failedToLoad": "无法加载聊天。请稍后再试",
+            "failedToSend": "发送消息失败。请稍后再试"
+        },
+        "labels": {
+            "address": "免费的TON钱包地址",
+            "establishingConnection": "正在建立安全连接……",
+            "today": "今天",
+            "yesterday": "昨天"
+        },
+        "message": {
+            "attention": "注意",
+            "enableFromSettings": "请直接从您的设备设置启用访问权限",
+            "enableFromSettingsTitle": "发送图片",
+            "invitationAcceptance": "嗨，我已经接受你的邀请了。跟随连接。",
+            "invitationAcceptanceTitle": "跟随连接！",
+            "invitationAlert": "嗨，您想邀请{0}开始使用{APP_NAME}吗？",
+            "invitationBody": "您被邀请聊天了。令人兴奋！",
+            "invitationError": "发送邀请失败。请再试一次",
+            "invitationFailure": "无法发送邀请加入{APP_NAME}",
+            "invitationForReceiver": "用户邀请您",
+            "invitationForSender": "受您邀请",
+            "invitationSuccess": "加入{APP_NAME}的邀请已成功发送。",
+            "invitationTitle": "加入我！",
+            "messageTooLong": "您的消息超过{0}个字符。",
+            "messagesBlockedByYou": "您阻止了消息",
+            "messagesUnblockedByYou": "您解除了邮件的阻止",
+            "tapToResend": "为了重新发送，点按这里",
+            "tapToSendAgain": "为了再一次发送，点按这里",
+            "userBlockedMessages": "用户阻止的邮件",
+            "userUnblockedMessages": "用户取消阻止的邮件"
+        },
+        "notice": {
+            "heyUser": "嗨{0}",
+            "invitationReceipt": "您的朋友{0}邀请您连接到{APP_NAME}。确认并开始聊天",
+            "start": "开始"
+        },
+        "toast": {
+            "invitationSuccess": "您已成功邀请新用户！",
+            "messagesBlocked": "阻止的邮件",
+            "messagesUnblocked": "已取消阻止邮件"
+        }
+    },
+    "contacts": {
+        "addContact": "添加联系人",
+        "addressBookContacts": "通讯录",
+        "contactCreated": "已创建新联系人",
+        "contactDeleted": "联系人已删除",
+        "contactUpdated": "联系信息已更新",
+        "createAndContinue": "创建并继续",
+        "deleteContact": "删除",
+        "editContact": "编辑联系",
+        "error": {
+            "failedToDelete": "删除联系人失败。请稍后再试",
+            "failedToSendSMSInvitation": "发送短信邀请失败",
+            "failedToUpdate": "无法更新联系人。请稍后再试"
+        },
+        "friends": "朋友们",
+        "giveAccessToContacts": "允许访问您的联系人",
+        "info": {
+            "firstName": "名字",
+            "lastName": "姓",
+            "tonAddress": "免费钱包地址"
+        },
+        "invitation": {
+            "view": {
+                "button": "Share a personal invitation",
+                "hint": "We will create a chat and contact with that name as soon as your invitation is accepted.",
+                "placeholder": "Name..."
+            }
+        },
+        "inviteFriends": "邀请朋友们",
+        "inviteMessage": "嘿，猜猜我发现了什么？一个伟大的免费TON钱包和一个手机银行，所有在一个！听起来不错？然后点击链接获取TON冲浪应用程序：\n\n{INSTALL_LINK_HOST}",
+        "inviteToApplication": "邀请参加{APP_NAME}",
+        "newContact": "新联系人",
+        "otherContacts": "联系人",
+        "recentContacts": "最近联系人",
+        "remove": "从联系人中删除",
+        "saveAndClose": "保存并关闭",
+        "searchForAction": "按姓名或地址搜索……",
+        "searchFriends": "搜索朋友……",
+        "selectRecipient": {
+            "deliveryHint": {
+                "email": "通过电子邮件发送",
+                "share": "直接分享",
+                "sms": "通过短信发送"
+            },
+            "retry": "重试",
+            "sendButton": {
+                "email": "发电子邮件",
+                "share": "共享链接",
+                "sms": "发短信"
+            },
+            "sendManually": "直接分享"
+        },
+        "shareApplication": "分享{APP_NAME}",
+        "support": "助理",
+        "supportNotAvailable": "助手暂时不可用，请稍后再试",
+        "undo": "撤消",
+        "update": "更新"
+    },
+    "currencies": {
+        "crypto": {
+            "BTC": "Bitcoin",
+            "ETH": "Ethereum"
+        },
+        "fiat": {
+            "EUR": "Euro",
+            "USD": "US Dollar"
+        },
+        "types": {
+            "crypto": "Crypto",
+            "fiat": "Fiat"
+        }
+    },
+    "debotsOptions": {
+        "title": "机器人选项"
+    },
+    "donate": {
+        "title": "捐赠给Surf"
+    },
+    "feedback": {
+        "mainComponent": {
+            "inputContactPlaceHolder": "您的电子邮件或电话号码",
+            "inputFeedbackPlaceHolder": "描述您的问题或想法。。。",
+            "invalidContact": "无效的电子邮件或电话号码",
+            "sendFeedback": "发送",
+            "title": "分享您的想法"
+        },
+        "reportProblem": "报告问题",
+        "sent": "感谢您帮助我们让世界变得更美好！",
+        "shareYourIdeasButton": "分享您的想法"
+    },
+    "getTONs": {
+        "contests": {
+            "governance": "Governance",
+            "title": "Contests"
+        },
+        "exchanges": {
+            "bitcoin": "Bitcoin.com",
+            "coineal": "Coineal",
+            "digifinex": "DigiFinex",
+            "hitbtc": "HitBTC",
+            "kuna": "Kuna",
+            "mexc": "MEXC",
+            "title": "Exchanges"
+        },
+        "title": "Get TONs",
+        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+    },
+    "interfaceOptions": {
+        "assetsBalance": {
+            "button": "资产余额"
+        },
+        "confirmationOfSending": {
+            "button": "确认发送"
+        },
+        "interfaceOptionsButton": "接口选项",
+        "nightTheme": {
+            "button": "夜间主题"
+        },
+        "promoCards": {
+            "button": "促销卡"
+        },
+        "title": "Interface options"
+    },
+    "legalNotes": {
+        "businessDetails": {
+            "address": {
+                "title": "地址",
+                "value": "Tuukri 19-314, 10152 塔林, 爱沙尼亚"
+            },
+            "company": {
+                "title": "公司",
+                "value": "钱包解决方案有限公司"
+            },
+            "copyright": {
+                "title": "著作权",
+                "value": "TON实验室（TON创业工作室有限公司）"
+            },
+            "email": {
+                "body": "地址：{0}\n版本：{1}\n{2}:{3}\n设备：{4}",
+                "subject": "报告问题",
+                "title": "电子邮件"
+            },
+            "faq": {
+                "title": "帮助中心"
+            },
+            "licence2": {
+                "title": "许可证",
+                "value": "提供将法定货币兑换成虚拟货币的服务FRK001293 爱沙尼亚FIU于28.02.2020发行。"
+            },
+            "licence": {
+                "title": "许可证",
+                "value": "提供虚拟货币钱包服务FVR001411爱沙尼亚FIU于28.02.2020发行。"
+            },
+            "phone": {
+                "title": "电话",
+                "value": "+372 7124030"
+            },
+            "registration": {
+                "title": "登记号",
+                "value": "2004764， BVI"
+            },
+            "site": {
+                "title": "网站",
+                "value": "ton.surf"
+            },
+            "title": "业务详细信息"
+        },
+        "confirmation": {
+            "antiFraud": "我已经阅读并接受反欺诈政策",
+            "common": "我已阅读并接受",
+            "confirm": "确认",
+            "cookies": "我已阅读并接受Cookies政策",
+            "gotIt": "明白了",
+            "kycAml": "我已阅读并接受认识你的客户(KYC)和反洗钱(AML)政策",
+            "makeSure": "你好， 让我们做正确的事， 从协议和政策开始：",
+            "openUrl": "打开法律声明",
+            "privacyPolicy": "我已阅读并接受隐私政策",
+            "termsOfUse": "我已阅读并接受使用条款",
+            "title": "接受继续"
+        },
+        "mainScreen": {
+            "businessDetails": "业务详细信息",
+            "cookiesPolicy": "Cookies政策",
+            "privacyPolicy": "隐私政策",
+            "surfDecentralizationPolicy": "冲浪分权政策",
+            "termsOfUse": "使用条款",
+            "title": "法律声明"
+        },
+        "profileButtonTitle": "分权政策"
+    },
+    "lockScreen": {
+        "PINCorrect": "PIN码正确",
+        "PINNotCorrect": "PIN错误",
+        "attention": {
+            "text": "强烈建议您，在登出之前备份您的{HD_WORD_COUNT}密码。\n\n如果您忘记了PIN码或登出了应用程序，备份是恢复冲浪的访问的唯一选择。丢失密码意味着不可逆转的存取您的资金的损失。",
+            "title": "注意"
+        },
+        "biometryFailed": "尝试太多了。请稍后再试",
+        "deleteAndExit": "Delete and exit",
+        "logout": "登出",
+        "temporarilyBlocked": "暂时阻止",
+        "tryAgainLater": "再试一次{0}",
+        "unlock": "解锁",
+        "youHaveNAttemptsRemaining": "您还剩下{0}次尝试"
+    },
+    "memoryCheck": {
+        "mainComponent": {
+            "description": "确保您有可用的密码，并在下面输入。",
+            "doneButton": "好了， 我们走了！",
+            "title": "内存检查"
+        },
+        "memoryCheckButton": "已保存了。再检查一遍"
+    },
+    "multiWallets": {
+        "addWallet": "Add wallet",
+        "create": "Create wallet",
+        "defaultWalletName": "My Surf",
+        "editWallet": "Edit wallet",
+        "manage": "管理",
+        "manageWallets": "管理钱包",
+        "migrate": "Migrate wallet to Surf",
+        "name": "名字",
+        "nameTaken": "Choose another name. This one is taken already",
+        "newWalletName": "钱包",
+        "pair": "Bind hardware wallet with account",
+        "removeWallet": "移除钱包",
+        "restore": "Restore wallet",
+        "restoreHint": "You can restore a wallet created in Surf only",
+        "update": "更新",
+        "walletNotUnique": "Same address wallet has been added already",
+        "wallets": "钱包"
+    },
+    "networks": {
+        "errors": {
+            "nameTaken": "指定另一个名称。这个已经拿走了。",
+            "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection."
+        },
+        "names": {
+            "mainnet": "Mainnet",
+            "rustnet": "Rustnet",
+            "tonlabs": "开发网"
+        },
+        "sections": {
+            "custom": "自定义网络",
+            "main": "Main network",
+            "test": "Test networks"
+        }
+    },
+    "operationsHistory": {
+        "button": "操作历史",
+        "empty": "还没有交易",
+        "title": "操作历史"
+    },
+    "profile": {
+        "otherProducts": "其他产品",
+        "questionsAndAnswers": "问题和回答",
+        "rate": "Rate Surf"
+    },
+    "questionsAndAnswers": {
+        "accountManagement": "客户管理",
+        "buysSells": "买卖",
+        "emergency": "紧急情况",
+        "freeTonTons": "Free TON 和TON代币",
+        "limitsStatusesAndPromos": "限制，状态和促销",
+        "securityPrivacy": "安全和隐私",
+        "servicesTransactions": "服务和交易",
+        "title": "问题和解答"
+    },
+    "rebalance": {
+        "amount": "数量",
+        "amountIsLow": "转账金额太低",
+        "confirm": "确认",
+        "congrats": "恭喜您改变生活。永远不会痛。",
+        "currencies": {
+            "CRYSTAL": {
+                "comment": "Free TON tokens",
+                "stake": "Crystal Stakes",
+                "title": "My Crystals"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "stake": "",
+                "title": "My {0} tokens"
+            },
+            "RUBY": {
+                "comment": "Free TON test tokens",
+                "stake": "Ruby Stakes",
+                "title": "My Rubies"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "stake": "",
+                "title": "My Surf Medals"
+            }
+        },
+        "disableAutoresume": "禁用自动恢复",
+        "from": "从",
+        "insufficientBalance": "余额不足。",
+        "notEnoughBalance": "您的开发网账户没有足够的资金来支付网络费用。",
+        "oneMore": "多一个",
+        "success": "转移成功",
+        "to": "至",
+        "toTransfer": "为了传输代币，请禁用自动更新。",
+        "toTransferMore": "为了传输{0}多代币，请禁用自动更新。",
+        "transfer": "转移",
+        "transferAll": "转移所有",
+        "willBeAvailable": "代币可在{0}内提取"
+    },
+    "restorePassword": {
+        "mainComponent": {
+            "description": "这里是您的冲浪主口令。把它写下来，并留在一个安全的位置。",
+            "title": "主口令"
+        },
+        "restorePasswordButton": "主口令"
+    },
+    "safetyProtection": {
+        "PINChangeFailed": "更改PIN码失败",
+        "PINChangeSuccess": "PIN已更改",
+        "PINCorrect": "PIN码正确",
+        "PINDoesNotMatch": "PIN码不匹配",
+        "PINNotCorrect": "PIN码错误",
+        "TONAddress": "免费TON地址",
+        "address": "地址",
+        "addressAndKeys": "地址和密钥",
+        "altAddress": "备用地址格式",
+        "biometry": {
+            "face": "脸",
+            "faceID": "面部识别功能",
+            "fingerprint": "指纹",
+            "iris": "虹膜识别",
+            "touchID": "指纹识别功能"
+        },
+        "changePinCode": "更改PIN",
+        "confirmNewPin": "确认PIN",
+        "enterNewPin": "新PIN",
+        "enterPin": "输入您的PIN",
+        "hidePrivateKey": "隐藏私钥",
+        "isCopied": "复制到剪贴板",
+        "lockApp": "Lock app",
+        "lockMethod": {
+            "button": "锁定方法",
+            "title": "锁定方法"
+        },
+        "logOut": {
+            "button": "Delete local data and exit",
+            "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
+        },
+        "neverShare": "您的私钥可授予任何人您资金的完全访问权限。您永远不要与不信任的人或应用共享它。",
+        "noThanks": "不要， 谢谢",
+        "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
+        "privateKey": "私有密钥",
+        "publicKey": "公开密钥",
+        "safelyShare": "您的钱包地址和公钥可以安全地与任何人共享。",
+        "safetyProtectionButton": "安全保护",
+        "safetyRules": {
+            "buttonTitle": "安全规则",
+            "description": "这些简单的规则可以帮助您保证你的资金安全。",
+            "gotItButton": "明白了",
+            "rules": [
+                "仅从经过验证的来源安装Surf（苹果应用商店、谷歌应用商店）。",
+                "备份主口令。理想情况下，它应该存储在只有您才能访问的位置在纸张上。切勿将其与冲浪放在同一设备上。",
+                "除了冲浪以外，不要向任何人或应用序透露您的主口令。只要使用来恢复冲浪钱包的访问。",
+                "使用容易记住，也永远不要写下来的PIN码。不要在其他应用中使用相同的PIN码。不要与任何人分享。",
+                "使用安全卡实现最大钱包安全。有了它，你将能够恢复访问，即使你失去了主口令。"
+            ],
+            "screenTitle": "安全规则"
+        },
+        "securityCard": {
+            "activateAnotherCard": "激活另一张卡",
+            "activation": "激活",
+            "cardCode": "卡代码",
+            "cardConnected": "已连接卡。",
+            "cardConnection": "卡连接……",
+            "cardsReadyToUse": {
+                "btn": "明白了！",
+                "description": "激活的卡是一样的。我们建议使用一个来确认操作，然后将另一个隐藏在安全的地方。",
+                "title": "卡可以使用了"
+            },
+            "checkingCardIntegrity": "检查卡完整性……",
+            "codeScanning": "代码扫描……",
+            "comingSoonText": "我们也期待着安全卡将打开的所有新的可能性。",
+            "comingSoonTitle": "即将推出",
+            "confirm": "确认",
+            "confirmAndBuy": "确认并购买",
+            "confirmAndOrder": "确认并订购",
+            "connectionStatuses": {
+                "connected": {
+                    "description": "保持这张卡在你旁边",
+                    "title": "连接的"
+                },
+                "connecting": {
+                    "description": "点按安全卡",
+                    "title": "连接……"
+                },
+                "connectionLost": {
+                    "description": "尝试重新连接",
+                    "title": "丢失连接"
+                },
+                "error": {
+                    "description": "",
+                    "title": ""
+                },
+                "lookingFor": {
+                    "description": "放卡更近",
+                    "title": "试图找到……"
+                },
+                "processing": {
+                    "description": "不要取出卡",
+                    "title": "处理中……"
+                },
+                "success": {
+                    "description": "可以取出卡",
+                    "title": "成功"
+                }
+            },
+            "continue": "继续",
+            "deactivate": "停用卡",
+            "deactivateApprovalDescription": "卡将只对这个账户有效，您需要重复激活。",
+            "deactivateApprovalTitle": "停用安全卡吗？",
+            "deactivateBtn": "禁用",
+            "deactivateDescription": "您可以立即重新激活它们。",
+            "deactivatedCards": "安全卡已禁用了",
+            "details": "细节",
+            "detailsText": "Surf不会跟踪您以及您的使用情况。 Surf不收集您的任何数据。我们不使用任何分析软件。我们甚至简单的跟踪器都没有。没有coolies。没有个人数据处理。什么都没有。这是我们的志向，也是我们的使命。\n\n请注意！不过，我们无法控制其他第三方的服务，可能会自行决定是否自愿收集和使用您的数据。在接受在冲浪中使用其服务之前，您应审慎并非常谨慎地查看其隐私，cookies，使用条款以及任何及所有其他具有合同约束力的政策和文档。",
+            "detailsTitle": "正如我们在分权政策上已经提到的",
+            "enterCode": "输入代码",
+            "enterCodeDescription": "输入卡上的代码，将卡放在设备旁边以创建连接。",
+            "free": "免费",
+            "included": "包括在内",
+            "keepInformed": "好的， 随时通知我",
+            "laterBtn": "不是，以后",
+            "learnMore": {
+                "developers": {
+                    "description": "使用Free TON SDK您可以为自己的智能合约和用例编程卡",
+                    "title": "为开发人员提供开源"
+                },
+                "development": {
+                    "description": "把Free TON SDK变成你的。您可以为自己的智能合约和用例编程卡",
+                    "title": "开源且可扩展"
+                },
+                "personalization": {
+                    "description": "从下订单开始就为您个性化。硬件生成的加密私钥永远不会泄露",
+                    "title": "从一开始就为您个性化"
+                },
+                "personalized": {
+                    "description": "您的卡从订单放置之时起分配给您的账户，不会泄露",
+                    "title": "从订单放置个性化"
+                },
+                "protectTech": {
+                    "description": "单芯片设计，EAL 6+认证，正式验证多签名钱包智能合约和加密，保证您的资产安全。您的私钥永远不会泄露，甚至不会泄露给您！",
+                    "title": "尖端的安全技术"
+                },
+                "simpleness": {
+                    "description": "没有电池，没有电缆，没有插头。轻松放入钱包或口袋。在不到2分钟的时间内通过移动设备上的NFC激活卡",
+                    "title": "易于获得，易于使用"
+                },
+                "technology": {
+                    "description": "单芯片设计，EAL 6+认证，正式验证多签名钱包智能合约和加密，保证您的资产安全",
+                    "title": "尖端的安全技术"
+                },
+                "title": "好处"
+            },
+            "menuTitle": "安全卡",
+            "moreFeaturesSoon": "安全卡的更多功能即将出现。",
+            "options": "选项",
+            "order": "订购",
+            "orderName": "Ton 实验室安全卡",
+            "orderStatuses": {
+                "confirming": "准备好",
+                "gettingReady": "准备好",
+                "onItsWay": "在途中",
+                "processed": "处理",
+                "reactivate": "需要重新激活",
+                "reorder": "请调整顺序"
+            },
+            "orderStep": "第{0}步，共4步",
+            "paymentDetails": "付款信息",
+            "promoBtn": "订购卡片",
+            "promoText": "个性化的硬件钱包，用于签署交易和存储您的私钥。",
+            "promoTitle": "一个更简单的方法来保证您的资金安全",
+            "purchaseSuccessMsg": "祝贺！您成功购买了安全卡。要跟踪交货状态，请致电安全卡借记",
+            "purchaseSuccessTitle": "购买成功",
+            "putCardOnPhoneDescription": "要激活卡，请将其放在手机背面并保持不放",
+            "putCardOnPhoneTitle": "将卡放在手机上",
+            "readingCardData": "正在读取卡数据……",
+            "recipientInfo": "收件人信息",
+            "reissue": "补发卡",
+            "reissueApprovalDescription": "当一张卡重新发行时，所有其他卡都将被暂时停用",
+            "reissueApprovalTitle": "重新补发安全卡吗？",
+            "reissueBtn": "补发",
+            "reissueDescription": "当一张卡重新发行时，所有其他卡都将被暂时停用",
+            "reviewOrder": "订单汇总",
+            "scanCode": "扫描代码",
+            "scanCodeDescription": "扫描卡上的代码，将卡放在设备旁边以创建连接。",
+            "screenTitle": "安全卡",
+            "shareSecurityCardMessage": "Free Ton 区块链上完全个性化的硬件钱包：从订单放置的那一刻起, 只有您拥有并控制它。\n\n{0}",
+            "shareSecurityCardSubtitle": "安全卡\nTON实验室",
+            "shareSecurityCardSuccess": "链接复制到剪贴板。",
+            "shipping": "航运",
+            "shippingAddress": "收货地址",
+            "signTransfers": "签署转账",
+            "signTransfersDisabled": "转移签名已禁用了",
+            "signTransfersEnabled": "启用转移签名",
+            "statusInfo": {
+                "confirming": {
+                    "button": "很好！",
+                    "description": "我们正在确保一切准备就绪的卡问题。您将收到结果通知。",
+                    "title": "准备好"
+                },
+                "gettingReady": {
+                    "button": "很好！",
+                    "description": "我们正在确保一切准备就绪的卡问题。您将收到结果通知。",
+                    "title": "准备好"
+                },
+                "onItsWay": {
+                    "button": "跟踪",
+                    "description": "卡快到了， 它的追踪号码： {0}。卡一到， 就尽快激活它。",
+                    "title": "在途中",
+                    "txtButton": "启用"
+                },
+                "processed": {
+                    "button": "明白了！",
+                    "description": "卡片差不多准备好了。不久，它将被转移到送货服务。",
+                    "title": "处理"
+                },
+                "reorder": {
+                    "button": "调整顺序",
+                    "description": "无法发出卡：您输入的一些数据存在错误。",
+                    "title": "请调整顺序",
+                    "txtButton": "得到帮助"
+                }
+            },
+            "subtotal": "小计（{0}项）",
+            "tapSecurityCard": "点击安全卡",
+            "tapSecurityCardDescription": "点击卡以确认操作。",
+            "taxAndFees": "税收和费用",
+            "techSpecs": {
+                "dimensions": {
+                    "description": "我们希望使硬件钱包方便易用，并设计为付款卡形状：85.6毫米×53.98毫米×0.76毫米。",
+                    "title": "尺寸"
+                },
+                "extended": {
+                    "description": "卡上有120 KB的可用空间，因此您可以在卡上写入自己的数据。\n\n我们为您提供开源的Free TON SDK，您可以使用自己的智能合约对卡进行编程，并使用它，例如，作为支付卡、建筑物访问卡或您想要的",
+                    "title": "扩展使用"
+                },
+                "extendedUse": {
+                    "description": "卡上有120 KB的可用空间，因此您可以在卡上写入自己的数据。\n\n我们为您提供开源的TON Labs API，您可以使用自己的智能合约对卡进行编程，并使用它，例如，作为银行卡、建筑物访问卡或随便你想要什么",
+                    "title": "扩展使用"
+                },
+                "hardware": {
+                    "description": "为了保证无故障运行并减轻安全风险，我们使用了仅NFC的单芯片设计（ISO 14443）和经过认证的安全芯片SE CC EAL 6+。",
+                    "title": "硬件"
+                },
+                "protection": {
+                    "description": "安全和隐私是我们的首要任务。我们使用CC EAL 6+ 英飞凌安全元件，通过设计保护免受侧通道攻击。\n您的主密码（种子短语）永远不会离开卡。\n您的卡从您下订单的那一刻起便被分配到您的账户，并且只能为用于订购它的加密钱包激活。",
+                    "title": "保护"
+                },
+                "title": "技术规格"
+            },
+            "total": "总计",
+            "turningOnCardWallet": "打开卡钱包……",
+            "understand": "明白了",
+            "verifyIdentity": "验证您的身份",
+            "verifyIdentityDescription": "看屏幕",
+            "waitlist": {
+                "added": "您已添加到等候名单。开卡订购后，我们会尽快通知您",
+                "addedToastMsg": "您已添加到等候名单",
+                "comingThisDecemberBtn": "今年十二月来",
+                "description": "Free TON的TON Labs安全卡是独特的NFC智能卡 – 它可以保护您的数据安全，并可以根据您的需要进行调整",
+                "joinWaitlistBtn": "加入候补名单",
+                "learnMoreBtn": "了解更多",
+                "policy": "通过Free TON区块链的TON Labs安全卡，您接受条款和政策",
+                "techSpecsBtn": "技术规格",
+                "title": "不仅仅是一个硬件钱包"
+            }
+        },
+        "showPrivateKey": "显示私钥",
+        "title": "安全保护",
+        "verifyYourIdentity": "验证您的身份"
+    },
+    "security": {
+        "readMore": "多阅读",
+        "screenshotWarning": "不要拍照或截图。其他应用程序可以访问它们。把所有的东西都写在纸上，放在安全的地方。",
+        "thirdPartyServicesWarning": "您在离开安全港。第三方服务可能会收集和使用您的私人数据。",
+        "title": "安全警告!",
+        "understand": "明白了"
+    },
+    "sendGram": {
+        "deposit": "Deposit",
+        "fee": "费用",
+        "feeAmount": "≈ {0}",
+        "makeAnotherTransfer": "传输再一次",
+        "maxValueAlert": "余额为零时，您将无法执行某些操作。如果您打算继续使用此账户，请考虑在余额上保留一些代币",
+        "minValueAlert": "最小传输金额是{0}代币",
+        "operationPreview": {
+            "amount": "数量",
+            "comment": "评论",
+            "commentEncrypted": "Encrypted comment cannot be decrypted by anyone, other than its sender and recipient",
+            "commentUnencrypted": "Unencrypted comment will be visible to everyone on the blockchain",
+            "encrypted": "加密的",
+            "fees": "费用",
+            "from": "从",
+            "immediately": "立即",
+            "no": "不",
+            "send": "发送",
+            "time": "时间",
+            "title": "操作预览",
+            "to": "至",
+            "yes": "对"
+        },
+        "sendAll": "发送所有",
+        "sendSuccessButton": "打开聊天",
+        "sendSuccessDescription": "恭喜！您的传输刚刚到达目的地。",
+        "sendSuccessTitle": "传输成功",
+        "sendTo": "至",
+        "title": "发送代币",
+        "transfer": "Transfer",
+        "transferSendTitle": "传输已发送了"
+    },
+    "settings": {
+        "title": "设置"
+    },
+    "setup": {
+        "confirmLocalPassword": {
+            "placeholder": "重复密码",
+            "success": "成功。"
+        },
+        "firstInteractions": {
+            "notifications": {
+                "button": "接收消息",
+                "description": "请启用消息，这样您不会错过来自其他用户的消息和传输，重要的Surf更新。",
+                "title": "重要消息"
+            },
+            "protection": {
+                "button": "启用保护",
+                "descriptionFace": "为了确保只有您能访问您的冲浪，请启用面部识别。",
+                "descriptionFinger": "为了确保只有您能访问您的冲浪，请启用指纹。",
+                "title": "附加保护"
+            },
+            "remindLater": "稍后提醒我"
+        },
+        "main": {
+            "earlyAccess": {
+                "button": "明白了",
+                "description": "TON Labs 很高兴能向公众发布 TON Surf！仍然是早期访问，所以可能发生意外行为。",
+                "devDescription": "TON 实验室很高兴能向公众发布 TON冲浪！仍然是早期访问与免费 TON 测试红宝石，所以可能发生意外行为。",
+                "title": "重要"
+            },
+            "securityCard": {
+                "create": "链接新冲浪",
+                "restore": "链接到现有"
+            },
+            "wallet": {
+                "create": "创建钱包",
+                "restore": "恢复"
+            }
+        },
+        "newPhraseView": {
+            "details": "把这些话都写在纸上，放在安全的地方。如果您丢失或重新安装钱包，您将需要它们。"
+        },
+        "pinCode": {
+            "confirmPin": "确认PIN码",
+            "createPin": "创建PIN码",
+            "enterPin": "输入您的PIN码",
+            "itWorkLocal": "它只能在这个设备上工作。"
+        },
+        "promoCards": {
+            "backupPassword": {
+                "initial": "恢复\n主口令"
+            },
+            "card": {
+                "initial": "为了法定和加密货币，使用同一张卡"
+            },
+            "faq": {
+                "initial": "常问问题"
+            },
+            "stakeDeposit": {
+                "initial": "让代币\n赚您\n利润"
+            }
+        },
+        "restore": {
+            "button": "登录",
+            "description": "使用密码备份登录。",
+            "hint": "12或24个词",
+            "masterPassword": "主口令",
+            "title": "恢复冲浪"
+        },
+        "start": {
+            "securityCard": {
+                "description": "为了最大化安全性每张卡都链接到您的冲浪账户",
+                "title": "卡个性化"
+            },
+            "wallet": {
+                "description": "冲浪以获得最佳机会，保持安全并做出明智的决定。",
+                "title": "让冲浪帮助您浏览免费TON区块链"
+            }
+        },
+        "welcome": {
+            "item1": {
+                "description": "免费，私人且轻松\n 区块链接口\n 对于聪明的人"
+            },
+            "item2": {
+                "description": "免佣金\n和快速的交易\n在世界上任何地方"
+            },
+            "item3": {
+                "description": "少说话\n更多交流\n通过安全的聊天"
+            },
+            "item4": {
+                "description": "真正的\n360度安全\n仅在您的控制之下"
+            }
+        }
+    },
+    "signatures": {
+        "actions": {
+            "deriveThreePairs": "Derive 3 pairs of keys",
+            "importKeys": "Import keys"
+        },
+        "defaultSignatureName": "Signature",
+        "details": {
+            "name": "Name",
+            "privateKey": "Private key",
+            "publicKey": "Public key",
+            "publicKeyCopied": "Public key copied to clipboard",
+            "showKey": "Show key",
+            "title": "Signature"
+        },
+        "mainSignature": "My Surf",
+        "medalSignatures": {
+            "bronzeKeys": "Bronze keys",
+            "goldenKeys": "Golden keys",
+            "silverKeys": "Silver keys"
+        },
+        "securityCard": {
+            "name": "安全卡",
+            "serialNumber": "序号",
+            "serialNumberCopied": "序列号已复制到剪贴板"
+        },
+        "title": "Signatures",
+        "types": {
+            "digital": "数字的",
+            "hardware": "硬件"
+        }
+    },
+    "stake": {
+        "about": {
+            "button": "明白了！",
+            "description": "创建stake以参与Free TON区块验证并从中获利。\n\nStake被汇总到参与验证者选举的节点中。当选举开始，stake被锁定。\n\n如果您的节点丢失，stake被释放。如果获胜，stake将保持锁定，直到验证回合结束。当回合结束时，stake和收益将返还给用户。\n\n做一个stake或者启用自动恢复选项以运行多个交替的可再生stake。\n\n请注意，由于验证人的不当行为存在全部或部stake损失的风险。",
+            "title": "Stake是什么?"
+        },
+        "bot": {
+            "autoresumeDisable": "禁用自动恢复",
+            "autoresumeDisabled": "自动恢复已禁用",
+            "autoresumeEnable": "启用自动恢复",
+            "autoresumeEnabled": "自动恢复已启用",
+            "autoresumeFee": "自动恢复费",
+            "available": "{0}可提取",
+            "compliment": "恭维",
+            "deposit": "{0}已添加到stake，可用于下一轮。自动恢复选项已启用。",
+            "errors": {
+                "autoresume": "余额不足，无法进行交易。请充值",
+                "closedPool": "Stake池被关闭",
+                "default": "发生了错误。您的资金转回了您的冲浪钱包",
+                "lessThanMinStake": "拒绝了Stake：stake量小于允许的最小stake量",
+                "noRoundsInPool": "Stake池中没有回合。",
+                "notEnoughFeesForOperation": "交易失败：收款额不足",
+                "roundIsFull": "已达到Stake限制。不接受新的stakes。请等到下一轮。",
+                "stakeDeposit": "无法打开Stake存款。",
+                "stakeholderHasNoStakeInPool": "对于指定的利益相关者未检测到stake",
+                "success": "资金已成功添加到存款",
+                "withdraw": "现在没有可以提取的代币。确保禁用自动恢复选项以提取stake",
+                "withdrawError": "目前无法提取资金。请稍后再试。"
+            },
+            "noRewardMessages": {
+                "lostElections": "选举失败",
+                "missedElections": "选举被错过",
+                "nodeStakeTooSmall": "节点stake太小",
+                "notEnoughTotal": "总stake是不够的",
+                "poolClosed": "池被关闭",
+                "roundWasFinished": "回合被提前终止，没有奖励支出。原因：{0}",
+                "stakeRejected": "stake被拒绝了",
+                "wentWrong": "出了点问题"
+            },
+            "reinvest": "{0}重新stake到下一轮",
+            "reward": "奖励",
+            "stakeDeposit": "Stake",
+            "stakeWithdraw": "提取",
+            "stakingFee": "Stake费",
+            "withdrawFunds": "提取资金",
+            "withdrawalFee": "提取费"
+        },
+        "dePoolStaking": {
+            "age": {
+                "definition": " – this indicates how many rounds this DePool has been active.",
+                "term": "Age"
+            },
+            "annualReward": {
+                "definition": " – this is the expected annual interest rate of your stake, provided the DePool succesfully validates for the whole year.",
+                "term": "Annual reward"
+            },
+            "anonymity": "Complete anonymity",
+            "assurance": {
+                "definition": " – this is the minimum amount of tokens the DePool owner is obliged to invest each validation round, and these funds will be the first lost, in case of any validator node malfunction. Only if they are not enough to cover the losses of the total stake, will the funds of other pool members be affected. This way the DePool owner is strongly motivated to maintain proper operation of the validator node.",
+                "term": "Assurance"
+            },
+            "availablePool": {
+                "definition": " – this is the maximum amount you can currently stake in Surf DePools.",
+                "term": "Available pool"
+            },
+            "balance": {
+                "definition": " – this is the total amount of funds in the DePool.",
+                "term": "Balance"
+            },
+            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
+            "contribution": "Contribution to blockchain infrastructure and decentralization",
+            "dash": "—",
+            "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
+            "fundsControl": "Full control of your funds",
+            "lockUpPeriod": {
+                "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
+                "term": "Lock-up period"
+            },
+            "members": {
+                "definition": " – this is the current number of members in the DePool.",
+                "term": "Members"
+            },
+            "minStake": {
+                "definition": " – this is the minimum stake set in the DePool. You cannot stake less than this amount.",
+                "term": "Min.Stake"
+            },
+            "replenishment": "Replenishment is allowed",
+            "rewardFee": {
+                "definition": " – this is the percentage of your reward that goes to the DePool owner for maintaining the DePool and the validator node.",
+                "term": "Reward fee"
+            },
+            "rewardPaid": {
+                "definition": " – this is how much all participants of Surf DePools have earned in total up until now.",
+                "term": "Reward paid"
+            },
+            "staking": "Staking is a new way of depositing funds on the blockchain. Delegate tokens to DePool smart contract and enjoy your rewards every day. And you also get benefits.",
+            "successful": {
+                "definition": " — percentage of all validation rounds the DePools participated in, where it won validator elections, successfully completed validation and received its reward.",
+                "term": "Successful rounds"
+            },
+            "title": "DePool staking",
+            "withdrawal": "Full withdrawal at any time without losing accrued rewards"
+        },
+        "decode": {
+            "inDePool": "staked in round.",
+            "reinvest": "Reward reinvested.",
+            "reward": "Your reward for this round is"
+        },
+        "details": {
+            "autoresume": "自动恢复",
+            "available": "可用的",
+            "current": "Stake了",
+            "income": "预期收入",
+            "off": "关闭",
+            "on": "开启",
+            "period": "Stake期间",
+            "stakingPeriod": "{0}分钟",
+            "title": "平衡"
+        },
+        "info": {
+            "button": "好的， 随时通知我",
+            "description": "就像您一样，我们迫不及待赌注的推出来享受其收益",
+            "title": "即将推出"
+        },
+        "main": {
+            "button": "重新平衡"
+        },
+        "promo": {
+            "about": "About",
+            "stakeNow": "Stake now",
+            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
+            "title": "Earn {0} % a year just for holding crystals"
+        },
+        "stakingScreen": {
+            "about": "About",
+            "advancedFeatures": "高级功能",
+            "age": "Age",
+            "assurance": "Assurance",
+            "availablePool": "Available pool",
+            "balance": "Balance",
+            "btnBreakUnstake": "Decline withdrawal",
+            "btnRestake": "Restake",
+            "btnStake": "Stake",
+            "btnStakeAnotherRound": "Try to stake later",
+            "btnUnstake": "Withdraw",
+            "declineRequest": "Withdrawal canceled.",
+            "depools": "My DePools",
+            "fee": "Reward fee",
+            "help": "帮助",
+            "max": "max.",
+            "members": "Members",
+            "min": "min.",
+            "minStake": "Min. stake",
+            "moreInfo": "更多信息",
+            "period": "Lock-up period",
+            "reward": "Estimated annual reward",
+            "rewardPaid": "Reward paid",
+            "rewarded": "My reward",
+            "stakes": "Stakes",
+            "stakingRequest": "Staking request was sent. It may take a little time.",
+            "successfulRounds": "Successful rounds",
+            "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
+            "withdrawRequest": "Withdraw request was sent. It may take a short while."
+        }
+    },
+    "support": {
+        "askQuestion": "提出问题",
+        "button": "Get support",
+        "giveFeedback": {
+            "button": "Give feedback",
+            "subject": "Feedback"
+        },
+        "group": "Support group",
+        "makeSuggestion": "Make a suggestion",
+        "message": {
+            "first": "嗨， 我是TON冲浪助理。",
+            "second": "问我任何事情，我会告诉您可以做什么冲浪。"
+        },
+        "title": "Get support",
+        "videoTutorials": "Video tutorials"
+    },
+    "system": {
+        "dictionary": {
+            "at": "在"
+        },
+        "noConnect": {
+            "button": "您要帮助的话，请联系我们",
+            "description": "可能您是线下或者我们的服务器有问题。冲浪将自动尝试重新连接。",
+            "title": "看起来您的连线无法正常运作"
+        },
+        "openFile": {
+            "title": "您要打开文件吗？"
+        }
+    },
+    "transactions": {
+        "buy": {
+            "item": "Item",
+            "payment": "Payment",
+            "seller": "Seller",
+            "title": "Buy",
+            "totalPrice": "Total price"
+        },
+        "comments": {
+            "commentOptional": "评论（可选）",
+            "lengthWarning": "只有120个字符",
+            "message": "消息",
+            "messageOrMemo": "Message or Memo",
+            "useCommentEncryption": "Encrypt comment",
+            "useNoteEncryption": "Encrypt note",
+            "writeMessage": "写短信..."
+        },
+        "details": {
+            "failedToFetchTransactionData": "无法加载详细数据。"
+        },
+        "message": {
+            "transactionInvitation": "嗨{0} 。我邀请您通过{APP_NAME}接收交易。请在这里接受",
+            "transactionInvitationTitle": "接受！",
+            "transactionInvoice": "嗨{0} 。我已经准备好了接受您的交易。请点击链接",
+            "transactionInvoiceTitle": "接受！"
+        },
+        "notice": {
+            "accept": "接受",
+            "confirmationSentToChat": "我们已经通过钱包秘密聊天发送了确认信息。",
+            "heyUser": "嗨{0}",
+            "transactionInvitation": "您的朋友{0}邀请您进行交易。发回确认。"
+        },
+        "vote": {
+            "contest": "Contest",
+            "cost": "Cost",
+            "proposal": "Proposal",
+            "signature": "Signature",
+            "title": "Vote"
+        }
+    },
+    "wallet": {
+        "chats": {
+            "attachDocument": "文件",
+            "attachImage": "图像",
+            "listTitle": "活动",
+            "messageType": {
+                "document": "📄 {0}",
+                "image": "📷照片",
+                "sticker": "🙂贴纸"
+            },
+            "newConversation": "新聊天",
+            "talks": "会谈",
+            "welcomePrivateChat": "欢迎使用我们的端到端加密私人聊天室服务。"
+        },
+        "devCoins": {
+            "alreadyReceived": "抱歉，您已经收到所有可用的红宝石",
+            "alreadyRequested": "红宝石已经被要求了。请稍等"
+        },
+        "error": {
+            "failedToDecrypt": "解密失败。看起来您需要用另一个钱包登录",
+            "failedToLoadAccounts": "未能加载账户。",
+            "failedToLoadWallet": "加载钱包失败。",
+            "failedToLoginInTheWallet": "加载钱包失败。",
+            "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
+            "limitInvalidValue": "限制值无效或太大。",
+            "timeIsNotSynced": "时间未同步。很遗憾，交易无法处理。请启用自动设置时间选项。"
+        },
+        "main": {
+            "assets": "资产",
+            "assetsBalance": "资产余额",
+            "contacts": "联络",
+            "invite": "邀请",
+            "receive": "接收",
+            "send": "发送",
+            "tokenValue": "Token value",
+            "updating": "正在更新。。。",
+            "yourBalance": "您的余额"
+        },
+        "payInvoice": {
+            "buyNetTokens": "购买{0}代币",
+            "cardNumber": "卡号",
+            "expiryDate": "到期日",
+            "nameOnCard": "持卡人姓名",
+            "payFor": "为{0}",
+            "rejected": {
+                "authorizationRequest": "授权请求失败。",
+                "limitExceeded": "超出限制。",
+                "payment": "付款失败。",
+                "response3DSec": "3D安全检查失败",
+                "transfer": "事务失败。"
+            },
+            "secure": "安全代码",
+            "secureText": "签名条上的最后{0}位数字。",
+            "title": "付款明细"
+        },
+        "protectGrams": {
+            "button": "备份密码",
+            "description": "现在您的余额上有一些TON代币。我们强烈建议您备份密码，以防需要访问恢复",
+            "title": "保护您的代币"
+        },
+        "recipient": {
+            "address": "TON地址",
+            "email": "电子邮件",
+            "phone": "电话"
+        },
+        "sendGrams": {
+            "confirm": "确认",
+            "confirmAndSend": "确认并发送",
+            "currencies": {
+                "mainnet": "crystals",
+                "private": "rubies",
+                "tonlabs": "rubies"
+            },
+            "enterValidAddress": "免费TON地址",
+            "from": "从",
+            "invalidAddress": "无效的TON地址。",
+            "recipientWarning": "确保地址正确！发送的转账不能撤销！",
+            "title": "发送代币"
+        },
+        "transaction": {
+            "aborted": "中止",
+            "amount": "数量",
+            "change": "改变",
+            "comment": "评论",
+            "encrypted": "加密的",
+            "fee": "费用",
+            "from": "从",
+            "fromBankCard": "从银行卡",
+            "goToExplorer": "Go to explorer",
+            "moreDetails": "更多细节",
+            "networkFees": "网络费用",
+            "no": "不",
+            "pending": "在待定……",
+            "received": "收到的",
+            "repeatTransaction": "重复交易",
+            "result": "结果",
+            "reverseTransaction": "反向交易",
+            "sent": "发送了",
+            "share": "Share",
+            "statusSuccess": "成功",
+            "time": "Time",
+            "to": "至",
+            "transactionNotSend": "传输未发送。请再试一次。",
+            "transferDetails": "传输详细信息",
+            "yes": "是"
+        },
+        "warning": {
+            "awaitTransaction": "上一个传输正在进行中。",
+            "couldNotIdentifyQRCode": "Couldn't identify QR code",
+            "insufficientBalance": "资金不足",
+            "insufficientBalanceForFee": "网络费用资金不足",
+            "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
+            "limitReached": "金额超过既定限制之一",
+            "notYetSupported": "尚未支持",
+            "pleaseWait": "请稍等"
+        },
+        "withdrawGram": {
+            "amount": "数量",
+            "amountDescription": "{0} + {1}费用（ {2} ％）",
+            "amountDescriptionSold": "卖出{0} &费用{1}%",
+            "amountHint": "请指定你要提取多少代币。",
+            "completedSuccessMessage": "你只是变得不那么富有，而使别人更快乐",
+            "completedSuccessfully": "支付成功",
+            "getAmount": "得到{0}",
+            "great": "太好了！",
+            "title": "提取代币",
+            "useDefaultCard": "使用默认卡",
+            "withdrawToCard": "取款到卡"
+        }
+    }
+}

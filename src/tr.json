@@ -1371,6 +1371,8 @@
             "time": "Time",
             "to": "Alıcı:",
             "transactionNotSend": "Aktarılamadı. Lütfen tekrar deneyin.",
+            "transactionGoneSilent": "Transaction has gone silent",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "Aktarım detayları",
             "yes": "Evet"
         },

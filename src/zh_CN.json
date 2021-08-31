@@ -1371,6 +1371,8 @@
             "time": "Time",
             "to": "至",
             "transactionNotSend": "传输未发送。请再试一次。",
+            "transactionGoneSilent": "Transaction has gone silent",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "传输详细信息",
             "yes": "是"
         },

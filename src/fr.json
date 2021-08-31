@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "Le temps n'est pas synchronisé. Malheureusement, les transactions ne peuvent pas être traitées. Veuillez activer l'option Régler l'heure automatiquement."
         },
         "main": {
+            "activate": "Activate",
             "assets": "Actifs",
             "assetsBalance": "Solde des actifs",
             "contacts": "Contacts",

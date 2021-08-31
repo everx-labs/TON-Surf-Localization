@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "Tempo non sincronizzato. Sfortunatamente, le transazioni non possono essere elaborate. Usa l'impostazione automatica dell'ora."
         },
         "main": {
+            "activate": "Activate",
             "assets": "Fondi",
             "assetsBalance": "Saldo attivo",
             "contacts": "Contatti",

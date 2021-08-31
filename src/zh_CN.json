@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "时间未同步。很遗憾，交易无法处理。请启用自动设置时间选项。"
         },
         "main": {
+            "activate": "Activate",
             "assets": "资产",
             "assetsBalance": "资产余额",
             "contacts": "联络",

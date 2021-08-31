@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "時刻が同期されていません。残念ながら、トランザクションは処理できません。 [時刻を自動的に設定する]オプションを有効にしてください。"
         },
         "main": {
+            "activate": "Activate",
             "assets": "資産",
             "assetsBalance": "資産残高",
             "contacts": "連絡先",

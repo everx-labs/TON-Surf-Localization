@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "Zeit nicht synchronisiert. Transaktionen können leider nicht verarbeitet werden. Bitte aktivieren Sie die Option Zeit automatisch Einstellen."
         },
         "main": {
+            "activate": "Activate",
             "assets": "Vermögenswerte",
             "assetsBalance": "Vermögensbilanz",
             "contacts": "Kontakte",

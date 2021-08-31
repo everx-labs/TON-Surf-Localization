@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "Time not synchronized. Unfortunately, transactions cannot be processed. Please enable the Set time automatically option."
         },
         "main": {
+            "activate": "Activate",
             "assets": "Assets",
             "assetsBalance": "Assets balance",
             "contacts": "Contacts",

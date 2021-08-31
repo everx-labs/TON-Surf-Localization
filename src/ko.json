@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "시간 동기화 오류가 발생했습니다. 안타깝게도 트랜잭션을 처리할 수 없습니다. 시간 자동 설정 옵션을 활성화하십시오."
         },
         "main": {
+            "activate": "Activate",
             "assets": "자산",
             "assetsBalance": "자산 잔액",
             "contacts": "연락처",

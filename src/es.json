@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "Hora no sincronizada. Desafortunadamente, las transacciones no se pueden procesar. Habilite la opción Establecer hora automáticamente."
         },
         "main": {
+            "activate": "Activate",
             "assets": "Activos",
             "assetsBalance": "Balance de activos",
             "contacts": "Contactos",

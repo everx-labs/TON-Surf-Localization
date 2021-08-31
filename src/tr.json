@@ -1296,6 +1296,7 @@
             "timeIsNotSynced": "Zamanlama eşitlenmemiştir. Maalesef işlemler başarısız oluyor. Lütfen saati otomatik olarak ayarlamak seçeneğini etkinleştirin."
         },
         "main": {
+            "activate": "Activate",
             "assets": "Varlık",
             "assetsBalance": "Varlık bakiyesi",
             "contacts": "Kişiler",

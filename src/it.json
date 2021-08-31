@@ -1371,6 +1371,8 @@
             "time": "Time",
             "to": "A",
             "transactionNotSend": "Trasferimento non inviato. Riprova.",
+            "transactionGoneSilent": "Transaction has gone silent",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "Dettagli del trasferimento",
             "yes": "Sì"
         },

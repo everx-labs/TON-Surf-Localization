@@ -1371,6 +1371,8 @@
             "time": "Time",
             "to": "To",
             "transactionNotSend": "Transfer not sent. Please try again.",
+            "transactionGoneSilent": "Transaction has gone silent",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "Details",
             "yes": "Yes"
         },

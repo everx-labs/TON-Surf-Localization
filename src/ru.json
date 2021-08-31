@@ -1371,6 +1371,8 @@
             "time": "Время",
             "to": "Кому",
             "transactionNotSend": "Перевод не отправлен. Пожалуйста, попробуй еще раз.",
+            "transactionGoneSilent": "Transaction has gone silent",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "Детали перевода",
             "yes": "Да"
         },

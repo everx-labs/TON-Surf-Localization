@@ -1371,6 +1371,8 @@
             "time": "Time",
             "to": "宛先",
             "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
+            "transactionGoneSilent": "Transaction has gone silent",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "転送の詳細",
             "yes": "はい"
         },

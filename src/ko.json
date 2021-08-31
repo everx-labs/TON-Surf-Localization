@@ -1371,6 +1371,8 @@
             "time": "시간",
             "to": "받는 사람",
             "transactionNotSend": "송금이 전송되지 않았습니다. 다시 시도하십시오.",
+            "transactionGoneSilent": "Transaction has gone silent",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "세부 정보",
             "yes": "예"
         },

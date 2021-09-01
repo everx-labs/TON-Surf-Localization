@@ -133,49 +133,6 @@
         "title": "비밀번호 백업"
     },
     "chats": {
-        "bots": {
-            "chainRider": {
-                "messages": {
-                    "devIncomeCoinsMessage": "좋습니다! 지금 사용자는 친구에게 루비를 보낼 수 있습니다. 그냥 친구들을 서핑에 초대하십시오",
-                    "devWelcomeMessages": [
-                        "안녕하세요!",
-                        "저는 Chain Rider라고 DeBot(탈중앙화 보트)입니다. Surf를 도와 주러 왔습니다. 먼저 잔액을 충전하여 지갑을 활성화합니다.",
-                        "친구들이 토큰을 보낼 수 있도록 지갑 주소를 친구들과 공유하세요. 소액의 지갑 개설비는 귀하가 받는 첫 번째 송금에서 공제됩니다."
-                    ],
-                    "emptyChat": "친구와 지갑 주소를 공유하기 ...",
-                    "getCoinsMessages": [
-                        "루비는 테스트 목적으로만 제공됩니다. 몇 분 안에 받을 수 있습니다.",
-                        "첫 번째 루비를 받으면 소액의 일회성 지갑 개설비가 공제됩니다."
-                    ],
-                    "goodSurfing": "좋은 Surf를 하세요!",
-                    "incomeCoinsMessage": "좋습니다! 이제 친구에게 토큰을 보낼 수 있습니다. 친구를 Surf에 초대하기만 하면 됩니다",
-                    "walletInitiation": "지갑 시작",
-                    "welcomeMessages": [
-                        "안녕하세요!",
-                        "저는 Chain Rider라고 DeBot(탈중앙화 보트)입니다. Surf를 도와 주러 왔습니다. 먼저 잔액을 충전하여 지갑을 활성화합니다.",
-                        "친구들이 토큰을 보낼 수 있도록 지갑 주소를 친구들과 공유하세요. 소액의 지갑 개설비는 귀하가 받는 첫 번째 송금에서 공제됩니다."
-                    ]
-                },
-                "name": "Chain Rider"
-            },
-            "debot": "Debot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "새로운 스테이킹을 하면 저를 불러 주세요...",
-                    "welcomeMessages": [
-                        "안녕하세요! 저는 루비 스케이팅입니다, 탈중앙화 봇이고 당신의 자산 어시스턴트와 조언자입니다.",
-                        "저는 루비 스테이킹을 어떻게 해야 하는지 보여드리고 현재 지분을 증가하고 통계 리뷰도 할 수 있습니다: 소득과 트랜잭션 기록."
-                    ]
-                },
-                "name": "루비 스테이킹",
-                "shortcuts": {
-                    "makeStake": "스테이킹하기",
-                    "showBalance": "잔액 보기",
-                    "stakeMore": "스테이킹을 더 많이 하기",
-                    "whatIsStaking": "스테이킹이 무엇인가요?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "연락처 추가하기",
@@ -1296,6 +1253,7 @@
             "timeIsNotSynced": "시간 동기화 오류가 발생했습니다. 안타깝게도 트랜잭션을 처리할 수 없습니다. 시간 자동 설정 옵션을 활성화하십시오."
         },
         "main": {
+            "activate": "Activate",
             "assets": "자산",
             "assetsBalance": "자산 잔액",
             "contacts": "연락처",

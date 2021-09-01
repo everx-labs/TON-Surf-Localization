@@ -133,49 +133,6 @@
         "title": "Password backup"
     },
     "chats": {
-        "bots": {
-            "chainRider": {
-                "messages": {
-                    "devIncomeCoinsMessage": "Great! Now you can send tokens to your friends. Just invite them to Surf with you",
-                    "devWelcomeMessages": [
-                        "Hi!",
-                        "I’m Chain Rider, the DeBot (decentralized bot). I am here to help you Surf. First of all, let’s activate your wallet by topping up your balance.",
-                        "Share your wallet address with your friends so that they can send you tokens. A small wallet initiation fee will be deducted from the first transfer you receive."
-                    ],
-                    "emptyChat": "Share your wallet address with friends...",
-                    "getCoinsMessages": [
-                        "Rubies are provided for test purposes only. You'll get them within a few minutes.",
-                        "Once you receive your first Rubies, a small one-time wallet initiation fee will be deducted."
-                    ],
-                    "goodSurfing": "Have a nice Surf!",
-                    "incomeCoinsMessage": "Great! Now you can send tokens to your friends – just invite them to Surf with you",
-                    "walletInitiation": "Wallet initiation",
-                    "welcomeMessages": [
-                        "Hi!",
-                        "I’m Chain Rider, the DeBot (decentralized bot). I am here to help you Surf. First of all, let’s activate your wallet by topping up your balance.",
-                        "Share your wallet address with your friends so that they can send you tokens. A small wallet initiation fee will be deducted from the first transfer you receive."
-                    ]
-                },
-                "name": "Chain Rider"
-            },
-            "debot": "DeBot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "Call me to make a new stake…",
-                    "welcomeMessages": [
-                        "Hi, I'm Ruby Stake, the DeBot (decentralized bot), your asset management adviser.",
-                        "I am here to help you stake Rubies, increase your current stake or take it back or review your stats: income and transaction history."
-                    ]
-                },
-                "name": "Ruby Stake",
-                "shortcuts": {
-                    "makeStake": "Make a stake",
-                    "showBalance": "Show balance",
-                    "stakeMore": "Stake more",
-                    "whatIsStaking": "What is staking?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "Add to contacts",
@@ -1296,6 +1253,7 @@
             "timeIsNotSynced": "Time not synchronized. Unfortunately, transactions cannot be processed. Please enable the Set time automatically option."
         },
         "main": {
+            "activate": "Activate",
             "assets": "Assets",
             "assetsBalance": "Assets balance",
             "contacts": "Contacts",

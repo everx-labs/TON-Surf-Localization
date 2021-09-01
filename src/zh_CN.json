@@ -133,49 +133,6 @@
         "title": "密码备份"
     },
     "chats": {
-        "bots": {
-            "chainRider": {
-                "messages": {
-                    "devIncomeCoinsMessage": "好极了! 现在你可以给你的朋友们送红宝石。只要邀请他们和你一起Surf",
-                    "devWelcomeMessages": [
-                        "嗨！",
-                        "我是链骑手，分机器人（分散式机器人）。我在这里帮助您Surf。首先，让我们通过充值来激活您的钱包。",
-                        "与您的朋友们分享您的钱包地址，以便他们可以向您发送代币。从您收到的第一笔转账中扣除一笔小额钱包启动费"
-                    ],
-                    "emptyChat": "与朋友们分享您的钱包地址……",
-                    "getCoinsMessages": [
-                        "红宝石仅用于测试目的。几分钟之内就可以拿到",
-                        "收到第一笔红宝石后，扣除少量的一次性钱包启动费"
-                    ],
-                    "goodSurfing": "冲浪愉快！",
-                    "incomeCoinsMessage": "好极了! 现在你可以给你的朋友们送TONs – 只要邀请他们和你一起Surf",
-                    "walletInitiation": "钱包启动",
-                    "welcomeMessages": [
-                        "嗨！",
-                        "我是链骑手，分机器人（分散式机器人）。我在这里帮助您Surf。首先，让我们通过充值来激活您的钱包。",
-                        "与您的朋友们分享您的钱包地址，以便他们向您发送代币。从您收到的第一笔转账中扣除一笔小额钱包启动费"
-                    ]
-                },
-                "name": "Chain Rider"
-            },
-            "debot": "分机器人",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "为了下一个新的赌注，给我打电话……",
-                    "welcomeMessages": [
-                        "嗨，我是红宝石赌注，分机器人（分散式机器人），您的资产管理顾问。",
-                        "我在这里是为了帮助您赌注红宝石，增加您目前的赌注或取回或查看您的统计数据：收入和交易记录。"
-                    ]
-                },
-                "name": "红宝石赌注",
-                "shortcuts": {
-                    "makeStake": "下赌注",
-                    "showBalance": "显示余额",
-                    "stakeMore": "下赌注更多",
-                    "whatIsStaking": "赌注是什么？"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "添加到联系人",
@@ -1296,6 +1253,7 @@
             "timeIsNotSynced": "时间未同步。很遗憾，交易无法处理。请启用自动设置时间选项。"
         },
         "main": {
+            "activate": "Activate",
             "assets": "资产",
             "assetsBalance": "资产余额",
             "contacts": "联络",

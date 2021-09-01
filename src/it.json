@@ -133,25 +133,6 @@
         "title": "Backup della password"
     },
     "chats": {
-        "bots": {
-            "debot": "DeBot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "Chiamami per fare un nuovo stake…",
-                    "welcomeMessages": [
-                        "Ciao, sono Ruby Stake, il DeBot (Bot decentralizzato), il consulente di gestione dei tuoi asset.",
-                        "Sono qui per aiutarti a fare stake dei Ruby, aumentare il tuo stake attuale, ritirarlo o visionare le tue statistiche: i guadagni e la cronologia delle transazioni."
-                    ]
-                },
-                "name": "Stake Ruby",
-                "shortcuts": {
-                    "makeStake": "Metti in stake",
-                    "showBalance": "Visualizza saldo",
-                    "stakeMore": "Metti in stake di più",
-                    "whatIsStaking": "Cos'è lo staking?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "Aggiungi ai contatti",

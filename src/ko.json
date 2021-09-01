@@ -133,25 +133,6 @@
         "title": "비밀번호 백업"
     },
     "chats": {
-        "bots": {
-            "debot": "Debot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "새로운 스테이킹을 하면 저를 불러 주세요...",
-                    "welcomeMessages": [
-                        "안녕하세요! 저는 루비 스케이팅입니다, 탈중앙화 봇이고 당신의 자산 어시스턴트와 조언자입니다.",
-                        "저는 루비 스테이킹을 어떻게 해야 하는지 보여드리고 현재 지분을 증가하고 통계 리뷰도 할 수 있습니다: 소득과 트랜잭션 기록."
-                    ]
-                },
-                "name": "루비 스테이킹",
-                "shortcuts": {
-                    "makeStake": "스테이킹하기",
-                    "showBalance": "잔액 보기",
-                    "stakeMore": "스테이킹을 더 많이 하기",
-                    "whatIsStaking": "스테이킹이 무엇인가요?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "연락처 추가하기",

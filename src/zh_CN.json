@@ -133,25 +133,6 @@
         "title": "密码备份"
     },
     "chats": {
-        "bots": {
-            "debot": "分机器人",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "为了下一个新的赌注，给我打电话……",
-                    "welcomeMessages": [
-                        "嗨，我是红宝石赌注，分机器人（分散式机器人），您的资产管理顾问。",
-                        "我在这里是为了帮助您赌注红宝石，增加您目前的赌注或取回或查看您的统计数据：收入和交易记录。"
-                    ]
-                },
-                "name": "红宝石赌注",
-                "shortcuts": {
-                    "makeStake": "下赌注",
-                    "showBalance": "显示余额",
-                    "stakeMore": "下赌注更多",
-                    "whatIsStaking": "赌注是什么？"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "添加到联系人",

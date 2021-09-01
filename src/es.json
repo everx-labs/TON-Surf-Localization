@@ -133,25 +133,6 @@
         "title": "Copia de seguridad de la contraseña"
     },
     "chats": {
-        "bots": {
-            "debot": "DeBot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "Llámame para hacer una nueva apuesta...",
-                    "welcomeMessages": [
-                        "Hola, soy Ruby Stake, la DeBot (robot descentralizado), su asesora de gestión de activos.",
-                        "Estoy aquí para ayudarte a depositar Rubíes, aumentar tu deposito actual o retirar o revisar tus estadísticas: ingresos e historial de transacciones."
-                    ]
-                },
-                "name": "Apuestas de rubí",
-                "shortcuts": {
-                    "makeStake": "Haz un deposito",
-                    "showBalance": "Mostrar el balance",
-                    "stakeMore": "Deposita más",
-                    "whatIsStaking": "¿Qué es apostar?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "Añadir",

@@ -133,25 +133,6 @@
         "title": "Backup da senha"
     },
     "chats": {
-        "bots": {
-            "debot": "DeBot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "Me chame para fazer um novo depósito em Staking…",
-                    "welcomeMessages": [
-                        "Oi, sou Ruby Stake, o debot (robô descentralizado), seu consultor de gestão de ativos.",
-                        "Estou aqui para ajudá-lo a depositar Rubis em Staking, aumentar a quantia depositada atualmente ou sacar a quantia atual, além de permitir rever suas estatísticas: histórico de rendimentos e transações."
-                    ]
-                },
-                "name": "Ruby Stake",
-                "shortcuts": {
-                    "makeStake": "Depositar em Staking",
-                    "showBalance": "Mostrar saldo",
-                    "stakeMore": "Aumentar quantia depositada em Staking",
-                    "whatIsStaking": "O que é Staking?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "Adicionar",

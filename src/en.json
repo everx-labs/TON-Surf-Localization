@@ -133,25 +133,6 @@
         "title": "Password backup"
     },
     "chats": {
-        "bots": {
-            "debot": "DeBot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "Call me to make a new stake…",
-                    "welcomeMessages": [
-                        "Hi, I'm Ruby Stake, the DeBot (decentralized bot), your asset management adviser.",
-                        "I am here to help you stake Rubies, increase your current stake or take it back or review your stats: income and transaction history."
-                    ]
-                },
-                "name": "Ruby Stake",
-                "shortcuts": {
-                    "makeStake": "Make a stake",
-                    "showBalance": "Show balance",
-                    "stakeMore": "Stake more",
-                    "whatIsStaking": "What is staking?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "Add to contacts",

@@ -133,25 +133,6 @@
         "title": "Passwort-Backup"
     },
     "chats": {
-        "bots": {
-            "debot": "DeBot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "Rufen Sie mich an, um einen neuen Einsatz zu machen ...",
-                    "welcomeMessages": [
-                        "Hallo, ich bin Ruby Stake, die DeBot (dezentralisierter Bot), Ihre Vermögensverwaltungsberaterin.",
-                        "Ich bin hier, um Ihnen zu helfen, Rubine zu setzen, Ihren aktuellen Einsatz zu erhöhen oder ihn zurückzunehmen oder Ihre Statistiken zu überprüfen: Einkommens- und Transaktionshistorie."
-                    ]
-                },
-                "name": "Ruby Stake",
-                "shortcuts": {
-                    "makeStake": "Machen Sie einen Einsatz",
-                    "showBalance": "Balance anzeigen",
-                    "stakeMore": "Pfahl mehr",
-                    "whatIsStaking": "Was ist Staking?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "Hinzufügen",

@@ -133,25 +133,6 @@
         "title": "Sauvegarde du mot de passe"
     },
     "chats": {
-        "bots": {
-            "debot": "DeBot",
-            "stakingBot": {
-                "messages": {
-                    "emptyChat": "Appelez-moi pour faire une nouvelle mise…",
-                    "welcomeMessages": [
-                        "Bonjour, je suis Ruby Stake, le DeBot (bot décentralisé), votre conseiller en gestion d'actifs.",
-                        "Je suis là pour vous aider à staker des rubis, augmenter votre stake actuel ou le reprendre, ainsi que revoir vos statistiques : revenus et historique des transactions."
-                    ]
-                },
-                "name": "Ruby stake",
-                "shortcuts": {
-                    "makeStake": "Miser",
-                    "showBalance": "Afficher le solde",
-                    "stakeMore": "Miser plus",
-                    "whatIsStaking": "Qu'est-ce que le jalonnement?"
-                }
-            }
-        },
         "button": {
             "actions": {
                 "addToContacts": "Ajouter aux contacts",

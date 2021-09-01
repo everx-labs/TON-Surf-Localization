@@ -134,30 +134,6 @@
     },
     "chats": {
         "bots": {
-            "chainRider": {
-                "messages": {
-                    "devIncomeCoinsMessage": "Großartig! Jetzt können Sie Rubine an Ihre Freunde senden. Laden Sie Sie einfach ein, mit Ihnen zu Surfen.",
-                    "devWelcomeMessages": [
-                        "Hallo!",
-                        "Ich bin Chain Rider, der DeBot (dezentraler bot). Ich bin hier, um dir beim Surfen zu helfen. Lassen Sie uns zunächst Ihre Brieftasche aktivieren, indem Sie Ihr Guthaben Auffüllen.",
-                        "Teilen Sie Ihre wallet-Adresse mit Ihren Freunden, damit Sie Ihnen Token senden können. Eine kleine wallet-initiationsgebühr wird von der ersten überweisung abgezogen, die Sie erhalten."
-                    ],
-                    "emptyChat": "Teilen Sie die Adresse Ihrer Brieftasche mit Freunden...",
-                    "getCoinsMessages": [
-                        "Rubine werden nur zu Testzwecken bereitgestellt. Sie erhalten Sie innerhalb weniger Minuten.",
-                        "Sobald Sie Ihre ersten Rubine erhalten haben, wird eine kleine einmalige Einführungsgebühr für die Brieftasche abgezogen."
-                    ],
-                    "goodSurfing": "Haben Sie eine schöne Surf!",
-                    "incomeCoinsMessage": "Großartig! Jetzt können Sie Token an Ihre Freunde schicken - laden Sie sie einfach zum Surfen mit Ihnen ein",
-                    "walletInitiation": "Brieftascheninitiierung",
-                    "welcomeMessages": [
-                        "Hallo!",
-                        "Ich bin Chain Rider, der DeBot (dezentraler bot). Ich bin hier, um dir beim Surfen zu helfen. Lassen Sie uns zunächst Ihre Brieftasche aktivieren, indem Sie Ihr Guthaben Auffüllen.",
-                        "Teilen Sie Ihre wallet-Adresse mit Ihren Freunden, damit Sie Ihnen Token senden können. Eine kleine wallet-initiationsgebühr wird von der ersten überweisung abgezogen, die Sie erhalten."
-                    ]
-                },
-                "name": "Chain Rider"
-            },
             "debot": "DeBot",
             "stakingBot": {
                 "messages": {

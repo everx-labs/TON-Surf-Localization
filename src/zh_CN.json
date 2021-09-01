@@ -134,30 +134,6 @@
     },
     "chats": {
         "bots": {
-            "chainRider": {
-                "messages": {
-                    "devIncomeCoinsMessage": "好极了! 现在你可以给你的朋友们送红宝石。只要邀请他们和你一起Surf",
-                    "devWelcomeMessages": [
-                        "嗨！",
-                        "我是链骑手，分机器人（分散式机器人）。我在这里帮助您Surf。首先，让我们通过充值来激活您的钱包。",
-                        "与您的朋友们分享您的钱包地址，以便他们可以向您发送代币。从您收到的第一笔转账中扣除一笔小额钱包启动费"
-                    ],
-                    "emptyChat": "与朋友们分享您的钱包地址……",
-                    "getCoinsMessages": [
-                        "红宝石仅用于测试目的。几分钟之内就可以拿到",
-                        "收到第一笔红宝石后，扣除少量的一次性钱包启动费"
-                    ],
-                    "goodSurfing": "冲浪愉快！",
-                    "incomeCoinsMessage": "好极了! 现在你可以给你的朋友们送TONs – 只要邀请他们和你一起Surf",
-                    "walletInitiation": "钱包启动",
-                    "welcomeMessages": [
-                        "嗨！",
-                        "我是链骑手，分机器人（分散式机器人）。我在这里帮助您Surf。首先，让我们通过充值来激活您的钱包。",
-                        "与您的朋友们分享您的钱包地址，以便他们向您发送代币。从您收到的第一笔转账中扣除一笔小额钱包启动费"
-                    ]
-                },
-                "name": "Chain Rider"
-            },
             "debot": "分机器人",
             "stakingBot": {
                 "messages": {

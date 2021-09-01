@@ -134,30 +134,6 @@
     },
     "chats": {
         "bots": {
-            "chainRider": {
-                "messages": {
-                    "devIncomeCoinsMessage": "Legal! Agora você pode enviar tokens para seus amigos. Basta convidá-los para Surfar com você.",
-                    "devWelcomeMessages": [
-                        "Oi!",
-                        "Sou o Chain Rider, o debot (robô descentralizado). Estou aqui para ajudá-lo a Surfar. Para começar, vamos ativar sua carteira fazendo um depósito.",
-                        "Compartilhe seu endereço de carteira com seus amigos para que eles possam enviar tokens. Uma pequena taxa de iniciação da carteira será deduzida da primeira transferência que você receber."
-                    ],
-                    "emptyChat": "Compartilhe o endereço de sua carteira com os amigos…",
-                    "getCoinsMessages": [
-                        "Rubies são fornecidos apenas para fins de teste. Você os receberá em alguns minutos.",
-                        "Quando você receber seus primeiros Rubis, uma pequena taxa única de iniciação da carteira será deduzida."
-                    ],
-                    "goodSurfing": "Tenha um bom Surf!",
-                    "incomeCoinsMessage": "Ótimo! Agora você pode enviar tokens para seus amigos — basta convidá-los para Surfar com você",
-                    "walletInitiation": "Iniciando a carteira",
-                    "welcomeMessages": [
-                        "Oi!",
-                        "Sou o Chain Rider, o debot (robô descentralizado). Estou aqui para ajudá-lo a Surfar. Para começar, vamos ativar sua carteira fazendo um depósito.",
-                        "Compartilhe seu endereço de carteira com seus amigos para que eles possam enviar tokens. Uma pequena taxa de iniciação da carteira será deduzida da primeira transferência que você receber."
-                    ]
-                },
-                "name": "Chain Rider"
-            },
             "debot": "DeBot",
             "stakingBot": {
                 "messages": {

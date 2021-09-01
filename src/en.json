@@ -134,30 +134,6 @@
     },
     "chats": {
         "bots": {
-            "chainRider": {
-                "messages": {
-                    "devIncomeCoinsMessage": "Great! Now you can send tokens to your friends. Just invite them to Surf with you",
-                    "devWelcomeMessages": [
-                        "Hi!",
-                        "I’m Chain Rider, the DeBot (decentralized bot). I am here to help you Surf. First of all, let’s activate your wallet by topping up your balance.",
-                        "Share your wallet address with your friends so that they can send you tokens. A small wallet initiation fee will be deducted from the first transfer you receive."
-                    ],
-                    "emptyChat": "Share your wallet address with friends...",
-                    "getCoinsMessages": [
-                        "Rubies are provided for test purposes only. You'll get them within a few minutes.",
-                        "Once you receive your first Rubies, a small one-time wallet initiation fee will be deducted."
-                    ],
-                    "goodSurfing": "Have a nice Surf!",
-                    "incomeCoinsMessage": "Great! Now you can send tokens to your friends – just invite them to Surf with you",
-                    "walletInitiation": "Wallet initiation",
-                    "welcomeMessages": [
-                        "Hi!",
-                        "I’m Chain Rider, the DeBot (decentralized bot). I am here to help you Surf. First of all, let’s activate your wallet by topping up your balance.",
-                        "Share your wallet address with your friends so that they can send you tokens. A small wallet initiation fee will be deducted from the first transfer you receive."
-                    ]
-                },
-                "name": "Chain Rider"
-            },
             "debot": "DeBot",
             "stakingBot": {
                 "messages": {

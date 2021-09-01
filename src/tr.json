@@ -134,30 +134,6 @@
     },
     "chats": {
         "bots": {
-            "chainRider": {
-                "messages": {
-                    "devIncomeCoinsMessage": "Harika! Artık arkadaşlarınıza belirteç gönderebilirsiniz. Onları sizinle Surf yapmak için davet edin",
-                    "devWelcomeMessages": [
-                        "Selam!",
-                        "Ben Chain Rider, DeBot, yani, ademimerkeziyetçi botuyum. Sana yardım etmek için buradayım. Öncelikle bakiyenizi doldurarak cüzdanınızı aktif hale getirelim.",
-                        "Cüzdan adresinizi arkadaşlarınızla paylaşın, böylece size para gönderebilirler. Aldığınız ilk aktarımdan küçük bir cüzdan başlatma ücreti düşülecektir."
-                    ],
-                    "emptyChat": "Cüzdan adresinizi arkadaşlarınız içinde paylaşın...",
-                    "getCoinsMessages": [
-                        "Yakutlar yalnızca deneme içindir. Onları birkaç dakika içinde alacaksınız.",
-                        "İlk Yakutlarınızı aldığınızda, tek defalık küçük bir cüzdan başlangıç ücreti düşülecektir."
-                    ],
-                    "goodSurfing": "İyi Sörfler!",
-                    "incomeCoinsMessage": "Harika! Artık arkadaşlarınıza belirteç gönderebilirsiniz, sadece onları sizinle Surf yapmaya davet edin",
-                    "walletInitiation": "Cüzdan başlatması",
-                    "welcomeMessages": [
-                        "Selam!",
-                        "Ben Chain Rider, DeBot, yani, ademimerkeziyetçi botuyum. Surf etmeyinizde yardımcı olmak için burdayım. Öncelikle bakiyenizi doldurarak cüzdanınızı aktif hale getirelim.",
-                        "Cüzdan adresinizi arkadaşlarınızla paylaşın, böylece size para gönderebilirler.  Aldığınız ilk aktarımdan küçük bir cüzdan başlatma ücreti düşülecektir."
-                    ]
-                },
-                "name": "Chain Rider"
-            },
             "debot": "DeBot",
             "stakingBot": {
                 "messages": {

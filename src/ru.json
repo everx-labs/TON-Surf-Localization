@@ -1155,6 +1155,12 @@
             "withdrawRequest": "Запрос на вывод средств отправлен"
         }
     },
+    "buy": {
+        "buySheetTitle": "How much Tons",
+        "buySheetTitle2": "would you like to buy?",
+        "buySheetSubTitle": "Purchases of up to {0} 300",
+        "buySheetSubTitle2": "don’t require eKYC verification"
+    },
     "support": {
         "askQuestion": "Задать вопрос",
         "button": "Получить помощь",

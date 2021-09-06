@@ -1155,6 +1155,12 @@
             "withdrawRequest": "La demande de retrait a été envoyée. Cela peut prendre un peu de temps."
         }
     },
+    "buy": {
+        "buySheetTitle": "How much Tons",
+        "buySheetTitle2": "would you like to buy?",
+        "buySheetSubTitle": "Purchases of up to {0} 300",
+        "buySheetSubTitle2": "don’t require eKYC verification"
+    },
     "support": {
         "askQuestion": "Poser une question",
         "button": "Obtenir de l'aide",

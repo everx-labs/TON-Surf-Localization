@@ -17,6 +17,7 @@
             "author": "Author",
             "collectibles": "Collectibles",
             "created": "Created",
+            "title": "My Surfer",
             "tokens": "Tokens",
             "trueNftMarket": "True NFT Market"
         },
@@ -132,6 +133,49 @@
         "title": "パスワードのバックアップ"
     },
     "chats": {
+        "bots": {
+            "chainRider": {
+                "messages": {
+                    "devIncomeCoinsMessage": "素晴らしい！これで、ルビーを友達に送ることができます。そのため、友達をSurfに招待してください。",
+                    "devWelcomeMessages": [
+                        "こんにちは！",
+                        "私はチェーンライダー、デボット(分散型ボット)です。Surfで助けるためにここにいます。まずは、残高を上げてウオレットを有効にしましょう。",
+                        "友達があなたにトークンを送れるように、ウォレットアドレスを友達と共有してください。少額のウォレット入会金は、最初に受け取った送金から差し引かれます。"
+                    ],
+                    "emptyChat": "ウォレットアドレスを友達と共有する",
+                    "getCoinsMessages": [
+                        "ルビーはテスト目的でのみ提供されます。数分以内に入手できます。",
+                        "最初のルビーを受け取ると、小さなワンタイムウォレット開始料が差し引かれます。"
+                    ],
+                    "goodSurfing": "素敵なサーフを！",
+                    "incomeCoinsMessage": "素晴らしい！これで、トークンを友達に送ることができます。そのため、友達をSurfに招待してください。",
+                    "walletInitiation": "ウォレットの開始",
+                    "welcomeMessages": [
+                        "こんにちは！",
+                        "私はチェーンライダー、デボット(分散型ボット)です。Surfで助けるためにここにいます。まずは、残高を上げてウオレットを有効にしましょう。",
+                        "友達があなたにトークンを送れるように、ウォレットアドレスを友達と共有してください。少額のウォレット入会金は、最初に受け取った送金から差し引かれます。"
+                    ]
+                },
+                "name": "Chain Rider"
+            },
+            "debot": "デボット",
+            "stakingBot": {
+                "messages": {
+                    "emptyChat": "新しいステークを作るために私を呼んでください…",
+                    "welcomeMessages": [
+                        "こんにちは、私はルビー・ステークです。デボット（分散型ボット）であり、資産管理アドバイザーです。",
+                        "私はルビーをステークしたり、現在のステーク金額を増やしたり、取り戻したり、統計（収入と取引履歴）を確認したりするのを手伝うためにここにいます。"
+                    ]
+                },
+                "name": "ルビー・ステーク",
+                "shortcuts": {
+                    "makeStake": "ステークを作る",
+                    "showBalance": "残高の表示",
+                    "stakeMore": "もっとステークを作る",
+                    "whatIsStaking": "ステーキクとは何ですか？"
+                }
+            }
+        },
         "button": {
             "actions": {
                 "addToContacts": "連絡先に追加",
@@ -191,7 +235,7 @@
             "notFound": "Debot not found",
             "nothingFound": "Nothing found",
             "open": "Open DeBot",
-            "recommended": "Recommended",
+            "recommended": "Popular",
             "restart": "Restart",
             "search": "Enter DeBot address…",
             "searching": "Searching...",
@@ -1252,7 +1296,6 @@
             "timeIsNotSynced": "時刻が同期されていません。残念ながら、トランザクションは処理できません。 [時刻を自動的に設定する]オプションを有効にしてください。"
         },
         "main": {
-            "activate": "Activate",
             "assets": "資産",
             "assetsBalance": "資産残高",
             "contacts": "連絡先",
@@ -1328,8 +1371,6 @@
             "time": "Time",
             "to": "宛先",
             "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
-            "transactionGoneSilent": "Transaction has gone silent",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "転送の詳細",
             "yes": "はい"
         },

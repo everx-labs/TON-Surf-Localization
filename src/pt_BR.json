@@ -17,6 +17,7 @@
             "author": "Author",
             "collectibles": "Collectibles",
             "created": "Created",
+            "title": "My Surfer",
             "tokens": "Tokens",
             "trueNftMarket": "True NFT Market"
         },
@@ -132,6 +133,49 @@
         "title": "Backup da senha"
     },
     "chats": {
+        "bots": {
+            "chainRider": {
+                "messages": {
+                    "devIncomeCoinsMessage": "Legal! Agora você pode enviar tokens para seus amigos. Basta convidá-los para Surfar com você.",
+                    "devWelcomeMessages": [
+                        "Oi!",
+                        "Sou o Chain Rider, o debot (robô descentralizado). Estou aqui para ajudá-lo a Surfar. Para começar, vamos ativar sua carteira fazendo um depósito.",
+                        "Compartilhe seu endereço de carteira com seus amigos para que eles possam enviar tokens. Uma pequena taxa de iniciação da carteira será deduzida da primeira transferência que você receber."
+                    ],
+                    "emptyChat": "Compartilhe o endereço de sua carteira com os amigos…",
+                    "getCoinsMessages": [
+                        "Rubies são fornecidos apenas para fins de teste. Você os receberá em alguns minutos.",
+                        "Quando você receber seus primeiros Rubis, uma pequena taxa única de iniciação da carteira será deduzida."
+                    ],
+                    "goodSurfing": "Tenha um bom Surf!",
+                    "incomeCoinsMessage": "Ótimo! Agora você pode enviar tokens para seus amigos — basta convidá-los para Surfar com você",
+                    "walletInitiation": "Iniciando a carteira",
+                    "welcomeMessages": [
+                        "Oi!",
+                        "Sou o Chain Rider, o debot (robô descentralizado). Estou aqui para ajudá-lo a Surfar. Para começar, vamos ativar sua carteira fazendo um depósito.",
+                        "Compartilhe seu endereço de carteira com seus amigos para que eles possam enviar tokens. Uma pequena taxa de iniciação da carteira será deduzida da primeira transferência que você receber."
+                    ]
+                },
+                "name": "Chain Rider"
+            },
+            "debot": "DeBot",
+            "stakingBot": {
+                "messages": {
+                    "emptyChat": "Me chame para fazer um novo depósito em Staking…",
+                    "welcomeMessages": [
+                        "Oi, sou Ruby Stake, o debot (robô descentralizado), seu consultor de gestão de ativos.",
+                        "Estou aqui para ajudá-lo a depositar Rubis em Staking, aumentar a quantia depositada atualmente ou sacar a quantia atual, além de permitir rever suas estatísticas: histórico de rendimentos e transações."
+                    ]
+                },
+                "name": "Ruby Stake",
+                "shortcuts": {
+                    "makeStake": "Depositar em Staking",
+                    "showBalance": "Mostrar saldo",
+                    "stakeMore": "Aumentar quantia depositada em Staking",
+                    "whatIsStaking": "O que é Staking?"
+                }
+            }
+        },
         "button": {
             "actions": {
                 "addToContacts": "Adicionar",
@@ -191,7 +235,7 @@
             "notFound": "Debot não encontrado",
             "nothingFound": "Nada foi encontrado",
             "open": "Abrir DeBot",
-            "recommended": "Recomendado",
+            "recommended": "Popular",
             "restart": "Reiniciar",
             "search": "Enter DeBot address…",
             "searching": "Buscando...",
@@ -1252,7 +1296,6 @@
             "timeIsNotSynced": "Relógio não sincronizado. Infelizmente as transações não podem ser processadas. Ative a opção Definir hora automaticamente."
         },
         "main": {
-            "activate": "Activate",
             "assets": "Ativos",
             "assetsBalance": "Saldo de ativos",
             "contacts": "Contatos",
@@ -1328,8 +1371,6 @@
             "time": "Hora",
             "to": "Para",
             "transactionNotSend": "Transferência não enviada. Por favor, tente novamente.",
-            "transactionGoneSilent": "Transaction has gone silent",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "Detalhes",
             "yes": "Sim"
         },

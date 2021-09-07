@@ -17,6 +17,7 @@
             "author": "Author",
             "collectibles": "Collectibles",
             "created": "Created",
+            "title": "My Surfer",
             "tokens": "Tokens",
             "trueNftMarket": "True NFT Market"
         },
@@ -132,6 +133,49 @@
         "title": "Şifreni yedekle"
     },
     "chats": {
+        "bots": {
+            "chainRider": {
+                "messages": {
+                    "devIncomeCoinsMessage": "Harika! Artık arkadaşlarınıza belirteç gönderebilirsiniz. Onları sizinle Surf yapmak için davet edin",
+                    "devWelcomeMessages": [
+                        "Selam!",
+                        "Ben Chain Rider, DeBot, yani, ademimerkeziyetçi botuyum. Sana yardım etmek için buradayım. Öncelikle bakiyenizi doldurarak cüzdanınızı aktif hale getirelim.",
+                        "Cüzdan adresinizi arkadaşlarınızla paylaşın, böylece size para gönderebilirler. Aldığınız ilk aktarımdan küçük bir cüzdan başlatma ücreti düşülecektir."
+                    ],
+                    "emptyChat": "Cüzdan adresinizi arkadaşlarınız içinde paylaşın...",
+                    "getCoinsMessages": [
+                        "Yakutlar yalnızca deneme içindir. Onları birkaç dakika içinde alacaksınız.",
+                        "İlk Yakutlarınızı aldığınızda, tek defalık küçük bir cüzdan başlangıç ücreti düşülecektir."
+                    ],
+                    "goodSurfing": "İyi Sörfler!",
+                    "incomeCoinsMessage": "Harika! Artık arkadaşlarınıza belirteç gönderebilirsiniz, sadece onları sizinle Surf yapmaya davet edin",
+                    "walletInitiation": "Cüzdan başlatması",
+                    "welcomeMessages": [
+                        "Selam!",
+                        "Ben Chain Rider, DeBot, yani, ademimerkeziyetçi botuyum. Surf etmeyinizde yardımcı olmak için burdayım. Öncelikle bakiyenizi doldurarak cüzdanınızı aktif hale getirelim.",
+                        "Cüzdan adresinizi arkadaşlarınızla paylaşın, böylece size para gönderebilirler.  Aldığınız ilk aktarımdan küçük bir cüzdan başlatma ücreti düşülecektir."
+                    ]
+                },
+                "name": "Chain Rider"
+            },
+            "debot": "DeBot",
+            "stakingBot": {
+                "messages": {
+                    "emptyChat": "Yeni stake yapmak için bana yazın…",
+                    "welcomeMessages": [
+                        "Selam, ben Ruby Stake, DeBot, yani, ademimerkeziyetçi bir botum, varlık yönetimi danışmanınızım.",
+                        "Yakutları yatırmanıza, mevcut stake'inizi artırmanıza, geri almanıza veya gelir ile işlem geçmişi istatistiklerinizi gözden geçirmenize yardımcı olmak için buradayım."
+                    ]
+                },
+                "name": "Ruby Stake",
+                "shortcuts": {
+                    "makeStake": "Stake yap",
+                    "showBalance": "Bakiyeyi göster",
+                    "stakeMore": "Daha fazla stake yap",
+                    "whatIsStaking": "Stake etme nedir?"
+                }
+            }
+        },
         "button": {
             "actions": {
                 "addToContacts": "Kişilere ekle",
@@ -191,7 +235,7 @@
             "notFound": "Debot bulunamadı",
             "nothingFound": "Hiçbirşey bulunamadı",
             "open": "DeBot'u Aç",
-            "recommended": "Recommended",
+            "recommended": "Popular",
             "restart": "Yeniden başlat",
             "search": "Enter DeBot address…",
             "searching": "Aranıyor...",
@@ -1252,7 +1296,6 @@
             "timeIsNotSynced": "Zamanlama eşitlenmemiştir. Maalesef işlemler başarısız oluyor. Lütfen saati otomatik olarak ayarlamak seçeneğini etkinleştirin."
         },
         "main": {
-            "activate": "Activate",
             "assets": "Varlık",
             "assetsBalance": "Varlık bakiyesi",
             "contacts": "Kişiler",
@@ -1328,8 +1371,6 @@
             "time": "Time",
             "to": "Alıcı:",
             "transactionNotSend": "Aktarılamadı. Lütfen tekrar deneyin.",
-            "transactionGoneSilent": "Transaction has gone silent",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "Aktarım detayları",
             "yes": "Evet"
         },

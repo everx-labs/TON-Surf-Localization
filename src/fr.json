@@ -17,6 +17,7 @@
             "author": "Author",
             "collectibles": "Collectibles",
             "created": "Created",
+            "title": "My Surfer",
             "tokens": "Tokens",
             "trueNftMarket": "True NFT Market"
         },
@@ -132,6 +133,49 @@
         "title": "Sauvegarde du mot de passe"
     },
     "chats": {
+        "bots": {
+            "chainRider": {
+                "messages": {
+                    "devIncomeCoinsMessage": "Génial! Vous pouvez désormais envoyer des jetons à vos amis. Invitez-les simplement à rejoindre Surf.",
+                    "devWelcomeMessages": [
+                        "Salut!",
+                        "Je suis Chain Rider, le DeBot (bot décentralisé). Je suis là pour vous aider à utiliser Surf. Tout d'abord, activons votre portefeuille en rechargeant votre solde.",
+                        "Partagez l'adresse de votre portefeuille avec vos amis afin qu'ils puissent vous envoyer des tokens. Un petit frais d'initiation au portefeuille sera déduit du premier transfert que vous recevrez."
+                    ],
+                    "emptyChat": "Partagez votre adresse de portefeuille avec des amis ...",
+                    "getCoinsMessages": [
+                        "Les Rubies sont fournis à des fins de test uniquement. Vous les obtiendrez en quelques minutes.",
+                        "Une fois que vous recevez vos premiers Rubies, des frais uniques d'initiation au portefeuille seront déduits."
+                    ],
+                    "goodSurfing": "Bonne expérience Surf!",
+                    "incomeCoinsMessage": "Génial! Vous pouvez désormais envoyer des jetons à vos amis. Invitez-les simplement à rejoindre Surf.",
+                    "walletInitiation": "Initiation au portefeuille",
+                    "welcomeMessages": [
+                        "Salut!",
+                        "Je suis le debot de Chain Rider, et je suis là pour vous aider à Surfer. Tout d'abord, activons votre portefeuille. Cela se fait en complétant votre solde.",
+                        "Partagez l'adresse de votre portefeuille avec vos amis afin qu'ils puissent vous envoyer des tokens. Un petit frais d'initiation au portefeuille sera déduit du premier transfert que vous recevrez."
+                    ]
+                },
+                "name": "Chain Rider"
+            },
+            "debot": "DeBot",
+            "stakingBot": {
+                "messages": {
+                    "emptyChat": "Appelez-moi pour faire une nouvelle mise…",
+                    "welcomeMessages": [
+                        "Bonjour, je suis Ruby Stake, le DeBot (bot décentralisé), votre conseiller en gestion d'actifs.",
+                        "Je suis là pour vous aider à staker des rubis, augmenter votre stake actuel ou le reprendre, ainsi que revoir vos statistiques : revenus et historique des transactions."
+                    ]
+                },
+                "name": "Ruby stake",
+                "shortcuts": {
+                    "makeStake": "Miser",
+                    "showBalance": "Afficher le solde",
+                    "stakeMore": "Miser plus",
+                    "whatIsStaking": "Qu'est-ce que le jalonnement?"
+                }
+            }
+        },
         "button": {
             "actions": {
                 "addToContacts": "Ajouter aux contacts",
@@ -191,7 +235,7 @@
             "notFound": "Debot non trouvé",
             "nothingFound": "Rien trouvé",
             "open": "Ouvrir DeBot",
-            "recommended": "Recommandé",
+            "recommended": "Popular",
             "restart": "Redémarrer",
             "search": "Entrez l'adresse de DeBot...",
             "searching": "Recherche...",
@@ -1252,7 +1296,6 @@
             "timeIsNotSynced": "Le temps n'est pas synchronisé. Malheureusement, les transactions ne peuvent pas être traitées. Veuillez activer l'option Régler l'heure automatiquement."
         },
         "main": {
-            "activate": "Activate",
             "assets": "Actifs",
             "assetsBalance": "Solde des actifs",
             "contacts": "Contacts",
@@ -1328,8 +1371,6 @@
             "time": "Heure",
             "to": "À",
             "transactionNotSend": "Transfert non envoyé. Veuillez réessayer.",
-            "transactionGoneSilent": "Transaction has gone silent",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
             "transferDetails": "Détails",
             "yes": "Oui"
         },

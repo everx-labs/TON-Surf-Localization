@@ -1308,6 +1308,7 @@
             "aborted": "中止",
             "amount": "数量",
             "change": "改变",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "评论",
             "encrypted": "加密的",
             "fee": "费用",
@@ -1327,9 +1328,8 @@
             "statusSuccess": "成功",
             "time": "Time",
             "to": "至",
-            "transactionNotSend": "传输未发送。请再试一次。",
             "transactionGoneSilent": "Transaction has gone silent",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
+            "transactionNotSend": "传输未发送。请再试一次。",
             "transferDetails": "传输详细信息",
             "yes": "是"
         },

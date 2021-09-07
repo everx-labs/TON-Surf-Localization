@@ -1308,6 +1308,7 @@
             "aborted": "İptal edildi",
             "amount": "Miktar",
             "change": "Değiştir",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "Yorum",
             "encrypted": "Şifrelenmiş",
             "fee": "Ücret",
@@ -1327,9 +1328,8 @@
             "statusSuccess": "Başarılı",
             "time": "Time",
             "to": "Alıcı:",
-            "transactionNotSend": "Aktarılamadı. Lütfen tekrar deneyin.",
             "transactionGoneSilent": "Transaction has gone silent",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
+            "transactionNotSend": "Aktarılamadı. Lütfen tekrar deneyin.",
             "transferDetails": "Aktarım detayları",
             "yes": "Evet"
         },

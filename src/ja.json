@@ -1308,6 +1308,7 @@
             "aborted": "中止されました。",
             "amount": "金額",
             "change": "変更",
+            "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "コメント",
             "encrypted": "暗号済み",
             "fee": "料金",
@@ -1327,9 +1328,8 @@
             "statusSuccess": "完成",
             "time": "Time",
             "to": "宛先",
-            "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
             "transactionGoneSilent": "Transaction has gone silent",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
+            "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
             "transferDetails": "転送の詳細",
             "yes": "はい"
         },

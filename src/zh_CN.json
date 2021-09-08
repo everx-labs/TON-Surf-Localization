@@ -1155,6 +1155,10 @@
             "withdrawRequest": "Withdraw request was sent. It may take a short while."
         }
     },
+    "buy": {
+        "buySheetTitle": "How much Tons\nwould you like to buy?",
+        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification"
+    },
     "support": {
         "askQuestion": "提出问题",
         "button": "Get support",

@@ -1155,6 +1155,10 @@
             "withdrawRequest": "O pedido de saque foi enviado. Pode levar algum tempo para ser processado."
         }
     },
+    "buy": {
+        "buySheetTitle": "How much Tons\nwould you like to buy?",
+        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification"
+    },
     "support": {
         "askQuestion": "Faça uma pergunta",
         "button": "Obter suporte",

@@ -12,13 +12,13 @@
             "today": "오늘"
         },
         "collectibles": {
-            "address": "Address",
+            "address": "주소",
             "amountFromSupply": "{1}의 {0}",
             "author": "저작자",
             "collectibles": "수집 항목",
-            "created": "Created",
-            "tokens": "Tokens",
-            "trueNftMarket": "True NFT Market"
+            "created": "생성",
+            "tokens": "토큰",
+            "trueNftMarket": "True NFT 마켓"
         },
         "details": {
             "buttons": {
@@ -69,7 +69,7 @@
             "addressPlaceholder": "계정 주소",
             "alreadyTracked": "이미 이 주소에 가입했습니다",
             "assetsSubtitle": "구독",
-            "namePlaceholder": "Account name",
+            "namePlaceholder": "계정 이름",
             "subscribeAndOpenBtn": "스레드 열기 및 구독하기",
             "subscribeBtn": "구독하기",
             "titleAdd": "구독을 추가하기",
@@ -87,8 +87,8 @@
             "disabledFaceMessage": "얼굴 인식 잠금 해제 사용 중지됨",
             "disabledFingerprintMessage": "지문 잠금 해제 사용 중지됨",
             "disabledMessage": "{0} 잠금 해제 비활성화됨",
-            "enabledFaceMessage": "Face unlock enabled",
-            "enabledFingerprintMessage": "Fingerprint unlock enabled",
+            "enabledFaceMessage": "얼굴 인식 잠금 해제 사용",
+            "enabledFingerprintMessage": "지문 잠금 해제 사용",
             "enabledMessage": "{0} 잠금 해제 활성화됨",
             "off": "끄기",
             "on": "켜기",
@@ -113,7 +113,7 @@
             "btnUpdate": "업데이트하기",
             "button": "네트워크",
             "endpoint": "엔드포인트",
-            "endpointHint": "Please cut the number of endpoints to one address",
+            "endpointHint": "엔드포인트 수를 하나의 주소로 줄이십시오",
             "name": "이름",
             "title": "네트워크",
             "titleAdd": "새 네트워크",
@@ -121,7 +121,7 @@
         },
         "suggestLanguage": {
             "button": "언어 제안하기",
-            "hint": "If you can't find the language you want, please suggest it in the translation community."
+            "hint": "원하는 언어를 찾을 수 없다면 번역 커뮤니티에서 제안해 주세요."
         },
         "title": "고급 설정"
     },
@@ -131,12 +131,16 @@
         "text": "암호를 안전한 위치에 저장하십시오. 암호를 분실하면 자금에 영구적으로 액세스할 수 없게 됩니다.",
         "title": "비밀번호 백업"
     },
+    "buy": {
+        "buySheetSubTitle": "최대 {0} 300개 구매하면\neKYC 인증이 필요하지 않습니다",
+        "buySheetTitle": "얼마나 많은 TON를\n구매하시겠습니까?"
+    },
     "chats": {
         "button": {
             "actions": {
                 "addToContacts": "연락처 추가하기",
                 "blockMessages": "차단하기",
-                "buy": "구입하기",
+                "buy": "구매",
                 "checkStakes": "스테이킹을 확인하기",
                 "devCoins": "루비 받기",
                 "inviteFriends": "친구를 초대하기",
@@ -151,10 +155,10 @@
         },
         "debots": {
             "addressInput": {
-                "auto": "Select main address",
-                "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
-                "manual": "Enter manually"
+                "auto": "기본 주소 선택",
+                "enterAddress": "주소를 입력하세요",
+                "invalidAddress": "잘못된 TON 주소입니다.",
+                "manual": "수동으로 입력"
             },
             "agree": "알겠습니다",
             "agreement": "DeBot는 제3자 서비스입니다. 귀하의 신원 및 기타 정보 공개를 노출시킬 가능성이 있습니다. TON Surf가 DeBot를 통제할 수 없습니다.",
@@ -287,17 +291,17 @@
         "searchFriends": "친구를 찾는 중...",
         "selectRecipient": {
             "deliveryHint": {
-                "email": "Send via email",
-                "share": "Direct share",
-                "sms": "Send via SMS"
+                "email": "이메일로 보내기",
+                "share": "직접 공유",
+                "sms": "SMS로 보내기"
             },
-            "retry": "Retry",
+            "retry": "다시 시도",
             "sendButton": {
-                "email": "Send email",
-                "share": "Share link",
-                "sms": "Send SMS"
+                "email": "이메일 보내기",
+                "share": "링크 공유",
+                "sms": "문자 메시지 보내기"
             },
-            "sendManually": "Direct share"
+            "sendManually": "직접 공유"
         },
         "shareApplication": "{APP_NAME} 공유하기",
         "support": "어시스턴트",
@@ -527,9 +531,9 @@
                 "title": "내 크리스탈"
             },
             "CUSTOM": {
-                "comment": "{0} tokens",
+                "comment": "{0} 토큰",
                 "stake": "",
-                "title": "My {0} tokens"
+                "title": "내 {0} 토큰"
             },
             "RUBY": {
                 "comment": "Free TON 테스트 토큰",
@@ -1151,20 +1155,16 @@
             "stakes": "스테이크",
             "stakingRequest": "스테이킹 요청이 전송되었습니다. 시간이 조금 걸릴 수 있습니다.",
             "successfulRounds": "성공적인 라운드",
-            "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
-            "withdrawRequest": "Withdraw request was sent. It may take a short while."
+            "unstakeBanner": "잠금 기간 동안 귀하의 자금은 기본 계정으로 이체됩니다.",
+            "withdrawRequest": "춤금 요청이 전송되었습니다. 시간이 조금 걸릴 수 있습니다."
         }
-    },
-    "buy": {
-        "buySheetTitle": "How much Tons\nwould you like to buy?",
-        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification"
     },
     "support": {
         "askQuestion": "질문하기",
         "button": "지원 받기",
         "giveFeedback": {
             "button": "피드백을 제시하기",
-            "subject": "Feedback"
+            "subject": "피드백"
         },
         "group": "지원 그룹",
         "makeSuggestion": "제안 보내기",
@@ -1190,11 +1190,11 @@
     },
     "transactions": {
         "buy": {
-            "item": "Item",
-            "payment": "Payment",
-            "seller": "Seller",
-            "title": "Buy",
-            "totalPrice": "Total price"
+            "item": "항목",
+            "payment": "지불",
+            "seller": "판매자",
+            "title": "구매",
+            "totalPrice": "총 가격"
         },
         "comments": {
             "commentOptional": "댓글 남기기",
@@ -1251,12 +1251,12 @@
             "failedToLoadAccounts": "계정을 로드하지 못했습니다.",
             "failedToLoadWallet": "지갑을 로드하지 못했습니다.",
             "failedToLoginInTheWallet": "지갑에 로그인하지 못했습니다.",
-            "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
+            "insufficientFunds": "작업을 수행할 자금이 부족합니다. Surf 잔액을 충전하십시오.",
             "limitInvalidValue": "한계 값이 유효하지 않거나 너무 큽니다.",
             "timeIsNotSynced": "시간 동기화 오류가 발생했습니다. 안타깝게도 트랜잭션을 처리할 수 없습니다. 시간 자동 설정 옵션을 활성화하십시오."
         },
         "main": {
-            "activate": "Activate",
+            "activate": "활성화",
             "assets": "자산",
             "assetsBalance": "자산 잔액",
             "contacts": "연락처",
@@ -1312,7 +1312,7 @@
             "aborted": "중단됨",
             "amount": "액수",
             "change": "잔액 변경",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
+            "checkStatusLater": "당황하지 마세요. 잠시 후 상태를 확인할 수 있습니다",
             "comment": "댓글 남기기",
             "encrypted": "암호화됨",
             "fee": "수수료",
@@ -1332,17 +1332,17 @@
             "statusSuccess": "성공",
             "time": "시간",
             "to": "받는 사람",
-            "transactionGoneSilent": "Transaction has gone silent",
+            "transactionGoneSilent": "트랜잭션이 무음으로 변경합니다",
             "transactionNotSend": "송금이 전송되지 않았습니다. 다시 시도하십시오.",
             "transferDetails": "세부 정보",
             "yes": "예"
         },
         "warning": {
             "awaitTransaction": "이전 전송이 진행 중입니다.",
-            "couldNotIdentifyQRCode": "Couldn't identify QR code",
+            "couldNotIdentifyQRCode": "QR 코드를 인식할 수 없음",
             "insufficientBalance": "부족한 자금",
             "insufficientBalanceForFee": "네트워크 수수료를 지불할 금액이 부족합니다",
-            "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
+            "insufficientFundsToActivate": "지갑을 활성화할 자금이 부족합니다",
             "limitReached": "금액이 설정된 한도 중 하나를 초과합니다.",
             "notYetSupported": "아직 지원되지 않음",
             "pleaseWait": "조금만 기다려주세요"

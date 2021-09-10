@@ -1345,7 +1345,7 @@
             "insufficientFundsToActivate": "지갑을 활성화할 자금이 부족합니다",
             "limitReached": "금액이 설정된 한도 중 하나를 초과합니다.",
             "notYetSupported": "아직 지원되지 않음",
-            "pleaseWait": "조금만 기다려주세요"
+            "pleaseWait": "조금만 기다려 주세요"
         },
         "withdrawGram": {
             "amount": "액수",

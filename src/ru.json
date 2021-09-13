@@ -172,6 +172,8 @@
             "info": {
                 "about": "Информация",
                 "actions": "Действия",
+                "legalNotes": "Legal notes",
+                "sourceCode": "Source code",
                 "addToFavorites": "Добавить в избранное",
                 "addToFavoritesNotification": "ДеБот добавлен в избранное",
                 "author": "Разработано",

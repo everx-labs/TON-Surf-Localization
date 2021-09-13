@@ -171,6 +171,8 @@
             "history": "History",
             "info": {
                 "about": "About",
+                "legalNotes": "Legal notes",
+                "sourceCode": "Source code",
                 "actions": "Actions",
                 "addToFavorites": "Add to favorites",
                 "addToFavoritesNotification": "DeBot added to favorites",

@@ -172,6 +172,9 @@
             "info": {
                 "about": "Информация",
                 "actions": "Действия",
+                "legalNotes": "Правовая информация",
+                "sourceCode": "Исходный код",
+                "share": "Поделиться",
                 "addToFavorites": "Добавить в избранное",
                 "addToFavoritesNotification": "ДеБот добавлен в избранное",
                 "author": "Разработано",

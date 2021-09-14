@@ -172,6 +172,9 @@
             "info": {
                 "about": "Environ",
                 "actions": "Actions",
+                "legalNotes": "Legal notes",
+                "sourceCode": "Source code",
+                "share": "Share",
                 "addToFavorites": "Ajouter aux Favoris",
                 "addToFavoritesNotification": "DeBot ajouté aux favoris",
                 "author": "Auteur",

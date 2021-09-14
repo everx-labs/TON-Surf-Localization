@@ -172,6 +172,9 @@
             "info": {
                 "about": "Información",
                 "actions": "Actions",
+                "legalNotes": "Legal notes",
+                "share": "Share",
+                "sourceCode": "Source code",
                 "addToFavorites": "Añadir a favoritos",
                 "addToFavoritesNotification": "DeBot añadido a favoritos",
                 "author": "Diseñado por",

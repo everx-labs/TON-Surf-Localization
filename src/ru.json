@@ -162,6 +162,7 @@
             "browse": "Обзор ДеБотов...",
             "debot": "ДеБот",
             "debotError": "Ой! Кажется, я сломался. Будьте на связи",
+            "queueEnd": "That's all! Restart me in case you need my help again",
             "defaultHello": "Привет! Я ДеБот",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Зашифровать / расшифровать с помощью Surf"

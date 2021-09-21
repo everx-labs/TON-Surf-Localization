@@ -842,7 +842,7 @@
         "understand": "알겠습니다"
     },
     "sendGram": {
-        "deposit": "Deposit",
+        "deposit": "보증금",
         "fee": "수수료",
         "feeAmount": "≈ {0}",
         "makeAnotherTransfer": "다른 전송을 하기",

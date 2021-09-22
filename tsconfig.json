@@ -4,7 +4,11 @@
         "moduleResolution": "node",
         "strict": true,
         "baseUrl": "./src",
-        "resolveJsonModule": true
+        "resolveJsonModule": true,
+        "lib": [
+            "es2018",
+            "dom"
+        ]
     },
     "include": ["**/*.ts"],
     "exclude": ["node_modules"]

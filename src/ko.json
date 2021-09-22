@@ -176,9 +176,6 @@
             "info": {
                 "about": "자세한 내용",
                 "actions": "기록",
-                "legalNotes": "법적 고지",
-                "sourceCode": "소스 코드",
-                "share": "공유",
                 "addToFavorites": "즐겨찾기에 추가",
                 "addToFavoritesNotification": "즐겨찾기에 DeBot를 추가됨",
                 "author": "저작자",
@@ -188,10 +185,13 @@
                     "failedToSaveFavorite": "즐겨찾기 상태를 저장하지 못했습니다. 나중에 다시 시도해 주세요"
                 },
                 "goToExplorer": "익스플로러로 이동하기",
+                "legalNotes": "법적 고지",
                 "publisher": "{0}(으)로",
                 "removeFromFavorites": "즐겨찾기에서 제거하기",
                 "removeFromFavoritesNotification": "DeBot 즐겨찾기에서 제거됨",
+                "share": "공유",
                 "showAddress": "주소 표시",
+                "sourceCode": "소스 코드",
                 "version": "v. {0}",
                 "writeToDeveloper": "개발자에게 쓰기"
             },
@@ -200,7 +200,7 @@
             "open": "DeBot를 열기",
             "recommended": "즐겨찾기",
             "restart": "다시 시작",
-            "search": "DeBot 주소를 입력하세요",
+            "search": "DeBot 주소 입력",
             "searching": "검색 중...",
             "securityCard": {
                 "notSupport": "불행하게도 귀하의 장치는 올바른 작동에 필요한 NFC를 지원하지 않습니다. 전원을 켜거나 다른 기기를 사용하세요."
@@ -340,14 +340,14 @@
             "sendFeedback": "보내기",
             "title": "아이디어 공유하기"
         },
-        "reportProblem": "문제 리포트하기",
+        "reportProblem": "문제 신고하기",
         "sent": "더 나은 세상을 만드려고 도움을 주셔서 감사합니다!",
         "shareYourIdeasButton": "아이디어 공유하기"
     },
     "getTONs": {
         "contests": {
-            "governance": "거버넌스",
-            "title": "콘테스트"
+            "governance": "거버넌스 컨테스트 참여 페이지",
+            "title": "컨테스트"
         },
         "exchanges": {
             "bitcoin": "Bitcoin.com",
@@ -356,10 +356,10 @@
             "hitbtc": "HitBTC",
             "kuna": "Kuna",
             "mexc": "MEXC",
-            "title": "화폐 교환"
+            "title": "취급 거래소"
         },
         "title": "TON 받기",
-        "warning": "토큰을 얻는 가장 안전한 방법은 여전히 콘테스트와 서브 거버넌스입니다. Surf는 귀하의 개인 데이터를 수집할 수 있는 제3자 서비스에 대해 책임을 지지 않습니다."
+        "warning": "토큰을 얻는 가장 안전한 방법은 컨테스트 참여와 서브 거버넌스입니다. Surf는 귀하의 개인 데이터를 수집할 수 있는 제3자 서비스에 대해 책임을 지지 않습니다."
     },
     "interfaceOptions": {
         "assetsBalance": {
@@ -370,7 +370,7 @@
         },
         "interfaceOptionsButton": "인터페이스 선택 사항",
         "nightTheme": {
-            "button": "밤 테마"
+            "button": "다크 테마"
         },
         "promoCards": {
             "button": "프로모션 카드"
@@ -428,7 +428,7 @@
             "cookies": "쿠키 정책을 읽고 동의합니다",
             "gotIt": "오케이",
             "kycAml": "KYC & AML 정책을 읽고 동의합니다",
-            "makeSure": "안녕하세요. 계약 및 정책으로 일을 제대로 시작합시다:",
+            "makeSure": "안녕하세요. 일을 제대로 하기 위해 정책부터 시작합시다",
             "openUrl": "법적 고지 열기",
             "privacyPolicy": "개인정보 보호정책을 읽고 동의합니다",
             "termsOfUse": "이용약관을 읽고 동의합니다",
@@ -438,11 +438,11 @@
             "businessDetails": "비즈니스 세부 정보",
             "cookiesPolicy": "쿠키 정책",
             "privacyPolicy": "개인 정보 정책",
-            "surfDecentralizationPolicy": "Surf 탈중앙화 정책",
+            "surfDecentralizationPolicy": "Surf 탈중앙 선언문",
             "termsOfUse": "이용 약관",
             "title": "법적 고지"
         },
-        "profileButtonTitle": "탈중앙화 정책"
+        "profileButtonTitle": "탈중앙 선언문"
     },
     "lockScreen": {
         "PINCorrect": "정확한 암호",
@@ -461,7 +461,7 @@
     },
     "memoryCheck": {
         "mainComponent": {
-            "description": "시드 프레이즈를 사용할 수 있는지 확인하기 위해 아래에 입력해 주세요.",
+            "description": "시드키를 사용할 수 있는지 확인하기 위해 아래에 입력해 주세요.",
             "doneButton": "좋습니다! 확인이 완료되었습니다",
             "title": "확인"
         },
@@ -530,7 +530,7 @@
         "currencies": {
             "CRYSTAL": {
                 "comment": "Free TON 토큰",
-                "stake": "크리스탈 스테이크",
+                "stake": "TON 크리스탈 스테이킹",
                 "title": "내 크리스탈"
             },
             "CUSTOM": {
@@ -564,10 +564,10 @@
     },
     "restorePassword": {
         "mainComponent": {
-            "description": "이것은 귀하 Surf 계정의 시드 프레이즈입니다. 이 장치에 저장하지 마시고 이 시드 프레이즈를 종이에 적어서 안전한 장소에 보관하십시오.",
-            "title": "시드 프레이즈"
+            "description": "이것은 귀하 Surf 계정의 시드키입니다. 본 기기에 저장하지 마시고 이 시드키를 종이에 적어서 반드시 안전한 장소에 보관하시기 바랍니다.",
+            "title": "시드키"
         },
-        "restorePasswordButton": "시드 프레이즈"
+        "restorePasswordButton": "시드키"
     },
     "safetyProtection": {
         "PINChangeFailed": "암호 변경 실패",
@@ -592,32 +592,32 @@
         "enterPin": "암호 입력하기",
         "hidePrivateKey": "개인 키 숨기기",
         "isCopied": "클립보드에 복사하기",
-        "lockApp": "앱 잠금",
+        "lockApp": "앱 잠그기",
         "lockMethod": {
             "button": "잠금 방식",
             "title": "잠금 방식"
         },
         "logOut": {
             "button": "장치의 데이터 삭제 및 종료",
-            "hint": "먼저 시드 프레이즈를 안전하게 저장해 주세요. 시드 프레이즈가 있어야 지갑에 액세스를 복원할 수 있습니다."
+            "hint": "먼저 시드키를 안전하게 저장해 주십시오. 반드시 시드키가 있어야만 귀하의 지갑에 액세스하실 수 있습니다"
         },
         "neverShare": "귀하의 개인 키는 누구에게나 귀하의 자금에 대한 전체 액세스 권한을 부여할 수 있습니다. 신뢰하지 않는 사람이나 응용 프로그램과 절대 공유해서는 안 됩니다.",
         "noThanks": "아니요, 괜찮습니다",
         "nonMainAccountPrivateKeyNote": "이 개인 키는 기본 Surf 계정의 보안에 아무런 역할을 하지 않습니다. 그러나 키가 손상되면 이 개인 키로 보호되는 다른 자금 및 데이터가 위험에 처할 수 있습니다. 신뢰하지 않는 사람이나 애플리케이션과 공유해서는 안 됩니다.",
         "privateKey": "개인 키",
         "publicKey": "공개 키",
-        "safelyShare": "사용자의 지갑 주소와 공개 키는 누구와도 안전하게 공유할 수 있습니다.",
+        "safelyShare": "사용자의 지갑 주소와 공개 키는 타인과 안전하게 공유할 수 있습니다.",
         "safetyProtectionButton": "안전 보호",
         "safetyRules": {
             "buttonTitle": "안전 규칙",
-            "description": "이 간단한 규칙은 자금을 안전하게 유지하는 데 도움이 됩니다",
-            "gotItButton": "알았어요",
+            "description": "이 간단한 규칙을 준수하는 것은 귀하의 자산을 안전하게 유지하는 데에 큰 도움이 됩니다",
+            "gotItButton": "알겠습니다",
             "rules": [
-                "확인된 출저에서만 Surf을 설치하세요 (App Store, Google Play)",
-                "시드 프레이즈를 백업하십시오. 종이에 적으셔서 귀하만 찾으실 수 있는 곳에서 보관해 주세요. Surf 계정에 접속하시는 장치에 저장하지 마십시오.",
-                "시드 프레이즈를 Surf 이외의 다른 사람이나 앱에 공개하지 마십시오. Surf에서 지갑에 대한 액세스를 복원하는 데만 사용하십시오.",
+                "반드시 확인된 출처에서 Surf를 설치하세요 (App Store, Google Play)",
+                "시드키를 잘 보관하세요. 종이에 적으셔서 귀하만 찾으실 수 있는 곳에 보관하십시오. Surf 계정에 접속하시는 기기에는 저장하지 마십시오.",
+                "시드키를 다른 사람이나 앱에 절대 공개하지 마십시오. Surf에서 귀하의 지갑에 대한 액세스를 복원하시는 데에만 사용하십시오.",
                 "기억하기 쉬운 암호를 사용하시고 절대 적어 두지 마십시오. 다른 애플리케이션 암호와 동일한 암호를 사용하지 마십시오. 누구와도 공유하지 마십시오.",
-                "자산의 보안을 강화하려면 보안 카드를 사용하십시오. 시드 프레이즈를 잊어버린 경우에도 지갑에 대한 액세스를 복원하는 데 도움이 될 수 있습니다."
+                "자산의 보안을 강화하려면 보안 카드를 사용하십시오. 시드키를 잃어버린 경우에도 지갑에 대한 액세스를 복원하는 데에 도움이 될 수 있습니다."
             ],
             "screenTitle": "안전 규칙"
         },
@@ -678,7 +678,7 @@
             "deactivatedCards": "보안 카드가 비활성화되었습니다",
             "details": "세부 정보",
             "detailsText": "Surf는 귀하와 귀하의 행동을 트래킹, 귀하의 데이터를 수집, 분석 소프트웨어를 사용하지 않습니다. 저희는 간단한 추적 기기조차 가지고 있지 않습니다. 쿠키도 없고 개인 데이터 처리도 없습니다. 이것은 저희의 소명 목표입니다.\n\n경고! 그러나 저희가 통제할 수 없는 기타 제3자 서비스는 단독 재량에 따라 귀하의 데이터를 수집하고 사용할 수 있습니다. Surf에서 해당 서비스를 사용하려는 경우 개인 정보, 쿠키, 사용 약관 및 기타 모든 계약상 구속력이 있는 정책 및 문서를 수락하기 전에 검토할 때 매우 신중해야 합니다.",
-            "detailsTitle": "탈중앙화 정책에서 이미 언급했듯이",
+            "detailsTitle": "탈중앙 선언문에서 이미 언급했듯이",
             "enterCode": "코드를 입력하기",
             "enterCodeDescription": "카드 번호를 입력하고 카드를 장치에 대고 연결을 설정하십시오",
             "free": "무료",
@@ -808,14 +808,14 @@
                     "title": "하드웨어"
                 },
                 "protection": {
-                    "description": "보안 및 개인 정보 보호는 저희의 우선 순위입니다. 설계로 부채널 공격으로부터 보호되는 CC EAL 6+ Infineon 보안적 요소를 사용합니다.\n시드 프레이즈는 카드를 떠나지 않습니다.\n귀하의 카드는 주문하는 순간부터 귀하의 계정에 할당되며 주문에 사용된 암호화 지갑에 대해서만 활성화할 수 있습니다.",
+                    "description": "보안 및 개인 정보 보호는 저희의 우선 순위입니다. 설계로 부채널 공격으로부터 보호되는 CC EAL 6+ Infineon 보안적 요소를 사용합니다.\n시드키는 카드를 떠나지 않습니다.\n귀하의 카드는 주문하는 순간부터 귀하의 계정에 할당되며 주문에 사용된 암호화 지갑에 대해서만 활성화할 수 있습니다.",
                     "title": "보호"
                 },
                 "title": "기술 명세서"
             },
             "total": "전부",
             "turningOnCardWallet": "카드 지갑을 만드는 중...",
-            "understand": "알았어요",
+            "understand": "알겠습니다",
             "verifyIdentity": "ID 확인",
             "verifyIdentityDescription": "화면을 보세요",
             "waitlist": {
@@ -827,7 +827,7 @@
                 "learnMoreBtn": "더 알아보기",
                 "policy": "Free TON  블록체인용 TON Labs 보안 카드를 사용하면 약관 및 정책에 동의하게 됩니다",
                 "techSpecsBtn": "기술 사양",
-                "title": "하드웨어 지갑 이상입니다"
+                "title": "단순한 하드웨어 지갑 그 이상입니다"
             }
         },
         "showPrivateKey": "개인 키 표시",
@@ -836,13 +836,13 @@
     },
     "security": {
         "readMore": "더 읽어보기",
-        "screenshotWarning": "사진을 찍지 마시고 화면를 갭쳐하지 마십시오. 다른 앱이 이 정보에 액세스할 수 있습니다. 모든 것을 종이에 적어 안전한 장소에 보관하십시오.",
+        "screenshotWarning": "사진을 찍지 마시고 화면을 캡쳐하지 마십시오. 다른 앱이 이 정보에 접근할 수 있습니다. 모든 것을 종이에 적어 반드시 안전한 장소에 보관하십시오.",
         "thirdPartyServicesWarning": "귀하는 안전한 항구를 떠나고 있습니다. 타사 서비스에서 개인 데이터를 수집하고 사용할 수 있습니다.",
-        "title": "안전 경고!",
-        "understand": "알았어요"
+        "title": "경고!",
+        "understand": "알겠습니다"
     },
     "sendGram": {
-        "deposit": "Deposit",
+        "deposit": "보증금",
         "fee": "수수료",
         "feeAmount": "≈ {0}",
         "makeAnotherTransfer": "다른 전송을 하기",
@@ -922,23 +922,23 @@
         },
         "promoCards": {
             "backupPassword": {
-                "initial": "시드 \n프레이즈\n백업하기"
+                "initial": "시드키\n백업하기"
             },
             "card": {
-                "initial": "이것은 하드웨어 지갑 이상입니다"
+                "initial": "단순한 하드웨어\n지갑 그 \n이상입니다"
             },
             "faq": {
                 "initial": "자주 묻는 질문"
             },
             "stakeDeposit": {
-                "initial": "스테이킹\n보상을\n받으세요"
+                "initial": "스테이킹\n보상받기"
             }
         },
         "restore": {
             "button": "로그인",
             "description": "암호 백업으로 로그인하세요.",
             "hint": "12 또는 24 단어",
-            "masterPassword": "시드 프레이즈",
+            "masterPassword": "시드키",
             "title": "Surf 복원"
         },
         "start": {
@@ -1149,7 +1149,7 @@
             "max": "최대",
             "members": "회원",
             "min": "min.",
-            "minStake": "최소 스테이크 금액",
+            "minStake": "최소 스테이킹 금액",
             "moreInfo": "자세한 정보",
             "period": "락업 기간",
             "reward": "예상 연간 보상",
@@ -1166,7 +1166,7 @@
         "askQuestion": "질문하기",
         "button": "지원 받기",
         "giveFeedback": {
-            "button": "피드백을 제시하기",
+            "button": "피드백 제시하기",
             "subject": "피드백"
         },
         "group": "지원 그룹",
@@ -1224,7 +1224,7 @@
             "transactionInvitation": "친구 {0} 가 귀하에게 송금을 보냈습니다. 영수증 확인하기"
         },
         "vote": {
-            "contest": "콘테스트",
+            "contest": "컨테스트",
             "cost": "비용",
             "proposal": "제안",
             "signature": "서명",

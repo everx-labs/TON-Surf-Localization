@@ -166,6 +166,7 @@
             "browse": "DeBot 검색...",
             "debot": "DeBot",
             "debotError": "이크! 저는 좀 망가졌어요. 연락을 유지해 주세요",
+            "queueEnd": "That's all! Restart me in case you need my help again",
             "defaultHello": "안녕하세요? 저는 DeBot입니다",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Surf로 암호화/복호화"

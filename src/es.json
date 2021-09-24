@@ -162,6 +162,7 @@
             "browse": "Browse DeBots...",
             "debot": "DeBot",
             "debotError": "¡¡Oops!! Estoy un poco roto. Mantente en contacto",
+            "queueEnd": "That's all! Restart me in case you need my help again",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Cifrar / descifrar con Surf"

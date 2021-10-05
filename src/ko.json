@@ -1198,6 +1198,7 @@
             "payment": "지불",
             "seller": "판매자",
             "title": "구매",
+            "topUp": "Top up",
             "totalPrice": "총 가격"
         },
         "comments": {

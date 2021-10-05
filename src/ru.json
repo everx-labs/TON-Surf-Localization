@@ -1198,6 +1198,7 @@
             "payment": "Оплата",
             "seller": "Продавец",
             "title": "Купить",
+            "topUp": "Top up",
             "totalPrice": "Итоговая стоимость"
         },
         "comments": {

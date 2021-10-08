@@ -1121,12 +1121,6 @@
         "main": {
             "button": "Rebalance"
         },
-        "promo": {
-            "about": "Informationen",
-            "stakeNow": "Jetzt setzen",
-            "text": "Delegieren Sie Token an Smart Contracts und genießen Sie jeden Tag Ihre Belohnungen",
-            "title": "Verdienen Sie {0} % pro Jahr nur für das Halten von Kristallen"
-        },
         "stakingScreen": {
             "about": "About",
             "advancedFeatures": "Erweiterte Funktionen",

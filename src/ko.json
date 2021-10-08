@@ -1125,12 +1125,6 @@
         "main": {
             "button": "재조정하기"
         },
-        "promo": {
-            "about": "자세한 내용",
-            "stakeNow": "지금 스테이킹하기",
-            "text": "스마트 계약에 토큰을 위임하고 매일 보상을 받으세요",
-            "title": "크리스탈을 소유하는 것만으로도 연간 {0}%를 얻습니다"
-        },
         "stakingScreen": {
             "about": "자세한 내용",
             "advancedFeatures": "고급 기능",

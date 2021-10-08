@@ -1121,12 +1121,6 @@
         "main": {
             "button": "Rééquilibrer"
         },
-        "promo": {
-            "about": "A propos",
-            "stakeNow": "Staker maintenant",
-            "text": "Déléguez des jetons à des contrats intelligents et profitez de vos récompenses chaque jour",
-            "title": "Gagnez {0} % par an rien qu'en détenant des cristaux"
-        },
         "stakingScreen": {
             "about": "A propos",
             "advancedFeatures": "Fonctions avancées",

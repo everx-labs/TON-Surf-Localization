@@ -1121,12 +1121,6 @@
         "main": {
             "button": "Yeniden dengele"
         },
-        "promo": {
-            "about": "About",
-            "stakeNow": "Stake now",
-            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
-            "title": "Earn {0} % a year just for holding crystals"
-        },
         "stakingScreen": {
             "about": "Hakkında",
             "advancedFeatures": "Gelişmiş özellikler",

@@ -1121,12 +1121,6 @@
         "main": {
             "button": "重新平衡"
         },
-        "promo": {
-            "about": "About",
-            "stakeNow": "Stake now",
-            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
-            "title": "Earn {0} % a year just for holding crystals"
-        },
         "stakingScreen": {
             "about": "About",
             "advancedFeatures": "高级功能",

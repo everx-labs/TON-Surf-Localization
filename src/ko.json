@@ -501,6 +501,12 @@
             "custom": "Custom networks",
             "main": "메인 네트워크",
             "test": "테스트넷"
+        },
+        "switchAlert": {
+            "title": "Switch the network",
+            "message": "The link has different network than you connected to. To open this link, switch the network",
+            "switch": "Switch",
+            "stay": "Stay in network"
         }
     },
     "operationsHistory": {

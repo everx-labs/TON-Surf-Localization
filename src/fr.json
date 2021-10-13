@@ -497,6 +497,12 @@
             "custom": "Réseaux personnalisés",
             "main": "Réseau principal",
             "test": "Réseaux d'essai"
+        },
+        "switchAlert": {
+            "title": "Switch the network",
+            "message": "The link has different network than you connected to. To open this link, switch the network",
+            "switch": "Switch",
+            "stay": "Stay in network"
         }
     },
     "operationsHistory": {

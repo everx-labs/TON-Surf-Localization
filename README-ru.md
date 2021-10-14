@@ -7,13 +7,13 @@
 Все изменения строк вносятся в файлы в вашем репозитории, чтобы не затрагивать исходный репозиторий TON-Surf-Localization.
 
 1. Перейдите в репозиторий локализации [TON-Surf-Localization](https://github.com/tonlabs/TON-Surf-Localization).
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-00.png?raw=true)
+   ![alt text](images/screenshot-00.png)
 2. В правом верхнем углу нажмите на кнопку **Fork**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-01.png?raw=true)
+   ![alt text](images/screenshot-01.png)
 3. Выберите, куда GitHub скопирует репозиторий локализации TON-SURF.
 
 Теперь у вас есть копия репозитория, и вы можете вносить изменения в строки локализации.
-![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-02.png?raw=true)
+![alt text](images/screenshot-02.png)
 
 ## Редактирование ресурных строк
 Вы можете отредактировать файлы прямо в GitHub или скачать их на свой компьютер и редактировать локально.
@@ -21,14 +21,14 @@
 ### Редактирование на GitHub
 1. Нажмите на файл, который вы хотите отредактировать.
 2. Нажмите на значок карандаша.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-03.png?raw=true)
+   ![alt text](images/screenshot-03.png)
 
 Файл откроется во встроенном редакторе GitHub.
 
 ### Загрузка файла на компьютер
 1. Нажмите на файл, который вы хотите отредактировать.
 2. Щелкните правой кнопкой мыши по кнопке **Raw** и выберите **Загрузить связанный файл**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-04.png?raw=true)
+   ![alt text](images/screenshot-04.png)
    Название контекстного меню зависит от используемого вами браузера.
 
 Файл загрузится на ваш компьютер. Теперь вы можете открыть его в любом редакторе, поддерживающем формат JSON.
@@ -43,7 +43,7 @@
 5. Нажмите **Включить помощника по локализации**.
 
 Теперь, когда вы помещаете курсор на строку, ее идентификатор будет отображаться в верхней части экрана.
-![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-05.png?raw=true)
+![alt text](images/screenshot-05.png)
 
 ## Сохранение изменений
 Как только вы закончите вносить изменения, их нужно будет сохранить в вашем репозитории. Оттуда они попадут в репозиторий локализации TON-SURF.
@@ -59,18 +59,18 @@
 - Запросы принимаются только для последней версии файлов.
 
 1. Перейдите на вкладку **Pull Request**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-06.png?raw=true) 
+   ![alt text](images/screenshot-06.png) 
 2. Нажмите **New pull request**. 
-   [alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-07.png?raw=true)
+   [alt text](images/screenshot-07.png)
 3. Нажмите **Create pull request**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-08.png?raw=true)
+   ![alt text](images/screenshot-08.png)
 4. Введите название и опишите изменения.
 5. Отметьте людей, которые должны подтвердить ваши изменения. Список ревьюиров вы можете посмотреть здесь.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-09.png?raw=true)
+   ![alt text](images/screenshot-09.png)
 6. Нажмите **Create pull request**.
 
 Поскольку вы не являетесь членом Team Surf, после создания запросы вы увидите следующее сообщение:
-![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-10.png?raw=true)
+![alt text](images/screenshot-10.png)
 Все в порядке. Пользователи, которых вы отметили, получат уведомления об изменениях, внесенных вами.
 
 Изменения появятся в приложении через несколько недель после подтверждения запроса на слияние.
@@ -79,11 +79,11 @@
 Чтобы вовремя получать уведомления об измененных строках и принимать участие в ревью переводов, вам нужно настроить Participating уведомления в GitHub.
 
 1. В правом верхнем углу страницы нажмите на фото профиля и выберите **Settings**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-11.png?raw=true)
+   ![alt text](images/screenshot-11.png)
 2. В меню **Account settings** выберите **Notifications**.
-3. ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-12.png?raw=true)
+3. ![alt text](images/screenshot-12.png)
 4. В блоке **Participating** выберите, как вы хотите получать уведомления: **Email** или **Web and Mobile**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-13.png?raw=true)
+   ![alt text](images/screenshot-13.png)
 
 Теперь вы точно не пропустите изменений, требующих вашего внимания. Когда кто-то отметит вас по имени пользователя, вы сразу получите уведомление.
 
@@ -92,10 +92,10 @@
 
 1. Откройте уведомление, в котором вас отметили в качестве ревьюера.
 2. Перейдите на закладку **Files changed**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-14.png?raw=true)
+   ![alt text](images/screenshot-14.png)
 3. Просмотрите измененные строчки. Если у вас возникли вопросы по переводу, вы можете оставить комментарий к строке, нажав **+**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-15.png?raw=true)
+   ![alt text](images/screenshot-15.png)
 4. Когда все замечания будут учтены, а ошибки исправлены, нажмите **Review changes**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-16.png?raw=true)
+   ![alt text](images/screenshot-16.png)
 5. Выберите **Approve** и нажмите **Submit review**.
-   ![alt text](https://github.com/AnnStepanova/TON-Surf-Localization/blob/development/screenshot-17.png?raw=true)
+   ![alt text](images/screenshot-17.png)

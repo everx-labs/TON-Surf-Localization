@@ -162,6 +162,7 @@
             "browse": "Browse DeBots...",
             "debot": "DeBot",
             "debotError": "¡¡Oops!! Estoy un poco roto. Mantente en contacto",
+            "queueEnd": "That's all! Restart me in case you need my help again",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Cifrar / descifrar con Surf"
@@ -496,6 +497,12 @@
             "custom": "Redes personalizadas",
             "main": "Red principal",
             "test": "Redes de prueba"
+        },
+        "switchAlert": {
+            "title": "Switch the network",
+            "message": "The link has different network than you connected to. To open this link, switch the network",
+            "switch": "Switch",
+            "stay": "Stay in network"
         }
     },
     "operationsHistory": {
@@ -1120,12 +1127,6 @@
         "main": {
             "button": "Reequilibrar"
         },
-        "promo": {
-            "about": "About",
-            "stakeNow": "Stake now",
-            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
-            "title": "Earn {0} % a year just for holding crystals"
-        },
         "stakingScreen": {
             "about": "About",
             "advancedFeatures": "Funciones avanzadas",
@@ -1197,6 +1198,7 @@
             "payment": "Payment",
             "seller": "Vendedor",
             "title": "Buy",
+            "topUp": "Top up",
             "totalPrice": "Precio total"
         },
         "comments": {

@@ -1,4 +1,4 @@
-import type { Languages } from '@tonlabs/uikit.localization';
+import type { Languages } from '@tonlabs/localization';
 
 /* eslint-disable camelcase */
 import en from './en.json';

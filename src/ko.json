@@ -14,11 +14,24 @@
         "collectibles": {
             "address": "주소",
             "amountFromSupply": "{1}의 {0}",
-            "author": "저작자",
+            "author": "Creator",
             "collectibles": "수집 항목",
             "created": "생성",
+            "details": "Details",
+            "nftIndicators": {
+                "ipfs": "IPFS",
+                "notTrue": "TRUE",
+                "trueNft": "TRUE"
+            },
+            "nftTypes": {
+                "ipfs": "IPFS",
+                "notTrue": "Not True",
+                "trueNft": "True NFT"
+            },
+            "owner": "Owner",
             "tokens": "토큰",
-            "trueNftMarket": "True NFT 마켓"
+            "trueNftMarket": "True NFT 마켓",
+            "type": "Type"
         },
         "details": {
             "buttons": {

@@ -206,7 +206,23 @@
                 "signWithSurf": "Подписаться Surf",
                 "signature": "Подпись"
             },
-            "title": "Деботы"
+            "title": "Деботы",
+            "errors": {
+                "common": {
+                    "fetch": "DeBot loading error",
+                    "init": "DeBot initialization error"
+                },
+                "interface": {
+
+                },
+                "manifest": {
+                    "incorrect": "Incorrect manifest",
+                    "incorrectAbi": "Incorrect manifest ABI",
+                    "incorrectChainLink": "Incorrect chain link",
+                    "notFound": "Manifest not found",
+                    "chainLinkNotFound": "Chain link not found"
+                }
+            }
         },
         "error": {
             "failedToLoad": "Не удалось загрузить чат. Повторите попытку позже",

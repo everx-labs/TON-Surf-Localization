@@ -206,7 +206,23 @@
                 "signWithSurf": "Sign with Surf",
                 "signature": "Signature"
             },
-            "title": "Debot"
+            "title": "Debot",
+            "errors": {
+                "common": {
+                    "fetch": "DeBot loading error",
+                    "init": "DeBot initialization error"
+                },
+                "interface": {
+
+                },
+                "manifest": {
+                    "incorrect": "Incorrect manifest",
+                    "incorrectAbi": "Incorrect manifest ABI",
+                    "incorrectChainLink": "Incorrect chain link",
+                    "notFound": "Manifest not found",
+                    "chainLinkNotFound": "Chain link not found"
+                }
+            }
         },
         "error": {
             "failedToLoad": "Impossibile caricare la chat. Riprova più tardi",

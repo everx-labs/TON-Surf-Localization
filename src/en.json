@@ -202,6 +202,22 @@
             "securityCard": {
                 "notSupport": "Unfortunately your device does not support NFC, which is required for proper operation. Please turn it on, or use another device."
             },
+            "errors": {
+                "common": {
+                    "fetch": "DeBot loading error",
+                    "init": "DeBot initialization error"
+                },
+                "interface": {
+
+                },
+                "manifest": {
+                    "incorrect": "Incorrect manifest",
+                    "incorrectAbi": "Incorrect manifest ABI",
+                    "incorrectChainLink": "Incorrect chain link",
+                    "notFound": "Manifest not found",
+                    "chainLinkNotFound": "Chain link not found"
+                }
+            },
             "signingBox": {
                 "signWithSurf": "Sign with Surf",
                 "signature": "Signature"

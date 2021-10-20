@@ -210,7 +210,23 @@
                 "signWithSurf": "Surf으로 서명",
                 "signature": "서명"
             },
-            "title": "DeBot"
+            "title": "DeBot",
+            "errors": {
+                "common": {
+                    "fetch": "DeBot loading error",
+                    "init": "DeBot initialization error"
+                },
+                "interface": {
+
+                },
+                "manifest": {
+                    "incorrect": "Incorrect manifest",
+                    "incorrectAbi": "Incorrect manifest ABI",
+                    "incorrectChainLink": "Incorrect chain link",
+                    "notFound": "Manifest not found",
+                    "chainLinkNotFound": "Chain link not found"
+                }
+            }
         },
         "error": {
             "failedToLoad": "채팅을 로드하지 못했습니다. 나중에 다시 시도해 보세요",

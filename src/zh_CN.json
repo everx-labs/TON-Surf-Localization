@@ -14,11 +14,24 @@
         "collectibles": {
             "address": "Address",
             "amountFromSupply": "{0} of {1}",
-            "author": "Author",
+            "author": "Creator",
             "collectibles": "Collectibles",
             "created": "Created",
+            "details": "Details",
+            "nftIndicators": {
+                "ipfs": "IPFS",
+                "notTrue": "TRUE",
+                "trueNft": "TRUE"
+            },
+            "nftTypes": {
+                "ipfs": "IPFS",
+                "notTrue": "Not True",
+                "trueNft": "True NFT"
+            },
+            "owner": "Owner",
             "tokens": "Tokens",
-            "trueNftMarket": "True NFT Market"
+            "trueNftMarket": "True NFT Market",
+            "type": "Type"
         },
         "details": {
             "buttons": {

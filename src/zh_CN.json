@@ -5,7 +5,8 @@
             "copyAddressHint": "复制钱包地址",
             "copyAddressHint2": "Tap to copy address",
             "description": "拖放以交换资金并重新平衡您的资产",
-            "title": "资产"
+            "title": "资产",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "30天前",

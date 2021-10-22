@@ -5,7 +5,8 @@
             "copyAddressHint": "ウォレットアドレスをコピーする",
             "copyAddressHint2": "Tap to copy address",
             "description": "ドラッグアンドドロップで資金を交換し、資産のバランスを取り直します",
-            "title": "資産"
+            "title": "資産",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "30日前",

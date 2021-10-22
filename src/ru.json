@@ -5,7 +5,8 @@
             "copyAddressHint": "Скопировать адрес кошелька",
             "copyAddressHint2": "Скопировать адрес",
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
-            "title": "Активы"
+            "title": "Активы",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "30 дней назад",

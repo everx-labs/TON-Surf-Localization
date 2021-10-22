@@ -221,9 +221,7 @@
                     "fetch": "DeBot loading error",
                     "init": "DeBot initialization error"
                 },
-                "interface": {
-
-                },
+                "interface": {},
                 "manifest": {
                     "incorrect": "Incorrect manifest",
                     "incorrectAbi": "Incorrect manifest ABI",

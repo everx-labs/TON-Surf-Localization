@@ -5,7 +5,8 @@
             "copyAddressHint": "Cüzdan adresini kopyala",
             "copyAddressHint2": "Adresi kopyala",
             "description": "Para takası yapmak ve varlıklarınızı yeniden dengelemek için sürükle ve bırak",
-            "title": "Varlık"
+            "title": "Varlık",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "30 gün önce",

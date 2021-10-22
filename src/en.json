@@ -5,7 +5,8 @@
             "copyAddressHint": "Copy the wallet address",
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-drop to exchange funds and rebalance your assets",
-            "title": "Assets"
+            "title": "Assets",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "30 days ago",

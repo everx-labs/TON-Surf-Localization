@@ -5,7 +5,8 @@
             "copyAddressHint": "Kopieren Sie die Brieftaschenadresse",
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-Drop zum Austausch von Geldern und zur Neugewichtung Ihres Vermögens",
-            "title": "Vermögenswerte"
+            "title": "Vermögenswerte",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "Vor 30 Tagen",

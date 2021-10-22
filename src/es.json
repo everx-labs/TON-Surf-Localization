@@ -5,7 +5,8 @@
             "copyAddressHint": "Copia la dirección de la cartera",
             "copyAddressHint2": "Tap to copy address",
             "description": "Arrastrar y soltar para intercambiar fondos y reequilibrar sus activos",
-            "title": "Activos"
+            "title": "Activos",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "Hace 30 días",

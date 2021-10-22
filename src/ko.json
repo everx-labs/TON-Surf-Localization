@@ -5,7 +5,8 @@
             "copyAddressHint": "지갑 주소 복사하기",
             "copyAddressHint2": "지갑 주소 복사하기",
             "description": "끌어 놓기로 자금을 교환하고 자산을 재조정하세요",
-            "title": "자산"
+            "title": "자산",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "30일 전",

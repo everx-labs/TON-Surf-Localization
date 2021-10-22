@@ -5,7 +5,8 @@
             "copyAddressHint": "Copiez l'adresse du portefeuille",
             "copyAddressHint2": "Appuyez pour enregistrer l'adresse",
             "description": "Glissez-déposez pour échanger des fonds et rééquilibrer vos actifs",
-            "title": "Actifs"
+            "title": "Actifs",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "Il y a 30 jours",

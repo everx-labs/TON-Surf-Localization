@@ -5,7 +5,8 @@
             "copyAddressHint": "Copia l'indirizzo del portafoglio",
             "copyAddressHint2": "Toccare per copiare l'indirizzo",
             "description": "Drag-and-drop per scambiare fondi e riequilibrare le risorse",
-            "title": "Asset"
+            "title": "Asset",
+            "multisigAccountTitle": "Multisig account"
         },
         "charts": {
             "monthAgo": "30 giorni fa",

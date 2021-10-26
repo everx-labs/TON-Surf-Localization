@@ -61,7 +61,7 @@
 1. Перейдите на вкладку **Pull Request**.
    ![alt text](images/screenshot-06.png) 
 2. Нажмите **New pull request**. 
-   [alt text](images/screenshot-07.png)
+   ![alt text](images/screenshot-07.png)
 3. Нажмите **Create pull request**.
    ![alt text](images/screenshot-08.png)
 4. Введите название и опишите изменения.
@@ -93,8 +93,11 @@
 1. Откройте уведомление, в котором вас отметили в качестве ревьюера.
 2. Перейдите на закладку **Files changed**.
    ![alt text](images/screenshot-14.png)
-3. Просмотрите измененные строчки. Если у вас возникли вопросы по переводу, вы можете оставить комментарий к строке, нажав **+**.
+3. Просмотрите измененные строчки. Если у вас возникли вопросы по переводу или вы нашли ошибку в тексте, вы можете оставить комментарий к строке следующим образом:
+   a) Справа от номера строки нажмите **+**.
    ![alt text](images/screenshot-15.png)
+   b) Укажите свой комментарий и нажмите Add single comment.
+   ![alt text](images/screenshot-18.png)  
 4. Когда все замечания будут учтены, а ошибки исправлены, нажмите **Review changes**.
    ![alt text](images/screenshot-16.png)
 5. Выберите **Approve** и нажмите **Submit review**.

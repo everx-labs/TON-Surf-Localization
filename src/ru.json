@@ -162,6 +162,7 @@
             "browse": "Обзор ДеБотов...",
             "debot": "ДеБот",
             "debotError": "Ой! Кажется, я сломался. Будьте на связи",
+            "queueEnd": "That's all! Restart me in case you need my help again",
             "defaultHello": "Привет! Я ДеБот",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Зашифровать / расшифровать с помощью Surf"
@@ -496,6 +497,12 @@
             "custom": "Пользовательские сети",
             "main": "Основная сеть",
             "test": "Тестовые сети"
+        },
+        "switchAlert": {
+            "title": "Switch the network",
+            "message": "The link has different network than you connected to. To open this link, switch the network",
+            "switch": "Switch",
+            "stay": "Stay in network"
         }
     },
     "operationsHistory": {
@@ -1120,12 +1127,6 @@
         "main": {
             "button": "Перебалансировать"
         },
-        "promo": {
-            "about": "Информация",
-            "stakeNow": "Сделать ставку",
-            "text": "Направляйте токены на смарт-контракты и получайте вознаграждение каждый день",
-            "title": "Зарабатывайте {0} % в год только за хранение кристаллов"
-        },
         "stakingScreen": {
             "about": "Информация",
             "advancedFeatures": "Расширенные функции",
@@ -1197,6 +1198,7 @@
             "payment": "Оплата",
             "seller": "Продавец",
             "title": "Купить",
+            "topUp": "Top up",
             "totalPrice": "Итоговая стоимость"
         },
         "comments": {

@@ -162,6 +162,7 @@
             "browse": "Parcourir les DeBots...",
             "debot": "DeBot",
             "debotError": "Oops!! Je suis un peu cassé. Reste en contact",
+            "queueEnd": "That's all! Restart me in case you need my help again",
             "defaultHello": "Salut! Je suis DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Crypter / décrypter avec Surf"
@@ -496,6 +497,12 @@
             "custom": "Réseaux personnalisés",
             "main": "Réseau principal",
             "test": "Réseaux d'essai"
+        },
+        "switchAlert": {
+            "title": "Switch the network",
+            "message": "The link has different network than you connected to. To open this link, switch the network",
+            "switch": "Switch",
+            "stay": "Stay in network"
         }
     },
     "operationsHistory": {
@@ -1120,12 +1127,6 @@
         "main": {
             "button": "Rééquilibrer"
         },
-        "promo": {
-            "about": "A propos",
-            "stakeNow": "Staker maintenant",
-            "text": "Déléguez des jetons à des contrats intelligents et profitez de vos récompenses chaque jour",
-            "title": "Gagnez {0} % par an rien qu'en détenant des cristaux"
-        },
         "stakingScreen": {
             "about": "A propos",
             "advancedFeatures": "Fonctions avancées",
@@ -1197,6 +1198,7 @@
             "payment": "Paiement",
             "seller": "Vendeur",
             "title": "Acheter",
+            "topUp": "Top up",
             "totalPrice": "Prix total"
         },
         "comments": {

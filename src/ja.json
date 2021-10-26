@@ -162,6 +162,7 @@
             "browse": "Browse DeBots...",
             "debot": "DeBot",
             "debotError": "Oops!! I'm a little broken. Stay in touch",
+            "queueEnd": "That's all! Restart me in case you need my help again",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Surfで暗号化/復号化"
@@ -496,6 +497,12 @@
             "custom": "カスタムネットワーク",
             "main": "Main network",
             "test": "Test networks"
+        },
+        "switchAlert": {
+            "title": "Switch the network",
+            "message": "The link has different network than you connected to. To open this link, switch the network",
+            "switch": "Switch",
+            "stay": "Stay in network"
         }
     },
     "operationsHistory": {
@@ -1120,12 +1127,6 @@
         "main": {
             "button": "リバランス"
         },
-        "promo": {
-            "about": "About",
-            "stakeNow": "Stake now",
-            "text": "Delegate tokens to Smart Contracts and enjoy your rewards every day",
-            "title": "Earn {0} % a year just for holding crystals"
-        },
         "stakingScreen": {
             "about": "About",
             "advancedFeatures": "高度な機能",
@@ -1197,6 +1198,7 @@
             "payment": "Payment",
             "seller": "Seller",
             "title": "Buy",
+            "topUp": "Top up",
             "totalPrice": "Total price"
         },
         "comments": {

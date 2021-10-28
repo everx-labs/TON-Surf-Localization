@@ -19,6 +19,7 @@
             "collectibles": "수집 항목",
             "created": "생성",
             "details": "Details",
+            "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
                 "notTrue": "TRUE",

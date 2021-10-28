@@ -19,6 +19,7 @@
             "collectibles": "Collectibles",
             "created": "Created",
             "details": "Details",
+            "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
                 "notTrue": "TRUE",

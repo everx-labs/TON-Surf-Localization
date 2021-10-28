@@ -369,6 +369,16 @@
         "sent": "¡Gracias por ayudarnos a hacer del mundo un lugar mejor!",
         "shareYourIdeasButton": "Comparte tus ideas"
     },
+    "flex": {
+        "promoScreen": {
+            "title": "Killer Whale Pod Cast",
+            "getInvolvedBtn": "Get involved",
+            "howItWorksBtn": "How it works?",
+            "videoTitle": "KWT Airdrop Episode",
+            "date": "October, 30 2021",
+            "offers": "Offers"
+        }
+    },
     "getTONs": {
         "contests": {
             "governance": "Governance",
@@ -1097,6 +1107,9 @@
             },
             "stakeDeposit": {
                 "initial": "Deja las tokens\nganarte\nbeneficios"
+            },
+            "flex": {
+                "initial": "Killer Whale\nPod Cast"
             }
         },
         "restore": {

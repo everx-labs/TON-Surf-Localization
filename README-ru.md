@@ -66,8 +66,8 @@
 -   Запросы принимаются только для последней версии файлов.
 
 1. Перейдите на вкладку **Pull Request**.
-   ![alt text](images/screenshot-06.png) 
-2. Нажмите **New pull request**. 
+   ![alt text](images/screenshot-06.png)
+2. Нажмите **New pull request**.
    ![alt text](images/screenshot-07.png)
 3. Нажмите **Create pull request**.
    ![alt text](images/screenshot-08.png)

@@ -373,6 +373,16 @@
         "sent": "더 나은 세상을 만드려고 도움을 주셔서 감사합니다!",
         "shareYourIdeasButton": "아이디어 공유하기"
     },
+    "flex": {
+        "promoScreen": {
+            "title": "Killer Whale Pod Cast",
+            "getInvolvedBtn": "Get involved",
+            "howItWorksBtn": "How it works?",
+            "videoTitle": "WhaleDrop Episode: Airdrop + Liquidity Mining",
+            "date": "October 30, 2021",
+            "offers": "Offers"
+        }
+    },
     "getTONs": {
         "contests": {
             "governance": "거버넌스 컨테스트 참여 페이지",

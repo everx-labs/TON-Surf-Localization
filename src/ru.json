@@ -372,7 +372,7 @@
     },
     "flex": {
         "promoScreen": {
-            "title": "Подкаст Killer Whale",
+            "title": "Killer Whale Pod Cast",
             "getInvolvedBtn": "Участвовать",
             "howItWorksBtn": "Как это работает?",
             "videoTitle": "Эпизод WhaleDrop: Airdrop + Liquidity Mining",
@@ -392,7 +392,7 @@
             "hitbtc": "HitBTC",
             "kuna": "Kuna",
             "mexc": "MEXC",
-            "title": "Валюты"
+            "title": "Биржи"
         },
         "title": "Получить токены TON",
         "warning": "Самые безопасные способы заработать токены - это конкурсы и субуправление. Помните, что TON Labs не несет ответственности за сторонние службы, которые могут собирать ваши личные данные."

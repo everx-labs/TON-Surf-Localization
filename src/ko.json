@@ -1112,6 +1112,9 @@
             },
             "stakeDeposit": {
                 "initial": "스테이킹\n보상받기"
+            },
+            "flex": {
+                "initial": "Killer Whale\nPod Cast"
             }
         },
         "restore": {

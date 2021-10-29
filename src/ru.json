@@ -372,18 +372,18 @@
     },
     "flex": {
         "promoScreen": {
-            "title": "Killer Whale Pod Cast",
-            "getInvolvedBtn": "Get involved",
-            "howItWorksBtn": "How it works?",
-            "videoTitle": "WhaleDrop Episode: Airdrop + Liquidity Mining",
-            "date": "October 30, 2021",
-            "offers": "Offers"
+            "title": "Подкаст Killer Whale",
+            "getInvolvedBtn": "Участвовать",
+            "howItWorksBtn": "Как это работает?",
+            "videoTitle": "Эпизод WhaleDrop: Airdrop + Liquidity Mining",
+            "date": "30 октября 2021",
+            "offers": "Предложения"
         }
     },
     "getTONs": {
         "contests": {
-            "governance": "Governance",
-            "title": "Contests"
+            "governance": "Управление",
+            "title": "Конкурсы"
         },
         "exchanges": {
             "bitcoin": "Bitcoin.com",
@@ -392,10 +392,10 @@
             "hitbtc": "HitBTC",
             "kuna": "Kuna",
             "mexc": "MEXC",
-            "title": "Exchanges"
+            "title": "Валюты"
         },
-        "title": "Get TONs",
-        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+        "title": "Получить токены TON",
+        "warning": "Самые безопасные способы заработать токены - это конкурсы и субуправление. Помните, что TON Labs не несет ответственности за сторонние службы, которые могут собирать ваши личные данные."
     },
     "interfaceOptions": {
         "assetsBalance": {

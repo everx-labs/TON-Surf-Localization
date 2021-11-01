@@ -379,9 +379,14 @@
             "title": "Killer Whale Pod Cast",
             "getInvolvedBtn": "Get involved",
             "howItWorksBtn": "How it works?",
+            "nextEpisode": "Next Episode is Coming Soon",
             "videoTitle": "WhaleDrop Episode: Airdrop + Liquidity Mining",
             "date": "October 30, 2021",
-            "offers": "Offers"
+            "offers": "Offers",
+            "token": "Token",
+            "airdropped": "airdropped",
+            "reward": "Reward",
+            "farmingPool": "Farming pool"
         }
     },
     "getTONs": {

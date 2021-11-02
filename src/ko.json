@@ -175,8 +175,20 @@
                 "invalidAddress": "잘못된 톤 주소입니다.",
                 "manual": "수동으로 입력"
             },
-            "agree": "알겠습니다",
-            "agreement": "DeBot은 제3자 서비스입니다. 귀하의 신원 및 기타 정보 공개를 노출시킬 가능성이 있습니다. 톤 서프가 DeBot을 통제할 수 없습니다.",
+            "agreement": {
+                "warning": {
+                    "message": "This Debot can threaten the security of your data and funds",
+                    "action": "Continue anyway"
+                },
+                "reminder": {
+                    "message": "Remember that a Bot — third party service and may expose you to identity and other information disclosure that is out of the control of Surf.",
+                    "action": "알겠습니다"
+                },
+                "danger": {
+                    "message": "This Debot threaten the security of your data and funds",
+                    "action": "Ignore a warning"
+                }
+            },
             "blockchain": "블록체인",
             "browse": "DeBot 검색...",
             "debot": "DeBot",

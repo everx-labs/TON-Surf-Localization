@@ -177,16 +177,16 @@
             },
             "agreement": {
                 "warning": {
-                    "message": "This Debot can threaten the security of your data and funds",
-                    "action": "Continue anyway"
+                    "message": "이 Debot은 데이터와 자금의 보안을 위협할 수 있습니다",
+                    "action": "계속하기"
                 },
                 "reminder": {
-                    "message": "Remember that a Bot — third party service and may expose you to identity and other information disclosure that is out of the control of Surf.",
+                    "message": "봇은 제3자 서비스이기 때문에 사용자 신원 및 기타 정보 공개할 수 있음을 주의하십시오.",
                     "action": "알겠습니다"
                 },
                 "danger": {
-                    "message": "This Debot threaten the security of your data and funds",
-                    "action": "Ignore a warning"
+                    "message": "이 Debot은 데이터와 자금의 보안을 위협합니다",
+                    "action": "경고 무시"
                 }
             },
             "blockchain": "블록체인",

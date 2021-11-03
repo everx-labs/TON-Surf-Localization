@@ -4,9 +4,9 @@
             "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",
             "copyAddressHint": "지갑 주소 복사하기",
             "copyAddressHint2": "지갑 주소 복사하기",
-            "description": "끌어 놓기 기능 이용하여 자금을 바꾸하고 자산을 바꿀 수 있습니다",
-            "title": "자산",
-            "multisigAccountTitle": "멀티시그 계정"
+            "description": "끌어 놓기로 자금을 교환하고 자산을 재조정하세요",
+            "multisigAccountTitle": "Multisig account",
+            "title": "자산"
         },
         "charts": {
             "monthAgo": "30일 전",
@@ -18,8 +18,7 @@
             "author": "크리에이터",
             "collectibles": "수집 항목",
             "created": "생성됨",
-            "details": "세부 사항",
-            "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
+            "details": "Details",
             "nftIndicators": {
                 "ipfs": "IPFS",
                 "notTrue": "TRUE",
@@ -30,17 +29,18 @@
                 "notTrue": "Not True",
                 "trueNft": "True NFT"
             },
-            "owner": "소유자",
+            "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
+            "owner": "Owner",
             "tokens": "토큰",
             "trueNftMarket": "True NFT 마켓",
-            "type": "유형"
+            "type": "Type"
         },
         "details": {
             "buttons": {
-                "callBot": "Debot을 이용하기",
-                "disableAutoresume": "자동 재시작 비활성화하기",
-                "enableAutoresume": "자동 재시작 활성화하기",
-                "keepMeInformed": "네, 계속 알려주세요",
+                "callBot": "Debot을 부르기",
+                "disableAutoresume": "자동 갱신 비활성화하기",
+                "enableAutoresume": "자동 갱신 활성화하기",
+                "keepMeInformed": "OK. 계속 알려주세요",
                 "makeStake": "스테이킹하기",
                 "operationsHistory": "운영 기록",
                 "sendCoins": "토큰 보내기",
@@ -51,13 +51,13 @@
                 "withdraw": "인출하기"
             },
             "labels": {
-                "app": "서프",
+                "app": "Surf",
                 "newCoinsSoonMsg": "귀하와 마찬가지로 새로운 자산이 출시되어 혜택을 누릴 수 있기에 대한 기대가 큽니다",
                 "shareMsg": "제 {0} 주소: \n{1}"
             },
             "nets": {
-                "mainnet": "프리톤",
-                "private": "비공개성",
+                "mainnet": "Free TON",
+                "private": "사적임",
                 "tonlabs": "데브넷"
             },
             "titles": {
@@ -82,12 +82,12 @@
                 "viewKeys": "키를 보기"
             },
             "addressPlaceholder": "계정 주소",
-            "alreadyTracked": "이미 이 주소를 구독합니다",
+            "alreadyTracked": "이미 이 주소에 가입했습니다",
             "assetsSubtitle": "구독",
             "namePlaceholder": "계정 이름",
             "subscribeAndOpenBtn": "스레드 열기 및 구독하기",
             "subscribeBtn": "구독하기",
-            "titleAdd": "구독을 추가하기",
+            "titleAdd": "구독 추가",
             "titleEdit": "구독을 수정하기",
             "titleSubscription": "구독",
             "unsubscribeBtn": "구독을 취소하기"
@@ -141,14 +141,14 @@
         "title": "고급 설정"
     },
     "backupReminder": {
-        "logOut": "백업 없이 로그아웃하기",
+        "logOut": "백업 없이 로그아웃",
         "submit": "백업",
         "text": "암호를 안전한 위치에 저장하십시오. 암호를 분실하면 자금에 영구적으로 액세스할 수 없게 됩니다.",
         "title": "비밀번호 백업"
     },
     "buy": {
         "buySheetSubTitle": "최대 {0} 300개 구매하면\neKYC 인증이 필요하지 않습니다",
-        "buySheetTitle": "얼마나 많은 톤을\n구매하시겠습니까?"
+        "buySheetTitle": "얼마나 많은 TON를\n구매하시겠습니까?"
     },
     "chats": {
         "button": {
@@ -176,27 +176,43 @@
                 "manual": "수동으로 입력"
             },
             "agreement": {
-                "warning": {
-                    "message": "This Debot can threaten the security of your data and funds",
-                    "action": "Continue anyway"
+                "danger": {
+                    "action": "경고 무시",
+                    "message": "이 Debot은 데이터와 자금의 보안을 위협합니다"
                 },
                 "reminder": {
-                    "message": "Remember that a Bot — third party service and may expose you to identity and other information disclosure that is out of the control of Surf.",
-                    "action": "알겠습니다"
+                    "action": "알겠습니다",
+                    "message": "봇은 제3자 서비스이기 때문에 사용자 신원 및 기타 정보 공개할 수 있음을 주의하십시오. "
                 },
-                "danger": {
-                    "message": "This Debot threaten the security of your data and funds",
-                    "action": "Ignore a warning"
+                "warning": {
+                    "action": "계속하기",
+                    "message": "이 Debot은 데이터와 자금의 보안을 위협할 수 있습니다."
                 }
             },
             "blockchain": "블록체인",
             "browse": "DeBot 검색...",
             "debot": "DeBot",
             "debotError": "이크! 저는 좀 망가졌어요. 연락을 유지해 주세요",
-            "queueEnd": "그뿐입니다! 내 도움이 다시 필요할 경우를 대비하여 나를 다시 시작하십시오.",
             "defaultHello": "안녕하세요? 저는 DeBot입니다",
             "encryptionBox": {
-                "encryptDecryptWithSurf": "서프로 암호화/복호화"
+                "encryptDecryptWithSurf": "Surf로 암호화/복호화"
+            },
+            "errors": {
+                "common": {
+                    "fetch": "DeBot loading error",
+                    "init": "DeBot initialization error"
+                },
+                "interface": {
+                    "one": "",
+                    "other": ""
+                },
+                "manifest": {
+                    "chainLinkNotFound": "Chain link not found",
+                    "incorrect": "Incorrect manifest",
+                    "incorrectAbi": "Incorrect manifest ABI",
+                    "incorrectChainLink": "Incorrect chain link",
+                    "notFound": "Manifest not found"
+                }
             },
             "favorites": "즐겨찾는 항목",
             "functionalUnsupported": "앗! 이 기능은 일시적으로 사용할 수 없습니다. 연락을 유지해 주세요",
@@ -205,7 +221,7 @@
                 "about": "자세한 내용",
                 "actions": "기록",
                 "addToFavorites": "즐겨찾기에 추가",
-                "addToFavoritesNotification": "즐겨찾기에 DeBot을 추가됨",
+                "addToFavoritesNotification": "즐겨찾기에 DeBot를 추가됨",
                 "author": "저작자",
                 "creator": "크리에이터",
                 "donate": "기부하기",
@@ -216,17 +232,18 @@
                 "legalNotes": "법적 고지",
                 "publisher": "{0}(으)로",
                 "removeFromFavorites": "즐겨찾기에서 제거하기",
-                "removeFromFavoritesNotification": "DeBot을 즐겨찾기에서 제거됨",
+                "removeFromFavoritesNotification": "DeBot 즐겨찾기에서 제거됨",
                 "share": "공유",
                 "showAddress": "주소 표시",
                 "sourceCode": "소스 코드",
                 "version": "v. {0}",
                 "writeToDeveloper": "개발자에게 쓰기"
             },
-            "notFound": "Debot을 찾을 수 없습니다",
+            "notFound": "Debot를 찾을 수 없습니다",
             "nothingFound": "아무것도 찾지 못했습니다",
-            "open": "DeBot을 열기",
-            "recommended": "권장 사항",
+            "open": "DeBot를 열기",
+            "queueEnd": "That's all! Restart me in case you need my help again",
+            "recommended": "즐겨찾기",
             "restart": "다시 시작",
             "search": "DeBot 주소 입력",
             "searching": "검색 중...",
@@ -234,47 +251,33 @@
                 "notSupport": "불행하게도 귀하의 장치는 올바른 작동에 필요한 NFC를 지원하지 않습니다. 전원을 켜거나 다른 기기를 사용하세요."
             },
             "signingBox": {
-                "signWithSurf": "서프로 서명",
+                "signWithSurf": "Surf으로 서명",
                 "signature": "서명"
             },
-            "title": "DeBot",
-            "errors": {
-                "common": {
-                    "fetch": "DeBot 로딩 오류",
-                    "init": "DeBot 초기화 오류"
-                },
-                "interface": {},
-                "manifest": {
-                    "incorrect": "잘못된 매니페스트",
-                    "incorrectAbi": "잘못된 ABI 매니페스트",
-                    "incorrectChainLink": "잘못된 체인 링크",
-                    "notFound": "매니페스트를 찾을 수 없음",
-                    "chainLinkNotFound": "체인 링크를 찾을 수 없음"
-                }
-            }
+            "title": "DeBot"
         },
         "error": {
             "failedToLoad": "채팅을 로드하지 못했습니다. 나중에 다시 시도해 보세요",
             "failedToSend": "메시지를 보내지 못했습니다. 나중에 다시 시도해 보세요"
         },
         "labels": {
-            "address": "프리톤 지갑 주소",
+            "address": "무료 TON 지갑 주소",
             "establishingConnection": "보안 연결 설정 중 ...",
             "today": "오늘",
             "yesterday": "어제"
         },
         "message": {
-            "attention": "경고!",
+            "attention": "주의",
             "enableFromSettings": "장치 설정에서 직접 액세스를 활성화하십시오",
             "enableFromSettingsTitle": "이미지 보내기",
-            "invitationAcceptance": "안녕하세요, 초대를 받았습니다. 연결하려면 따라 주세요.",
-            "invitationAcceptanceTitle": "연결하려면 따라 주세요!",
+            "invitationAcceptance": "안녕하세요, 귀하의 초대를 수락했습니다. 연결하려면 팔로우하세요.",
+            "invitationAcceptanceTitle": "연결하려면 팔로우하세요!",
             "invitationAlert": "{APP_NAME}(을)를 이용 사작하기에 {0}(을)를 초대할까요?",
-            "invitationBody": "안녕하세요! 간단하고 안전한 블록체인 커뮤니케이터로 서프에서 채팅하고 서로에게 토큰을 보내도록 초대하고 싶습니다.",
+            "invitationBody": "안녕하세요! 간단하고 안전한 블록체인 커뮤니케이터로 Surf에서 채팅하고 서로에게 토큰을 보내도록 초대하고 싶습니다.",
             "invitationError": "초대장을 보내지 못했습니다. 다시 시도하십시오",
             "invitationFailure": "{APP_NAME} 가입 초대를 보내지 못했습니다",
-            "invitationForReceiver": "서프 사용자가 귀하를 초대했습니다",
-            "invitationForSender": "사용자가 초대하신 항목",
+            "invitationForReceiver": "Surf 유저가 귀하를 초대했습니다",
+            "invitationForSender": "귀하가 초대하신 항목",
             "invitationSuccess": "{APP_NAME} 가입 초대가 성공적으로 전송되었습니다.",
             "invitationTitle": "함께 합시다!",
             "messageTooLong": "메시지가 {0}자보다 깁니다.",
@@ -293,7 +296,7 @@
         "toast": {
             "invitationSuccess": "새 사용자를 성공적으로 초대했습니다!",
             "messagesBlocked": "차단된 메시지",
-            "messagesUnblocked": "차단 해제된 메시지"
+            "messagesUnblocked": "차단해제된 메시지"
         }
     },
     "contacts": {
@@ -306,16 +309,16 @@
         "deleteContact": "삭제",
         "editContact": "연락처를 수정하기",
         "error": {
-            "failedToDelete": "연락처를 삭제하지 못했습니다. 나중에 다시 시도해 주세요",
+            "failedToDelete": "연락처를 삭제하지 못했습니다. 나중에 다시 시도하십시오",
             "failedToSendSMSInvitation": "문자 메시지 초대장을 보내지 못했습니다",
-            "failedToUpdate": "연락처를 업데이트하지 못했습니다. 나중에 다시 시도해 주세요"
+            "failedToUpdate": "연락처를 업데이트하지 못했습니다. 나중에 다시 시도해주세요"
         },
         "friends": "친구들",
         "giveAccessToContacts": "연락처에 대한 액세스 허용",
         "info": {
             "firstName": "이름",
             "lastName": "성",
-            "tonAddress": "프리톤 지갑 주소"
+            "tonAddress": "무료 TON 지갑 주소"
         },
         "invitation": {
             "view": {
@@ -325,8 +328,8 @@
             }
         },
         "inviteFriends": "친구를 초대하기",
-        "inviteMessage": "안녕하세요! 프리톤 커뮤니티에 초대하고 싶습니다. 앱을 설치하면 서프에서 채팅하고 서로 토큰을 보낼 수 있습니다.\n\n서프는 간단하고 안전한 블록체인 커뮤니케이터이자 암호화 브라우저입니다.\n{INSTALL_LINK_HOST}",
-        "inviteToApplication": "{APP_NAME}에 초대하기",
+        "inviteMessage": "안녕하세요! 프리톤 커뮤니티에 초대하고 싶습니다. 앱을 설치하면 서프에서 채팅하고 서로 토큰을 보낼 수 있습니다. \n\n 서프는 간단하고 안전한 블록체인 커뮤니케이터이자 암호화 브라우저입니다.\n {INSTALL_LINK_HOST}",
+        "inviteToApplication": "{APP_NAME} 초대",
         "newContact": "새 연락처",
         "otherContacts": "연락처",
         "recentContacts": "최근의 연락처",
@@ -338,7 +341,7 @@
             "deliveryHint": {
                 "email": "이메일로 보내기",
                 "share": "직접 공유",
-                "sms": "문자 메시지로 보내기"
+                "sms": "SMS로 보내기"
             },
             "retry": "다시 시도",
             "sendButton": {
@@ -350,7 +353,7 @@
         },
         "shareApplication": "{APP_NAME} 공유하기",
         "support": "어시스턴트",
-        "supportNotAvailable": "어시스트를 일시적으로 사용할 수 없습니다. 나중에 다시 시도해 보세요.",
+        "supportNotAvailable": "어시스트를 일시적으로 사용할 수 없습니다. 나중에 다시 시도해보세요.",
         "undo": "취소",
         "update": "업데이트하기"
     },
@@ -372,7 +375,7 @@
         "title": "DeBot 선택 사항"
     },
     "donate": {
-        "title": "서프에 기부하기"
+        "title": "Surf에 기부하기"
     },
     "feedback": {
         "mainComponent": {
@@ -388,24 +391,24 @@
     },
     "flex": {
         "promoScreen": {
-            "title": "Killer Whale Pod Cast",
+            "airdropped": "airdropped",
+            "date": "October 30, 2021",
+            "farmingPool": "Farming pool",
             "getInvolvedBtn": "Get involved",
             "howItWorksBtn": "How it works?",
             "nextEpisode": "Next Episode is Coming Soon!",
-            "videoTitle": "WhaleDrop Episode: Airdrop + Liquidity Mining",
-            "date": "October 30, 2021",
             "offers": "Offers",
             "results": "Results",
-            "token": "Token",
-            "airdropped": "airdropped",
             "reward": "Reward",
-            "farmingPool": "Farming pool"
+            "title": "Killer Whale Pod Cast",
+            "token": "Token",
+            "videoTitle": "WhaleDrop Episode: Airdrop + Liquidity Mining"
         }
     },
     "getTONs": {
         "contests": {
             "governance": "거버넌스 컨테스트 참여 페이지",
-            "title": "컨테스트"
+            "title": "콘테스트"
         },
         "exchanges": {
             "bitcoin": "Bitcoin.com",
@@ -416,8 +419,8 @@
             "mexc": "MEXC",
             "title": "취급 거래소"
         },
-        "title": "톤 받기",
-        "warning": "토큰을 얻는 가장 안전한 방법은 컨테스트 참여와 서브 거버넌스입니다. 서프는 귀하의 개인 데이터를 수집할 수 있는 제3자 서비스에 대해 책임을 지지 않습니다."
+        "title": "TON 받기",
+        "warning": "토큰을 얻는 가장 안전한 방법은 콘테스트 참여와 서브 거버넌스입니다. Surf는 귀하의 개인 데이터를 수집할 수 있는 제3자 서비스에 대해 책임을 지지 않습니다."
     },
     "interfaceOptions": {
         "assetsBalance": {
@@ -446,8 +449,8 @@
                 "value": "Wallet solutions Ltd."
             },
             "copyright": {
-                "title": "COPYRIGHT",
-                "value": "TON Labs (TON Venture Studio)"
+                "title": "저작권",
+                "value": "TON랩스 (TON벤처스튜디오)"
             },
             "email": {
                 "body": "주소: {0}\n버전: {1}\n{2}: {3}\n장치: {4}",
@@ -470,7 +473,7 @@
                 "value": "+372 7124030"
             },
             "registration": {
-                "title": "사업자등록번호",
+                "title": "등기번호",
                 "value": "2004764, BVI"
             },
             "site": {
@@ -501,137 +504,137 @@
             "title": "법적 고지"
         },
         "policy": {
-            "title": {
-                "term": "(\"정책\")",
-                "definition": "마지막 수정: 2021년 10월 27일"
-            },
-            "generalProvisions": {
-                "term": "일반 조항",
-                "definitions": "본 서프 탈중앙 정책 (이하 “정책”)은 서프(이하 총체적 “서프”)의 모바일 어플과 웹 버전과 서프에서 제공하는 서비스(이하 “서비스”)를 귀하가 사용 시 적용됩니다. 서프 웹 버전은 ton.surf에서 사용가능하며 모바일 어플은 앱스토어와 구글 플레이에서 발행됩니다.",
-                "part2": "서프는 탈중앙 봇(“DeBot”)을 지원하는 특징을 가진 톤 스마트 컨트랙트 지갑입니다. 이는 톤 작동시스템 (“TON OS”) 유저 환경으로 작용하며 이는 엔드투엔드 탈중앙화 (E2ED) 틀을 지원합니다.",
-                "part3": "서프의 개인정보처리 지침과 더불어 서프, 프리톤 블록체인, 톤, TON OS, E2ED, DeBot의 정의를 이해하시려면 본 정책을 주의 깊게 읽어주시길 바랍니다.",
-                "part4": "해당 정책은 현지화 목적으로 여러가지 언어로 발행되오나 영문판과 비영어권 언어의 버전 간 충돌이 있을시 영문판이 항상 우선시됩니다."
-            },
-            "useOfSurf": {
-                "term": "서프의 사용",
-                "definitions": "해당 서비스의 사용자로서 귀하는 제한적, 개인적, 비상업적, 비독점적이고 양도 불가능하며 잠재적으로 취소 가능한 라이선스를 보유합니다. 서프 사용자는 불법적인 목적으로 서프를 사용하지 않는 것을 포함하되 이에 국한되지 않는 몇 가지 기본 규칙을 따라야 합니다. 귀하는 또한 서프를 사용할 시 모든 해당 법률 및 규정을 준수하는 데 동의합니다. 여기에는 귀하에게 적용될 수 있는 모든 지역, 지방, 주, 연방, 국가 또는 국제법이 포함됩니다.",
-                "part2": "귀하는 서비스를 사용하여 불법 도박, 사기, 자금 세탁 또는 테러 활동을 포함하되 이에 국한되지 않는 불법 활동에 대한 비용을 지불, 지원 또는 기타 방식으로 참여하지 않을 것에 동의합니다.",
-                "part3": "귀하는 또한 제3자가 이 섹션에서 금지하는 앞서 언급한 활동에 참여하도록 장려하거나 유도하지 않을 것에 동의합니다.",
-                "part4": "프리톤 블록체인은 일반적인 블록체인 디자인에서 출발합니다. 귀하의 디지털 자산을 보호하고 톤(The Open Network)의 다양하고 다채로운 기능을 안전하게 탐색하기 위해 프리톤 블록체인이 어떻게 작동하는지 배우고 이해하는 것은 귀하의 책임입니다.",
-                "part5": "프리톤 블록체인은 톤의 기술력으로 디자인되었습니다.",
-                "part6": "다른 블록체인과 달리 톤은 모든 지갑 주소를 컴퓨터 코드와 연결합니다. 이 정책의 목적을 위해 이 코드를 스마트 컨트랙트이라고 합니다. 모든 거래는 블록체인에 의한 스마트 컨트랙트 코드의 실행임을 기억하십시오. 이러한 의미에서 프리톤 블록체인은 기록 보관자보다 분산 컴퓨터에 가깝습니다.",
-                "part7": "톤은 여러 기본 암호화폐 또는 톤 통화를 사용합니다. 집합적으로 그들은 통화 컬렉션입니다. 프리톤 블록체인의 기본 암호화폐는 아래와 같이 “가스” 수수료를 부과하는 용도로 사용되기 때문에 운용에 필요한 \"톤 크리스탈\" 또는 \"톤\"입니다.",
-                "part8": "모든 톤 상호 작용은 메시지를 보내고 받습니다. 예를 들어, 누군가에게 디지털 자산을 보내려면 메시지를 만들고 암호화 키로 서명한 다음 해당 디지털 자산을 보유하고 있는 스마트 컨트랙트로 보내야 합니다. 이 스마트 컨트랙트는 메시지에 지시된 지침을 실행하고 코인을 다른 스마트 컨트랙트로 전송합니다. 톤의 모든 것은 스마트 컨트랙트 간의 상호 작용을 기반으로 합니다.",
-                "part9": "스마트 컨트랙트의 친숙하고 중요한 유형은 지갑입니다. 다른 블록체인과 달리 이 지갑은 암호 키를 보유하는 휴대전화나 컴퓨터의 소프트웨어가 아닙니다. 톤 지갑은 메시지와 함께 보내는 지침에 따라 블록체인에 저장되고 실행되는 스마트 컨트랙트입니다.",
-                "part10": "서프는 지갑이 아니라는 점을 이해하는 것이 중요합니다. 서프는 다음 작업을 지원하여 프리톤 블록체인과의 상호 작용을 용이하게 하는 클라이언트 소프트웨어입니다.",
-                "list1": "장치에서 개인 키(아래에 설명됨)를 안전하게 생성하고 관리하며,",
-                "list2": "지갑 스마트 컨트랙트를 포함한 스마트 컨트랙트를 배포하며,",
-                "list3": "메시지를 생성, 서명 및 전송하여 톤 스마트 컨트랙트와 상호 작용하며,",
-                "list4": "탈중앙 봇(DeBot)과 상호 작용하며,",
-                "list5": "프리톤 블록체인의 이벤트 검토 및 분석하며,",
-                "list6": "필요할 때 일부 시스템 리소스와 상호 작용(예: QR 코드를 읽을 때 카메라에 액세스)하며,",
-                "list7": "이 외의 서비스를 제공합니다.",
-                "part11": "서프를 사용함으로써 귀하는 서프가 디지털 자산을 저장하거나 전송하지 않음을 인정하고 이에 동의합니다. 서프는 메시지만 전송합니다. 디지털 자산과 관련된 모든 전송은 서프 또는 그 계열사가 소유한 네트워크가 아닌 프리톤 블록체인에서 발생합니다. 우리는 서프가 모든 디지털 자산의 소유권 또는 권리 이전에 영향을 미칠 수 있다고 보장하지 않습니다.",
-                "part12": "서프를 통해 메시지를 제출하면 취소하거나 수정할 수 없습니다. 트랜잭션과 관련된 스마트 컨트랙트에 트랜잭션을 실행하기 전에 트랜잭션과 관련된 모든 필요한 수수료를 충당하기에 충분한 디지털 자산이 있는지 확인해야 합니다. 귀하는 서프 및 그 계열사가 실패한 트랜잭션에 대해 책임을 지지 않음을 인정하고 동의합니다."
-            },
-            "secretKeys": {
-                "term": "비밀키. 마스터 비밀번호",
-                "definitions": "비밀 또는 개인 키는 프리톤 블록체인과 관련하여 작동 시 중요합니다. 톤의 스마트 컨트랙트와 상호 작용하는 메시지에 서명하는 데 사용됩니다. 이 키는 귀하의 모든 디지털 자산을 보호합니다.",
-                "part2": "서프를 사용하려면 개인 키를 가져오거나 만들어야 합니다. 개인 키 생성은 귀하의 장치에만 있고 마찬가지로 해당 장치에만 저장되는 오픈 소스 TON Labs SDK를 통해 실행됩니다.",
-                "part3": "서프는 귀하의 키를 보유, 저장 또는 복구할 수 없습니다. 스프는 열쇠를 분실한 경우 열쇠를 복구할 방법이 없습니다.",
-                "part4": "You bear full responsibility for storing your private keys and any mnemonic (backup) phrase associated with those keys in a safe place where you can recover them; otherwise, you risk losing control over any and all digital assets that are associated with those private keys, forever.",
-                "part5": "서프는 비밀번호나 비밀 키를 복구하는 데 도움을 줄 방법이 없습니다. 서프에는 비밀번호가 없습니다!",
-                "part6": "모든 사용자, 특히 지갑 잔액이 높은 사용자는 다음을 수행하는 것이 좋습니다.",
-                "list1": "\"백업 보호\"기능을 사용합니다. 방법은 다음과 같습니다.",
-                "list1a": "서프에서 프로필의 \"안전 보호\" 페이지로 이동합니다.",
-                "list1b": "개인 키를 공개할 수 있는 \"주소 및 키\" 섹션을 찾으십시오.",
-                "list1c": "키는 복잡한 기호 시퀀스입니다. \"있는 그대로\" 기록하지 마십시오. 실수를 저지르고 모든 디지털 자산을 잃을 위험이 있습니다.",
-                "list2": "\"백업 암호\" 기능인 마스터 암호를 사용합니다. 이 기능은 12단어 시퀀스(니모닉 문구라고도 함)를 제공합니다. 이 12개의 단어는 개인 키의 니모닉 표현입니다.",
-                "list3": "이 니모닉 문구인 마스터 비밀번호를 적어서 안전한 장소에 보관하십시오. \"저장됨, 확인하러 가기\" 버튼을 사용하여 문구를 올바르게 썼는지 항상 확인할 수 있습니다.",
-                "part7": "서프 및 디지털 자산의 보안을 더욱 향상시키기 위해 다음을 제안합니다.",
-                "list4": "스프와 함께 TON Labs 보안 카드를 사용하여 트랜잭션을 승인(서명)하십시오. 이 보안 카드는 개인 키에 또 다른 보호 계층을 추가합니다.",
-                "list5": "서프 중 발생할 수 있는 불규칙한 활동에 대해 알려주십시오."
-            },
-            "securityCard": {
-                "term": "TON Labs 보안 카드",
-                "definitions": "다중 서명 스마트 컨트랙트의 고유한 기능 중 하나는 서프가 TON Labs 보안 카드와 함께 작동하도록 하는 메시지를 보내기 위해 여러 서명이 필요할 수 있다는 것입니다. 함께 작동하면 다음과 같은 추가 이점이 있습니다.",
-                "list1": "키 도난 방지. 자금 이체에는 2차 서명이 필요함.",
-                "list2": "보안 키가 손상된 경우에도 디지털 자산의 안전.",
-                "list3": "서명 세트를 변경할 때 자금을 이체할 필요 없음.",
-                "part2": "그럼에도 불구하고 귀하는 항상 보안 키의 최종 보호자로 남을 것입니다. 분실, 오용 또는 공개에 대한 책임은 귀하에게만 있습니다. 서프는 귀하의 디지털 자산을 보호하는 데만 도움을 드릴 수 있습니다. 서프는 열쇠 분실에 대해 책임을 지지 않습니다. 우리는 소프트웨어만 제공하며 실제 키 자체를 보유하거나 저장할 수 없습니다.",
-                "part3": "TON Labs 보안 카드는 타사 서비스입니다. 서프의 약관을 주의 깊게 읽으십시오. 귀하의 개인 데이터는 제3자 제공자가 요청하고 처리하여 외부 운영자에게 전송할 수 있습니다.",
-                "part4": "TON Labs 보안 카드에 대한 자세한 내용은 card.tonlabs.io에서 확인할 수 있습니다."
-            },
-            "userIdentity": {
-                "term": "사용자 신원",
-                "definitions": "서프는 귀하, 귀하의 장치, 전화번호 또는 귀하의 모바일 장치와 연결된 SIM 카드를 식별하지 않습니다. 서프는 귀하의 콘텐츠를 다른 장치에서 복구할 수 있도록 콘텐츠를 저장할 수 있도록 서프의 백엔드에서 익명으로 귀하를 식별합니다. 그러나 이 백업은 프리톤 블록체인에서 사용되는 것과 동일한 암호화로 암호화됩니다. 귀하는 귀하의 서프 ID와 관련된 정보가 손실될 수 있고 서프가 이를 복원하지 못할 수 있음을 인정하고 동의합니다. 서프에는 개인 키가 없기 때문에 귀하의 보안 키와 관련된 데이터를 해독할 수 없습니다.",
-                "part2": "귀하가 법정 화폐와 교환하여 디지털 자산을 매매하여 얻은 서비스와 같은 제3자 서비스를 사용하는 경우 해당 제3자 서비스 제공업체는 서프를 통해 귀하의 개인 정보 또는 기타 정보를 요청할 수 있습니다. 이러한 경우 귀하는 수락하기 전에 이용 약관을 검토할 책임이 있습니다. 서프는 귀하의 제3자 서비스 사용에 대해 어떠한 책임도 지지 않습니다.",
-                "part3": "타사 서비스는 진정으로 분산되지 않을 수 있습니다. 따라서 제3자 서비스를 사용하면 TON Labs, 서프 또는 그 계열사가 통제할 수 없는 신원 공개에 노출될 수 있습니다. 이러한 서비스를 사용하려면 다음이 필요할 수 있습니다.",
-                "list1": "실제 신원을 디지털 자산 및 스마트 컨트랙트와 연결하고,",
-                "list2": "이러한 제3자 서비스가 귀하의 디지털 자산 및 스마트 컨트랙트 사용을 추적할 수 있도록 하고,",
-                "list3": "이러한 제3자 서비스가 규제 및 법 집행 기관을 포함하되 이에 국한되지 않는 다른 당사자에게 귀하의 개인 정보를 전송할 수 있도록 합니니다,",
-                "list4": "기타.",
-                "part4": "귀하는 이러한 제3자 서비스 사용과 관련된 위험이나 손실에 대해 서프가 책임을 지지 않는다는 데 동의하고 동의합니다."
-            },
-            "decentralization": {
-                "term": "엔드투엔드 분산",
-                "definitions": "E2ED 인터페이스의 지원으로 서프는 TON OS 사용자 환경으로 작동합니다. TON OS는 인간과 블록체인 간의 상호 작용을 사용자와 스마트 컨트랙트 간의 직접적인 대화 중 하나로 업그레이드하는 E2ED 개념을 기반으로 합니다. 이 대화는 블록체인-인간 인터페이스 문제를 해결하는 탈중앙 봇(DeBot)에 의해 활성화됩니다.",
-                "part2": "서프를 사용함으로써 귀하는 서프가 위에서 언급한 바와 같이 스마트 컨트랙트로 구성된 프리톤 블록체인에 대한 인터페이스일 뿐이라는 데 동의합니다. 서프는 이러한 스마트 컨트랙트의 내용, 기능 또는 실행을 통제하거나 결정하지 않습니다. 귀하는 스마트 컨트랙트와의 상호 작용에 대한 모든 책임을 져야 함을 인정하고 동의합니다."
-            },
-            "smartContracts": {
-                "term": "스마트 컨트랙트",
-                "definitions": "스마트 컨트랙트는 블록체인에서 실행되고 합의 프로토콜에 의해 검증되어 소위 검증 가능한 계산을 수행하는 컴퓨터 프로그램입니다.",
-                "part2": "위에서 설명한 것처럼 서프는 스마트 컨트랙트 클라이언트입니다. 그런 의미에서 진정한 톤 소프트웨어는 스마트 컨트랙트 클라이언트입니다. 서프는 특별한 선언 파일 또는 소위 TON ABI(TON Application Binary Interface)가 있는 경우 모든 톤 스마트 컨트랙트를 관리하고 상호 작용할 수 있습니다. 서프가 지원하는 TON ABI 버전은 ton.dev에 있는 TON Labs의 공식 문서에서 다루고 있습니다.",
-                "part3": "기본적으로 서프는 TON Labs의 임시 지갑 스마트 컨트랙트(\"다중 서명 지갑 스마트 컨트랙트\")을 배포합니다. 이 스마트 컨트랙트는 공식적으로 검증된 최초의 톤 계약입니다. 형식 검증은 컴퓨터 코드의 올바른 실행을 증명하는 방법입니다.",
-                "part4": "위의 내용에도 불구하고 어떠한 검증도 소프트웨어의 100% 정확성을 입증하고 보장할 수 없으며, 가능하더라도 그러한 정확성을 보장할 수 없습니다."
-            },
-            "deBots": {
-                "term": "DeBot",
-                "definitions": "탈중앙 봇(DeBot)은 사용자 상호 작용 수준에서 E2ED를 활성화하는 기술입니다. DeBot을 통해 서프는 서버에 의존하지 않고 전체 사용자 경험을 그릴 수 있습니다. 즉, DeBot은 스마트 컨트랙트 UI입니다. DeBot 기능은 TON ABI로 프로그래밍되어 있으며 프리톤 블록체인에서 작동합니다. DeBot과의 직접적인 상호 작용은 간단하고 친숙한 인터페이스를 통해 관련 ABI에서 다루는 기본 스마트 컨트랙트의 기능 실행을 트리거합니다.",
-                "part2": "​​DeBot은 분산되어 있으므로 서프는 DeBot 스크립트 또는 해당 스마트 컨트랙트의 내용, 기능 또는 실행을 제어하거나 결정하지 않습니다. DeBot이 스마트 컨트랙트와 상호 작용하는 분산 방식이라는 점을 감안할 때 이 정책의 스마트 컨트랙트에 적용되는 모든 내용은 DeBot에도 마찬가지로 적용됩니다."
-            },
-            "pushNotifications": {
-                "term": "푸시 알림",
-                "definitions": "서프가 DeBot과 관련된 새로운 이벤트에 대한 푸시 알림을 보내도록 할 수 있습니다. 푸시 알림을 받으려면 \"푸시 알림\"을 ​​활성화하여 \"설정\" 섹션에서 서비스에 옵트인해야 합니다. Google 알림 서비스에서 제공하는 푸시 알림은 우리가 직접 제어할 수 없습니다. 모바일 플랫폼 제조업체와 같은 일부 제3자는 이러한 알림을 보고 분석할 수 있습니다."
-            },
             "accuracy": {
-                "term": "사용자 정보의 정확성",
-                "definitions": "귀하는 귀하가 서프에서 제공하는 모든 정보가 정확하고 완전함을 진술하고 보증합니다. 귀하는 서프를 통해 시작된 모든 디지털 자산 트랜잭션과 관련하여 발생할 수 있는 오류 또는 누락에 대해 서프가 책임을 지지 않음을 수락하고 인정합니다. 디지털 자산을 이전하기 전에 트랜잭션 세부 정보를 주의 깊게 검토하는 것이 좋습니다."
-            },
-            "taxes": {
-                "term": "세금",
-                "definitions": "귀하는 귀하의 디지털 자산에 적용될 수 있는 세금을 결정하고 귀하의 지역, 주, 연방 및/또는 국제 세법 및 해당 세무 당국에 따라 해당 세금을 적법하게 보고하고 이를 납부할 전적인 책임을 지는 데 동의합니다. 귀하는 서프가 자격을 갖추거나 면허가 있는 세금 또는 회계 담당자가 아니며 결정, 수집, 보고, 원천징수, 송금에 대해 어떤 식으로든 책임을 지지 않는다는 데 동의합니다. 프리톤에 참여하고 사용한 결과 발생할 수 있습니다."
-            },
-            "intellectualProperty": {
-                "term": "지적 재산",
-                "definitions": "서프 로고, 디자인, 그래픽, 그림, 소프트웨어 및 기타 관련 자료를 포함하되 이에 국한되지 않는 서프 및 ton.surf에 게시된 모든 콘텐츠 및 정보를 포함한 서프의 모든 저작권 및 기타 지적 재산은 TON Venture Studio에 독점적으로 속합니다. Ltd, 영국령 버진 아일랜드 법률에 따라 설립된 회사로 등록 사무소는 영국령 버진 아일랜드 캐럿베이 VG 1130, P.O Box 2136, 로드 타운, 코스탈 빌딩 위큰햄스 케이 II, 1층 (“TON Labs”)입니다 [Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\")].",
-                "part2": "서프는 https://github.com/tonlabs/TON-SDK/에서 사용할 수 있는 TON Labs 오픈 소스 SDK를 기반으로 구축되었습니다.",
-                "link1": "https://github.com/tonlabs/TON-SDK/",
-                "part3": "TON Labs SDK에 대한 라이선스 정보는 https://github.com/tonlabs/TON-SDK/blob/master/LICENSE에서 찾을 수 있습니다.",
-                "link2": "https://github.com/tonlabs/TON-SDK/blob/master/LICENSE",
-                "part4": "서프에는 저작권법, 등록 및 미등록 상표, 기타 지적 재산권에 의해 보호되는 텍스트 및 그래픽(\"콘텐츠\")을 포함하되 이에 국한되지 않는 저작권이 있는 자료 및 상표가 포함되어 있습니다. 달리 제공되지 않는 한, 서프는 콘텐츠를 독점적으로 소유합니다. 서비스를 사용한다고 해서 콘텐츠에 대한 권리, 소유권 또는 이권이 부여되는 것은 아닙니다. 귀하는 콘텐츠의 전체 또는 일부를 복사, 전송, 배포, 판매, 라이선스 부여, 파생 작업 생성 또는 기타 어떤 방식으로든 이용할 수 없습니다."
-            },
-            "thirdParty": {
-                "term": "제3자 서비스 및 콘텐츠",
-                "definitions": "어떠한 경우에도 제3자 제품 또는 서비스에 대한 설명 또는 참조(하이퍼링크를 통한 설명 또는 참조 제공을 포함하되 이에 국한되지 않음)는 서프에 의한 이러한 제3자 제품 또는 서비스의 보증 또는 판촉으로 해석되지 않습니다. 서프는 제3자 서비스를 추가 또는 수정하고 해당 서비스에 대한 액세스를 취소할 수 있는 독점적인 권리를 소유합니다. 귀하는 제3자 콘텐츠 제공자로부터 푸시 알림 수신에 동의할 수 있습니다. 푸시 알림을 받으려면 서비스에 옵트인해야 합니다. 제3자 콘텐츠에 대한 푸시 알림은 장치에서 자동으로 활성화되지 않습니다. 서프는 푸시 알림을 통해 공유되는 제3자 콘텐츠를 제어, 보증 또는 채택하지 않으며 디지털 자산 가용성 및/또는 판매를 포함하되 이에 국한되지 않는 제3자 콘텐츠에 대해 책임을 지지 않습니다. 서프가 허용하는 범위 내에서 귀하가 이러한 제3자 제품이나 서비스 또는 서프를 통해 귀하의 스마트 컨트랙트 또는 디지털 자산에 제3자가 액세스하거나 연결하도록 명시적으로 허용하는 경우 귀하는 이로써 제3자가 다음을 수행하도록 허용하는 것을 인정하고 동의합니다. 귀하를 대신하여 특정 조치를 취한다고 해서 귀하의 의무가 면제되는 것은 아닙니다. 귀하는 귀하의 스마트 컨트랙트 또는 디지털 자산에 액세스할 수 있는 제3자의 모든 작위 또는 부작위에 대해 전적인 책임을 져야 합니다.",
-                "part2": "또한 귀하는 특정 디지털 자산을 법정 화폐로 구매 또는 판매하거나 서프에서 다른 작업을 실행할 수 있는 기능을 제3자가 제공할 수 있음을 인정하고 동의합니다. 디지털 자산 전달을 포함하여 앞서 언급한 제3자와의 모든 상호 작용 및 이들이 제공하는 서비스는 분산되지 않으며 여기에 제공된 것과 다른 조건 및 정책에 의해 규제되며 귀하가 제3자 계약을 체결하고 이와 함께/통해 구매를 수행할 때마다 귀하가 명시적이고 독립적으로 동의합니다."
-            },
-            "noInterference": {
-                "term": "다른 서프 사용자의 활동을 방해하지 않음",
-                "definitions": "귀하는 다른 사용자의 동의 없이 다른 사용자의 보안 키를 사용하거나 사용하려고 시도하지 않을 것에 동의합니다. 귀하는 다른 사용자의 사용 경험을 방해, 방해 또는 손상시킬 수 있는 방식으로 또는 어떤 방식으로든 그들이 서프를 완전히 즐기는 것을 방해하는 방식으로 서프를 사용해서는 안 됩니다."
+                "definitions": "You represent and warrant that any information you provide in Surf is accurate and complete. You accept and acknowledge that Surf shall not be held liable for errors or omissions you may make with regard to any digital assets transaction(s) initiated via Surf. We strongly encourage you to review your transaction details carefully before attempting to transfer digital assets.",
+                "term": "Accuracy of User Information"
             },
             "commitment": {
-                "term": "서프를 손상시키지 않는다는 합의",
-                "definitions": "귀하는 서프를 통해 바이러스 또는 기타 맬웨어를 배포해서는 안 됩니다. 또한 귀하는 서프 또는 당사의 제3자 인프라에 불합리하거나 불균형적으로 큰 부하를 부과할 수 있는 조치를 취하지 않을 것에 동의합니다."
+                "definitions": "You shall not distribute any virus or other malware through Surf. You also agree not to take any action that may impose an unreasonable or disproportionately large load on Surf or on any of our third-party infrastructures.",
+                "term": "Commitment to keep Surf unimpaired"
+            },
+            "deBots": {
+                "definitions": "Decentralized bots (DeBots) are technology that enables E2ED at the user interaction level. DeBots allow Surf to draw the entire user experience without relying on a server. In other words, a DeBot is a Smart Contract UI. DeBot functions are programmed with TON ABI and operate on Free TON blockchain. Direct interaction with a DeBot triggers execution of functions in the underlying Smart Contract that is covered in the relevant ABI through a simple and familiar interface.",
+                "part2": "Since DeBots are decentralized, Surf neither controls nor determines content, function, or execution of DeBot scripts or the corresponding Smart Contracts. Given that a DeBot is a decentralized way to interact with a Smart Contract, everything that applies to Smart Contracts in this Policy likewise applies to DeBots.",
+                "term": "DeBots"
+            },
+            "decentralization": {
+                "definitions": "With the support of an E2ED interface, Surf operates as a TON OS user environment. TON OS is built on a E2ED concept that upgrades human-to-blockchain interaction to one of direct dialogue between the user and the smart contract. This dialog is enabled by decentralized bots (DeBots) that resolve the blockchain-human interface issue.",
+                "part2": "By using Surf you agree that Surf is only an interface to Free TON Blockchain, that, as mentioned above, consists of Smart Contracts. Surf neither controls nor determines content, function, or execution of those Smart Contracts. You acknowledge and agree that you shall assume all responsibility for interaction with Smart Contracts.",
+                "term": "End-to-End Decentralization"
+            },
+            "generalProvisions": {
+                "definitions": "This Surf Decentralization Policy (the \"Policy\") governs your use of the mobile application and web versions of Surf (Hereinafter, collectively \"Surf\") and the services offered by Surf (the \"Service\" or the \"Services\"). The web version of Surf is available at ton.surf and the mobile application is published in the AppStore and Google Play.",
+                "part2": "Surf is a TON smart contract wallet featuring support for decentralized bots (\"DeBots\"). It can act as a TON operating system (\"TON OS\") user environment as it supports an end-to-end decentralization (E2ED) framework.",
+                "part3": "Please carefully read this Policy to understand the definitions of Surf, Free TON Blockchain, TON, TON OS, E2ED and DeBots, including Surf's personal data processing guidelines.",
+                "part4": "This Policy can be published in different languages for localization purposes, but in case of any discrepancies between the English version and the version in a language other than English, the English version shall always prevail.",
+                "term": "General Provisions"
+            },
+            "intellectualProperty": {
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "link1": "https://github.com/tonlabs/TON-SDK/",
+                "link2": "https://github.com/tonlabs/TON-SDK/blob/master/LICENSE",
+                "part2": "Surf is built on top of TON Labs open source SDK available at:",
+                "part3": "Licensing information about TON Labs SDK can be found at:",
+                "part4": "Surf contains copyrighted material and trademarks including, but not limited to, text and graphics (the “Content”) protected by copyright law, registered and unregistered trademarks, and other intellectual property rights. Unless otherwise provided, Surf exclusively owns the Content. Your use of the Services does not grant you any right, title, or interest in the Content. You shall not copy, transmit, distribute, sell, license, create derivative works of or from, or in any other way whatsoever fully or partially misuse the Content.",
+                "term": "Intellectual Property"
             },
             "liability": {
-                "term": "보안조치 우회에 대한 책임",
-                "definitions": "귀하는 서프에 연결된 다른 계정, 컴퓨터 시스템 또는 네트워크를 포함하되 이에 국한되지 않는 서프에 대한 액세스를 방지하거나 제한하기 위해 마련된 모든 조치를 우회, 피해가는 것 또는 우회 또는 피해가려는 시도를 하지 않을 것에 동의합니다. 사전 서면 허가 없이 이 정책에서 특별히 승인한 것 이외의 서프를 사용하는 것은 엄격히 금지되며 이 경우 서프 사용 라이선스를 종료합니다."
+                "definitions": "You agree not to bypass, circumvent, or attempt to bypass or circumvent any measures that may be in place to prevent or restrict access to Surf, including, without limitation, other accounts, computer systems, or networks connected to Surf. Any use of Surf other than as specifically authorized in this Policy, without prior written permission, is strictly prohibited and will terminate your license to use Surf.",
+                "term": "Liability for Circumventing Security Measures"
+            },
+            "noInterference": {
+                "definitions": "You agree that you will never use or attempt to use the security keys of other users without such users' consent. You shall not use Surf in any manner that could interfere, disrupt or impair the usage experience of other users or in any way prevent them from fully enjoying Surf.",
+                "term": "No interference with activities of other Surf users"
             },
             "noTracking": {
-                "term": "트래킹 없음, 쿠키 없음, 추적 없음, 개인정보 없음",
-                "definitions": "서프는 귀하 또는 귀하의 사용량, 기간을 추적하지 않습니다. 우리는 단순히 귀하의 데이터를 수집하지 않기 때문에 법적 프로토콜에 대해 경고할 필요 없이 전 세계적으로 인정되는 모든 정책을 완벽하게 준수합니다. 우리는 귀하의 IP를 추적하지 않습니다. 우리는 분석 소프트웨어를 사용하지 않습니다. 간단한 트래커도 없습니다. 쿠키 및 개인 데이터 처리가 없습니다. 아무것도 없습니다. 이것이 우리의 소명이자 사명입니다.",
-                "part2": "경고! 위에서 언급한 바와 같이 당사가 통제할 수 없는 기타 제3자 서비스는 단독 재량 및 의지에 따라 귀하의 데이터를 수집하고 사용할 수 있습니다. 귀하는 서프를 사용하기 전에 서비스 사용에 동의하기 전에 개인 정보 보호, 쿠키, 사용 약관 및 기타 모든 계약상 구속력이 있는 정책 및 문서를 검토할 때 매우 주의깊고 지극히 신중해야 합니다."
+                "definitions": "Surf does not track you or your usage, period. We are fully compliant with all globally recognized policies without the need to be warned about their legal protocols because we simply do not collect any of your data. We do not track your IP. We do not use any analytics software. We do not even have a simple tracker. No cookies. No personal data processing. Nothing. This is our calling and our mission.",
+                "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf.",
+                "term": "No tracking, no Cookies, no tracing, no personal data"
+            },
+            "pushNotifications": {
+                "definitions": "You can allow Surf to send you push notifications about any new events involving your DeBots. If you would like to receive push notifications, you must opt-in to the service in the “Settings” section by enabling “Push Notifications”. Provided by Google Notifications service, Push Notifications are outside of our direct control. Keep in mind that some third parties, such as mobile platform manufacturers, can view and analyze these notifications.",
+                "term": "Push Notifications"
+            },
+            "secretKeys": {
+                "definitions": "Secret or private keys are crucial to your operations with regard to Free TON blockchain. They are used to sign Messages that interact with Smart Contracts in TON. THESE KEYS PROTECT ALL OF YOUR TON DIGITAL ASSETS.",
+                "list1": "Use the \"Backup Password\" function. Heres how:",
+                "list1a": "Navigate to the \"Safety Protection\" page of your Profile in Surf.",
+                "list1b": "Find the \"Addresses and Keys\" section where you can reveal your private key.",
+                "list1c": "Keys are a complex sequence of symbols. DO NOT try to write these down \"as-is\". You risk making a mistake and losing all of your digital assets.",
+                "list2": "Use the \"Backup Password\" feature, Master Password. This feature provides you with a 12-word sequence (also called a mnemonic phrase). These 12 words are a mnemonic representation of your private key.",
+                "list3": "Write this mnemonic phrase, Master password, down and store it in a secure location. You can always check if you wrote the phrase down correctly by using the \"Saved, go check\" button.",
+                "list4": "Use TON Labs Security Card with Surf to approve (sign) transactions. This security card adds another layer of protection to your private keys.",
+                "list5": "Notify us of any irregular activity that you may encounter during your Surf.",
+                "part2": "To use Surf you must either import or create a private key. Creation of your private key is executed through the open source TON Labs SDK located only on your device and likewise stored only on that device.",
+                "part3": "Surf cannot hold, store, or recover your key(s). Surf has no way to recover your key(s) if you lose it/them.",
+                "part4": "You bear full responsibility for storing your private keys and any mnemonic (backup) phrase associated with those keys in a safe place where you can recover them; otherwise, you risk losing control over any and all digital assets that are associated with those private keys, forever.",
+                "part5": "Surf has no means to help you recover your password or secret key: SURF DOES NOT HAVE THEM!",
+                "part6": "All users, especially those with high value wallet balances, are highly encouraged to:",
+                "part7": "To further improve the security of Surf and of your digital assets, we suggest you:",
+                "term": "Secret Keys. Master Password"
+            },
+            "securityCard": {
+                "definitions": "One of the unique features of the Multi-signature Smart Contract is that it can require several signatures to send a message allowing Surf to work with TON Labs Security Card. Making them work together offers the following additional benefits:",
+                "list1": "Key anti-theft. Transfer of funds will require a secondary signature.",
+                "list2": "Safety of your digital assets even if your security key is compromised.",
+                "list3": "No need to transfer funds when changing your signature set.",
+                "part2": "Nevertheless, you will always remain the ultimate guardian of your security keys. Only you can be responsible for their loss, misuse, or disclosure. Surf can only assist you with the protection of your digital assets. Surf will not be held liable for the loss of your key(s). We only provide the software and are incapable of holding or storing the actual keys themselves.",
+                "part3": "Please be informed that TON Labs Security Card is a third-party service. Read carefully Terms and Сonditions in Surf. Your personal data can be asked by the third-party provider, processed and transmitted to external operators.",
+                "part4": "More information about TON Labs Security Card can be found at card.tonlabs.io.",
+                "term": "TON Labs Security Card"
+            },
+            "smartContracts": {
+                "definitions": "Smart Contacts are computer programs that are executed on the blockchain and verified by its consensus protocol to perform a so called verifiable computation.",
+                "part2": "As explained above, Surf is a Smart Contract client. In that sense, any true TON software is a smart contract client. Surf can manage any TON Smart Contract and interact with it, provided that it has a special declaration file, or the so-called TON ABI (TON Application Binary Interface). The TON ABI version that Surf supports is covered in TON Labs' official documentation available at ton.dev.",
+                "part3": "By default, Surf deploys an ad hoc wallet smart contract from TON Labs (the \"Multi-signature Wallet Smart Contract\"). This Smart Contract is the first ever formally verified TON contract. Formal verification is a way to prove correct execution of a computer code.",
+                "part4": "Despite the above, no verification can prove and ensure 100% accuracy of software, and even if it were possible to do so, we cannot guarantee such accuracy.",
+                "term": "Smart Contracts"
+            },
+            "taxes": {
+                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Free TON.",
+                "term": "Taxes"
+            },
+            "thirdParty": {
+                "definitions": "In no event shall a description or reference to a third-party product or service (including, but not limited to, providing a description or reference via hyperlink) be construed as an endorsement or promotion of such third party products or services by Surf. Surf retains the exclusive right to add or modify any third-party service, as well as to cancel access to it. You may agree to receive Push Notifications from third party content providers. In order to receive Push Notifications you must opt-in to the service. Push Notifications for third party content are not automatically enabled on your device. Surf does not control, endorse, or adopt any third-party content shared through Push Notifications, and shall assume no responsibility for third party content, including, but not limited to digital asset availability and/or sales. If, to the extent permitted by Surf, you expressly permit a third party to access or connection to your Smart Contracts or digital assets, either through such third party product or service or through Surf, you hereby acknowledge and agree that permitting a third party to take specific actions on your behalf does not relieve you of any of your obligations hereunder. You shall bear full responsibility for all acts or omissions of any third party that has access to your Smart Contracts or digital assets.",
+                "part2": "You further acknowledge and agree that the ability to buy or sell certain digital assets with fiat currencies, or to execute other operations in Surf, can be provided by third parties. All of your interactions with aforementioned third parties and the services they provide, including delivery of digital assets to you, ARE NOT DECENTRALIZED, and are regulated by a different terms, conditions and policies than those provided herein, and to which you expressly and independently agree whenever you execute third party agreements and conduct purchases with/through them.",
+                "term": "Third-Party services and content"
+            },
+            "title": {
+                "definition": "Last Revised: November 16, 2020",
+                "term": "(\"Policy\")"
+            },
+            "useOfSurf": {
+                "definitions": "As a user of the Services you have a limited, personal, non-commercial, non-exclusive, non-transferable, and a potentially revocable license to use Surf. Surf users are required to follow some basic rules, including, but not limited to, never using Surf for illegal purposes. You further agree to comply with any and all applicable laws and regulations when using Surf. This includes any local, provincial, state, federal, national, or international laws that may apply to you.",
+                "list1": "safely create and manage Secret Keys (described below) on your device,",
+                "list2": "deploy your Smart Contracts, including your Wallet Smart Contract,",
+                "list3": "interact with TON Smart Contracts by creating, signing and sending Messages,",
+                "list4": "interact with Decentralized Bots (DeBots),",
+                "list5": "review and analyze events in Free TON blockchain,",
+                "list6": "interaction with some of your system resources when necessary (such as access to camera when reading a QR code for example),",
+                "list7": "provide other services.",
+                "part10": "It is critical to understand that Surf IS NOT a Wallet. Surf is client software that facilitates your interaction with Free TON blockchain by helping you do the following:",
+                "part11": "By using Surf you acknowledge and agree that Surf DOES NOT STORE OR TRANSMIT DIGITAL ASSETS. Surf only transmits Messages. Any transfer involving any digital asset occurs on Free TON blockchain and not in any network owned by Surf or any of its affiliated companies. We do not guarantee that Surf can affect the transfer of title or right in any digital asset(s).",
+                "part12": "Once you submit a message via Surf it cannot be cancelled or otherwise modified. You must be certain that the Smart Contract associated with any transaction has enough digital assets to cover all necessary fees associated with the transaction prior to executing it. You acknowledge and agree that Surf and any of its affiliates shall not be held liable for any failed transactions.",
+                "part2": "You agree that you shall not use the Services to pay for, support, or otherwise engage in any illegal activities, including but not limited to, illegal gambling, fraud, money laundering, or terrorist activities.",
+                "part3": "You further agree not to encourage or induce any third party to engage in any of the aforementioned activities as prohibited under this section.",
+                "part4": "Free TON Blockchain is a departure from usual blockchain designs. It is your responsibility to learn and understand how Free TON Blockchain operates in order to protect your digital assets and safely navigate through the various and diverse features of TON (The Open Network).",
+                "part5": "Free TON Blockchain is designed on TON technology.",
+                "part6": "Unlike other blockchains, TON associates all wallet addresses with a computer code. For purposes of this Policy, this code will be referred to as a \"Smart Contract\". Please remember that every transaction is an execution of a Smart Contract code by the blockchain. In this sense, Free TON Blockchain is more of a distributed computer than a record keeper.",
+                "part7": "TON utilizes several native cryptocurrencies or TON currencies. Collectively they are the Currency Collection. The base cryptocurrency of the Free TON Blockchain is the \"TON Crystal\" or the \"TON\" that is necessary to operate since it is used to charge Gas fees as described below.",
+                "part8": "All TON interactions send and receive Messages. For example, to send someone digital assets you need to create a message, sign it with your cryptographic key(s), and then send it to a Smart Contract that holds those digital assets. This Smart Contract executes the instructions dictated in the Message and transfers coins to another smart contract. Everything in TON is based on interactions between Smart Contracts.",
+                "part9": "A familiar and important type of Smart Contract is a Wallet. Unlike other blockchains, the Wallet is not the software on your phone or a computer that holds your cryptographic keys. TON Wallet is a Smart Contract stored and executed on the blockchain, by the blockchain, and in accordance with the instructions you send along with the Message.",
+                "term": "Use of Surf"
+            },
+            "userIdentity": {
+                "definitions": "Surf does not identify you, your device, your phone number, or any SIM card associated with your mobile device. Surf does identify you anonymously on Surf's backend to enable storage of your content only so you may be able to recover it from another device; however, this backup is encrypted with the same encryption used on Free TON blockchain. You acknowledge and agree that information associated with your Surf identity can be lost and Surf may not be able to restore it. Since Surf does not have your private keys we will not be able to decrypt any data associated with your security keys.",
+                "list1": "linking your real identity with your digital assets and Smart Contracts,",
+                "list2": "enabling these third-party services to track your use of digital assets and Smart Contracts moving forward,",
+                "list3": "enabling these third-party services to transmit your personal information to other parties, including, but not limited to, regulatory and law enforcement agencies,",
+                "list4": "et cetera.",
+                "part2": "If you use third party services such as those obtained through buying or selling digital assets in exchange for fiat currency, any such third-party service provider may request your personal information or other information via Surf. In such cases you are responsible for reviewing their terms and conditions before accepting them. Surf shall assume no liability for your usage of any third-party services.",
+                "part3": "Third party services may not be genuinely decentralized; therefore, using any third-party services may expose you to identity disclosure that is out of the control of TON Labs, Surf, or any of its affiliated companies. Bear in mind that using these services may require:",
+                "part4": "You hereby agree and consent to not hold Surf liable for any risks or losses associated with your use of any such third-party services.",
+                "term": "User Identity"
             }
         },
         "profileButtonTitle": "탈중앙 정책"
@@ -640,7 +643,7 @@
         "PINCorrect": "정확한 암호",
         "PINNotCorrect": "잘못된 암호",
         "attention": {
-            "text": "로그아웃하기 전에 암호를 백업하는 것이 좋습니다.\n\n백업은 암호를 잊어버리거나 앱에서 로그아웃한 경우 서프에 대한 액세스를 복구할 수 있는 유일한 방법입니다. 시드키를 분실하면 자금에 액세스할 수 없습니다.",
+            "text": "로그아웃하기 전에 암호를 백업하는 것이 좋습니다.\n\n백업은 암호를 잊어버리거나 앱에서 로그아웃한 경우 Surf에 대한 액세스를 복구할 수 있는 유일한 방법입니다. 시드 프레이지를 분실하면 자금에 액세스할 수 없습니다.",
             "title": "주의"
         },
         "biometryFailed": "시도 횟수가 너무 많습니다. 나중에 다시 시도해 보세요",
@@ -661,26 +664,26 @@
     },
     "multiWallets": {
         "addWallet": "지갑을 추가하기",
-        "create": "지갑 생성하기",
-        "defaultWalletName": "내 서프",
+        "create": "지갑 만들기",
+        "defaultWalletName": "내 Surf",
         "editWallet": "지갑을 수정하기",
         "manage": "관리하기",
         "manageWallets": "지갑을 관리하기",
-        "migrate": "지갑을 서프로 이동하기",
+        "migrate": "지갑을 Surf로 이동하기",
         "name": "이름",
         "nameTaken": "다른 이름을 선택하십시오. 이 이름을 다른 분이 이미 선택했습니다",
         "newWalletName": "지갑",
         "pair": "계정을 하드웨어 지갑에 몪기",
         "removeWallet": "지갑을 제거하기",
         "restore": "지갑 복구하기",
-        "restoreHint": "서프에서만 생성된 지갑은 복구할 수 있습니다",
+        "restoreHint": "Surf에서만 생성된 지갑은 복구할 수 있습니다",
         "update": "업데이트하기",
         "walletNotUnique": "동일한 주소의 지갑이 이미 추가되었습니다",
         "wallets": "지갑"
     },
     "networks": {
         "errors": {
-            "nameTaken": "다른 이름을 선택하십시오. 이 이름을 다른 분이 이미 선택했습니다",
+            "nameTaken": "다른 이름을 선택하십시오. 이 이름은 이미 지정되어 있습니다.",
             "networkUnavailable": "아무것도 추가되지 않았습니다. 유효한 엔드포인트 주소를 지정하거나 네트워크 연결을 확인하십시오"
         },
         "names": {
@@ -689,15 +692,15 @@
             "tonlabs": "데브넷"
         },
         "sections": {
-            "custom": "사용자 네트워크",
+            "custom": "사용자 지정 네트워크",
             "main": "메인 네트워크",
             "test": "테스트넷"
         },
         "switchAlert": {
-            "title": "네트워크 전환",
-            "message": "링크는 사용자가 연결한 네트워크와 다른 네트워크가 있습니다 . 이 링크를 열려면 네트워크를 전환하세요",
-            "switch": "전환",
-            "stay": "네트워크 유지"
+            "message": "링크에 연결된 네트워크와 다른 네트워크가 있습니다. 이 링크를 열려면 네트워크를 전환하세요.",
+            "stay": "네트워크 유지",
+            "switch": "Switch",
+            "title": "네트워크 전환"
         }
     },
     "operationsHistory": {
@@ -714,7 +717,7 @@
         "accountManagement": "계정 관리",
         "buysSells": "구매 및 판매",
         "emergency": "비상 사태",
-        "freeTonTons": "프리톤 및 톤 토큰",
+        "freeTonTons": "무료 TON 및 TON 토큰",
         "limitsStatusesAndPromos": "한도, 상태 및 프로모션",
         "securityPrivacy": "보안 및 개인 정보 보호",
         "servicesTransactions": "서비스 및 트랜잭션",
@@ -727,8 +730,8 @@
         "congrats": "삶의 변화를 축하합니다. 변화에 나쁠 것은 없습니다!",
         "currencies": {
             "CRYSTAL": {
-                "comment": "프리톤 토큰",
-                "stake": "톤 크리스탈 스테이킹",
+                "comment": "Free TON 토큰",
+                "stake": "TON 크리스탈 스테이킹",
                 "title": "내 크리스탈"
             },
             "CUSTOM": {
@@ -737,32 +740,32 @@
                 "title": "내 {0} 토큰"
             },
             "RUBY": {
-                "comment": "프리톤 테스트 토큰",
-                "stake": "루비 스테이킹",
+                "comment": "Free TON 테스트 토큰",
+                "stake": "Ruby Stakes",
                 "title": "내 루비"
             },
             "SRFM": {
-                "comment": "서프 메달 True NFT 토큰",
+                "comment": "Surf 메달 True NFT 토큰",
                 "stake": "",
-                "title": "내 서프 메달"
+                "title": "내 Surf 메달"
             }
         },
-        "disableAutoresume": "자동 재시작 기능 끄기",
+        "disableAutoresume": "Auto-resume 기능 끄기",
         "from": "보낸 사람",
         "insufficientBalance": "잔액이 부족합니다.",
-        "notEnoughBalance": "데브넷 계정에 네트워크 요금을 지불할 자금이 충분하지 않습니다.",
+        "notEnoughBalance": "Devnet 계정에 네트워크 요금을 지불할 자금이 충분하지 않습니다.",
         "oneMore": "다시",
         "success": "전송이 성공되었습니다",
         "to": "받는 사람",
-        "toTransfer": "토큰을 전송하려면 자동 재시작 기능을 끄세요",
-        "toTransferMore": "{0} 이상의 토큰을 전송하려면 자동 재시작 기능을 끄세요.",
+        "toTransfer": "토큰을 전송하려면 Auto-resume 기능을 끄세요",
+        "toTransferMore": "{0} 이상의 토큰을 전송하려면 Auto-resume 기능을 끄세요.",
         "transfer": "송금",
         "transferAll": "모두 전송하기",
         "willBeAvailable": "토큰은 {0} 이내에서 인출할 수 있습니다"
     },
     "restorePassword": {
         "mainComponent": {
-            "description": "이것은 귀하 서프 계정의 시드키입니다. 본 기기에 저장하지 마시고 이 시드키를 종이에 적어서 반드시 안전한 장소에 보관하시기 바랍니다.",
+            "description": "이것은 귀하 Surf 계정의 시드키입니다. 본 기기에 저장하지 마시고 이 시드키를 종이에 적어서 반드시 안전한 장소에 보관하시기 바랍니다.",
             "title": "시드키"
         },
         "restorePasswordButton": "시드키"
@@ -773,7 +776,7 @@
         "PINCorrect": "정확한 암호",
         "PINDoesNotMatch": "암호가 일치하지 않음",
         "PINNotCorrect": "잘못된 암호",
-        "TONAddress": "프리톤 주소",
+        "TONAddress": "Free TON 주소",
         "address": "주소",
         "addressAndKeys": "주소 및 키",
         "altAddress": "대체 주소 형식",
@@ -801,7 +804,7 @@
         },
         "neverShare": "귀하의 개인 키는 누구에게나 귀하의 자금에 대한 전체 액세스 권한을 부여할 수 있습니다. 신뢰하지 않는 사람이나 응용 프로그램과 절대 공유해서는 안 됩니다.",
         "noThanks": "아니요, 괜찮습니다",
-        "nonMainAccountPrivateKeyNote": "이 개인 키는 기본 서프 계정의 보안에 아무런 역할을 하지 않습니다. 그러나 키가 손상되면 이 개인 키로 보호되는 다른 자금 및 데이터가 위험에 처할 수 있습니다. 신뢰하지 않는 사람이나 애플리케이션과 공유해서는 안 됩니다.",
+        "nonMainAccountPrivateKeyNote": "이 개인 키는 기본 Surf 계정의 보안에 아무런 역할을 하지 않습니다. 그러나 키가 손상되면 이 개인 키로 보호되는 다른 자금 및 데이터가 위험에 처할 수 있습니다. 신뢰하지 않는 사람이나 애플리케이션과 공유해서는 안 됩니다.",
         "privateKey": "개인 키",
         "publicKey": "공개 키",
         "safelyShare": "사용자의 지갑 주소와 공개 키는 타인과 안전하게 공유할 수 있습니다.",
@@ -811,9 +814,9 @@
             "description": "이 간단한 규칙을 준수하는 것은 귀하의 자산을 안전하게 유지하는 데에 큰 도움이 됩니다",
             "gotItButton": "알겠습니다",
             "rules": [
-                "반드시 확인된 출처에서 서프를 설치하세요 (App Store, Google Play)",
-                "시드키를 잘 보관하세요. 종이에 적으셔서 귀하만 찾으실 수 있는 곳에 보관하십시오. 서프 계정에 접속하시는 기기에는 저장하지 마십시오.",
-                "시드키를 다른 사람이나 앱에 절대 공개하지 마십시오. 서프에서 귀하의 지갑에 대한 액세스를 복원하시는 데에만 사용하십시오.",
+                "반드시 확인된 출처에서 Surf를 설치하세요 (App Store, Google Play)",
+                "시드키를 잘 보관하세요. 종이에 적으셔서 귀하만 찾으실 수 있는 곳에 보관하십시오. Surf 계정에 접속하시는 기기에는 저장하지 마십시오.",
+                "시드키를 다른 사람이나 앱에 절대 공개하지 마십시오. Surf에서 귀하의 지갑에 대한 액세스를 복원하시는 데에만 사용하십시오.",
                 "기억하기 쉬운 암호를 사용하시고 절대 적어 두지 마십시오. 다른 애플리케이션 암호와 동일한 암호를 사용하지 마십시오. 누구와도 공유하지 마십시오.",
                 "자산의 보안을 강화하려면 보안 카드를 사용하십시오. 시드키를 잃어버린 경우에도 지갑에 대한 액세스를 복원하는 데에 도움이 될 수 있습니다."
             ],
@@ -826,29 +829,29 @@
             "cardConnected": "카드 연결됨",
             "cardConnection": "카드 연결 중 ...",
             "cardsReadyToUse": {
-                "btn": "알겠습니다",
+                "btn": "알겠어요",
                 "description": "활성화된 카드는 동일합니다. 그 중 하나를 사용하여 작업을 확인하고 다른 하나를 안전한 장소에 숨기는 것이 좋습니다.",
                 "title": "카드를 사용할 준비가 되었습니다"
             },
             "checkingCardIntegrity": "카드 무결성을 확인하는 중...",
             "codeScanning": "코드 스캔하는 중...",
-            "comingSoonText": "저희도 보안 카드가 제공할 새로운 기회에 대해 기대가 됩니다",
+            "comingSoonText": "저희도 보안 카드가 제공할 기회를 기대합니다.",
             "comingSoonTitle": "곧 출시",
             "confirm": "확인하기",
             "confirmAndBuy": "확인 및 구매",
             "confirmAndOrder": "확인 및 주문",
             "connectionStatuses": {
                 "connected": {
-                    "description": "가드 세부 사항은 비밀로 해 두세요",
-                    "title": "연결됨"
+                    "description": "Keep the card close ",
+                    "title": "Connected"
                 },
                 "connecting": {
-                    "description": "보안 카드를 탭하세요",
-                    "title": "연결 중..."
+                    "description": "Tap the Security card",
+                    "title": "Connecting..."
                 },
                 "connectionLost": {
-                    "description": "다시 연결해 보세요",
-                    "title": "연결이 끊겼습니다"
+                    "description": "Try to reconnect",
+                    "title": "Connection lost"
                 },
                 "error": {
                     "description": "",
@@ -875,8 +878,8 @@
             "deactivateDescription": "즉시 다시 활성화할 수 있습니다",
             "deactivatedCards": "보안 카드가 비활성화되었습니다",
             "details": "세부 정보",
-            "detailsText": "서프는 귀하와 귀하의 행동을 트래킹, 귀하의 데이터를 수집, 분석 소프트웨어를 사용하지 않습니다. 저희는 간단한 추적 기기조차 가지고 있지 않습니다. 쿠키도 없고 개인 데이터 처리도 없습니다. 이것은 저희의 소명 목표입니다.\n\n경고! 그러나 저희가 통제할 수 없는 기타 제3자 서비스는 단독 재량에 따라 귀하의 데이터를 수집하고 사용할 수 있습니다. 서프에서 해당 서비스를 사용하려는 경우 개인 정보, 쿠키, 사용 약관 및 기타 모든 계약상 구속력이 있는 정책 및 문서를 수락하기 전에 검토할 때 매우 신중해야 합니다.",
-            "detailsTitle": "탈중앙 선언문에서 이미 언급했듯이",
+            "detailsText": "Surf는 귀하와 귀하의 행동을 트래킹, 귀하의 데이터를 수집, 분석 소프트웨어를 사용하지 않습니다. 저희는 간단한 추적 기기조차 가지고 있지 않습니다. 쿠키도 없고 개인 데이터 처리도 없습니다. 이것은 저희의 소명 목표입니다.\n\n경고! 그러나 저희가 통제할 수 없는 기타 제3자 서비스는 단독 재량에 따라 귀하의 데이터를 수집하고 사용할 수 있습니다. Surf에서 해당 서비스를 사용하려는 경우 개인 정보, 쿠키, 사용 약관 및 기타 모든 계약상 구속력이 있는 정책 및 문서를 수락하기 전에 검토할 때 매우 신중해야 합니다.",
+            "detailsTitle": "탈중앙 정책에서 이미 언급했듯이",
             "enterCode": "코드를 입력하기",
             "enterCodeDescription": "카드 번호를 입력하고 카드를 장치에 대고 연결을 설정하십시오",
             "free": "무료",
@@ -885,11 +888,11 @@
             "laterBtn": "아니요, 나중에",
             "learnMore": {
                 "developers": {
-                    "description": "프리톤 SDK를 사용할 때 이용자는 자신의 스마트 콘트랙트와 유스 케이스를 위해서 카드 프로그래밍할 수 있다",
+                    "description": "무료 TON SDK를 사용할 때 이용자는 자신의 스마트 콘트랙트와 유스 케이스를 위해서 카드 프로그래밍할 수 있다",
                     "title": "개발자를 위한 오픈 소스"
                 },
                 "development": {
-                    "description": "프리톤 SDK로 귀하의 것으로 만드십시오. 자신의 스마트 계약 및 사용 사례에 맞게 카드를 프로그래밍할 수 있습니다",
+                    "description": "Free TON SDK로 귀하의 것으로 만드십시오. 자신의 스마트 계약 및 사용 사례에 맞게 카드를 프로그래밍할 수 있습니다",
                     "title": "오픈 소스 및 확장 가능"
                 },
                 "personalization": {
@@ -918,11 +921,11 @@
             "moreFeaturesSoon": "더 많은 보안 카드 기능이 곧 나타날 것입니다.",
             "options": "옵션",
             "order": "주문하기",
-            "orderName": "TON Labs 보안 카드",
+            "orderName": "TON 랩스 보안 카드",
             "orderStatuses": {
                 "confirming": "확인하는 중~",
                 "gettingReady": "준비하고 있습니다",
-                "onItsWay": "배송 중",
+                "onItsWay": "오는 중",
                 "processed": "발행됨",
                 "reactivate": "재활성화 필요",
                 "reorder": "재주문해 주세요"
@@ -930,25 +933,25 @@
             "orderStep": "{0}/4 단계",
             "paymentDetails": "결제 세부 정보",
             "promoBtn": "보안 카드 주문하기",
-            "promoText": "트랜잭션에 서명하고 비공개 키를 보관하는 개인화된 하드웨어 지갑입니다.",
+            "promoText": "트랜잭션에 사인을 하고 비공개 키를 보관하는 개인화된 하드웨어 지갑입니다.",
             "promoTitle": "자금을 안전하게 보관하는 간단한 방법",
-            "purchaseSuccessMsg": "축하합니다! 보안 카드를 성공적으로 구입했습니다. 배송 상태를 추적하려면 보안 카드 DeBot에게 전화하십시오.",
+            "purchaseSuccessMsg": "축하합니다! 보안 카드를 성공적으로 구입했습니다. 배송 상태를 추적하려면 보안 카드 debot에게 전화하십시오.",
             "purchaseSuccessTitle": "구매가 성공되었습니다",
             "putCardOnPhoneDescription": "카드 활성화를 위해서 휴대폰 뒷면에 카드를 놓고 눌러주세요",
             "putCardOnPhoneTitle": "휴대폰에 카드를 대 주세요",
             "readingCardData": "카드 데이터를 읽는 중...",
             "recipientInfo": "받는 사람 정보",
-            "reissue": "카드 재발급하기",
-            "reissueApprovalDescription": "카드를 재발급할 때 다른 모든 카드가 일시적으로 비활성화됩니다.",
+            "reissue": "카드 재발행하기",
+            "reissueApprovalDescription": "카드를 재발행할 때 다른 모든 카드가 일시적으로 비활성화됩니다.",
             "reissueApprovalTitle": "보안 카드를 재발급하시겠습니까?",
-            "reissueBtn": "재발급하기",
-            "reissueDescription": "카드를 재발급할 때 다른 모든 카드가 일시적으로 비활성화됩니다.",
+            "reissueBtn": "재발행하기",
+            "reissueDescription": "카드를 재발행할 때 다른 모든 카드가 일시적으로 비활성화됩니다.",
             "reviewOrder": "주문 요약",
             "scanCode": "카드 바코드 스캔하기",
             "scanCodeDescription": "바코드를 스캔하고 카드를 장치 가까이에 배치해서 연결을 설정하십시오.",
             "screenTitle": "보안 카드",
-            "shareSecurityCardMessage": "프리톤 블록체인에서 완전히 개인화된 하드웨어 지갑: 주문한 시간부터 사용자만의 소유와 통제에 있다.{0}",
-            "shareSecurityCardSubtitle": "TON Labs 보안 카드",
+            "shareSecurityCardMessage": "무료 TON 블록체인에서 완전히 개인화된 하드웨어 지갑: 주문한 시간부터 사용자만의 소유와 통제에 있다.{0}",
+            "shareSecurityCardSubtitle": "보안 카드 TON 랩스",
             "shareSecurityCardSuccess": "링크가 클립보드에 복사되었습니다",
             "shipping": "배송",
             "shippingAddress": "배송 주소",
@@ -958,7 +961,7 @@
             "statusInfo": {
                 "confirming": {
                     "button": "좋습니다!",
-                    "description": "카드 발행에 대한 모든 준비가되어 있는지 확인하고 있습니다. 결과를 알려 드리겠습니다",
+                    "description": "카드 발행에 대한 모든 준비가되어 있는지 확인하고 있습니다. 결과를 알려드리겠습니다",
                     "title": "준비하는 중"
                 },
                 "gettingReady": {
@@ -967,25 +970,25 @@
                     "title": "준비하고 있습니다"
                 },
                 "onItsWay": {
-                    "button": "주문 현황을 파악하기",
+                    "button": "추적하기",
                     "description": "카드가 거의 도착했으며 추적 번호는 {0} 입니다. 카드를 받은 후 바로 활성화하세요.",
                     "title": "오는 중",
                     "txtButton": "활성화하기"
                 },
                 "processed": {
-                    "button": "알겠습니다",
+                    "button": "알겠어요",
                     "description": "카드가 거의 준비되었습니다. 곧 택배사에 인계됩니다",
                     "title": "처리됨"
                 },
                 "reorder": {
-                    "button": "다시 주문",
+                    "button": "주문 다시 하기",
                     "description": "카드를 발급할 수 없습니다. 입력한 데이터 중 일부에 오류가 있습니다.",
                     "title": "다시 주문하세요",
                     "txtButton": "도움 받기"
                 }
             },
-            "subtotal": "총 ({0} 항목)",
-            "tapSecurityCard": "보안 카드를 탭하세요",
+            "subtotal": "소계 ( {0} 항목)",
+            "tapSecurityCard": "보안 카드를 눌러주세요",
             "tapSecurityCardDescription": "카드를 탭하여 작업을 확인하십시오.",
             "taxAndFees": "세금 및 수수료",
             "techSpecs": {
@@ -994,11 +997,11 @@
                     "title": "치수"
                 },
                 "extended": {
-                    "description": "카드에 120KB의 여유 공간이 있으므로 원하시는 데이터를 쓸 수 있습니다.\n\n저희는 오픈 소스 Free TON SDK를 제공하며 자신의 스마트 컨트랙트로 카드를 프로그래밍하고 예를 들어 결제 카드, 건물 출입 카드 또는 원하는 대로 사용할 수 있습니다.",
+                    "description": "카드에 120KB의 여유 공간이 있으므로 원하시는 데이터를 쓸 수 있습니다.\n\n저희는 오픈 소스 Free TON SDK를 제공하며 자신의 스마트 계약으로 카드를 프로그래밍하고 예를 들어 결제 카드, 건물 출입 카드 또는 원하는 대로 사용할 수 있습니다.",
                     "title": "확장 사용"
                 },
                 "extendedUse": {
-                    "description": "카드에 120KB의 여유 공간이 있으므로 자신의 데이터를 쓸 수 있습니다.\n\n저희는 귀하에게 오픈 소스 Free TON SDK를 제공하며, 귀하는 귀하의 스마트 컨트랙트로 카드를 프로그래밍하고 예를 들어 지불 카드, 건물 출입 카드로 또는 원하는 대로 사용할 수 있습니다.",
+                    "description": "카드에 120KB의 여유 공간이 있으므로 자신의 데이터를 쓸 수 있습니다.\n\n저희는 귀하에게 오픈 소스 Free TON SDK를 제공하며, 귀하는 귀하의 스마트 계약으로 카드를 프로그래밍하고 예를 들어 지불 카드, 건물 출입 카드로 또는 원하는 대로 사용할 수 있습니다.",
                     "title": "확장 사용"
                 },
                 "hardware": {
@@ -1020,10 +1023,10 @@
                 "added": "대기자 명단에 추가되었습니다. 카드 주문이 시작될 때 알려 드리겠습니다.",
                 "addedToastMsg": "대기자 명단에 추가되었습니다",
                 "comingThisDecemberBtn": "올 12월 출시 예정",
-                "description": "프리톤의 TON Labs 보안 카드는 고유한 NFC 스마트 카드입니다. 데이터를 안전하게 보호하고 필요에 맞게 조정할 수 있습니다",
+                "description": "Free TON의 TON Labs 보안 카드는 고유한 NFC 스마트 카드입니다. 데이터를 안전하게 보호하고 필요에 맞게 조정할 수 있습니다",
                 "joinWaitlistBtn": "대기자 명단에 가입하기",
                 "learnMoreBtn": "더 알아보기",
-                "policy": "프리톤  블록체인용 TON Labs 보안 카드를 사용하면 약관 및 정책에 동의하게 됩니다",
+                "policy": "Free TON  블록체인용 TON Labs 보안 카드를 사용하면 약관 및 정책에 동의하게 됩니다",
                 "techSpecsBtn": "기술 사양",
                 "title": "단순한 하드웨어 지갑 그 이상입니다"
             }
@@ -1040,17 +1043,17 @@
         "understand": "알겠습니다"
     },
     "sendGram": {
-        "deposit": "보증금",
+        "deposit": "Deposit",
         "fee": "수수료",
         "feeAmount": "≈ {0}",
         "makeAnotherTransfer": "다른 송금",
         "maxValueAlert": "잔액이 없다면 특정 작업을 수행할 수 없습니다. 이 계정을 계속 사용할 계획이라면 잔액에 토큰을 남겨 두는 것이 좋습니다",
-        "minValueAlert": "최소 송금은 {0} 토큰입니다",
+        "minValueAlert": "최소 송금 금액은 {0} 토큰입니다",
         "operationPreview": {
             "amount": "액수",
-            "comment": "코멘트 남기기",
-            "commentEncrypted": "암호화된 코멘트는 보낸 사람과 받는 사람이 아닌 다른 사람이 복호화할 수 없습니다",
-            "commentUnencrypted": "암호화되지 않은 코멘트는 블록체인의 모든 사용자에게 표시됩니다",
+            "comment": "댓글 남기기",
+            "commentEncrypted": "암호화된 댓글은 보낸 사람과 받는 사람이 아닌 다른 사람이 복호화할 수 없습니다",
+            "commentUnencrypted": "암호화되지 않은 댓글은 블록체인의 모든 사용자에게 표시됩니다",
             "encrypted": "암호화됨",
             "fees": "수수료",
             "from": "보낸 사람",
@@ -1077,12 +1080,12 @@
     "setup": {
         "confirmLocalPassword": {
             "placeholder": "암호 다시 입력하기",
-            "success": "성공"
+            "success": "성공."
         },
         "firstInteractions": {
             "notifications": {
                 "button": "알림 받기",
-                "description": "알림을 활성화하면 다른 사용자의 메시지와 전송 및 중요한 서프 업데이트를 놓치지 않습니다.",
+                "description": "알림을 활성화하면 다른 사용자의 메시지와 전송 및 중요한 Surf 업데이트를 놓치지 않습니다.",
                 "title": "중요한 알림"
             },
             "protection": {
@@ -1096,12 +1099,12 @@
         "main": {
             "earlyAccess": {
                 "button": "알았습니다",
-                "description": "TON Labs는 톤 서프를 대중에게 공개하게 되는 것에 대해서 매우 흥분되었습니다! 프리톤 테스트 루비는 제공하게 된 것은 얼마 안 되어서 문제가 발생할 수 있습니다.",
-                "devDescription": "TON Labs는 톤 서프를 대중에게 공개하게 되는 것에 대해서 매우 흥분되었습니다! 프리톤 테스트 루비는 제공하게 된 것은 얼마 안 되어서 문제가 발생할 수 있습니다.",
-                "title": "중요"
+                "description": "TON 랩스는 TON 서핑을 대중에게 공개하게되어서 기쁩니다! 무료 TON 테스트 루비는 아직 조기 액세스이므로 예상치 못한 동작이 발생할 수 있습니다.",
+                "devDescription": "TON Labs는 톤 서프를 공개하게 된 것을 기쁘게 생각합니다! 아직프리톤 테스트 루비의 얼리 액세스이므로 예기치 않은 동작이 발생할 수 있습니다.",
+                "title": "중요합니다"
             },
             "securityCard": {
-                "create": "새로운 서프 연결하기",
+                "create": "새로운 Surf 연결하기",
                 "restore": "기존 링크"
             },
             "wallet": {
@@ -1123,16 +1126,16 @@
                 "initial": "시드키\n백업하기"
             },
             "card": {
-                "initial": "단순한 하드웨어\n지갑 그\n이상입니다"
+                "initial": "단순한 하드웨어\n지갑 그 \n이상입니다"
             },
             "faq": {
                 "initial": "자주 묻는 질문"
             },
-            "stakeDeposit": {
-                "initial": "스테이킹\n보상받기"
-            },
             "flex": {
                 "initial": "Killer Whale\nPod Cast"
+            },
+            "stakeDeposit": {
+                "initial": "스테이킹\n보상받기"
             }
         },
         "restore": {
@@ -1140,7 +1143,7 @@
             "description": "암호 백업으로 로그인하세요.",
             "hint": "12 또는 24 단어",
             "masterPassword": "시드키",
-            "title": "서프 복원"
+            "title": "Surf 복원"
         },
         "start": {
             "securityCard": {
@@ -1154,16 +1157,16 @@
         },
         "welcome": {
             "item1": {
-                "description": "스마트한 사람들을 위한 자유롭고 안전하며 쉬운 블록체인 인터페이스"
+                "description": "똑똑한 분들을 위해서 만든 쉽고 무료이고 비공개 블록체인 인터페이스"
             },
             "item2": {
-                "description": "세계 어디에서나 안전하고 및 빠른 트랜잭션"
+                "description": "은밀하고 세계적으로 빠른 트랜잭션 발생합니다"
             },
             "item3": {
-                "description": "보안 채팅을 통한 커뮤니케이션 및 비즈니스"
+                "description": "보안메신저로 커뮤니케이션 더하기"
             },
             "item4": {
-                "description": "사용자만 관리 가능한 완벽한 360도 보안성"
+                "description": "천재적인 360도 보안은 사용자의 통제만 아래 있습니다"
             }
         }
     },
@@ -1181,7 +1184,7 @@
             "showKey": "키 표시",
             "title": "서명"
         },
-        "mainSignature": "내 서프",
+        "mainSignature": "내 Surf",
         "medalSignatures": {
             "bronzeKeys": "브론즈 키",
             "goldenKeys": "골든 키",
@@ -1205,19 +1208,19 @@
             "title": "스테이킹이 무엇인가요?"
         },
         "bot": {
-            "autoresumeDisable": "자동 재시작 비활성화하기",
-            "autoresumeDisabled": "자동 재시작 비활성화됨",
-            "autoresumeEnable": "자동 재시작 활성화하기",
-            "autoresumeEnabled": "자동 재시작 활성화됨",
-            "autoresumeFee": "자동 재시작 수수료",
-            "available": "{0}(을)를 인출할 수 있습니다",
+            "autoresumeDisable": "자동 생성 비활성화하기",
+            "autoresumeDisabled": "자동 생성 비활성화됨",
+            "autoresumeEnable": "자동 생성 활성화하기",
+            "autoresumeEnabled": "자동 생성 활성화됨",
+            "autoresumeFee": "Auto-resume 수수료",
+            "available": "{0}  인출할 수 있습니다",
             "compliment": "칭찬",
             "deposit": "{0} 스테이킹에 추가되었고 다음 라운드에서 사용할 수 있습니다. 자동 추정 옵션이 활성화되었습니다.",
             "errors": {
                 "autoresume": "트랜잭션을 만들기 위한 잔액이 부족합니다. 잔액을 최상으로 유지하십시오.",
                 "closedPool": "스테이킹 풀이 폐쇄됩니다.",
-                "default": "오류가 발생했습니다. 자금이 서핑 지갑으로 다시 이체되었습니다.",
-                "lessThanMinStake": "스테이킹 거부됨: 스테이킹된 금액이 최소 허용 금액보다 적습니다.",
+                "default": "오류가 발생했습니다. 자금이 서프 지갑으로 다시 이체되었습니다",
+                "lessThanMinStake": "스테이크 거부됨: 스테이킹된 금액이 최소 허용 금액보다 적습니다",
                 "noRoundsInPool": "스테이킹 풀에 라운드 없음",
                 "notEnoughFeesForOperation": "트랜잭션 실패: 수신할 금액이 부족합니다",
                 "roundIsFull": "스테이크 라운드 제한에 도달했습니다. 새로운 스테이킹은 허용되지 않습니다. 다음 라운드까지 기다려 주세요",
@@ -1229,15 +1232,15 @@
             },
             "noRewardMessages": {
                 "lostElections": "선거가 패배했습니다",
-                "missedElections": "선거가 누락되었습니다",
+                "missedElections": "선거가 누락되었습니다.",
                 "nodeStakeTooSmall": "노드 스테이킹이 너무 작았습니다.",
                 "notEnoughTotal": "총 스테이킹 액수는 충분하지 않습니다",
                 "poolClosed": "스테이킹 풀이 폐쇠되었습니다",
-                "roundWasFinished": "보상 지급없이 라운드가 종료되었습니다. 이유: {0}",
+                "roundWasFinished": "보상 지급없이 라운드가 종료되었습니다. 이유 : {0}",
                 "stakeRejected": "스테이킹이 거부되었습니다",
                 "wentWrong": "문제가 발생했습니다."
             },
-            "reinvest": "{0}(은)는 다음 라운드에 다시 스테이킹되었니다.",
+            "reinvest": "{0} 은 (는) 다음 라운드를 위해 재스테이킹됩니다.",
             "reward": "보상",
             "stakeDeposit": "스테이킹",
             "stakeWithdraw": "인출하기",
@@ -1257,10 +1260,10 @@
             "anonymity": "완전한 익명성",
             "assurance": {
                 "definition": ": 이것은 DePool 소유자가 각 검증 라운드에 투자해야 하는 최소 토큰 금액이며, 검증인 노드가 오작동하는 경우 이 자금은 가장 먼저 손실됩니다. 전체 지분의 손실을 덮기에 충분하지 않은 경우에만 다른 풀 구성원의 자금이 영향을 받습니다. 이렇게 하면 DePool 소유자는 검증인 노드의 적절한 작동을 유지하려는 강한 동기를 갖게 됩니다.",
-                "term": "가능한 풀"
+                "term": "Available pool "
             },
             "availablePool": {
-                "definition": ": 현재 서프 DePool에 스테이킹할 수 있는 최대 금액입니다.",
+                "definition": ": 현재 Surf DePool에 스테이킹할 수 있는 최대 금액입니다.",
                 "term": "사용 가능한 풀"
             },
             "balance": {
@@ -1270,7 +1273,7 @@
             "balanceRequirement": "모든 작업(스테이킹, 출금 등)에는 DePool 운영 비용을 지불하는 데 사용되는 0.5 토큰의 최소 지갑 잔액이 필요합니다. 거스름돈을 돌려줍니다.",
             "contribution": "블록체인 인프라 및 탈중앙화 기여",
             "dash": "—",
-            "description": "DePool은 누구나 스테이크를 공통 풀에 투자할 수 있도록 하는 스마트 컨트랙트입니다. 이 스테이크 투자한 사용자들을 대표하여 검증인이 검증인 선거에 스테이크를 사용하며 성공적인 검증 시 기여도에 비례하여 모든 구성원에게 보상을 지급합니다.",
+            "description": "DePool은 누구나 스테이크를 공통 풀에 투자할 수 있도록 하는 스마트 계약입니다. 이 스테이크 투자한 사용자들을 대표하여 검증인이 검증인 선거에 스테이크를 사용하며 성공적인 검증 시 기여도에 비례하여 모든 구성원에게 보상을 지급합니다.",
             "fundsControl": "자금에 대한 완전한 통제",
             "lockUpPeriod": {
                 "definition": ": DePool이 선거에 들어간 후 자금이 잠긴 기간입니다. 자금을 인출하기로 결정하면 자금이 잠금 해제되는 즉시 반환됩니다. 즉, 인출을 요청한 후 최대 1회의 잠금 기간이 필요합니다.",
@@ -1282,7 +1285,7 @@
             },
             "minStake": {
                 "definition": ": DePool에 설정된 최소 지분입니다. 이 금액보다 적은 금액을 스테이킹할 수 없습니다.",
-                "term": "취소 스테이킹"
+                "term": "Min.Stake"
             },
             "replenishment": "보충 허용",
             "rewardFee": {
@@ -1290,10 +1293,10 @@
                 "term": "보상 수수료"
             },
             "rewardPaid": {
-                "definition": ": 서프 DePool의 모든 참가자가 지금까지 얻은 총 금액입니다.",
+                "definition": ": Surf DePool의 모든 참가자가 지금까지 얻은 총 금액입니다.",
                 "term": "적립된 보상"
             },
-            "staking": "스테이킹은 블록체인에 자금을 예치하는 새로운 방법입니다. DePool 스마트 컨트랙트에 토큰을 위임하고 매일 보상을 즐기시고 혜택도 받으세요.",
+            "staking": "스테이킹은 블록체인에 자금을 예치하는 새로운 방법입니다. DePool 스마트 계약에 토큰을 위임하고 매일 보상을 즐기시고 혜택도 받으세요.",
             "successful": {
                 "definition": ": DePool이 참여한 모든 검증 라운드의 백분율입니다. 즉, 검증인 선거에서 승리하고 검증을 성공적으로 완료하고 보상을 받았을 때의 수수료입니다.",
                 "term": "성공적인 라운드"
@@ -1307,18 +1310,18 @@
             "reward": "이번 라운드에 대한 보상:"
         },
         "details": {
-            "autoresume": "자동 재시작",
+            "autoresume": "Auto-resume",
             "available": "사용 가능",
-            "current": "스테이킹",
+            "current": "스테이킹 됨",
             "income": "예상 소득",
             "off": "끄기",
             "on": "켜기",
             "period": "스테이킹 기간",
-            "stakingPeriod": "{0}분",
+            "stakingPeriod": "{0} 분",
             "title": "잔액"
         },
         "info": {
-            "button": "네, 계속 알려 주세요",
+            "button": "OK. 계속 알려주세요",
             "description": "사용자와 마찬가지로 우리는 새로운 스테이킹의 출시를 기다릴 수 없습니다.",
             "title": "곧 출시됩니다"
         },
@@ -1343,7 +1346,7 @@
             "help": "도움말",
             "max": "최대",
             "members": "회원",
-            "min": "취소",
+            "min": "min.",
             "minStake": "최소 스테이킹 금액",
             "moreInfo": "자세한 정보",
             "period": "락업 기간",
@@ -1367,8 +1370,8 @@
         "group": "지원 그룹",
         "makeSuggestion": "제안 보내기",
         "message": {
-            "first": "안녕하세요? 저는 톤 서프 어시스턴트입니다.",
-            "second": "무엇이든 물어보세요. 서프가 이에 대해 무엇을 할 수 있는지 알려 드리겠습니다."
+            "first": "안녕하세요? 저는 TON Surf 어시스턴트입니다.",
+            "second": "무엇이든 물어보세요. Surf가 이에 대해 무엇을 할 수 있는지 알려 드리겠습니다."
         },
         "title": "지원 받기",
         "videoTutorials": "동영상 튜토리얼"
@@ -1378,7 +1381,7 @@
             "at": "...에서"
         },
         "noConnect": {
-            "button": "도움이 필요하면 연락주세요",
+            "button": "도움이 필요하면 연락하십시오",
             "description": "오프라인 상태가 될 수도 있거나 당사 서버에서 문제가 발생할 수 있습니다. 서핑은 자동으로 다시 연결하려고 시도하겠습니다.",
             "title": "연결이 제대로 안 되는 것 같습니다"
         },
@@ -1393,10 +1396,10 @@
             "seller": "판매자",
             "title": "구매",
             "topUp": "잔액 충전",
-            "totalPrice": "총 금액"
+            "totalPrice": "총 가격"
         },
         "comments": {
-            "commentOptional": "코멘트 남기기",
+            "commentOptional": "댓글 남기기",
             "lengthWarning": "120자만",
             "message": "메시지",
             "messageOrMemo": "메시지 또는 메모",
@@ -1408,16 +1411,16 @@
             "failedToFetchTransactionData": "세부 정보 데이터를 로드하지 못했습니다."
         },
         "message": {
-            "transactionInvitation": "님 안녕하세요. {APP_NAME}에서 트랜잭션을 받도록 초대합니다. 여기에서 받아 주세요",
-            "transactionInvitationTitle": "받기",
-            "transactionInvoice": "{0}님 안녕하세요. 트랜잭션을 받을 준비가 되었습니다. 링크를 클릭하세요",
+            "transactionInvitation": "{0}님 안녕하세요. {APP_NAME}에서 트랜잭션을 받도록 초대합니다. 여기에서 받아 주세요",
+            "transactionInvitationTitle": "받아들입니다!",
+            "transactionInvoice": "{0}님 안녕하세요. 트랜잭션을 받을 준비가 되었습니다. 링크 클릭하세요",
             "transactionInvoiceTitle": "받기"
         },
         "notice": {
-            "accept": "받기",
+            "accept": "받아들이기",
             "confirmationSentToChat": "지갑 비밀 채팅을 통해 확인을 보냈습니다.",
-            "heyUser": "{0}님 안녕하세요",
-            "transactionInvitation": "{0} 친구가 사용자에게 송금을 보냈습니다. 송금 받기를 확인해 주세요"
+            "heyUser": "안녕하세요 {0}",
+            "transactionInvitation": "친구 {0} 가 귀하에게 송금을 보냈습니다. 영수증 확인하기"
         },
         "vote": {
             "contest": "콘테스트",
@@ -1438,19 +1441,19 @@
                 "sticker": "🙂 스티커"
             },
             "newConversation": "새로운 채팅",
-            "talks": "채팅",
-            "welcomePrivateChat": "엔드투엔드 암호화된 개인 채팅 서비스에 오신 것을 환영합니다."
+            "talks": "회담",
+            "welcomePrivateChat": "엔드 투 엔드 암호화 된 개인 채팅방 서비스에 오신 것을 환영합니다."
         },
         "devCoins": {
             "alreadyReceived": "죄송합니다. 사용 가능한 모든 루비를 이미 받았습니다.",
-            "alreadyRequested": "루비는 이미 요청되었습니다. 기다려 주세요"
+            "alreadyRequested": "루비는 이미 요청되었습니다. 기다리세요"
         },
         "error": {
             "failedToDecrypt": "암호 해독에 실패했습니다. 다른 지갑으로 로그인해야 할 것 같습니다",
             "failedToLoadAccounts": "계정을 로드하지 못했습니다.",
             "failedToLoadWallet": "지갑을 로드하지 못했습니다.",
             "failedToLoginInTheWallet": "지갑에 로그인하지 못했습니다.",
-            "insufficientFunds": "작업을 수행할 자금이 부족합니다. 서프 잔액을 충전하십시오.",
+            "insufficientFunds": "작업을 수행할 자금이 부족합니다. Surf 잔액을 충전하십시오.",
             "limitInvalidValue": "한계 값이 유효하지 않거나 너무 큽니다.",
             "timeIsNotSynced": "시간 동기화 오류가 발생했습니다. 안타깝게도 트랜잭션을 처리할 수 없습니다. 시간 자동 설정 옵션을 활성화하십시오."
         },
@@ -1464,14 +1467,14 @@
             "send": "보내기",
             "tokenValue": "토큰 값",
             "updating": "업데이트 중 ...",
-            "yourBalance": "사용자 잔액"
+            "yourBalance": "귀하 잔액"
         },
         "payInvoice": {
             "buyNetTokens": "{0} 토큰 구매하기",
             "cardNumber": "카드 번호",
             "expiryDate": "만료일",
-            "nameOnCard": "카드 이름",
-            "payFor": "{0} 이용",
+            "nameOnCard": "카드  이름",
+            "payFor": "for {0}",
             "rejected": {
                 "authorizationRequest": "승인된 요청이 실패했습니다.",
                 "limitExceeded": "한도 초과했습니다",
@@ -1480,16 +1483,16 @@
                 "transfer": "트랜잭션에 실패했습니다."
             },
             "secure": "보안 코드",
-            "secureText": "서명란의 마지막 {0}자리입니다.",
+            "secureText": "서명란의 마지막 {0} 자리입니다.",
             "title": "결제 세부 정보"
         },
         "protectGrams": {
-            "button": "암호 백업하기",
-            "description": "이제 잔액에 톤 토큰이 있습니다. 액세스 복구가 필요하는 경우 비밀번호를 백업하는 것이 좋습니다.",
+            "button": "암호를 백업하기",
+            "description": "이제 잔액에 TON 토큰이 있습니다. 액세스 복구가 필요하는 경우 비밀번호를 백업하는 것이 좋습니다.",
             "title": "토큰 보호하기"
         },
         "recipient": {
-            "address": "톤 주소",
+            "address": "TON 주소",
             "email": "이메일",
             "phone": "핸드폰"
         },
@@ -1501,10 +1504,10 @@
                 "private": "루비",
                 "tonlabs": "루비"
             },
-            "enterValidAddress": "프리톤 주소 ...",
+            "enterValidAddress": "Free TON 주소 ...",
             "from": "보낸 사람",
-            "invalidAddress": "유효하지 않은 톤 주소입니다",
-            "recipientWarning": "주소를 확인하십시오! 송금을 취소할 수 없습니다!",
+            "invalidAddress": "잘못된 톤 주소입니다.",
+            "recipientWarning": "주소가 정확한지 확인하십시오! 전송된 이체는 되돌릴 수 없습니다!",
             "title": "토큰 보내기"
         },
         "transaction": {
@@ -1512,7 +1515,7 @@
             "amount": "액수",
             "change": "잔액 변경",
             "checkStatusLater": "당황하지 마세요. 잠시 후 상태를 확인할 수 있습니다",
-            "comment": "코멘트 남기기",
+            "comment": "댓글 남기기",
             "encrypted": "암호화됨",
             "fee": "수수료",
             "from": "보낸 사람",
@@ -1548,7 +1551,7 @@
         },
         "withdrawGram": {
             "amount": "액수",
-            "amountDescription": "{0} + {1} 수수료 ({2}%)",
+            "amountDescription": "{0} + {1} 수수료 ( {2}%)",
             "amountDescriptionSold": "{0} 및 수수료 {1}%에 판매됨",
             "amountHint": "출금할 토큰 수를 지정하십시오.",
             "completedSuccessMessage": "귀하가 덜 부자가 되었지만 다른 사람을 더 행복하게 만들었습니다",

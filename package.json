@@ -33,6 +33,6 @@
         "@types/react": "17.0.24",
         "@tonlabs/localization": "^2.3.2",
         "typescript": "4.4.3",
-        "react-native-localization": "2.1.7"
+        "react-native-localization": "^2.1.6"
     }
 }

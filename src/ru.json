@@ -384,13 +384,13 @@
     },
     "flex": {
         "promoScreen": {
-            "title": "Killer Whale Pod Cast",
-            "getInvolvedBtn": "Get involved",
-            "howItWorksBtn": "How it works?",
+            "title": "Killer Whale Pod Cast",
+            "getInvolvedBtn": "Участвовать",
+            "howItWorksBtn": "Как это работает?",
             "nextEpisode": "Next Episode is Coming Soon!",
-            "videoTitle": "WhaleDrop Episode: Airdrop + Liquidity Mining",
-            "date": "October 30, 2021",
-            "offers": "Offers",
+            "videoTitle": "Эпизод WhaleDrop: Airdrop + Liquidity Mining",
+            "date": "30 октября 2021",
+            "offers": "Предложения",
             "results": "Results",
             "token": "Token",
             "airdropped": "airdropped",
@@ -400,8 +400,8 @@
     },
     "getTONs": {
         "contests": {
-            "governance": "Governance",
-            "title": "Contests"
+            "governance": "Управление",
+            "title": "Конкурсы"
         },
         "exchanges": {
             "bitcoin": "Bitcoin.com",
@@ -410,10 +410,10 @@
             "hitbtc": "HitBTC",
             "kuna": "Kuna",
             "mexc": "MEXC",
-            "title": "Exchanges"
+            "title": "Биржи"
         },
-        "title": "Get TONs",
-        "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
+        "title": "Пополнение баланса",
+        "warning": "Безопасней всего получить токены, участвуя в конкурсах или в субуправлениях. Используя сторонние сервисы, помните, что они могут собирать ваши личные данные."
     },
     "interfaceOptions": {
         "assetsBalance": {

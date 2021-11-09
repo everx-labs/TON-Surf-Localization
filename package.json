@@ -4,7 +4,7 @@
     "description": "TON-Surf localization files",
     "main": "src/index.ts",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "tsc": "tsc"
     },
     "files": [
         "src/"
@@ -25,8 +25,14 @@
         "url": "https://github.com/tonlabs/TON-Surf-Localization/issues"
     },
     "homepage": "https://github.com/tonlabs/TON-Surf-Localization#readme",
-    "dependencies": {
-        "@tonlabs/localization": "^2.3.0",
-        "typescript": "4.1.2"
+    "peerDependencies": {
+        "react-native-localization": "^2.1.6"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@types/react": "17.0.24",
+        "@tonlabs/localization": "^2.3.2",
+        "typescript": "4.4.3",
+        "react-native-localization": "^2.1.6"
     }
 }

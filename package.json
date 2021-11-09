@@ -26,8 +26,6 @@
     },
     "homepage": "https://github.com/tonlabs/TON-Surf-Localization#readme",
     "peerDependencies": {
-        "@react-native-clipboard/clipboard": "1.8.4",
-        "@tonlabs/uikit.localization": "2.3.2",
         "react-native-localization": "2.1.7"
     },
     "dependencies": {},

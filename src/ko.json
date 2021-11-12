@@ -707,18 +707,7 @@
     },
     "profile": {
         "otherProducts": "다른 제품들",
-        "questionsAndAnswers": "질문과 답변",
         "rate": "서프를 평가하기"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "계정 관리",
-        "buysSells": "구매 및 판매",
-        "emergency": "비상 사태",
-        "freeTonTons": "프리톤 및 톤 토큰",
-        "limitsStatusesAndPromos": "한도, 상태 및 프로모션",
-        "securityPrivacy": "보안 및 개인 정보 보호",
-        "servicesTransactions": "서비스 및 트랜잭션",
-        "title": "질문과 답변"
     },
     "rebalance": {
         "amount": "액수",

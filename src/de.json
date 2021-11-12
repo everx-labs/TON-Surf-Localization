@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "Sonstige Produkte",
-        "questionsAndAnswers": "Fragen und Antworten",
         "rate": "Surf bewerten"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "Kontoverwaltung",
-        "buysSells": "Kauft und verkauft",
-        "emergency": "Notfall",
-        "freeTonTons": "Kostenlose TON und Tonnen",
-        "limitsStatusesAndPromos": "Grenzen, Status und Promos",
-        "securityPrivacy": "Sicherheit & Datenschutz",
-        "servicesTransactions": "Dienstleistungen & Transaktionen",
-        "title": "Fragen und Antworten"
     },
     "rebalance": {
         "amount": "Menge",

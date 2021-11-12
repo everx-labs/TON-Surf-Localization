@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "Autres produits",
-        "questionsAndAnswers": "Questions et réponses",
         "rate": "Rate Surf"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "Gestion de compte",
-        "buysSells": "Achats et ventes",
-        "emergency": "Urgence",
-        "freeTonTons": "Free TON & jetons Tons",
-        "limitsStatusesAndPromos": "Limites, statuts et promotions",
-        "securityPrivacy": "Sécurité et confidentialité",
-        "servicesTransactions": "Services et transactions",
-        "title": "Questions et réponses"
     },
     "rebalance": {
         "amount": "Montant",

@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "Altri prodotti",
-        "questionsAndAnswers": "Domande e risposte",
         "rate": "Vota Surf"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "Gestione dell'account",
-        "buysSells": "Acquisti e vendite",
-        "emergency": "Emergenza",
-        "freeTonTons": "Free TON e token TON",
-        "limitsStatusesAndPromos": "Limiti, status e promo",
-        "securityPrivacy": "Sicurezza e privacy",
-        "servicesTransactions": "Servizi e transazioni",
-        "title": "Domande e risposte"
     },
     "rebalance": {
         "amount": "Quantità",

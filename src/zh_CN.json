@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "其他产品",
-        "questionsAndAnswers": "问题和回答",
         "rate": "Rate Surf"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "客户管理",
-        "buysSells": "买卖",
-        "emergency": "紧急情况",
-        "freeTonTons": "Free TON 和TON代币",
-        "limitsStatusesAndPromos": "限制，状态和促销",
-        "securityPrivacy": "安全和隐私",
-        "servicesTransactions": "服务和交易",
-        "title": "问题和解答"
     },
     "rebalance": {
         "amount": "数量",

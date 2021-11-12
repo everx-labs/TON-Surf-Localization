@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "Другие продукты",
-        "questionsAndAnswers": "Вопросы и ответы",
         "rate": "Оценить Surf"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "Управление аккаунтом",
-        "buysSells": "Покупка и продажа",
-        "emergency": "Чрезвычайная ситуация",
-        "freeTonTons": "Free TON и токены TON",
-        "limitsStatusesAndPromos": "Лимиты, статусы и промо",
-        "securityPrivacy": "Безопасность и конфиденциальность",
-        "servicesTransactions": "Услуги и транзакции",
-        "title": "Вопросы и ответы"
     },
     "rebalance": {
         "amount": "Сумма",

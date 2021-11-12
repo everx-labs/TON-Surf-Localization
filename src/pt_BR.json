@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "Outros produtos",
-        "questionsAndAnswers": "Perguntas e Respostas",
         "rate": "Taxa Surf"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "Gerenciamento da conta",
-        "buysSells": "Compra e Venda",
-        "emergency": "Emergência",
-        "freeTonTons": "Free TON e Tokens TON",
-        "limitsStatusesAndPromos": "Limites, status e promoções",
-        "securityPrivacy": "Segurança e privacidade",
-        "servicesTransactions": "Serviços e Transações",
-        "title": "Perguntas e Respostas"
     },
     "rebalance": {
         "amount": "Quantia",

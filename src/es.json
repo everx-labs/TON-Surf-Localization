@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "Otros productos",
-        "questionsAndAnswers": "Preguntas y respuestas",
         "rate": "Tasa de surf"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "Gestión de cuentas",
-        "buysSells": "Compras y ventas",
-        "emergency": "Emergencia",
-        "freeTonTons": "Free TON Y TON tokens",
-        "limitsStatusesAndPromos": "Límites, estados y promociones",
-        "securityPrivacy": "Seguridad y privacidad",
-        "servicesTransactions": "Servicios y transacciones",
-        "title": "Preguntas y respuestas"
     },
     "rebalance": {
         "amount": "Cantidad",

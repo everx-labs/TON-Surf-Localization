@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "Diğer ürünler",
-        "questionsAndAnswers": "Sorular ve Cevaplar",
         "rate": "Rate Surf"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "Hesap Yönetimi",
-        "buysSells": "Alım ve Satım",
-        "emergency": "Acil Durum",
-        "freeTonTons": "Free TON ve TON belirteçleri",
-        "limitsStatusesAndPromos": "Limit, statü ve promosyonlar",
-        "securityPrivacy": "Güvenlik ve gizlilik",
-        "servicesTransactions": "Hizmetler ve İşlemler",
-        "title": "Sorular ve Cevaplar"
     },
     "rebalance": {
         "amount": "Miktar",

@@ -703,18 +703,7 @@
     },
     "profile": {
         "otherProducts": "その他の製品",
-        "questionsAndAnswers": "質問と回答",
         "rate": "Rate Surf"
-    },
-    "questionsAndAnswers": {
-        "accountManagement": "アカウント管理",
-        "buysSells": "売買",
-        "emergency": "緊急",
-        "freeTonTons": "無料TONとTONトークン",
-        "limitsStatusesAndPromos": "制限、ステータス、プロモ",
-        "securityPrivacy": "安全とプライバシー",
-        "servicesTransactions": "サービスとトランザクション",
-        "title": "質問と回答"
     },
     "rebalance": {
         "amount": "金額",

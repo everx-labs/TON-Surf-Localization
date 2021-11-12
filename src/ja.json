@@ -370,18 +370,6 @@
     "donate": {
         "title": "Donate to Surf"
     },
-    "feedback": {
-        "mainComponent": {
-            "inputContactPlaceHolder": "メールまたは電話番号",
-            "inputFeedbackPlaceHolder": "ご意見又は問題を説明してください…",
-            "invalidContact": "無効なメールアドレスまたは電話番号",
-            "sendFeedback": "送信",
-            "title": "アイデアを共有する"
-        },
-        "reportProblem": "問題を報告する",
-        "sent": "世界をより良い場所にすることでの手伝ってくれてありがとう！",
-        "shareYourIdeasButton": "アイデアを共有する"
-    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Pod Cast",

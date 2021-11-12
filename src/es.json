@@ -370,18 +370,6 @@
     "donate": {
         "title": "Donate to Surf"
     },
-    "feedback": {
-        "mainComponent": {
-            "inputContactPlaceHolder": "Su correo electrónico o número de teléfono",
-            "inputFeedbackPlaceHolder": "Describa su problema o idea...",
-            "invalidContact": "Correo electrónico o número de teléfono no válidos",
-            "sendFeedback": "Enviar",
-            "title": "Comparte tus ideas"
-        },
-        "reportProblem": "Informar de un problema...",
-        "sent": "¡Gracias por ayudarnos a hacer del mundo un lugar mejor!",
-        "shareYourIdeasButton": "Comparte tus ideas"
-    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Pod Cast",

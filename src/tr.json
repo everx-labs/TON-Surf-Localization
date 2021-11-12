@@ -370,18 +370,6 @@
     "donate": {
         "title": "Surf'e Bağış Yap"
     },
-    "feedback": {
-        "mainComponent": {
-            "inputContactPlaceHolder": "E-posta adresiniz veya telefon numaranız",
-            "inputFeedbackPlaceHolder": "Sorununuzu veya fikrinizi açıklayın...",
-            "invalidContact": "Geçersiz e-posta veya telefon numarası",
-            "sendFeedback": "Gönder",
-            "title": "Fikir paylaşmak"
-        },
-        "reportProblem": "Sorunu bildir",
-        "sent": "Dünyayı daha iyi bir haline getirmemize yardım ettiğiniz için teşekkür ederiz!",
-        "shareYourIdeasButton": "Fikir paylaşmak"
-    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Pod Cast",

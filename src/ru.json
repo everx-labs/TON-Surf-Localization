@@ -370,18 +370,6 @@
     "donate": {
         "title": "Поддержать разработчиков Surf"
     },
-    "feedback": {
-        "mainComponent": {
-            "inputContactPlaceHolder": "Ваш адрес электронной почты или номер телефона",
-            "inputFeedbackPlaceHolder": "Опишите свою проблему или идею...",
-            "invalidContact": "Неверный адрес электронной почты или номер телефона",
-            "sendFeedback": "Отправить",
-            "title": "Поделитесь идеями"
-        },
-        "reportProblem": "Сообщить о проблеме",
-        "sent": "Спасибо, что помогаете нам сделать мир технологий лучше!",
-        "shareYourIdeasButton": "Поделиться идеей"
-    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Pod Cast",

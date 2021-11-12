@@ -370,18 +370,6 @@
     "donate": {
         "title": "捐赠给Surf"
     },
-    "feedback": {
-        "mainComponent": {
-            "inputContactPlaceHolder": "您的电子邮件或电话号码",
-            "inputFeedbackPlaceHolder": "描述您的问题或想法。。。",
-            "invalidContact": "无效的电子邮件或电话号码",
-            "sendFeedback": "发送",
-            "title": "分享您的想法"
-        },
-        "reportProblem": "报告问题",
-        "sent": "感谢您帮助我们让世界变得更美好！",
-        "shareYourIdeasButton": "分享您的想法"
-    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Pod Cast",

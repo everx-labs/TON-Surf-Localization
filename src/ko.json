@@ -374,18 +374,6 @@
     "donate": {
         "title": "서프에 기부하기"
     },
-    "feedback": {
-        "mainComponent": {
-            "inputContactPlaceHolder": "이메일 또는 전화 번호",
-            "inputFeedbackPlaceHolder": "문제나 아이디어를 설명하십시오 ...",
-            "invalidContact": "유효하지 않은 이메일이나 전화번호입니다",
-            "sendFeedback": "보내기",
-            "title": "아이디어 공유하기"
-        },
-        "reportProblem": "문제 신고하기",
-        "sent": "더 나은 세상을 만드려고 도움을 주셔서 감사합니다!",
-        "shareYourIdeasButton": "아이디어 공유하기"
-    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Pod Cast",

@@ -148,7 +148,7 @@
     },
     "buy": {
         "buySheetSubTitle": "최대 {0} 300개 구매하면\neKYC 인증이 필요하지 않습니다",
-        "buySheetTitle": "얼마나 많은 톤을\n구매하시겠습니까?"
+        "buySheetTitle": "How much TON Crystals\nwould you like to buy?"
     },
     "chats": {
         "button": {
@@ -390,7 +390,7 @@
             "farmingPool": "Farming pool"
         }
     },
-    "getTONs": {
+    "getTokens": {
         "contests": {
             "governance": "거버넌스 컨테스트 참여 페이지",
             "title": "컨테스트"

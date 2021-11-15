@@ -386,7 +386,7 @@
             "farmingPool": "Farming pool"
         }
     },
-    "getTONs": {
+    "getTokens": {
         "contests": {
             "governance": "Governance",
             "title": "Contests"
@@ -400,7 +400,7 @@
             "mexc": "MEXC",
             "title": "Exchanges"
         },
-        "title": "Get TONs",
+        "title": "Get TON Crystals",
         "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
     },
     "interfaceOptions": {
@@ -1331,8 +1331,8 @@
         }
     },
     "buy": {
-        "buySheetTitle": "How much Tons\nwould you like to buy?",
-        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification"
+        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification",
+        "buySheetTitle": "How much TON Crystals\nwould you like to buy?"
     },
     "support": {
         "askQuestion": "Haz una pregunta.",

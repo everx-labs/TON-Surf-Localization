@@ -25,8 +25,8 @@ To get the file latest version, please check the current Surf version number and
 4. On GitHub, open your local repositiory copied from TON-Surf-Localization.
 5. Click on the branch name and select the branch of the same version you found at [Surf for Translators](https://ton-surf-translate.firebaseapp.com/). 
 6. If there is no appropriate branch in the list, create it the following way:
+   ![alt text](images/screenshot-20.png) 
    a) Enter the branch name starting from the "surf@" and containing the Surf version number. For example, surf@6.6.9
-      ![alt text](images/screenshot-20.png) 
    b) Click **Create branch**.
 7. Click **Fetch upstream** and click **Fetch and merge**.
    ![alt text](images/screenshot-21.png)

@@ -80,12 +80,14 @@ Make sure that your changes correspond to the JSON format. You can use, for exam
    ![alt text](images/screenshot-06.png)
 2. Click **New pull request**.
    ![alt text](images/screenshot-07.png)
-3. Click **Create pull request**.
+3. In the **Compare changes** section, verify you're going to commit changes to the branch of the same name.
+   ![alt text](images/screenshot-22.png)
+4. Click **Create pull request**.
    ![alt text](images/screenshot-08.png)
-4. Enter a title and describe the changes.
-5. Tag people who you want to review these changes by mentioning their usernames, for example, @AnnStepanova. List of reviewers you can check here.
+5. Enter a title and describe the changes.
+6. Tag people who you want to review these changes by mentioning their usernames, for example, @AnnStepanova. List of reviewers you can check here.
    ![alt text](images/screenshot-09.png)
-6. Click **Create pull request**.
+7. Click **Create pull request**.
 
 As you aren’t a member of Team Surf, you’ll see the following message after creating pull request:
 ![alt text](images/screenshot-10.png)

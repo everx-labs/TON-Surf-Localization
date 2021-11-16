@@ -14,6 +14,23 @@ All changes to the strings you make in your own repository without affecting the
 Now you have a copy of the TON-Surf-Localization repository and you are ready to edit strings.
 ![alt text](images/screenshot-02.png)
 
+## Switch to the right branch
+It's extremely important to edit strings in the latest version of file. Otherwise, your changes can cause conflicts when merging them.
+To get the file latest version, please check the current Surf version number and select the Github branch relevant to it.
+
+1. Open [Surf for Translators](https://ton-surf-translate.firebaseapp.com/).
+2. In the upper left corner, click the Surf icon.
+3. Scroll down and find the Surf current version number.
+   ![alt text](images/screenshot-19.png)
+4. On GitHub, open your local repositiory copied from TON-Surf-Localization.
+5. Click on the branch name and select the branch of the same version you found at [Surf for Translators](https://ton-surf-translate.firebaseapp.com/). 
+6. If there is no appropriate branch in the list, create it the following way:
+   a) Enter the branch name starting from the "surf@" and containing the Surf version number. For example, surf@6.6.9
+      ![alt text](images/screenshot-20.png) 
+   b) Click **Create branch**.
+7. Click **Fetch upstream** and click **Fetch and merge**.
+   ![alt text](images/screenshot-21.png)
+
 ## Open file for edit
 You can edit files right in GitHub or download them to your computer and edit locally. 
 

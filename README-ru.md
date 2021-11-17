@@ -25,7 +25,7 @@
 2. Нажмите на значок карандаша.
    ![alt text](images/screenshot-03.png)
 
-Файл откроется во встроенном редакторе GitHub.   
+Файл откроется во встроенном редакторе GitHub.
 
 ### Загрузка файла на компьютер
 
@@ -106,7 +106,7 @@
    a) Справа от номера строки нажмите **+**.
    ![alt text](images/screenshot-15.png)
    b) Укажите свой комментарий и нажмите Add single comment.
-   ![alt text](images/screenshot-18.png)  
+   ![alt text](images/screenshot-18.png)
 4. Когда все замечания будут учтены, а ошибки исправлены, нажмите **Review changes**.
    ![alt text](images/screenshot-16.png)
 5. Выберите **Approve** и нажмите **Submit review**.

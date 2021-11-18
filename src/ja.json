@@ -1347,6 +1347,7 @@
             "first": "はじめまして、TONSurfのアシスタントです。",
             "second": "何でも聞いてください。Surfがそれに対して何ができるか答えます。"
         },
+        "reportProblem": "問題を報告する",
         "title": "Get support",
         "videoTutorials": "Video tutorials"
     },

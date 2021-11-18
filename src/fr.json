@@ -1347,6 +1347,7 @@
             "first": "Salut, je suis TON Surf Assistant.",
             "second": "Demandez-moi n'importe quoi et je vous dirai ce que Surf peut faire à ce sujet."
         },
+        "reportProblem": "Signaler un problème",
         "title": "Obtenir de l'aide",
         "videoTutorials": "Tutoriels vidéo"
     },

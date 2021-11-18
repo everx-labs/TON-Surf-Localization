@@ -15,6 +15,23 @@ All changes to the strings you make in your own repository without affecting the
 Now you have a copy of the TON-Surf-Localization repository and you are ready to edit strings.
 ![alt text](images/screenshot-02.png)
 
+## Switch to the right branch
+It's extremely important to edit strings in the latest version of file. Otherwise, your changes can cause conflicts when merging them.
+To get the file latest version, please check the current Surf version number and select the Github branch relevant to it.
+
+1. Open [Surf for Translators](https://ton-surf-translate.firebaseapp.com/).
+2. In the upper left corner, click the Surf icon.
+3. Scroll down and find the Surf current version number.
+   ![alt text](images/screenshot-19.png)
+4. On GitHub, open your local repositiory copied from TON-Surf-Localization.
+5. Click on the branch name and select the branch of the same version you found at [Surf for Translators](https://ton-surf-translate.firebaseapp.com/). 
+6. If there is no appropriate branch in the list, create it the following way:
+   ![alt text](images/screenshot-20.png) 
+  a. Enter the branch name starting from the "surf@" and containing the Surf version number. For example, surf@6.6.9
+  b. Click **Create branch**.
+7. Click **Fetch upstream** and click **Fetch and merge**.
+   ![alt text](images/screenshot-21.png)
+
 ## Open file for edit
 
 You can edit files right in GitHub or download them to your computer and edit locally.
@@ -71,12 +88,14 @@ Make sure that your changes correspond to the JSON format. You can use, for exam
    ![alt text](images/screenshot-06.png)
 2. Click **New pull request**.
    ![alt text](images/screenshot-07.png)
-3. Click **Create pull request**.
+3. In the **Compare changes** section, verify you're going to commit changes to the branch of the same name.
+   ![alt text](images/screenshot-22.png)
+4. Click **Create pull request**.
    ![alt text](images/screenshot-08.png)
-4. Enter a title and describe the changes.
-5. Tag people who you want to review these changes by mentioning their usernames, for example, @AnnStepanova. List of reviewers you can check here.
+5. Enter a title and describe the changes.
+6. Tag people who you want to review these changes by mentioning their usernames, for example, @AnnStepanova. List of reviewers you can check here.
    ![alt text](images/screenshot-09.png)
-6. Click **Create pull request**.
+7. Click **Create pull request**.
 
 As you aren’t a member of Team Surf, you’ll see the following message after creating pull request:
 ![alt text](images/screenshot-10.png)

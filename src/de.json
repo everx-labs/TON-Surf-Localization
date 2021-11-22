@@ -1,5 +1,10 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "Brieftaschenadresse in Zwischenablage kopiert",
             "copyAddressHint": "Kopieren Sie die Brieftaschenadresse",

@@ -1,5 +1,10 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "Dirección de la cartera copiada en el portapapeles",
             "copyAddressHint": "Copia la dirección de la cartera",

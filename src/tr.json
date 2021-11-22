@@ -1,5 +1,10 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "Cüzdan adresi panoya kopyalandı",
             "copyAddressHint": "Cüzdan adresini kopyala",

@@ -3,6 +3,7 @@
         "accountManage": {
             "addTitle": "Add Account",
             "renameTitle": "Rename",
+            "addMenuTitle": "Add",
             "addMenuItem": "Additional Account"
         },
         "assets": {

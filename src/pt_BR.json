@@ -400,7 +400,11 @@
             "mexc": "MEXC",
             "title": "Exchanges"
         },
-        "title": "Get TON Crystals",
+        "title": "Get Evers",
+        "topUp": {
+            "buyWithCard": "Buy with Card",
+            "title": "Top-up"
+        },
         "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
     },
     "interfaceOptions": {
@@ -1331,8 +1335,8 @@
         }
     },
     "buy": {
-        "buySheetTitle": "How much TON Crystals\nwould you like to buy?",
-        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification"
+        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification",
+        "buySheetTitle": "How much Evers\nwould you like to buy?"
     },
     "support": {
         "askQuestion": "Faça uma pergunta",
@@ -1370,7 +1374,6 @@
             "payment": "Payment",
             "seller": "Vendedor",
             "title": "Buy",
-            "topUp": "Top up",
             "totalPrice": "Preço total"
         },
         "comments": {

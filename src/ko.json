@@ -1,5 +1,11 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuTitle": "Add",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",
             "copyAddressHint": "지갑 주소 복사하기",

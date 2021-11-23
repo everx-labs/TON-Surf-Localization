@@ -1,5 +1,11 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuTitle": "Add",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "Адрес кошелька скопирован в буфер",
             "copyAddressHint": "Скопировать адрес кошелька",

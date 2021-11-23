@@ -1,5 +1,11 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuTitle": "Add",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "Wallet address copied to clipboard",
             "copyAddressHint": "Copy the wallet address",

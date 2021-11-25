@@ -25,6 +25,11 @@
             "collectibles": "수집 항목",
             "created": "생성됨",
             "details": "세부 사항",
+            "marketplaces": {
+                "chessNft": "Chess NFT",
+                "grandbazar": "Grandbazar",
+                "thirdPlace": "Third Place"
+            },
             "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
@@ -38,7 +43,6 @@
             },
             "owner": "소유자",
             "tokens": "토큰",
-            "trueNftMarket": "True NFT 마켓",
             "type": "유형"
         },
         "details": {

@@ -25,6 +25,11 @@
             "collectibles": "Collectibles",
             "created": "Created",
             "details": "Details",
+            "marketplaces": {
+                "chessNft": "Chess NFT",
+                "grandbazar": "Grandbazar",
+                "thirdPlace": "Third Place"
+            },
             "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
@@ -38,7 +43,6 @@
             },
             "owner": "Owner",
             "tokens": "Tokens",
-            "trueNftMarket": "True NFT Market",
             "type": "Type"
         },
         "details": {

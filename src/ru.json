@@ -1335,8 +1335,8 @@
         }
     },
     "buy": {
-        "buySheetSubTitle": "Покупки на сумму до {0} 300\nне требуют проверки eKYC",
-        "buySheetTitle": "Сколько Кристаллов\nвы хотите купить?"
+        "buySheetSubTitle": "Purchases up to {0} 300\ndo not require KYC verification",
+        "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "support": {
         "askQuestion": "Задать вопрос",

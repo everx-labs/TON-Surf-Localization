@@ -1,25 +1,25 @@
 {
     "accounts": {
         "assets": {
-            "addressCopied": "Адрес кошелька скопирован в буфер",
+            "addressCopied": "Адрес скопирован",
             "copyAddressHint": "Скопировать адрес кошелька",
             "copyAddressHint2": "Скопировать адрес",
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
             "title": "Активы",
-            "multisigAccountTitle": "Multisig account"
+            "multisigAccountTitle": "Объединенный счет"
         },
         "charts": {
             "monthAgo": "30 дней назад",
             "today": "Сегодня"
         },
         "collectibles": {
-            "address": "Address",
-            "amountFromSupply": "{0} of {1}",
+            "address": "Адрес",
+            "amountFromSupply": "{0} из {1}",
             "author": "Creator",
-            "collectibles": "Collectibles",
+            "collectibles": "Коллекция",
             "created": "Created",
             "details": "Details",
-            "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
+            "notSupportedMedia": "Сёрф пока не умеет показывать такие TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
                 "notTrue": "TRUE",
@@ -30,10 +30,10 @@
                 "notTrue": "Not True",
                 "trueNft": "True NFT"
             },
-            "owner": "Owner",
-            "tokens": "Tokens",
-            "trueNftMarket": "True NFT Market",
-            "type": "Type"
+            "owner": "Владелец",
+            "tokens": "Токены",
+            "trueNftMarket": "Маркет True NFT",
+            "type": "Тип"
         },
         "details": {
             "buttons": {
@@ -56,7 +56,7 @@
                 "shareMsg": "Мой {0} адрес: \n{1}"
             },
             "nets": {
-                "mainnet": "Free TON",
+                "mainnet": "Everscale",
                 "private": "Приват",
                 "tonlabs": "Сеть для тестирования"
             },
@@ -66,7 +66,7 @@
         },
         "separators": {
             "accounts": "Счета",
-            "collectibles": "Collectibles",
+            "collectibles": "Коллекция",
             "investments": "Сервисы"
         },
         "subscriptions": {
@@ -105,8 +105,8 @@
             "enabledFaceMessage": "Разблокировка по лицу включена",
             "enabledFingerprintMessage": "Разблокировка по отпечатку пальца включена",
             "enabledMessage": "Разблокировка {0} включена",
-            "off": "Выключено",
-            "on": "Включено",
+            "off": "Выкл",
+            "on": "Вкл",
             "saveTitle": "Сохранение биометрических данных"
         },
         "currencies": {
@@ -128,7 +128,7 @@
             "btnUpdate": "Обновить",
             "button": "Сеть",
             "endpoint": "Конечная точка",
-            "endpointHint": "Please cut the number of endpoints to one address",
+            "endpointHint": "Пожалуйста, сократите количество конечных точек до одного адреса",
             "name": "Имя",
             "title": "Сеть",
             "titleAdd": "Новая сеть",
@@ -168,21 +168,21 @@
             "addressInput": {
                 "auto": "Выберите основной адрес",
                 "enterAddress": "Введите адрес",
-                "invalidAddress": "Недействительный адрес TON",
+                "invalidAddress": "Недействительный адрес",
                 "manual": "Ввести вручную"
             },
             "agreement": {
                 "warning": {
-                    "message": "This Debot can threaten the security of your data and funds",
-                    "action": "Continue anyway"
+                    "message": "Этот дебот выглядит подозрительно. Будьте осторожны, используя его, потому что ваши личные данные и средства могут пострадать.",
+                    "action": "Я буду начеку"
                 },
                 "reminder": {
-                    "message": "Remember that a Bot — third party service and may expose you to identity and other information disclosure that is out of the control of Surf.",
-                    "action": "Понятно"
+                    "message": "Вы собираетесь запустить стороннюю службу. Подтвердите, что вы принимаете риск раскрытия ваших персональных данных.",
+                    "action": "Подтвердить"
                 },
                 "danger": {
-                    "message": "This Debot threaten the security of your data and funds",
-                    "action": "Ignore a warning"
+                    "message": "Использование этого Дебота может быть опасным. Это может нанести ущерб безопасности ваших персональных данных и средств.",
+                    "action": "Принять риски и продолжить"
                 }
             },
             "blockchain": "Блокчейн",
@@ -236,8 +236,8 @@
             "title": "Деботы",
             "errors": {
                 "common": {
-                    "fetch": "DeBot loading error",
-                    "init": "DeBot initialization error"
+                    "fetch": "Ошибка загрузки Дебота",
+                    "init": "Ошибка запуска Дебота"
                 },
                 "interface": {},
                 "manifest": {
@@ -254,7 +254,7 @@
             "failedToSend": "Не удалось отправить сообщение. Повторите попытку позже"
         },
         "labels": {
-            "address": "Адрес кошелька Free TON",
+            "address": "Адрес кошелька Everscale",
             "establishingConnection": "Установка безопасного соединения...",
             "today": "Сегодня",
             "yesterday": "Вчера"
@@ -311,7 +311,7 @@
         "info": {
             "firstName": "Имя",
             "lastName": "Фамилия",
-            "tonAddress": "Адрес кошелька Free TON"
+            "tonAddress": "Адрес кошелька Everscale"
         },
         "invitation": {
             "view": {
@@ -321,7 +321,7 @@
             }
         },
         "inviteFriends": "Пригласить друзей",
-        "inviteMessage": "Привет! Посмотри, что я нашел. Отличный кошелек и мобильный банк Free TON, все в одном! Звучит неплохо? Тогда пройди по ссылке, чтобы скачать приложение TON Surf:\n\n{INSTALL_LINK_HOST}",
+        "inviteMessage": "Привет! Посмотри, что я нашел. Отличный кошелек и мобильный банк Everscale, все в одном! Звучит неплохо? Тогда пройди по ссылке, чтобы скачать приложение Surf:\n\n{INSTALL_LINK_HOST}",
         "inviteToApplication": "Пригласить в {APP_NAME}",
         "newContact": "Новый контакт",
         "otherContacts": "Контакты",
@@ -334,13 +334,13 @@
             "deliveryHint": {
                 "email": "Отправить по email",
                 "share": "Прямая ссылка",
-                "sms": "Отправить в SMS"
+                "sms": "Отправить в СМС"
             },
             "retry": "Повторить",
             "sendButton": {
                 "email": "Отправить email",
                 "share": "Поделиться ссылкой",
-                "sms": "Отправить SMS"
+                "sms": "Отправить СМС"
             },
             "sendManually": "Прямая ссылка"
         },
@@ -375,14 +375,14 @@
             "title": "Killer Whale Pod Cast",
             "getInvolvedBtn": "Участвовать",
             "howItWorksBtn": "Как это работает?",
-            "nextEpisode": "Next Episode is Coming Soon!",
+            "nextEpisode": "Новый эпизод уже скоро!",
             "videoTitle": "Эпизод WhaleDrop: Airdrop + Liquidity Mining",
             "date": "30 октября 2021",
             "offers": "Предложения",
             "results": "Results",
             "token": "Token",
             "airdropped": "airdropped",
-            "reward": "Reward",
+            "reward": "Вознаграждение",
             "farmingPool": "Farming pool"
         }
     },
@@ -431,7 +431,7 @@
             },
             "copyright": {
                 "title": "Авторские права",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
+                "value": "Everscale (TON Venture Studio Ltd.)"
             },
             "email": {
                 "body": "Адрес: {0}\nВерсия: {1}\n{2}: {3}\nУстройство: {4}",
@@ -480,7 +480,7 @@
             "businessDetails": "Информация о компании",
             "cookiesPolicy": "Политика использования файлов cookie",
             "privacyPolicy": "Политика конфиденциальности",
-            "surfDecentralizationPolicy": "Политика Децентрализации TON Surf",
+            "surfDecentralizationPolicy": "Политика Децентрализации Everscale",
             "termsOfUse": "Условия использования",
             "title": "Правовое уведомление"
         },
@@ -674,14 +674,14 @@
         },
         "sections": {
             "custom": "Пользовательские сети",
-            "main": "Основная сеть",
-            "test": "Тестовые сети"
+            "main": "Основная",
+            "test": "Тестовые"
         },
         "switchAlert": {
-            "title": "Switch the network",
-            "message": "The link has different network than you connected to. To open this link, switch the network",
-            "switch": "Switch",
-            "stay": "Stay in network"
+            "title": "Переключение сети",
+            "message": "Ссылка ведет в другую сеть. Хотите переключить сеть и открыть ссылку?",
+            "switch": "Переключить",
+            "stay": "Остаться"
         }
     },
     "operationsHistory": {
@@ -700,9 +700,9 @@
         "congrats": "Поздравляем с переменами в жизни! Они к лучшему",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Токены Free TON",
-                "stake": "Ставки в кристаллах",
-                "title": "Мои кристаллы"
+                "comment": "Токены Everscale",
+                "stake": "Ставки в эверах",
+                "title": "Мои эверы"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
@@ -710,7 +710,7 @@
                 "title": "My {0} tokens"
             },
             "RUBY": {
-                "comment": "Тестовые токены Free TON",
+                "comment": "Тестовые токены Everscale",
                 "stake": "Ставки в рубинах",
                 "title": "Мои рубины"
             },
@@ -741,12 +741,12 @@
         "restorePasswordButton": "Сид-фраза"
     },
     "safetyProtection": {
-        "PINChangeFailed": "Не удалось изменить PIN-код",
-        "PINChangeSuccess": "PIN-код изменен",
-        "PINCorrect": "PIN-код верный",
-        "PINDoesNotMatch": "PIN-коды не совпадают",
+        "PINChangeFailed": "Не удалось изменить пин-код",
+        "PINChangeSuccess": "Пин-код изменен",
+        "PINCorrect": "Пин-код верный",
+        "PINDoesNotMatch": "Пин-коды не совпадают",
         "PINNotCorrect": "Неверный PIN-код",
-        "TONAddress": "Адрес кошелька Free TON",
+        "TONAddress": "Адрес кошелька Everscale",
         "address": "Адрес",
         "addressAndKeys": "Адрес и ключи",
         "altAddress": "Альтернативный формат адреса",
@@ -757,10 +757,10 @@
             "iris": "Радужная оболочка глаза",
             "touchID": "Touch ID"
         },
-        "changePinCode": "Изменить PIN-код",
-        "confirmNewPin": "Подтвердить PIN-код",
-        "enterNewPin": "Новый PIN-код",
-        "enterPin": "Введите PIN-код",
+        "changePinCode": "Изменить пин-код",
+        "confirmNewPin": "Подтвердить пин-код",
+        "enterNewPin": "Новый пин-код",
+        "enterPin": "Введите пин-код",
         "hidePrivateKey": "Скрыть приватный ключ",
         "isCopied": "Cкопировано в буфер обмена",
         "lockApp": "Заблокировать приложение",
@@ -787,7 +787,7 @@
                 "Устанавливайте Surf только из проверенных источников (App Store, Google Play)",
                 "Сохраните свою сид-фразу. Храните ее на бумаге в месте, доступном только вам. Не делайте снимков экрана. Не храните сид-фразу на одном устройстве с Surf!",
                 "Не сообщайте свою сид-фразу никому, не вводите ее ни в какое приложение, кроме Surf. Используйте сид-фразу только для восстановления доступа к своему кошельку Surf.",
-                "Используйте легко запоминающийся PIN-код. Нигде его не записывайте. Не используйте этот PIN-код в других приложениях. Не сообщайте его никому.",
+                "Используйте легко запоминающийся пин-код. Нигде его не записывайте. Не используйте этот пин-код в других приложениях. Не сообщайте его никому.",
                 "Для максимальной безопасности своих средств используйте Карту безопасности. С её помощью можно восстановить доступ даже если вы забудете сид-фразу"
             ],
             "screenTitle": "Правила безопасности"
@@ -858,11 +858,11 @@
             "laterBtn": "Нет. Позже",
             "learnMore": {
                 "developers": {
-                    "description": "С помощью Free TON SDK вы можете запрограммировать карту для своих собственных смарт-контрактов и пользовательских сценариев",
+                    "description": "С помощью Everscale SDK вы можете запрограммировать карту для своих собственных смарт-контрактов и пользовательских сценариев",
                     "title": "Открытый исходный код для разработчиков"
                 },
                 "development": {
-                    "description": "С помощью Free TON SDK вы можете запрограммировать карту для своих собственных смарт-контрактов и пользовательских сценариев",
+                    "description": "С помощью Everscale SDK вы можете запрограммировать карту для своих собственных смарт-контрактов и пользовательских сценариев",
                     "title": "Открытый исходный код и новые возможности"
                 },
                 "personalization": {
@@ -891,7 +891,7 @@
             "moreFeaturesSoon": "Скоро появится еще больше функций Карты безопасности",
             "options": "Параметры",
             "order": "Заказать",
-            "orderName": "Карта безопасности TON Labs",
+            "orderName": "Карта безопасности Everscale",
             "orderStatuses": {
                 "confirming": "На подтверждении",
                 "gettingReady": "Готовится к выпуску",
@@ -920,8 +920,8 @@
             "scanCode": "Сканировать код",
             "scanCodeDescription": "Отсканируйте код карты и приложите карту к устройству, чтобы установить соединение",
             "screenTitle": "Карта безопасности",
-            "shareSecurityCardMessage": "Полностью персонализированный аппаратный кошелек для блокчейна Free TON: он принадлежит только вам и только вы можете его контролировать с момента оформления заказа\n\n {0}",
-            "shareSecurityCardSubtitle": "Карта безопасности\nTON Labs",
+            "shareSecurityCardMessage": "Полностью персонализированный аппаратный кошелек для блокчейна Everscale: он принадлежит только вам и только вы можете его контролировать с момента оформления заказа\n\n {0}",
+            "shareSecurityCardSubtitle": "Карта безопасности\nEverscale",
             "shareSecurityCardSuccess": "Ссылка скопирована в буфер обмена",
             "shipping": "Доставка",
             "shippingAddress": "Адрес доставки",
@@ -967,11 +967,11 @@
                     "title": "Размеры"
                 },
                 "extended": {
-                    "description": "На карте 120 КБ свободного места, вы можете записывать на нее свои данные.\n\nМы предоставляем Free TON SDK с открытым исходным кодом, чтобы вы могли запрограммировать карту под свои собственные смарт-контракты и использовать ее, например, как платежную карту, карту доступа в здание или любую другую.",
+                    "description": "На карте 120 КБ свободного места, вы можете записывать на нее свои данные.\n\nМы предоставляем Everscale SDK с открытым исходным кодом, чтобы вы могли запрограммировать карту под свои собственные смарт-контракты и использовать ее, например, как платежную карту, карту доступа в здание или любую другую.",
                     "title": "Расширенное использование"
                 },
                 "extendedUse": {
-                    "description": "На карте 120 КБ свободного места, вы можете записывать на нее свои данные.\n\nМы предоставляем TON Labs API с открытым исходным кодом, чтобы вы могли запрограммировать карту под свои собственные смарт-контракты и использовать ее, например, как платежную карту, карту доступа в здание или любую другую.",
+                    "description": "На карте 120 КБ свободного места, вы можете записывать на нее свои данные.\n\nМы предоставляем Everscale API с открытым исходным кодом, чтобы вы могли запрограммировать карту под свои собственные смарт-контракты и использовать ее, например, как платежную карту, карту доступа в здание или любую другую.",
                     "title": "Расширенные возможности"
                 },
                 "hardware": {
@@ -993,10 +993,10 @@
                 "added": "Вы добавлены в список ожидания. Как только карты будут готовы к заказу, мы сообщим",
                 "addedToastMsg": "Вы добавлены в список ожидания",
                 "comingThisDecemberBtn": "Выйдет в декабре",
-                "description": "Карта безопасности TON Labs для Free TON – уникальная смарт-карта NFC для безопасности ваших данных, ее можно адаптировать под ваши собственные задачи",
+                "description": "Карта безопасности Everscale — уникальная смарт-карта NFC для безопасности ваших данных, ее можно адаптировать под ваши собственные задачи",
                 "joinWaitlistBtn": "В лист ожидания",
                 "learnMoreBtn": "Подробнее",
-                "policy": "Используя Карту безопасности TON Labs для блокчейна Free TON, вы принимаете Условия и Политику использования",
+                "policy": "Используя Карту безопасности Everscale для блокчейна Everscale, вы принимаете Условия и Политику использования",
                 "techSpecsBtn": "Спецификации",
                 "title": "Больше, чем аппаратный кошелек"
             }
@@ -1069,8 +1069,8 @@
         "main": {
             "earlyAccess": {
                 "button": "Понятно",
-                "description": "TON Labs рада представить публике TON Surf! Это все еще ранний доступ, поэтому возможно непредвиденное поведение",
-                "devDescription": "TON Labs рада представить публике TON Surf! Это все еще ранний доступ с тестовыми Рубинами Free TON, поэтому возможно непредвиденное поведение",
+                "description": "Everscale рады представить публике Surf! Это все еще ранний доступ, поэтому возможно непредвиденное поведение",
+                "devDescription": "Everscale рады представить публике Surf! Это все еще ранний доступ с тестовыми Рубинами Everscale, поэтому возможно непредвиденное поведение",
                 "title": "Важно"
             },
             "securityCard": {
@@ -1086,9 +1086,9 @@
             "details": "Запиши все эти слова на бумаге и храни её в надежном месте. Она понадобится тебе, если ты потеряешь или переустановишь кошелек."
         },
         "pinCode": {
-            "confirmPin": "Подтвердить PIN-код",
-            "createPin": "Создать PIN-код",
-            "enterPin": "Введите PIN-код",
+            "confirmPin": "Подтвердить пин-код",
+            "createPin": "Создать пин-код",
+            "enterPin": "Введите пин-код",
             "itWorkLocal": "Он будет работать только на этом устройстве"
         },
         "promoCards": {
@@ -1122,7 +1122,7 @@
             },
             "wallet": {
                 "description": "Ищи лучшие возможности, оставайся в безопасности и принимай обоснованные решения.",
-                "title": "Surf поможет вам ориентироваться в блокчейне Free TON"
+                "title": "Surf поможет вам ориентироваться в блокчейне Everscale"
             }
         },
         "welcome": {
@@ -1331,8 +1331,8 @@
         }
     },
     "buy": {
-        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification",
-        "buySheetTitle": "How much TON Crystals\nwould you like to buy?"
+        "buySheetSubTitle": "Покупки до {0}300 анонимны\nи не требуют проверки KYC",
+        "buySheetTitle": "На какую сумму\nхотите купить Evers?"
     },
     "support": {
         "askQuestion": "Задать вопрос",
@@ -1344,7 +1344,7 @@
         "group": "Группа поддержки",
         "makeSuggestion": "Внести предложение",
         "message": {
-            "first": "Привет, я ассистент TON Surf.",
+            "first": "Привет, я ассистент Surf.",
             "second": "Задайте вопрос, и я расскажу, как Surf может вам помочь."
         },
         "title": "Помощь",
@@ -1369,7 +1369,7 @@
             "payment": "Оплата",
             "seller": "Продавец",
             "title": "Купить",
-            "topUp": "Top up",
+            "topUp": "Пополнить",
             "totalPrice": "Итоговая стоимость"
         },
         "comments": {
@@ -1432,7 +1432,7 @@
             "timeIsNotSynced": "Для обработки транзакций необходимо синхронизировать время. Включите опцию \"Установить время автоматически\" на вашем устройстве"
         },
         "main": {
-            "activate": "Activate",
+            "activate": "Активировать",
             "assets": "Активы",
             "assetsBalance": "Баланс активов",
             "contacts": "Контакты",
@@ -1466,7 +1466,7 @@
             "title": "Защитите свои токены"
         },
         "recipient": {
-            "address": "Адрес кошелька Free TON",
+            "address": "Адрес кошелька",
             "email": "Адрес электронной почты",
             "phone": "Номер телефона"
         },
@@ -1478,9 +1478,9 @@
                 "private": "рубины",
                 "tonlabs": "рубины"
             },
-            "enterValidAddress": "Адрес кошелька Free TON",
+            "enterValidAddress": "Адрес кошелька",
             "from": "От",
-            "invalidAddress": "Недействительный адрес кошелька Free TON",
+            "invalidAddress": "Недействительный адрес",
             "recipientWarning": "Убедитесь, что адрес верный! Отправленные переводы невозможно вернуть!",
             "title": "Отправить токены"
         },
@@ -1488,7 +1488,7 @@
             "aborted": "Прервано",
             "amount": "Сумма",
             "change": "Изменение",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
+            "checkStatusLater": "Не волнуйтесь, вы сможете проверить статус немного позже",
             "comment": "Комментарий",
             "encrypted": "Зашифрованный",
             "fee": "Комиссия",
@@ -1508,7 +1508,7 @@
             "statusSuccess": "Успешно",
             "time": "Время",
             "to": "Кому",
-            "transactionGoneSilent": "Transaction has gone silent",
+            "transactionGoneSilent": "По транзакции ничего не слышно",
             "transactionNotSend": "Перевод не отправлен. Пожалуйста, попробуй еще раз.",
             "transferDetails": "Детали перевода",
             "yes": "Да"

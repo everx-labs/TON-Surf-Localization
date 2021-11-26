@@ -148,7 +148,7 @@
     },
     "buy": {
         "buySheetSubTitle": "최대 {0} 300개 구매하면\neKYC 인증이 필요하지 않습니다",
-        "buySheetTitle": "How much TON Crystals\nwould you like to buy?"
+        "buySheetTitle": "얼마나 많은 톤 크리스탈을\n구매하시겠습니까?"
     },
     "chats": {
         "button": {
@@ -404,7 +404,7 @@
             "mexc": "MEXC",
             "title": "취급 거래소"
         },
-        "title": "톤 받기",
+        "title": "톤 크리스탈 받기",
         "warning": "토큰을 얻는 가장 안전한 방법은 컨테스트 참여와 서브 거버넌스입니다. 서프는 귀하의 개인 데이터를 수집할 수 있는 제3자 서비스에 대해 책임을 지지 않습니다."
     },
     "interfaceOptions": {
@@ -1347,6 +1347,7 @@
             "first": "안녕하세요? 저는 톤 서프 어시스턴트입니다.",
             "second": "무엇이든 물어보세요. 서프가 이에 대해 무엇을 할 수 있는지 알려 드리겠습니다."
         },
+        "reportProblem": "문제 신고하기",
         "title": "지원 받기",
         "videoTutorials": "동영상 튜토리얼"
     },

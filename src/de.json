@@ -1347,6 +1347,7 @@
             "first": "Hallo, ich bin TON Surf Assistant.",
             "second": "Fragen Sie mich etwas und ich werde Ihnen sagen, was Sie dagegen tun können."
         },
+        "reportProblem": "Ein Problem melden",
         "title": "Hilfe erhalten",
         "videoTutorials": "Video-Tutorials"
     },

@@ -1345,8 +1345,8 @@
         }
     },
     "buy": {
-        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification",
-        "buySheetTitle": "How much Evers\nwould you like to buy?"
+        "buySheetSubTitle": "Purchases up to {0} 300\ndo not require KYC verification",
+        "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "support": {
         "askQuestion": "質問する",

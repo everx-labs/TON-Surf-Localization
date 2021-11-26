@@ -157,8 +157,8 @@
         "title": "비밀번호 백업"
     },
     "buy": {
-        "buySheetSubTitle": "최대 {0} 300개 구매하면\neKYC 인증이 필요하지 않습니다",
-        "buySheetTitle": "How much Evers\nwould you like to buy?"
+        "buySheetSubTitle": "Purchases up to {0} 300\ndo not require KYC verification",
+        "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "chats": {
         "button": {

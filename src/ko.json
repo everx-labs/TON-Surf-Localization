@@ -151,8 +151,8 @@
         "title": "비밀번호 백업"
     },
     "buy": {
-        "buySheetSubTitle": "최대 {0} 300개 구매하면\neKYC 인증이 필요하지 않습니다",
-        "buySheetTitle": "얼마나 많은 톤 크리스탈을\n구매하시겠습니까?"
+        "buySheetSubTitle": "Purchases up to {0} 300\ndo not require KYC verification",
+        "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "chats": {
         "button": {

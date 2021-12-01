@@ -26,9 +26,18 @@
             "created": "Created",
             "details": "Details",
             "marketplaces": {
-                "chessNft": "Chess NFT",
-                "grandbazar": "Grandbazar",
-                "thirdPlace": "Third Place"
+                "chessNft": {
+                    "description": "Unique chess collections",
+                    "title": "Chess NFT"
+                },
+                "grandbazar": {
+                    "description": "Rare digital items",
+                    "title": "Grandbazar"
+                },
+                "thirdPlace": {
+                    "description": "Real-world art objects",
+                    "title": "Third Place"
+                }
             },
             "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
@@ -42,6 +51,11 @@
                 "trueNft": "True NFT"
             },
             "owner": "Owner",
+            "sections": {
+                "library": "Library",
+                "partners": "Partners",
+                "trending": "Trending"
+            },
             "tokens": "Tokens",
             "type": "Type"
         },

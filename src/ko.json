@@ -26,9 +26,18 @@
             "created": "생성됨",
             "details": "세부 사항",
             "marketplaces": {
-                "chessNft": "Chess NFT",
-                "grandbazar": "Grandbazar",
-                "thirdPlace": "Third Place"
+                "chessNft": {
+                    "description": "Unique chess collections",
+                    "title": "Chess NFT"
+                },
+                "grandbazar": {
+                    "description": "Rare digital items",
+                    "title": "Grandbazar"
+                },
+                "thirdPlace": {
+                    "description": "Real-world art objects",
+                    "title": "Third Place"
+                }
             },
             "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
@@ -42,6 +51,11 @@
                 "trueNft": "True NFT"
             },
             "owner": "소유자",
+            "sections": {
+                "library": "Library",
+                "partners": "Partners",
+                "trending": "Trending"
+            },
             "tokens": "토큰",
             "type": "유형"
         },

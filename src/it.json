@@ -78,7 +78,9 @@
         "separators": {
             "accounts": "Conti",
             "collectibles": "Collectibles",
-            "investments": "Servizi"
+            "investments": "Servizi",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {

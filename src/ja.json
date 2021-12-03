@@ -78,7 +78,9 @@
         "separators": {
             "accounts": "アカウント",
             "collectibles": "Collectibles",
-            "investments": "サービス"
+            "investments": "サービス",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {

@@ -78,7 +78,9 @@
         "separators": {
             "accounts": "Счета",
             "collectibles": "Collectibles",
-            "investments": "Сервисы"
+            "investments": "Сервисы",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {

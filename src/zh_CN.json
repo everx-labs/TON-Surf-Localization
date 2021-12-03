@@ -78,7 +78,9 @@
         "separators": {
             "accounts": "账户",
             "collectibles": "Collectibles",
-            "investments": "服务"
+            "investments": "服务",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {

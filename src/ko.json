@@ -4,6 +4,7 @@
             "addTitle": "Add Account",
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
+            "renameBtn": "Rename account",
             "addMenuItem": "Additional Account"
         },
         "assets": {
@@ -91,7 +92,9 @@
         "separators": {
             "accounts": "계정",
             "collectibles": "수집 항목",
-            "investments": "서비스"
+            "investments": "서비스",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {

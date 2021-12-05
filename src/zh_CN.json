@@ -4,6 +4,7 @@
             "addTitle": "Add Account",
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
+            "renameBtn": "Rename account",
             "addMenuItem": "Additional Account"
         },
         "assets": {
@@ -91,7 +92,9 @@
         "separators": {
             "accounts": "账户",
             "collectibles": "Collectibles",
-            "investments": "服务"
+            "investments": "服务",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {

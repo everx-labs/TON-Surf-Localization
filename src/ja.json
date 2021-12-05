@@ -4,6 +4,7 @@
             "addTitle": "Add Account",
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
+            "renameBtn": "Rename account",
             "addMenuItem": "Additional Account"
         },
         "assets": {
@@ -91,7 +92,9 @@
         "separators": {
             "accounts": "アカウント",
             "collectibles": "Collectibles",
-            "investments": "サービス"
+            "investments": "サービス",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {

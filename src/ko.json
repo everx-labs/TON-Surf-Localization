@@ -40,6 +40,15 @@
                     "title": "Third Place"
                 }
             },
+            "media": "Media",
+            "mediaDimensions": {
+                "title": "W×H",
+                "value": "{0}×{1} mm"
+            },
+            "mediaSize": {
+                "title": "Size",
+                "value": "{0} M"
+            },
             "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
@@ -57,8 +66,10 @@
                 "partners": "Partners",
                 "trending": "Trending"
             },
+            "storage": "Storage",
             "tokens": "토큰",
-            "type": "유형"
+            "type": "유형",
+            "view": "View"
         },
         "details": {
             "buttons": {

@@ -47,7 +47,7 @@
             },
             "mediaSize": {
                 "title": "Size",
-                "value": "{0} M"
+                "value": "{0} MB"
             },
             "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {

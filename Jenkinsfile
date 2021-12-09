@@ -1,8 +1,8 @@
 pipeline {
     agent {label 'master'}
-    tools {nodejs "Node12.8.0"}
+    tools {nodejs 'Node12.8.0'}
     parameters {
-        string(name: 'NEW_LOC_BETA_BRANCH', defaultValue: '', description: '(E.g: 7.0.0) New Localization branch for Surf closed beta version')
+        string(name: 'NEW_LOC_BETA_BRANCH', defaultValue: '', description: '(E.g: 7.0.0) New Localization branch for Surf closed beta version.')
     }
     options {
         buildDiscarder logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '3')

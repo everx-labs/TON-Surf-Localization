@@ -1,5 +1,12 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuTitle": "Add",
+            "renameBtn": "Rename account",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "Адрес скопирован",
             "copyAddressHint": "Скопировать адрес кошелька",
@@ -19,6 +26,11 @@
             "collectibles": "Коллекция",
             "created": "Created",
             "details": "Details",
+            "marketplaces": {
+                "chessNft": "Chess NFT",
+                "grandbazar": "Grandbazar",
+                "thirdPlace": "Third Place"
+            },
             "notSupportedMedia": "Сёрф пока не умеет показывать такие TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
@@ -32,7 +44,6 @@
             },
             "owner": "Владелец",
             "tokens": "Токены",
-            "trueNftMarket": "Маркет True NFT",
             "type": "Тип"
         },
         "details": {
@@ -68,6 +79,8 @@
             "accounts": "Счета",
             "collectibles": "Коллекция",
             "investments": "Сервисы"
+            "tokens": "Токены",
+            "farming": "Фарминг"
         },
         "subscriptions": {
             "actions": {
@@ -401,6 +414,10 @@
             "title": "Биржи"
         },
         "title": "Пополнить баланс",
+        "topUp": {
+            "buyWithCard": "Оплата картой",
+            "title": "Пополнить"
+        },
         "warning": "Безопаснее всего получить токены, участвуя в конкурсах или в субуправлениях. Используя сторонние сервисы, помните, что они могут собирать ваши личные данные."
     },
     "interfaceOptions": {

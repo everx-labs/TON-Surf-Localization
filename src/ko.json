@@ -1,5 +1,12 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuTitle": "Add",
+            "renameBtn": "Rename account",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",
             "copyAddressHint": "지갑 주소 복사하기",
@@ -19,6 +26,11 @@
             "collectibles": "수집 항목",
             "created": "생성됨",
             "details": "세부 사항",
+            "marketplaces": {
+                "chessNft": "Chess NFT",
+                "grandbazar": "Grandbazar",
+                "thirdPlace": "Third Place"
+            },
             "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
@@ -32,7 +44,6 @@
             },
             "owner": "소유자",
             "tokens": "토큰",
-            "trueNftMarket": "True NFT 마켓",
             "type": "유형"
         },
         "details": {
@@ -67,7 +78,9 @@
         "separators": {
             "accounts": "계정",
             "collectibles": "수집 항목",
-            "investments": "서비스"
+            "investments": "서비스",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {
@@ -147,8 +160,8 @@
         "title": "비밀번호 백업"
     },
     "buy": {
-        "buySheetSubTitle": "최대 {0} 300개 구매하면\neKYC 인증이 필요하지 않습니다",
-        "buySheetTitle": "얼마나 많은 톤 크리스탈을\n구매하시겠습니까?"
+        "buySheetSubTitle": "Purchases up to {0} 300\ndo not require KYC verification",
+        "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "chats": {
         "button": {
@@ -404,7 +417,11 @@
             "mexc": "MEXC",
             "title": "취급 거래소"
         },
-        "title": "톤 크리스탈 받기",
+        "title": "Get Evers",
+        "topUp": {
+            "buyWithCard": "Buy with Card",
+            "title": "Top-up"
+        },
         "warning": "토큰을 얻는 가장 안전한 방법은 컨테스트 참여와 서브 거버넌스입니다. 서프는 귀하의 개인 데이터를 수집할 수 있는 제3자 서비스에 대해 책임을 지지 않습니다."
     },
     "interfaceOptions": {
@@ -1370,7 +1387,6 @@
             "payment": "지불",
             "seller": "판매자",
             "title": "구매",
-            "topUp": "잔액 충전",
             "totalPrice": "총 금액"
         },
         "comments": {

@@ -1,5 +1,12 @@
 {
     "accounts": {
+        "accountManage": {
+            "addTitle": "Add Account",
+            "renameTitle": "Rename",
+            "addMenuTitle": "Add",
+            "renameBtn": "Rename account",
+            "addMenuItem": "Additional Account"
+        },
         "assets": {
             "addressCopied": "Dirección de la cartera copiada en el portapapeles",
             "copyAddressHint": "Copia la dirección de la cartera",
@@ -19,6 +26,11 @@
             "collectibles": "Collectibles",
             "created": "Created",
             "details": "Details",
+            "marketplaces": {
+                "chessNft": "Chess NFT",
+                "grandbazar": "Grandbazar",
+                "thirdPlace": "Third Place"
+            },
             "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
@@ -32,7 +44,6 @@
             },
             "owner": "Owner",
             "tokens": "Tokens",
-            "trueNftMarket": "True NFT Market",
             "type": "Type"
         },
         "details": {
@@ -67,7 +78,9 @@
         "separators": {
             "accounts": "Cuentas",
             "collectibles": "Collectibles",
-            "investments": "Servicios"
+            "investments": "Servicios",
+            "tokens": "Tokens",
+            "farming": "Farming"
         },
         "subscriptions": {
             "actions": {
@@ -400,7 +413,11 @@
             "mexc": "MEXC",
             "title": "Exchanges"
         },
-        "title": "Get TON Crystals",
+        "title": "Get Evers",
+        "topUp": {
+            "buyWithCard": "Buy with Card",
+            "title": "Top-up"
+        },
         "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
     },
     "interfaceOptions": {
@@ -1331,8 +1348,8 @@
         }
     },
     "buy": {
-        "buySheetSubTitle": "Purchases of up to {0} 300\ndon’t require eKYC verification",
-        "buySheetTitle": "How much TON Crystals\nwould you like to buy?"
+        "buySheetSubTitle": "Purchases up to {0} 300\ndo not require KYC verification",
+        "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "support": {
         "askQuestion": "Haz una pregunta.",
@@ -1370,7 +1387,6 @@
             "payment": "Payment",
             "seller": "Vendedor",
             "title": "Buy",
-            "topUp": "Top up",
             "totalPrice": "Precio total"
         },
         "comments": {

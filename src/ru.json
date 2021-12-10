@@ -8,22 +8,22 @@
             "addMenuItem": "Additional Account"
         },
         "assets": {
-            "addressCopied": "Адрес кошелька скопирован в буфер",
+            "addressCopied": "Адрес скопирован",
             "copyAddressHint": "Скопировать адрес кошелька",
             "copyAddressHint2": "Скопировать адрес",
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
             "title": "Активы",
-            "multisigAccountTitle": "Multisig account"
+            "multisigAccountTitle": "Счет с мультиподписью"
         },
         "charts": {
             "monthAgo": "30 дней назад",
             "today": "Сегодня"
         },
         "collectibles": {
-            "address": "Address",
-            "amountFromSupply": "{0} of {1}",
+            "address": "Адрес",
+            "amountFromSupply": "{0} из {1}",
             "author": "Creator",
-            "collectibles": "Collectibles",
+            "collectibles": "Коллекции",
             "created": "Created",
             "details": "Details",
             "marketplaces": {
@@ -49,7 +49,7 @@
                 "title": "Size",
                 "value": "{0} MB"
             },
-            "notSupportedMedia": "Surf will soon learn\nto display this TNFT",
+            "notSupportedMedia": "Сёрф пока не умеет показывать такие TNFT",
             "nftIndicators": {
                 "ipfs": "IPFS",
                 "notTrue": "TRUE",
@@ -60,6 +60,7 @@
                 "notTrue": "Not True",
                 "trueNft": "True NFT"
             },
+<<<<<<< HEAD
             "owner": "Owner",
             "sections": {
                 "library": "Library",
@@ -70,6 +71,11 @@
             "tokens": "Tokens",
             "type": "Type",
             "view": "View"
+=======
+            "owner": "Владелец",
+            "tokens": "Токены",
+            "type": "Тип"
+>>>>>>> surf@6.7.0
         },
         "details": {
             "buttons": {
@@ -92,7 +98,7 @@
                 "shareMsg": "Мой {0} адрес: \n{1}"
             },
             "nets": {
-                "mainnet": "Free TON",
+                "mainnet": "Everscale",
                 "private": "Приват",
                 "tonlabs": "Сеть для тестирования"
             },
@@ -102,10 +108,10 @@
         },
         "separators": {
             "accounts": "Счета",
-            "collectibles": "Collectibles",
+            "collectibles": "Коллекции",
             "investments": "Сервисы",
-            "tokens": "Tokens",
-            "farming": "Farming"
+            "tokens": "Токены",
+            "farming": "Фарминг"
         },
         "subscriptions": {
             "actions": {
@@ -143,8 +149,8 @@
             "enabledFaceMessage": "Разблокировка по лицу включена",
             "enabledFingerprintMessage": "Разблокировка по отпечатку пальца включена",
             "enabledMessage": "Разблокировка {0} включена",
-            "off": "Выключено",
-            "on": "Включено",
+            "off": "Выкл",
+            "on": "Вкл",
             "saveTitle": "Сохранение биометрических данных"
         },
         "currencies": {
@@ -166,7 +172,7 @@
             "btnUpdate": "Обновить",
             "button": "Сеть",
             "endpoint": "Конечная точка",
-            "endpointHint": "Please cut the number of endpoints to one address",
+            "endpointHint": "Пожалуйста, сократите до одного адреса",
             "name": "Имя",
             "title": "Сеть",
             "titleAdd": "Новая сеть",
@@ -206,21 +212,21 @@
             "addressInput": {
                 "auto": "Выберите основной адрес",
                 "enterAddress": "Введите адрес",
-                "invalidAddress": "Недействительный адрес TON",
+                "invalidAddress": "Недействительный адрес",
                 "manual": "Ввести вручную"
             },
             "agreement": {
                 "warning": {
-                    "message": "This Debot can threaten the security of your data and funds",
-                    "action": "Continue anyway"
+                    "message": "Этот дебот выглядит подозрительно. Будьте осторожны, используя его, потому что ваши личные данные и средства могут пострадать.",
+                    "action": "Я буду начеку"
                 },
                 "reminder": {
-                    "message": "Remember that a Bot — third party service and may expose you to identity and other information disclosure that is out of the control of Surf.",
-                    "action": "Понятно"
+                    "message": "Вы запускаете Дебот, сторонний сервис, неподконтрольный Surf. Подтвердите, что вы принимаете риск раскрытия ваших персональных данных.",
+                    "action": "Подтвердить"
                 },
                 "danger": {
-                    "message": "This Debot threaten the security of your data and funds",
-                    "action": "Ignore a warning"
+                    "message": "Использование этого Дебота может быть опасным. Это может нанести ущерб безопасности ваших персональных данных и средств.",
+                    "action": "Принять риски и продолжить"
                 }
             },
             "blockchain": "Блокчейн",
@@ -274,8 +280,8 @@
             "title": "Деботы",
             "errors": {
                 "common": {
-                    "fetch": "DeBot loading error",
-                    "init": "DeBot initialization error"
+                    "fetch": "Ошибка загрузки Дебота",
+                    "init": "Ошибка запуска Дебота"
                 },
                 "interface": {},
                 "manifest": {
@@ -292,7 +298,7 @@
             "failedToSend": "Не удалось отправить сообщение. Повторите попытку позже"
         },
         "labels": {
-            "address": "Адрес кошелька Free TON",
+            "address": "Адрес кошелька Everscale",
             "establishingConnection": "Установка безопасного соединения...",
             "today": "Сегодня",
             "yesterday": "Вчера"
@@ -349,7 +355,7 @@
         "info": {
             "firstName": "Имя",
             "lastName": "Фамилия",
-            "tonAddress": "Адрес кошелька Free TON"
+            "tonAddress": "Адрес кошелька Everscale"
         },
         "invitation": {
             "view": {
@@ -359,7 +365,7 @@
             }
         },
         "inviteFriends": "Пригласить друзей",
-        "inviteMessage": "Привет! Посмотри, что я нашел. Отличный кошелек и мобильный банк Free TON, все в одном! Звучит неплохо? Тогда пройди по ссылке, чтобы скачать приложение TON Surf:\n\n{INSTALL_LINK_HOST}",
+        "inviteMessage": "Привет! Посмотри, что я нашел. Отличный кошелек и мобильный банк Everscale, все в одном! Звучит неплохо? Тогда пройди по ссылке, чтобы скачать приложение Surf:\n\n{INSTALL_LINK_HOST}",
         "inviteToApplication": "Пригласить в {APP_NAME}",
         "newContact": "Новый контакт",
         "otherContacts": "Контакты",
@@ -372,13 +378,13 @@
             "deliveryHint": {
                 "email": "Отправить по email",
                 "share": "Прямая ссылка",
-                "sms": "Отправить в SMS"
+                "sms": "Отправить в СМС"
             },
             "retry": "Повторить",
             "sendButton": {
                 "email": "Отправить email",
                 "share": "Поделиться ссылкой",
-                "sms": "Отправить SMS"
+                "sms": "Отправить СМС"
             },
             "sendManually": "Прямая ссылка"
         },
@@ -413,14 +419,14 @@
             "title": "Killer Whale Pod Cast",
             "getInvolvedBtn": "Участвовать",
             "howItWorksBtn": "Как это работает?",
-            "nextEpisode": "Next Episode is Coming Soon!",
+            "nextEpisode": "Новый эпизод уже скоро!",
             "videoTitle": "Эпизод WhaleDrop: Airdrop + Liquidity Mining",
             "date": "30 октября 2021",
             "offers": "Предложения",
             "results": "Results",
             "token": "Token",
             "airdropped": "airdropped",
-            "reward": "Reward",
+            "reward": "Вознаграждение",
             "farmingPool": "Farming pool"
         }
     },
@@ -438,10 +444,10 @@
             "mexc": "MEXC",
             "title": "Биржи"
         },
-        "title": "Get Evers",
+        "title": "Пополнить баланс",
         "topUp": {
-            "buyWithCard": "Buy with Card",
-            "title": "Top-up"
+            "buyWithCard": "Оплата картой",
+            "title": "Пополнить"
         },
         "warning": "Безопаснее всего получить токены, участвуя в конкурсах или в субуправлениях. Используя сторонние сервисы, помните, что они могут собирать ваши личные данные."
     },
@@ -501,7 +507,7 @@
             },
             "site": {
                 "title": "Сайт",
-                "value": "ton.surf"
+                "value": "ever.surf"
             },
             "title": "Информация о компании"
         },
@@ -522,20 +528,20 @@
             "businessDetails": "Информация о компании",
             "cookiesPolicy": "Политика использования файлов cookie",
             "privacyPolicy": "Политика конфиденциальности",
-            "surfDecentralizationPolicy": "Политика Децентрализации TON Surf",
+            "surfDecentralizationPolicy": "Политика децентрализации",
             "termsOfUse": "Условия использования",
             "title": "Правовое уведомление"
         },
         "policy": {
             "title": {
                 "term": "(\"Policy\")",
-                "definition": "Last Revised: November 16, 2020"
+                "definition": "Last revised: November 23, 2021"
             },
             "generalProvisions": {
                 "term": "General Provisions",
-                "definitions": "This Surf Decentralization Policy (the \"Policy\") governs your use of the mobile application and web versions of Surf (Hereinafter, collectively \"Surf\") and the services offered by Surf (the \"Service\" or the \"Services\"). The web version of Surf is available at ton.surf and the mobile application is published in the AppStore and Google Play.",
-                "part2": "Surf is a TON smart contract wallet featuring support for decentralized bots (\"DeBots\"). It can act as a TON operating system (\"TON OS\") user environment as it supports an end-to-end decentralization (E2ED) framework.",
-                "part3": "Please carefully read this Policy to understand the definitions of Surf, Free TON Blockchain, TON, TON OS, E2ED and DeBots, including Surf's personal data processing guidelines.",
+                "definitions": "This Surf Decentralization Policy (the \"Policy\") governs your use of the mobile application and web versions of Surf (Hereinafter, collectively \"Surf\") and the services offered by Surf (the \"Service\" or the \"Services\"). The web version of Surf is available at ever.surf and the mobile application is published in the AppStore and Google Play.",
+                "part2": "Surf is a Everscale smart contract wallet featuring support for decentralized bots (\"DeBots\"). It can act as a Everscale operating system (\"Everscale OS\") user environment as it supports an end-to-end decentralization (E2ED) framework.",
+                "part3": "Please carefully read this Policy to understand the definitions of Surf, Everscale Blockchain, EVER, Everscale OS, E2ED and DeBots, including Surf’s personal data processing guidelines.",
                 "part4": "This Policy can be published in different languages for localization purposes, but in case of any discrepancies between the English version and the version in a language other than English, the English version shall always prevail."
             },
             "useOfSurf": {
@@ -543,27 +549,26 @@
                 "definitions": "As a user of the Services you have a limited, personal, non-commercial, non-exclusive, non-transferable, and a potentially revocable license to use Surf. Surf users are required to follow some basic rules, including, but not limited to, never using Surf for illegal purposes. You further agree to comply with any and all applicable laws and regulations when using Surf. This includes any local, provincial, state, federal, national, or international laws that may apply to you.",
                 "part2": "You agree that you shall not use the Services to pay for, support, or otherwise engage in any illegal activities, including but not limited to, illegal gambling, fraud, money laundering, or terrorist activities.",
                 "part3": "You further agree not to encourage or induce any third party to engage in any of the aforementioned activities as prohibited under this section.",
-                "part4": "Free TON Blockchain is a departure from usual blockchain designs. It is your responsibility to learn and understand how Free TON Blockchain operates in order to protect your digital assets and safely navigate through the various and diverse features of TON (The Open Network).",
-                "part5": "Free TON Blockchain is designed on TON technology.",
-                "part6": "Unlike other blockchains, TON associates all wallet addresses with a computer code. For purposes of this Policy, this code will be referred to as a \"Smart Contract\". Please remember that every transaction is an execution of a Smart Contract code by the blockchain. In this sense, Free TON Blockchain is more of a distributed computer than a record keeper.",
-                "part7": "TON utilizes several native cryptocurrencies or TON currencies. Collectively they are the Currency Collection. The base cryptocurrency of the Free TON Blockchain is the \"TON Crystal\" or the \"TON\" that is necessary to operate since it is used to charge Gas fees as described below.",
-                "part8": "All TON interactions send and receive Messages. For example, to send someone digital assets you need to create a message, sign it with your cryptographic key(s), and then send it to a Smart Contract that holds those digital assets. This Smart Contract executes the instructions dictated in the Message and transfers coins to another smart contract. Everything in TON is based on interactions between Smart Contracts.",
-                "part9": "A familiar and important type of Smart Contract is a Wallet. Unlike other blockchains, the Wallet is not the software on your phone or a computer that holds your cryptographic keys. TON Wallet is a Smart Contract stored and executed on the blockchain, by the blockchain, and in accordance with the instructions you send along with the Message.",
-                "part10": "It is critical to understand that Surf IS NOT a Wallet. Surf is client software that facilitates your interaction with Free TON blockchain by helping you do the following:",
-                "list1": "safely create and manage Secret Keys (described below) on your device,",
-                "list2": "deploy your Smart Contracts, including your Wallet Smart Contract,",
-                "list3": "interact with TON Smart Contracts by creating, signing and sending Messages,",
-                "list4": "interact with Decentralized Bots (DeBots),",
-                "list5": "review and analyze events in Free TON blockchain,",
-                "list6": "interaction with some of your system resources when necessary (such as access to camera when reading a QR code for example),",
-                "list7": "provide other services.",
-                "part11": "By using Surf you acknowledge and agree that Surf DOES NOT STORE OR TRANSMIT DIGITAL ASSETS. Surf only transmits Messages. Any transfer involving any digital asset occurs on Free TON blockchain and not in any network owned by Surf or any of its affiliated companies. We do not guarantee that Surf can affect the transfer of title or right in any digital asset(s).",
-                "part12": "Once you submit a message via Surf it cannot be cancelled or otherwise modified. You must be certain that the Smart Contract associated with any transaction has enough digital assets to cover all necessary fees associated with the transaction prior to executing it. You acknowledge and agree that Surf and any of its affiliates shall not be held liable for any failed transactions."
+                "part4": "Everscale Blockchain (former Free TON Blockchain) is a departure from usual blockchain designs. It is your responsibility to learn and understand how Everscale Blockchain operates in order to protect your digital assets and safely navigate through the various and diverse features of Everscale.",
+                "part5": "Unlike other blockchains, Everscale associates all wallet addresses with a computer code. For purposes of this Policy, this code will be referred to as a \"Smart Contract\". Please remember that every transaction is an execution of a Smart Contract code by the blockchain. In this sense, Everscale Blockchain is more of a distributed computer than a record keeper.",
+                "part6": "Everscale utilizes several native cryptocurrencies or Everscale currencies. Collectively they are the Currency Collection. The base cryptocurrency of the Everscale Blockchain is the \"Everscale\" token, exchange ticker symbol \"EVER\", that is necessary to operate since it is used to charge Gas fees as described below.",
+                "part7": "All Everscale interactions send and receive Messages. For example, to send someone digital assets you need to create a message, sign it with your cryptographic key(s), and then send it to a Smart Contract that holds those digital assets. This Smart Contract executes the instructions dictated in the Message and transfers coins to another smart contract. Everything in Everscale is based on interactions between Smart Contracts.",
+                "part8": "A familiar and important type of Smart Contract is a Wallet. Unlike other blockchains, the Wallet is not the software on your phone or a computer that holds your cryptographic keys. Everscale Wallet is a Smart Contract stored and executed on the blockchain, by the blockchain, and in accordance with the instructions you send along with the Message.",
+                "part9": "It is critical to understand that Surf IS NOT a Wallet. Surf is client software that facilitates your interaction with Everscale blockchain by helping you do the following:",
+                "list1": "Safely create and manage Secret Keys (described below) on your device.",
+                "list2": "Deploy your Smart Contracts, including your Wallet Smart Contract.",
+                "list3": "Interact with Everscale Smart Contracts by creating, signing and sending Messages.",
+                "list4": "Interact with Decentralized Bots (DeBots).",
+                "list5": "Review and analyze events in Everscale blockchain.",
+                "list6": "Interaction with some of your system resources when necessary (such as access to camera when reading a QR code for example).",
+                "list7": "Provide other services.",
+                "part10": "By using Surf you acknowledge and agree that Surf DOES NOT STORE OR TRANSMIT DIGITAL ASSETS. Surf only transmits Messages. Any transfer involving any digital asset occurs on Everscale blockchain and not in any network owned by Surf or any of its affiliated companies. We do not guarantee that Surf can affect the transfer of title or right in any digital asset(s).",
+                "part11": "Once you submit a message via Surf it cannot be cancelled or otherwise modified. You must be certain that the Smart Contract associated with any transaction has enough digital assets to cover all necessary fees associated with the transaction prior to executing it. You acknowledge and agree that Surf and any of its affiliates shall not be held liable for any failed transactions."
             },
             "secretKeys": {
-                "term": "Secret Keys. Master Password",
-                "definitions": "Secret or private keys are crucial to your operations with regard to Free TON blockchain. They are used to sign Messages that interact with Smart Contracts in TON. THESE KEYS PROTECT ALL OF YOUR TON DIGITAL ASSETS.",
-                "part2": "To use Surf you must either import or create a private key. Creation of your private key is executed through the open source TON Labs SDK located only on your device and likewise stored only on that device.",
+                "term": "Secret Keys. Seed Phrase",
+                "definitions": "Secret or private keys are crucial to your operations with regard to Everscale blockchain. They are used to sign Messages that interact with Smart Contracts in Everscale. THESE KEYS PROTECT ALL OF YOUR EVERSCALE DIGITAL ASSETS.",
+                "part2": "To use Surf you must either import or create a private key. Creation of your private key is executed through the open source TON Labs SDK and located only on your device and likewise stored only on that device.",
                 "part3": "Surf cannot hold, store, or recover your key(s). Surf has no way to recover your key(s) if you lose it/them.",
                 "part4": "You bear full responsibility for storing your private keys and any mnemonic (backup) phrase associated with those keys in a safe place where you can recover them; otherwise, you risk losing control over any and all digital assets that are associated with those private keys, forever.",
                 "part5": "Surf has no means to help you recover your password or secret key: SURF DOES NOT HAVE THEM!",
@@ -575,7 +580,7 @@
                 "list2": "Use the \"Backup Password\" feature, Master Password. This feature provides you with a 12-word sequence (also called a mnemonic phrase). These 12 words are a mnemonic representation of your private key.",
                 "list3": "Write this mnemonic phrase, Master password, down and store it in a secure location. You can always check if you wrote the phrase down correctly by using the \"Saved, go check\" button.",
                 "part7": "To further improve the security of Surf and of your digital assets, we suggest you:",
-                "list4": "Use TON Labs Security Card with Surf to approve (sign) transactions. This security card adds another layer of protection to your private keys.",
+                "list4": "Use Security Card and/or Multisignature wallet with Surf to approve (sign) transactions. This security card adds another layer of protection to your private keys.",
                 "list5": "Notify us of any irregular activity that you may encounter during your Surf."
             },
             "securityCard": {
@@ -590,30 +595,30 @@
             },
             "userIdentity": {
                 "term": "User Identity",
-                "definitions": "Surf does not identify you, your device, your phone number, or any SIM card associated with your mobile device. Surf does identify you anonymously on Surf's backend to enable storage of your content only so you may be able to recover it from another device; however, this backup is encrypted with the same encryption used on Free TON blockchain. You acknowledge and agree that information associated with your Surf identity can be lost and Surf may not be able to restore it. Since Surf does not have your private keys we will not be able to decrypt any data associated with your security keys.",
+                "definitions": "Surf does not identify you, your device, your phone number, or any SIM card associated with your mobile device. Surf does identify you anonymously on Surf's backend to enable storage of your content only so you may be able to recover it from another device; however, this backup is encrypted with the same encryption used on Everscale blockchain. You acknowledge and agree that information associated with your Surf identity can be lost and Surf may not be able to restore it. Since Surf does not have your private keys, we will not be able to decrypt any data associated with your security keys.",
                 "part2": "If you use third party services such as those obtained through buying or selling digital assets in exchange for fiat currency, any such third-party service provider may request your personal information or other information via Surf. In such cases you are responsible for reviewing their terms and conditions before accepting them. Surf shall assume no liability for your usage of any third-party services.",
                 "part3": "Third party services may not be genuinely decentralized; therefore, using any third-party services may expose you to identity disclosure that is out of the control of TON Labs, Surf, or any of its affiliated companies. Bear in mind that using these services may require:",
-                "list1": "linking your real identity with your digital assets and Smart Contracts,",
-                "list2": "enabling these third-party services to track your use of digital assets and Smart Contracts moving forward,",
-                "list3": "enabling these third-party services to transmit your personal information to other parties, including, but not limited to, regulatory and law enforcement agencies,",
+                "list1": "linking your real identity with your digital assets and Smart Contracts;",
+                "list2": "enabling these third-party services to track your use of digital assets and Smart Contracts moving forward;",
+                "list3": "enabling these third-party services to transmit your personal information to other parties, including, but not limited to, regulatory and law enforcement agencies;",
                 "list4": "et cetera.",
                 "part4": "You hereby agree and consent to not hold Surf liable for any risks or losses associated with your use of any such third-party services."
             },
             "decentralization": {
                 "term": "End-to-End Decentralization",
-                "definitions": "With the support of an E2ED interface, Surf operates as a TON OS user environment. TON OS is built on a E2ED concept that upgrades human-to-blockchain interaction to one of direct dialogue between the user and the smart contract. This dialog is enabled by decentralized bots (DeBots) that resolve the blockchain-human interface issue.",
-                "part2": "By using Surf you agree that Surf is only an interface to Free TON Blockchain, that, as mentioned above, consists of Smart Contracts. Surf neither controls nor determines content, function, or execution of those Smart Contracts. You acknowledge and agree that you shall assume all responsibility for interaction with Smart Contracts."
+                "definitions": "With the support of an E2ED interface, Surf operates as a Everscale OS user environment. Everscale OS is built on a E2ED concept that upgrades human-to-blockchain interaction to one of direct dialogue between the user and the smart contract. This dialog is enabled by decentralized bots (DeBots) that resolve the blockchain-human interface issue.",
+                "part2": "By using Surf you agree that Surf is only an interface to Everscale Blockchain, that, as mentioned above, consists of Smart Contracts. Surf neither controls nor determines content, function, or execution of those Smart Contracts. You acknowledge and agree that you shall assume all responsibility for interaction with Smart Contracts."
             },
             "smartContracts": {
                 "term": "Smart Contracts",
                 "definitions": "Smart Contacts are computer programs that are executed on the blockchain and verified by its consensus protocol to perform a so called verifiable computation.",
-                "part2": "As explained above, Surf is a Smart Contract client. In that sense, any true TON software is a smart contract client. Surf can manage any TON Smart Contract and interact with it, provided that it has a special declaration file, or the so-called TON ABI (TON Application Binary Interface). The TON ABI version that Surf supports is covered in TON Labs' official documentation available at ton.dev.",
-                "part3": "By default, Surf deploys an ad hoc wallet smart contract from TON Labs (the \"Multi-signature Wallet Smart Contract\"). This Smart Contract is the first ever formally verified TON contract. Formal verification is a way to prove correct execution of a computer code.",
+                "part2": "As explained above, Surf is a Smart Contract client. In that sense, any true Everscale software is a smart contract client. Surf can manage any Everscale Smart Contract and interact with it, provided that it has a special declaration file, or the so-called Everscale ABI (Everscale Application Binary Interface). The Everscale ABI version that Surf supports is covered in TON Labs' official documentation available at ton.dev",
+                "part3": "By default, Surf deploys an ad hoc wallet smart contract from TON Labs (the \"Multi-signature Wallet Smart Contract\"). This Smart Contract is the first ever formally verified Everscale contract. Formal verification is a way to prove correct execution of a computer code.",
                 "part4": "Despite the above, no verification can prove and ensure 100% accuracy of software, and even if it were possible to do so, we cannot guarantee such accuracy."
             },
             "deBots": {
                 "term": "DeBots",
-                "definitions": "Decentralized bots (DeBots) are technology that enables E2ED at the user interaction level. DeBots allow Surf to draw the entire user experience without relying on a server. In other words, a DeBot is a Smart Contract UI. DeBot functions are programmed with TON ABI and operate on Free TON blockchain. Direct interaction with a DeBot triggers execution of functions in the underlying Smart Contract that is covered in the relevant ABI through a simple and familiar interface.",
+                "definitions": "Decentralized bots (DeBots) are technology that enables E2ED at the user interaction level. DeBots allow Surf to draw the entire user experience without relying on a server. In other words, a DeBot is a Smart Contract UI. DeBot functions are programmed with Everscale ABI and operate on Everscale blockchain. Direct interaction with a DeBot triggers execution of functions in the underlying Smart Contract that is covered in the relevant ABI through a simple and familiar interface.",
                 "part2": "Since DeBots are decentralized, Surf neither controls nor determines content, function, or execution of DeBot scripts or the corresponding Smart Contracts. Given that a DeBot is a decentralized way to interact with a Smart Contract, everything that applies to Smart Contracts in this Policy likewise applies to DeBots."
             },
             "pushNotifications": {
@@ -716,14 +721,14 @@
         },
         "sections": {
             "custom": "Пользовательские сети",
-            "main": "Основная сеть",
-            "test": "Тестовые сети"
+            "main": "Основная",
+            "test": "Тестовые"
         },
         "switchAlert": {
-            "title": "Switch the network",
-            "message": "The link has different network than you connected to. To open this link, switch the network",
-            "switch": "Switch",
-            "stay": "Stay in network"
+            "title": "Переключение сети",
+            "message": "Ссылка ведет в другую сеть. Хотите переключить сеть и открыть ссылку?",
+            "switch": "Переключить",
+            "stay": "Остаться"
         }
     },
     "operationsHistory": {
@@ -742,9 +747,9 @@
         "congrats": "Поздравляем с переменами в жизни! Они к лучшему",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Токены Free TON",
-                "stake": "Ставки в кристаллах",
-                "title": "Мои кристаллы"
+                "comment": "Токены Everscale",
+                "stake": "Ставки в эверах",
+                "title": "Мои эверы"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
@@ -752,7 +757,7 @@
                 "title": "My {0} tokens"
             },
             "RUBY": {
-                "comment": "Тестовые токены Free TON",
+                "comment": "Тестовые токены Everscale",
                 "stake": "Ставки в рубинах",
                 "title": "Мои рубины"
             },
@@ -783,12 +788,12 @@
         "restorePasswordButton": "Сид-фраза"
     },
     "safetyProtection": {
-        "PINChangeFailed": "Не удалось изменить PIN-код",
-        "PINChangeSuccess": "PIN-код изменен",
-        "PINCorrect": "PIN-код верный",
-        "PINDoesNotMatch": "PIN-коды не совпадают",
+        "PINChangeFailed": "Не удалось изменить пин-код",
+        "PINChangeSuccess": "Пин-код изменен",
+        "PINCorrect": "Пин-код верный",
+        "PINDoesNotMatch": "Пин-коды не совпадают",
         "PINNotCorrect": "Неверный PIN-код",
-        "TONAddress": "Адрес кошелька Free TON",
+        "TONAddress": "Адрес кошелька Everscale",
         "address": "Адрес",
         "addressAndKeys": "Адрес и ключи",
         "altAddress": "Альтернативный формат адреса",
@@ -799,10 +804,10 @@
             "iris": "Радужная оболочка глаза",
             "touchID": "Touch ID"
         },
-        "changePinCode": "Изменить PIN-код",
-        "confirmNewPin": "Подтвердить PIN-код",
-        "enterNewPin": "Новый PIN-код",
-        "enterPin": "Введите PIN-код",
+        "changePinCode": "Изменить пин-код",
+        "confirmNewPin": "Подтвердить пин-код",
+        "enterNewPin": "Новый пин-код",
+        "enterPin": "Введите пин-код",
         "hidePrivateKey": "Скрыть приватный ключ",
         "isCopied": "Cкопировано в буфер обмена",
         "lockApp": "Заблокировать приложение",
@@ -829,7 +834,7 @@
                 "Устанавливайте Surf только из проверенных источников (App Store, Google Play)",
                 "Сохраните свою сид-фразу. Храните ее на бумаге в месте, доступном только вам. Не делайте снимков экрана. Не храните сид-фразу на одном устройстве с Surf!",
                 "Не сообщайте свою сид-фразу никому, не вводите ее ни в какое приложение, кроме Surf. Используйте сид-фразу только для восстановления доступа к своему кошельку Surf.",
-                "Используйте легко запоминающийся PIN-код. Нигде его не записывайте. Не используйте этот PIN-код в других приложениях. Не сообщайте его никому.",
+                "Используйте легко запоминающийся пин-код. Нигде его не записывайте. Не используйте этот пин-код в других приложениях. Не сообщайте его никому.",
                 "Для максимальной безопасности своих средств используйте Карту безопасности. С её помощью можно восстановить доступ даже если вы забудете сид-фразу"
             ],
             "screenTitle": "Правила безопасности"
@@ -900,11 +905,11 @@
             "laterBtn": "Нет. Позже",
             "learnMore": {
                 "developers": {
-                    "description": "С помощью Free TON SDK вы можете запрограммировать карту для своих собственных смарт-контрактов и пользовательских сценариев",
+                    "description": "С помощью Everscale SDK вы можете запрограммировать карту для своих собственных смарт-контрактов и пользовательских сценариев",
                     "title": "Открытый исходный код для разработчиков"
                 },
                 "development": {
-                    "description": "С помощью Free TON SDK вы можете запрограммировать карту для своих собственных смарт-контрактов и пользовательских сценариев",
+                    "description": "С помощью Everscale SDK вы можете запрограммировать карту для своих собственных смарт-контрактов и пользовательских сценариев",
                     "title": "Открытый исходный код и новые возможности"
                 },
                 "personalization": {
@@ -933,7 +938,7 @@
             "moreFeaturesSoon": "Скоро появится еще больше функций Карты безопасности",
             "options": "Параметры",
             "order": "Заказать",
-            "orderName": "Карта безопасности TON Labs",
+            "orderName": "Карта безопасности",
             "orderStatuses": {
                 "confirming": "На подтверждении",
                 "gettingReady": "Готовится к выпуску",
@@ -962,8 +967,8 @@
             "scanCode": "Сканировать код",
             "scanCodeDescription": "Отсканируйте код карты и приложите карту к устройству, чтобы установить соединение",
             "screenTitle": "Карта безопасности",
-            "shareSecurityCardMessage": "Полностью персонализированный аппаратный кошелек для блокчейна Free TON: он принадлежит только вам и только вы можете его контролировать с момента оформления заказа\n\n {0}",
-            "shareSecurityCardSubtitle": "Карта безопасности\nTON Labs",
+            "shareSecurityCardMessage": "Полностью персонализированный аппаратный кошелек для блокчейна Everscale: он принадлежит только вам и только вы можете его контролировать с момента оформления заказа\n\n {0}",
+            "shareSecurityCardSubtitle": "Карта безопасности",
             "shareSecurityCardSuccess": "Ссылка скопирована в буфер обмена",
             "shipping": "Доставка",
             "shippingAddress": "Адрес доставки",
@@ -1009,11 +1014,11 @@
                     "title": "Размеры"
                 },
                 "extended": {
-                    "description": "На карте 120 КБ свободного места, вы можете записывать на нее свои данные.\n\nМы предоставляем Free TON SDK с открытым исходным кодом, чтобы вы могли запрограммировать карту под свои собственные смарт-контракты и использовать ее, например, как платежную карту, карту доступа в здание или любую другую.",
+                    "description": "На карте 120 КБ свободного места, вы можете записывать на нее свои данные.\n\nМы предоставляем Everscale SDK с открытым исходным кодом, чтобы вы могли запрограммировать карту под свои собственные смарт-контракты и использовать ее, например, как платежную карту, карту доступа в здание или любую другую.",
                     "title": "Расширенное использование"
                 },
                 "extendedUse": {
-                    "description": "На карте 120 КБ свободного места, вы можете записывать на нее свои данные.\n\nМы предоставляем TON Labs API с открытым исходным кодом, чтобы вы могли запрограммировать карту под свои собственные смарт-контракты и использовать ее, например, как платежную карту, карту доступа в здание или любую другую.",
+                    "description": "На карте 120 КБ свободного места, вы можете записывать на нее свои данные.\n\nМы предоставляем Everscale API с открытым исходным кодом, чтобы вы могли запрограммировать карту под свои собственные смарт-контракты и использовать ее, например, как платежную карту, карту доступа в здание или любую другую.",
                     "title": "Расширенные возможности"
                 },
                 "hardware": {
@@ -1035,10 +1040,10 @@
                 "added": "Вы добавлены в список ожидания. Как только карты будут готовы к заказу, мы сообщим",
                 "addedToastMsg": "Вы добавлены в список ожидания",
                 "comingThisDecemberBtn": "Выйдет в декабре",
-                "description": "Карта безопасности TON Labs для Free TON – уникальная смарт-карта NFC для безопасности ваших данных, ее можно адаптировать под ваши собственные задачи",
+                "description": "Карта безопасности — уникальная смарт-карта NFC для безопасности ваших данных, ее можно адаптировать под ваши собственные задачи",
                 "joinWaitlistBtn": "В лист ожидания",
                 "learnMoreBtn": "Подробнее",
-                "policy": "Используя Карту безопасности TON Labs для блокчейна Free TON, вы принимаете Условия и Политику использования",
+                "policy": "Используя Карту безопасности, вы принимаете Условия использования и Политики",
                 "techSpecsBtn": "Спецификации",
                 "title": "Больше, чем аппаратный кошелек"
             }
@@ -1111,8 +1116,8 @@
         "main": {
             "earlyAccess": {
                 "button": "Понятно",
-                "description": "TON Labs рада представить публике TON Surf! Это все еще ранний доступ, поэтому возможно непредвиденное поведение",
-                "devDescription": "TON Labs рада представить публике TON Surf! Это все еще ранний доступ с тестовыми Рубинами Free TON, поэтому возможно непредвиденное поведение",
+                "description": "TON Labs рады представить публике Surf! Это все еще ранний доступ, поэтому возможно непредвиденное поведение",
+                "devDescription": "TON Labs рады представить публике Surf! Это все еще ранний доступ с тестовыми Рубинами Everscale, поэтому возможно непредвиденное поведение",
                 "title": "Важно"
             },
             "securityCard": {
@@ -1128,9 +1133,9 @@
             "details": "Запиши все эти слова на бумаге и храни её в надежном месте. Она понадобится тебе, если ты потеряешь или переустановишь кошелек."
         },
         "pinCode": {
-            "confirmPin": "Подтвердить PIN-код",
-            "createPin": "Создать PIN-код",
-            "enterPin": "Введите PIN-код",
+            "confirmPin": "Подтвердить пин-код",
+            "createPin": "Создать пин-код",
+            "enterPin": "Введите пин-код",
             "itWorkLocal": "Он будет работать только на этом устройстве"
         },
         "promoCards": {
@@ -1141,10 +1146,10 @@
                 "initial": "Больше, чем\nаппаратный\nкошелек"
             },
             "faq": {
-                "initial": "Часто \nзадаваемые\nвопросы"
+                "initial": "Часто\nзадаваемые\nвопросы"
             },
             "stakeDeposit": {
-                "initial": "Получайте\nвознаграждение\nза стейкинг"
+                "initial": "Награды\nза стейкинг"
             },
             "flex": {
                 "initial": "Killer Whale\nPod Cast"
@@ -1164,7 +1169,7 @@
             },
             "wallet": {
                 "description": "Ищи лучшие возможности, оставайся в безопасности и принимай обоснованные решения.",
-                "title": "Surf поможет вам ориентироваться в блокчейне Free TON"
+                "title": "Surf поможет вам ориентироваться в блокчейне Everscale"
             }
         },
         "welcome": {
@@ -1216,7 +1221,7 @@
     "stake": {
         "about": {
             "button": "Понятно!",
-            "description": "Создайте стейк, чтобы принять участие в валидации блоков сети Free TON и заработать на этом. \n\nСтейки передаются на ноды, которые участвуют в выборах валидаторов. Как только выборы начинаются, стейки временно блокируются. \n\nЕсли ваша нода проиграет выборы, стейк разблокируется. Если выиграет – стейк будет заблокирован до окончания раунда валидации. Когда он закончится, стейки и доходы будут выплачены пользователям.\n\nОтправьте средства в стейк однократно или включите функцию автопродления для автоматической отправки стейка на последующие выборы. \n\nОбратите внимание, что существует риск полной или частичной потери стейка, если с валидатором возникнет проблема",
+            "description": "Создайте стейк, чтобы принять участие в валидации блоков сети Everscale и заработать на этом. \n\nСтейки передаются на ноды, которые участвуют в выборах валидаторов. Как только выборы начинаются, стейки временно блокируются. \n\nЕсли ваша нода проиграет выборы, стейк разблокируется. Если выиграет – стейк будет заблокирован до окончания раунда валидации. Когда он закончится, стейки и доходы будут выплачены пользователям.\n\nОтправьте средства в стейк однократно или включите функцию автопродления для автоматической отправки стейка на последующие выборы. \n\nОбратите внимание, что существует риск полной или частичной потери стейка, если с валидатором возникнет проблема",
             "title": "Что такое стейкинг?"
         },
         "bot": {
@@ -1373,8 +1378,8 @@
         }
     },
     "buy": {
-        "buySheetSubTitle": "Purchases up to {0} 300\ndo not require KYC verification",
-        "buySheetTitle": "How much do you want\nto use to buy Evers?"
+        "buySheetSubTitle": "Покупки до {0}300 анонимны\nи не требуют проверки KYC",
+        "buySheetTitle": "На какую сумму\nхотите купить эверов?"
     },
     "support": {
         "askQuestion": "Задать вопрос",
@@ -1386,7 +1391,7 @@
         "group": "Группа поддержки",
         "makeSuggestion": "Внести предложение",
         "message": {
-            "first": "Привет, я ассистент TON Surf.",
+            "first": "Привет, я ассистент Surf.",
             "second": "Задайте вопрос, и я расскажу, как Surf может вам помочь."
         },
         "reportProblem": "Сообщить о проблеме",
@@ -1412,13 +1417,14 @@
             "payment": "Оплата",
             "seller": "Продавец",
             "title": "Купить",
+            "topUp": "Пополнить",
             "totalPrice": "Итоговая стоимость"
         },
         "comments": {
             "commentOptional": "Комментарий (необязательно)",
             "lengthWarning": "Всего 120 символов",
             "message": "Сообщение",
-            "messageOrMemo": "Сообщение или памятка",
+            "messageOrMemo": "Комментарий или мемо",
             "useCommentEncryption": "Зашифровать комментарий",
             "useNoteEncryption": "Зашифровать заметку",
             "writeMessage": "Напиши сообщение..."
@@ -1474,7 +1480,7 @@
             "timeIsNotSynced": "Для обработки транзакций необходимо синхронизировать время. Включите опцию \"Установить время автоматически\" на вашем устройстве"
         },
         "main": {
-            "activate": "Activate",
+            "activate": "Активировать",
             "assets": "Активы",
             "assetsBalance": "Баланс активов",
             "contacts": "Контакты",
@@ -1504,11 +1510,11 @@
         },
         "protectGrams": {
             "button": "Резервное сохранение пароля",
-            "description": "Теперь на вашем балансе есть немного токенов TON, и мы настоятельно рекомендуем сделать резервное сохранение пароля на случай, если вам потребуется восстановить доступ",
+            "description": "Теперь на вашем балансе есть немного токенов Everscale, и мы настоятельно рекомендуем сделать резервное сохранение пароля на случай, если вам потребуется восстановить доступ",
             "title": "Защитите свои токены"
         },
         "recipient": {
-            "address": "Адрес кошелька Free TON",
+            "address": "Адрес кошелька",
             "email": "Адрес электронной почты",
             "phone": "Номер телефона"
         },
@@ -1516,13 +1522,13 @@
             "confirm": "Подтвердить",
             "confirmAndSend": "Подтвердить и отправить",
             "currencies": {
-                "mainnet": "кристаллы",
+                "mainnet": "эверы",
                 "private": "рубины",
                 "tonlabs": "рубины"
             },
-            "enterValidAddress": "Адрес кошелька Free TON",
+            "enterValidAddress": "Адрес кошелька",
             "from": "От",
-            "invalidAddress": "Недействительный адрес кошелька Free TON",
+            "invalidAddress": "Недействительный адрес",
             "recipientWarning": "Убедитесь, что адрес верный! Отправленные переводы невозможно вернуть!",
             "title": "Отправить токены"
         },
@@ -1530,7 +1536,7 @@
             "aborted": "Прервано",
             "amount": "Сумма",
             "change": "Изменение",
-            "checkStatusLater": "Don't panic. You can check its status some time later",
+            "checkStatusLater": "Ничего страшного — проверите статус транзакции позже",
             "comment": "Комментарий",
             "encrypted": "Зашифрованный",
             "fee": "Комиссия",
@@ -1550,7 +1556,7 @@
             "statusSuccess": "Успешно",
             "time": "Время",
             "to": "Кому",
-            "transactionGoneSilent": "Transaction has gone silent",
+            "transactionGoneSilent": "Статус транзакции неизвестен",
             "transactionNotSend": "Перевод не отправлен. Пожалуйста, попробуй еще раз.",
             "transferDetails": "Детали перевода",
             "yes": "Да"

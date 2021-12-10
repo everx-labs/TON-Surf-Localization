@@ -708,8 +708,8 @@
         "currencies": {
             "CRYSTAL": {
                 "comment": "Everscale tokens",
-                "stake": "Crystal Stakes",
-                "title": "My Crystals"
+                "stake": "Evers Stakes",
+                "title": "My Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
@@ -1481,7 +1481,7 @@
             "confirm": "Confirm",
             "confirmAndSend": "Confirm and Send",
             "currencies": {
-                "mainnet": "crystals",
+                "mainnet": "evers",
                 "private": "rubies",
                 "tonlabs": "rubies"
             },

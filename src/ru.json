@@ -60,22 +60,16 @@
                 "notTrue": "Not True",
                 "trueNft": "True NFT"
             },
-<<<<<<< HEAD
-            "owner": "Owner",
             "sections": {
                 "library": "Library",
                 "partners": "Partners",
                 "trending": "Trending"
             },
             "storage": "Storage",
-            "tokens": "Tokens",
-            "type": "Type",
-            "view": "View"
-=======
+            "view": "View",
             "owner": "Владелец",
             "tokens": "Токены",
             "type": "Тип"
->>>>>>> surf@6.7.0
         },
         "details": {
             "buttons": {

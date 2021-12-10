@@ -13,6 +13,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "Arrastrar y soltar para intercambiar fondos y reequilibrar sus activos",
             "title": "Activos",
+            "mainAccount": "Main account",
             "multisigAccountTitle": "Multisig account"
         },
         "charts": {
@@ -106,6 +107,9 @@
             "investments": "Servicios",
             "tokens": "Tokens",
             "farming": "Farming"
+        },
+        "saving": {
+            "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
             "actions": {

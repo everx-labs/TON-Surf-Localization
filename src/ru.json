@@ -13,6 +13,7 @@
             "copyAddressHint2": "Скопировать адрес",
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
             "title": "Активы",
+            "mainAccount": "Main account",
             "multisigAccountTitle": "Счет с мультиподписью"
         },
         "charts": {
@@ -106,6 +107,9 @@
             "investments": "Сервисы",
             "tokens": "Токены",
             "farming": "Фарминг"
+        },
+        "saving": {
+            "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
             "actions": {

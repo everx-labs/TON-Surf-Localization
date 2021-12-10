@@ -550,8 +550,17 @@
                 "list3": "Write this mnemonic phrase, Master password, down and store it in a secure location. You can always check if you wrote the phrase down correctly by using the \"Saved, go check\" button.",
                 "part7": "To further improve the security of Surf and of your digital assets, we suggest you:",
                 "list4": "Use Security Card and/or Multisignature wallet with Surf to approve (sign) transactions. This security card adds another layer of protection to your private keys.",
-                "list5": "Notify us of any irregular activity that you may encounter during your Surf.",
-                "part8": "More information about Security Card can be found at card.tonlabs.io."
+                "list5": "Notify us of any irregular activity that you may encounter during your Surf."
+            },
+            "securityCard": {
+                "term": "TON Labs Security Card",
+                "definitions": "One of the unique features of the Multi-signature Smart Contract is that it can require several signatures to send a message allowing Surf to work with TON Labs Security Card. Making them work together offers the following additional benefits:",
+                "list1": "Key anti-theft. Transfer of funds will require a secondary signature.",
+                "list2": "Safety of your digital assets even if your security key is compromised.",
+                "list3": "No need to transfer funds when changing your signature set.",
+                "part2": "Nevertheless, you will always remain the ultimate guardian of your security keys. Only you can be responsible for their loss, misuse, or disclosure. Surf can only assist you with the protection of your digital assets. Surf will not be held liable for the loss of your key(s). We only provide the software and are incapable of holding or storing the actual keys themselves.",
+                "part3": "Please be informed that TON Labs Security Card is a third-party service. Read carefully Terms and Сonditions in Surf. Your personal data can be asked by the third-party provider, processed and transmitted to external operators.",
+                "part4": "More information about TON Labs Security Card can be found at card.tonlabs.io."
             },
             "userIdentity": {
                 "term": "User Identity",

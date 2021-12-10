@@ -13,6 +13,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "拖放以交换资金并重新平衡您的资产",
             "title": "资产",
+            "mainAccount": "Main account",
             "multisigAccountTitle": "Multisig account"
         },
         "charts": {
@@ -81,6 +82,9 @@
             "investments": "服务",
             "tokens": "Tokens",
             "farming": "Farming"
+        },
+        "saving": {
+            "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
             "actions": {

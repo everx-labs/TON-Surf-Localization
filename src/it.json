@@ -13,6 +13,7 @@
             "copyAddressHint2": "Toccare per copiare l'indirizzo",
             "description": "Drag-and-drop per scambiare fondi e riequilibrare le risorse",
             "title": "Asset",
+            "mainAccount": "Main account",
             "multisigAccountTitle": "Multisig account"
         },
         "charts": {
@@ -81,6 +82,9 @@
             "investments": "Servizi",
             "tokens": "Tokens",
             "farming": "Farming"
+        },
+        "saving": {
+            "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
             "actions": {

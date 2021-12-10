@@ -13,6 +13,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-Drop zum Austausch von Geldern und zur Neugewichtung Ihres Vermögens",
             "title": "Vermögenswerte",
+            "mainAccount": "Main account",
             "multisigAccountTitle": "Multisig account"
         },
         "charts": {
@@ -81,6 +82,9 @@
             "investments": "Dienstleistungen",
             "tokens": "Tokens",
             "farming": "Farming"
+        },
+        "saving": {
+            "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
             "actions": {

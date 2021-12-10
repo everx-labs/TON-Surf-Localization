@@ -13,7 +13,7 @@
             "copyAddressHint2": "Скопировать адрес",
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
             "title": "Активы",
-            "multisigAccountTitle": "Объединенный счет"
+            "multisigAccountTitle": "Счет с мультиподписью"
         },
         "charts": {
             "monthAgo": "30 дней назад",

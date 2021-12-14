@@ -13,6 +13,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-drop to exchange funds and rebalance your assets",
             "title": "Assets",
+            "mainAccount": "Main account",
             "multisigAccountTitle": "Multisig account"
         },
         "charts": {
@@ -81,6 +82,9 @@
             "investments": "Savings",
             "tokens": "Tokens",
             "farming": "Farming"
+        },
+        "saving": {
+            "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
             "actions": {
@@ -518,7 +522,7 @@
                 "definitions": "As a user of the Services you have a limited, personal, non-commercial, non-exclusive, non-transferable, and a potentially revocable license to use Surf. Surf users are required to follow some basic rules, including, but not limited to, never using Surf for illegal purposes. You further agree to comply with any and all applicable laws and regulations when using Surf. This includes any local, provincial, state, federal, national, or international laws that may apply to you.",
                 "part2": "You agree that you shall not use the Services to pay for, support, or otherwise engage in any illegal activities, including but not limited to, illegal gambling, fraud, money laundering, or terrorist activities.",
                 "part3": "You further agree not to encourage or induce any third party to engage in any of the aforementioned activities as prohibited under this section.",
-                "part4": "Everscale Blockchain (former Free TON Blockchain) is a departure from usual blockchain designs. It is your responsibility to learn and understand how Everscale Blockchain operates in order to protect your digital assets and safely navigate through the various and diverse features of Everscale."
+                "part4": "Everscale Blockchain (former Free TON Blockchain) is a departure from usual blockchain designs. It is your responsibility to learn and understand how Everscale Blockchain operates in order to protect your digital assets and safely navigate through the various and diverse features of Everscale.",
                 "part5": "Unlike other blockchains, Everscale associates all wallet addresses with a computer code. For purposes of this Policy, this code will be referred to as a \"Smart Contract\". Please remember that every transaction is an execution of a Smart Contract code by the blockchain. In this sense, Everscale Blockchain is more of a distributed computer than a record keeper.",
                 "part6": "Everscale utilizes several native cryptocurrencies or Everscale currencies. Collectively they are the Currency Collection. The base cryptocurrency of the Everscale Blockchain is the \"Everscale\" token, exchange ticker symbol \"EVER\", that is necessary to operate since it is used to charge Gas fees as described below.",
                 "part7": "All Everscale interactions send and receive Messages. For example, to send someone digital assets you need to create a message, sign it with your cryptographic key(s), and then send it to a Smart Contract that holds those digital assets. This Smart Contract executes the instructions dictated in the Message and transfers coins to another smart contract. Everything in Everscale is based on interactions between Smart Contracts.",
@@ -551,7 +555,16 @@
                 "part7": "To further improve the security of Surf and of your digital assets, we suggest you:",
                 "list4": "Use Security Card and/or Multisignature wallet with Surf to approve (sign) transactions. This security card adds another layer of protection to your private keys.",
                 "list5": "Notify us of any irregular activity that you may encounter during your Surf."
-                "part8": "More information about Security Card can be found at card.tonlabs.io."
+            },
+            "securityCard": {
+                "term": "TON Labs Security Card",
+                "definitions": "One of the unique features of the Multi-signature Smart Contract is that it can require several signatures to send a message allowing Surf to work with TON Labs Security Card. Making them work together offers the following additional benefits:",
+                "list1": "Key anti-theft. Transfer of funds will require a secondary signature.",
+                "list2": "Safety of your digital assets even if your security key is compromised.",
+                "list3": "No need to transfer funds when changing your signature set.",
+                "part2": "Nevertheless, you will always remain the ultimate guardian of your security keys. Only you can be responsible for their loss, misuse, or disclosure. Surf can only assist you with the protection of your digital assets. Surf will not be held liable for the loss of your key(s). We only provide the software and are incapable of holding or storing the actual keys themselves.",
+                "part3": "Please be informed that TON Labs Security Card is a third-party service. Read carefully Terms and Сonditions in Surf. Your personal data can be asked by the third-party provider, processed and transmitted to external operators.",
+                "part4": "More information about TON Labs Security Card can be found at card.tonlabs.io."
             },
             "userIdentity": {
                 "term": "User Identity",

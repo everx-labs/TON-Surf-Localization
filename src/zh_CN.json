@@ -1486,7 +1486,12 @@
             "send": "发送",
             "tokenValue": "Token value",
             "updating": "正在更新。。。",
-            "yourBalance": "您的余额"
+            "yourBalance": "您的余额",
+            "totalBalance": "{0} balance",
+            "evers": "Evers",
+            "devers": "Devers",
+            "tokens": "Tokens",
+            "buy": "Buy tokens"
         },
         "payInvoice": {
             "buyNetTokens": "购买{0}代币",

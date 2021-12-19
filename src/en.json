@@ -1486,7 +1486,12 @@
             "send": "Send",
             "tokenValue": "Token value",
             "updating": "Updating...",
-            "yourBalance": "Your balance"
+            "yourBalance": "Your balance",
+            "totalBalance": "{0} balance",
+            "evers": "Evers",
+            "devers": "Devers",
+            "tokens": "Tokens",
+            "buy": "Buy tokens"
         },
         "payInvoice": {
             "buyNetTokens": "Buy {0} tokens",

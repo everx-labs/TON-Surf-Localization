@@ -1487,7 +1487,12 @@
             "send": "Отправить",
             "tokenValue": "Стоимость токена",
             "updating": "Обновление...",
-            "yourBalance": "Твой баланс"
+            "yourBalance": "Твой баланс",
+            "totalBalance": "{0} баланс",
+            "evers": "Эверов",
+            "devers": "Дэверов",
+            "tokens": "Токенов",
+            "buy": "Купить токены"
         },
         "payInvoice": {
             "buyNetTokens": "Купить {0} токенов",

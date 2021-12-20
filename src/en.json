@@ -5,7 +5,7 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Additional Account"
+            "addMenuItem": "Extra Account"
         },
         "assets": {
             "addressCopied": "Wallet address copied to clipboard",
@@ -14,7 +14,9 @@
             "description": "Drag-and-drop to exchange funds and rebalance your assets",
             "title": "Assets",
             "mainAccount": "Main account",
-            "multisigAccountTitle": "Multisig account"
+            "multisigAccountTitle": "Multisig account",
+            "flexPromo": "Flex. Soon...",
+            "tokenPromo": "Token. Soon..."
         },
         "charts": {
             "monthAgo": "30 days ago",
@@ -109,6 +111,7 @@
             "farming": "Farming"
         },
         "saving": {
+            "surfStaking": "Surf Stakes",
             "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
@@ -746,22 +749,18 @@
         "currencies": {
             "CRYSTAL": {
                 "comment": "Everscale tokens",
-                "stake": "Evers Stakes",
                 "title": "My Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "stake": "",
                 "title": "My {0} tokens"
             },
             "RUBY": {
                 "comment": "Everscale test tokens",
-                "stake": "Ruby Stakes",
                 "title": "My Rubies"
             },
             "SRFM": {
                 "comment": "Surf Medal True NFT tokens",
-                "stake": "",
                 "title": "My Surf Medals"
             }
         },

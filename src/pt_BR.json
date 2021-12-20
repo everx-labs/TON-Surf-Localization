@@ -5,7 +5,7 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Additional Account"
+            "addMenuItem": "Extra Account"
         },
         "assets": {
             "addressCopied": "Endereço da carteira copiado para a área de transferência",
@@ -14,7 +14,9 @@
             "description": "Arraste e solte para trocar fundos e rebalancear seus ativos",
             "title": "Ativos",
             "mainAccount": "Main account",
-            "multisigAccountTitle": "Multisig account"
+            "multisigAccountTitle": "Multisig account",
+            "flexPromo": "Flex. Soon...",
+            "tokenPromo": "Token. Soon..."
         },
         "charts": {
             "monthAgo": "há 30 dias",
@@ -109,6 +111,7 @@
             "farming": "Farming"
         },
         "saving": {
+            "surfStaking": "Surf Stakes",
             "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
@@ -746,22 +749,18 @@
         "currencies": {
             "CRYSTAL": {
                 "comment": "Free TON tokens",
-                "stake": "Crystal Stakes",
                 "title": "My Crystals"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "stake": "",
                 "title": "My {0} tokens"
             },
             "RUBY": {
                 "comment": "Free TON test tokens",
-                "stake": "Ruby Stakes",
                 "title": "My Rubies"
             },
             "SRFM": {
                 "comment": "Surf Medal True NFT tokens",
-                "stake": "",
                 "title": "Minhas medalhas de Surf"
             }
         },

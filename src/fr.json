@@ -1486,7 +1486,12 @@
             "send": "Envoyer",
             "tokenValue": "Valeur du jeton",
             "updating": "Actualisation...",
-            "yourBalance": "Votre solde"
+            "yourBalance": "Votre solde",
+            "totalBalance": "{0} solde",
+            "evers": "Evers",
+            "devers": "Devers",
+            "tokens": "Tokens",
+            "buy": "Buy tokens"
         },
         "payInvoice": {
             "buyNetTokens": "Acheter {0} tokens",

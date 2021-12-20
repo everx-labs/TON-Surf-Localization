@@ -1489,7 +1489,12 @@
             "send": "보내기",
             "tokenValue": "토큰 값",
             "updating": "업데이트 중 ...",
-            "yourBalance": "사용자 잔액"
+            "yourBalance": "사용자 잔액",
+            "totalBalance": "{0} balance",
+            "evers": "Evers",
+            "devers": "Devers",
+            "tokens": "Tokens",
+            "buy": "Buy tokens"
         },
         "payInvoice": {
             "buyNetTokens": "{0} 토큰 구매하기",

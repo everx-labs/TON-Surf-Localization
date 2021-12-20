@@ -363,7 +363,7 @@
             }
         },
         "inviteFriends": "Arkadaşları davet et",
-        "inviteMessage": "Selam! Bil bakalım ne buldum? Harika bir Free TON cüzdanı ve mobil banka hepsi bir arada! Kulağa iyi geliyor? O zaman TON Surf uygulamasını edinmek için bağlantıyı takip edin:\n\n{INSTALL_LINK_HOST}",
+        "inviteMessage": "Selam! Bil bakalım ne buldum? Harika bir Free TON cüzdanı ve mobil banka hepsi bir arada! Kulağa iyi geliyor? O zaman Surf uygulamasını edinmek için bağlantıyı takip edin:\n\n{INSTALL_LINK_HOST}",
         "inviteToApplication": "{APP_NAME} uygulamasına davet et",
         "newContact": "Yeni kişi",
         "otherContacts": "Kişiler",
@@ -434,7 +434,7 @@
             "title": "Contests"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -466,69 +466,12 @@
         "title": "Arayüz seçenekleri"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "Adres",
-                "value": "Tuukri 19-314, 10152 Tallinn, Estonya"
-            },
-            "company": {
-                "title": "Şirket",
-                "value": "Wallet solutions Ltd."
-            },
-            "copyright": {
-                "title": "Telif Hakkı",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
-            },
-            "email": {
-                "body": "Adres: {0}\nSürüm: {1}\n{2}:{3}\nCihaz: {4}",
-                "subject": "Sorunu bildir",
-                "title": "E-posta"
-            },
-            "faq": {
-                "title": "Yardım merkezi"
-            },
-            "licence2": {
-                "title": "Lisans",
-                "value": "Fiat ve sanal para biriminlerinin takas edilmesi hizmetleri Estonya MASAK'ı tarafından 28.02.2020 tarihinde sağlanmıştır."
-            },
-            "licence": {
-                "title": "Lisans",
-                "value": "FVR001411 sanal para cüzdanı hizmetinin yayınlanması Estonya MASAK'ı tarafından 28.02.2020 tarihinde sağlanmıştır."
-            },
-            "phone": {
-                "title": "Telefon",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "Kayıt numarası",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "Site",
-                "value": "ton.surf"
-            },
-            "title": "İş ayrıntıları"
-        },
         "confirmation": {
-            "antiFraud": "Dolandırıcılıkla Mücadele Politikasını okudum ve kabul ediyorum",
             "common": "Okudum ve kabul ediyorum",
             "confirm": "Kabul et",
-            "cookies": "Çerez Politikasını okudum ve kabul ediyorum",
             "gotIt": "Anladım",
-            "kycAml": "KYC & AML Politikasını okudum ve kabul ediyorum",
             "makeSure": "Selam, hadi herşeyi doğru yapalım ve anlaşmalar ve politikalarla başlayalım:",
-            "openUrl": "Yasal Uyarıları Aç",
-            "privacyPolicy": "Gizlilik Politikasını okudum ve kabul ediyorum",
-            "termsOfUse": "Kullanım Koşullarını okudum ve kabul ediyorum",
             "title": "Devam için kabul edin"
-        },
-        "mainScreen": {
-            "businessDetails": "İş ayrıntıları",
-            "cookiesPolicy": "Çerez Politikası",
-            "privacyPolicy": "Gizlilik Politikası",
-            "surfDecentralizationPolicy": "Surf Ademimerkeziyet Politikası",
-            "termsOfUse": "Kullanım Şartları",
-            "title": "Yasal Uyarılar"
         },
         "policy": {
             "title": {
@@ -633,7 +576,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -663,7 +606,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "Ademimerkeziyet Politikası"
+        "profileButtonTitle": "Ademimerkeziyet Politikası",
+        "surfDecentralizationPolicy": "Surf Ademimerkeziyet Politikası"
     },
     "lockScreen": {
         "PINCorrect": "PIN doğrudur",
@@ -1114,8 +1058,8 @@
         "main": {
             "earlyAccess": {
                 "button": "Anlaşıldı",
-                "description": "TON Labs, TON Surf'ü halka göstermekten heyecanını duyuyor! Hala erken erişim olduğundan beklenmedik davranışlar ortaya çıkabilir",
-                "devDescription": "TON Labs, TON Surf'ü halka göstermekten heyecanını duyuyor! Free TON deneme Yakutları ile hala erken erişimdir, bu nedenle beklenmedik davranışlar ortaya çıkabilir.",
+                "description": "TON Labs, Surf'ü halka göstermekten heyecanını duyuyor! Hala erken erişim olduğundan beklenmedik davranışlar ortaya çıkabilir",
+                "devDescription": "TON Labs, Surf'ü halka göstermekten heyecanını duyuyor! Free TON deneme Yakutları ile hala erken erişimdir, bu nedenle beklenmedik davranışlar ortaya çıkabilir.",
                 "title": "Önemli"
             },
             "securityCard": {
@@ -1382,14 +1326,19 @@
     "support": {
         "askQuestion": "Soru sor",
         "button": "Get support",
+        "email": {
+            "body": "Adres: {0}\nSürüm: {1}\n{2}:{3}\nCihaz: {4}",
+            "subject": "Sorunu bildir"
+        },
         "giveFeedback": {
             "button": "Give feedback",
             "subject": "Feedback"
         },
         "group": "Support group",
+        "helpCenter": "Yardım merkezi",
         "makeSuggestion": "Make a suggestion",
         "message": {
-            "first": "Selam! ben TON Surf Yardımcısıyım.",
+            "first": "Selam! ben Surf Yardımcısıyım.",
             "second": "Bana bir şey sorun, ben de size Surf'ün bu konuda neler yapabileceğini söyleyeyim."
         },
         "reportProblem": "Sorunu bildir",

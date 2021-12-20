@@ -434,7 +434,7 @@
             "title": "Contests"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -466,69 +466,12 @@
         "title": "Options d'interface"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "Adresse",
-                "value": "Tuukri 19-314, 10152 Tallinn, Estonie"
-            },
-            "company": {
-                "title": "Société",
-                "value": "Solutions de portefeuille Ltd."
-            },
-            "copyright": {
-                "title": "Copyright",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
-            },
-            "email": {
-                "body": "Adresse: {0}\n Version: {1}\n {2} : {3}\n Appareil: {4}",
-                "subject": "Signaler un problème",
-                "title": "Email"
-            },
-            "faq": {
-                "title": "Centre d'aide"
-            },
-            "licence2": {
-                "title": "Licence",
-                "value": "Fourniture de services d'échange d'une monnaie virtuelle contre une monnaie FIAT FRK001293 émise le 28.02.2020 par la CRF estonienne."
-            },
-            "licence": {
-                "title": "Licence",
-                "value": "Fourniture d'un service de portefeuille de monnaie virtuelle FVR001411 émis le 28.02.2020 par la CRF estonienne."
-            },
-            "phone": {
-                "title": "Téléphone",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "Numéro d'enregistrement",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "Site",
-                "value": "ton.surf"
-            },
-            "title": "Détails de l'entreprise"
-        },
         "confirmation": {
-            "antiFraud": "J'ai lu et j'accepte l'Anti-Fraud\n Politique",
             "common": "Je l'ai lu et je l'accepte",
             "confirm": "Confirmer",
-            "cookies": "J'ai lu et j'accepte la politique de cookies",
             "gotIt": "J'ai compris",
-            "kycAml": "J'ai lu et j'accepte la politique KYC & AML",
             "makeSure": "Salut, faisons les choses correctement et commençons par les accords et les politiques:",
-            "openUrl": "Ouvrez les notes juridiques",
-            "privacyPolicy": "J'ai lu et j'accepte la politique de confidentialité",
-            "termsOfUse": "J'ai lu et j'accepte les conditions d'utilisation",
             "title": "Accepter pour continuer"
-        },
-        "mainScreen": {
-            "businessDetails": "Détails de l'entreprise",
-            "cookiesPolicy": "Politique de cookies",
-            "privacyPolicy": "Politique de confidentialité",
-            "surfDecentralizationPolicy": "Politique de décentralisation Surf",
-            "termsOfUse": "Conditions d'utilisation",
-            "title": "Notes juridiques"
         },
         "policy": {
             "title": {
@@ -633,7 +576,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -663,7 +606,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "Politique de décentralisation"
+        "profileButtonTitle": "Politique de décentralisation",
+        "surfDecentralizationPolicy": "Politique de décentralisation Surf"
     },
     "lockScreen": {
         "PINCorrect": "Code PIN correct",
@@ -1114,8 +1058,8 @@
         "main": {
             "earlyAccess": {
                 "button": "Compris",
-                "description": "TON Labs est ravi de lancer TON Surf au public ! Il s'agit toujours d'un accès anticipé, un comportement inattendu peut donc se produire",
-                "devDescription": "TON Labs est ravi de présenter TON Surf au public! Il s'agit toujours d'un accès anticipé avec Free TON test Rubies, donc un comportement inattendu peut se produire.",
+                "description": "TON Labs est ravi de lancer Surf au public ! Il s'agit toujours d'un accès anticipé, un comportement inattendu peut donc se produire",
+                "devDescription": "TON Labs est ravi de présenter Surf au public! Il s'agit toujours d'un accès anticipé avec Free TON test Rubies, donc un comportement inattendu peut se produire.",
                 "title": "Important"
             },
             "securityCard": {
@@ -1382,14 +1326,19 @@
     "support": {
         "askQuestion": "Poser une question",
         "button": "Obtenir de l'aide",
+        "email": {
+            "body": "Adresse: {0}\n Version: {1}\n {2} : {3}\n Appareil: {4}",
+            "subject": "Signaler un problème"
+        },
         "giveFeedback": {
             "button": "Envoyez des commentaires",
             "subject": "Commentaires"
         },
         "group": "Groupe de soutien",
+        "helpCenter": "Centre d'aide",
         "makeSuggestion": "Faites une suggestion",
         "message": {
-            "first": "Salut, je suis TON Surf Assistant.",
+            "first": "Salut, je suis Surf Assistant.",
             "second": "Demandez-moi n'importe quoi et je vous dirai ce que Surf peut faire à ce sujet."
         },
         "reportProblem": "Signaler un problème",

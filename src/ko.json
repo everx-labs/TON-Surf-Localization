@@ -441,7 +441,7 @@
             "title": "컨테스트"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -473,69 +473,12 @@
         "title": "인터페이스 선택 사항"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "주소",
-                "value": "Tuukri 19-314, 10152 Tallinn, Estonia"
-            },
-            "company": {
-                "title": "회사",
-                "value": "Wallet solutions Ltd."
-            },
-            "copyright": {
-                "title": "COPYRIGHT",
-                "value": "TON Labs (TON Venture Studio)"
-            },
-            "email": {
-                "body": "주소: {0}\n버전: {1}\n{2}: {3}\n장치: {4}",
-                "subject": "문제를 보고하기",
-                "title": "이메일"
-            },
-            "faq": {
-                "title": "지원 센터"
-            },
-            "licence2": {
-                "title": "라이센스",
-                "value": "에스토니아 금융 기관(FIU)에서 2020.02.28에 발행한 법정 화폐 FRK001293과 가상 화폐를 교환하는 서비스를 제공합니다."
-            },
-            "licence": {
-                "title": "라이센스",
-                "value": "에스토니아 금융 기관(FIU)에서 2020.02.28에 발행한 가상 화폐 지갑 서비스(FVR001411)를 제공합니다"
-            },
-            "phone": {
-                "title": "핸드폰",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "사업자등록번호",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "사이트",
-                "value": "ton.surf"
-            },
-            "title": "비즈니스 세부 정보"
-        },
         "confirmation": {
-            "antiFraud": "사기 방지 정책을 읽고 동의합니다",
             "common": "저는 내용을 읽고 동의합니다",
             "confirm": "확인하기",
-            "cookies": "쿠키 정책을 읽고 동의합니다",
             "gotIt": "오케이",
-            "kycAml": "KYC & AML 정책을 읽고 동의합니다",
             "makeSure": "안녕하세요. 일을 제대로 하기 위해 정책부터 시작합시다",
-            "openUrl": "법적 고지 열기",
-            "privacyPolicy": "개인정보 보호정책을 읽고 동의합니다",
-            "termsOfUse": "이용약관을 읽고 동의합니다",
             "title": "계속하려면 동의하기"
-        },
-        "mainScreen": {
-            "businessDetails": "비즈니스 세부 정보",
-            "cookiesPolicy": "쿠키 정책",
-            "privacyPolicy": "개인 정보 정책",
-            "surfDecentralizationPolicy": "서프 탈중앙 정책",
-            "termsOfUse": "이용 약관",
-            "title": "법적 고지"
         },
         "policy": {
             "accuracy": {
@@ -557,14 +500,14 @@
                 "term": "엔드투엔드 분산"
             },
             "generalProvisions": {
-                "definitions": "본 서프 탈중앙 정책 (이하 “정책”)은 서프(이하 총체적 “서프”)의 모바일 어플과 웹 버전과 서프에서 제공하는 서비스(이하 “서비스”)를 귀하가 사용 시 적용됩니다. 서프 웹 버전은 ton.surf에서 사용가능하며 모바일 어플은 앱스토어와 구글 플레이에서 발행됩니다.",
+                "definitions": "본 서프 탈중앙 정책 (이하 “정책”)은 서프(이하 총체적 “서프”)의 모바일 어플과 웹 버전과 서프에서 제공하는 서비스(이하 “서비스”)를 귀하가 사용 시 적용됩니다. 서프 웹 버전은 ever.surf에서 사용가능하며 모바일 어플은 앱스토어와 구글 플레이에서 발행됩니다.",
                 "part2": "서프는 탈중앙 봇(“DeBot”)을 지원하는 특징을 가진 에버스케일 스마트 컨트랙트 지갑입니다. 이는 TON 작동시스템 (“TON OS”) 유저 환경으로 작용하며 이는 엔드투엔드 탈중앙화 (E2ED) 틀을 지원합니다.",
                 "part3": "서프의 개인정보처리 지침과 더불어 서프, 에버스케일 블록체인, TON, TON OS, E2ED, DeBot의 정의를 이해하시려면 본 정책을 주의 깊게 읽어주시길 바랍니다.",
                 "part4": "해당 정책은 현지화 목적으로 여러가지 언어로 발행되오나 영문판과 비영어권 언어의 버전 간 충돌이 있을시 영문판이 항상 우선시됩니다.",
                 "term": "일반 조항"
             },
             "intellectualProperty": {
-                "definitions": "서프 로고, 디자인, 그래픽, 그림, 소프트웨어 및 기타 관련 자료를 포함하되 이에 국한되지 않는 서프 및 ton.surf에 게시된 모든 콘텐츠 및 정보를 포함한 서프의 모든 저작권 및 기타 지적 재산은 TON Venture Studio에 독점적으로 속합니다. Ltd, 영국령 버진 아일랜드 법률에 따라 설립된 회사로 등록 사무소는 영국령 버진 아일랜드 캐럿베이 VG 1130, P.O Box 2136, 로드 타운, 코스탈 빌딩 위큰햄스 케이 II, 1층 (“TON Labs”)입니다 [Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\")].",
+                "definitions": "서프 로고, 디자인, 그래픽, 그림, 소프트웨어 및 기타 관련 자료를 포함하되 이에 국한되지 않는 서프 및 ever.surf에 게시된 모든 콘텐츠 및 정보를 포함한 서프의 모든 저작권 및 기타 지적 재산은 TON Venture Studio에 독점적으로 속합니다. Ltd, 영국령 버진 아일랜드 법률에 따라 설립된 회사로 등록 사무소는 영국령 버진 아일랜드 캐럿베이 VG 1130, P.O Box 2136, 로드 타운, 코스탈 빌딩 위큰햄스 케이 II, 1층 (“TON Labs”)입니다 [Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\")].",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "link2": "https://github.com/tonlabs/TON-SDK/blob/master/LICENSE",
                 "part2": "서프는 https://github.com/tonlabs/TON-SDK/에서 사용할 수 있는 TON Labs 오픈 소스 SDK를 기반으로 구축되었습니다.",
@@ -670,7 +613,8 @@
                 "term": "사용자 신원"
             }
         },
-        "profileButtonTitle": "탈중앙 정책"
+        "profileButtonTitle": "탈중앙 정책",
+        "surfDecentralizationPolicy": "서프 탈중앙 정책"
     },
     "lockScreen": {
         "PINCorrect": "정확한 암호",
@@ -1385,11 +1329,16 @@
     "support": {
         "askQuestion": "질문하기",
         "button": "지원 받기",
+        "email": {
+            "body": "주소: {0}\n버전: {1}\n{2}: {3}\n장치: {4}",
+            "subject": "문제를 보고하기"
+        },
         "giveFeedback": {
             "button": "피드백 제시하기",
             "subject": "피드백"
         },
         "group": "지원 그룹",
+        "helpCenter": "지원 센터",
         "makeSuggestion": "제안 보내기",
         "message": {
             "first": "안녕하세요? 저는 에버 서프 어시스턴트입니다.",

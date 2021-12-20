@@ -434,7 +434,7 @@
             "title": "Contests"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -466,69 +466,12 @@
         "title": "Opções de interface"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "Endereço",
-                "value": "Tuukri 19-314, 10152 Talín, Estônia"
-            },
-            "company": {
-                "title": "Empresa",
-                "value": "Wallet Solutions Ltd."
-            },
-            "copyright": {
-                "title": "Copyright",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
-            },
-            "email": {
-                "body": "Endereço: {0}\nVersão: {1}\n{2} : {3}\nDispositivo: {4}",
-                "subject": "Reportar um problema",
-                "title": "Email"
-            },
-            "faq": {
-                "title": "Central de ajuda"
-            },
-            "licence2": {
-                "title": "Licença",
-                "value": "Prestação de serviços de câmbio de uma moeda virtual por uma moeda fiduciária FRK001293 emitida em 28.02.2020 pela FIU da Estônia."
-            },
-            "licence": {
-                "title": "Licença",
-                "value": "Prestação de serviço de carteira de moeda virtual FVR001411 emitido em 28.02.2020 pela FIU da Estônia."
-            },
-            "phone": {
-                "title": "Telefone",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "Nº de registro",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "Site",
-                "value": "ton.surf"
-            },
-            "title": "Informações comerciais"
-        },
         "confirmation": {
-            "antiFraud": "Eu li e aceito a Política Anti-Fraude",
             "common": "Eu li e aceito",
             "confirm": "Confirmar",
-            "cookies": "Eu li e aceito a Política de Cookies",
             "gotIt": "Entendi",
-            "kycAml": "Eu li e aceito a Política KYC & AML",
             "makeSure": "Olá, vamos fazer as coisas direito e começar com os acordos e políticas:",
-            "openUrl": "Abra os Avisos Legais",
-            "privacyPolicy": "Eu li e aceito a Política de Privacidade",
-            "termsOfUse": "Eu li e aceito os Termos de Uso",
             "title": "Aceite para continuar"
-        },
-        "mainScreen": {
-            "businessDetails": "Informações comerciais",
-            "cookiesPolicy": "Política de Cookies",
-            "privacyPolicy": "Política de Privacidade",
-            "surfDecentralizationPolicy": "Política de Descentralização do Surf",
-            "termsOfUse": "Termos de Uso",
-            "title": "Avisos Legais"
         },
         "policy": {
             "title": {
@@ -633,7 +576,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -663,7 +606,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "Política de Descentralização"
+        "profileButtonTitle": "Política de Descentralização",
+        "surfDecentralizationPolicy": "Política de Descentralização do Surf"
     },
     "lockScreen": {
         "PINCorrect": "Código PIN correto",
@@ -1114,8 +1058,8 @@
         "main": {
             "earlyAccess": {
                 "button": "Entendido",
-                "description": "A TON Labs está animada com o lançamento do TON Surf para o público! Ainda é um lançamento preliminar, por isso alguns bugs podem aparecer.",
-                "devDescription": "A TON Labs está animada com o lançamento do TON Surf ao público! Ainda é um lançamento preliminar com Rubis de teste do Free TON, por isso alguns bugs podem aparecer.",
+                "description": "A TON Labs está animada com o lançamento do Surf para o público! Ainda é um lançamento preliminar, por isso alguns bugs podem aparecer.",
+                "devDescription": "A TON Labs está animada com o lançamento do Surf ao público! Ainda é um lançamento preliminar com Rubis de teste do Free TON, por isso alguns bugs podem aparecer.",
                 "title": "Importante"
             },
             "securityCard": {
@@ -1382,14 +1326,19 @@
     "support": {
         "askQuestion": "Faça uma pergunta",
         "button": "Obter suporte",
+        "email": {
+            "body": "Endereço: {0}\nVersão: {1}\n{2} : {3}\nDispositivo: {4}",
+            "subject": "Reportar um problema"
+        },
         "giveFeedback": {
             "button": "Enviar feedback",
             "subject": "Feedback"
         },
         "group": "Grupo de apoio",
+        "helpCenter": "Central de ajuda",
         "makeSuggestion": "Faça uma sugestão",
         "message": {
-            "first": "Oi, sou a Assistente do TON Surf.",
+            "first": "Oi, sou a Assistente do Surf.",
             "second": "Pergunte-me qualquer coisa e eu te direi o que o Surf pode fazer a respeito disso."
         },
         "reportProblem": "Reportar um problema",

@@ -434,7 +434,7 @@
             "title": "Contests"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -466,69 +466,12 @@
         "title": "Interface options"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "Address",
-                "value": "Tuukri 19-314, 10152 Tallinn, Estonia"
-            },
-            "company": {
-                "title": "Company",
-                "value": "Wallet solutions Ltd."
-            },
-            "copyright": {
-                "title": "Copyright",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
-            },
-            "email": {
-                "body": "Address: {0}\nVersion: {1}\n{2}: {3}\nDevice: {4}",
-                "subject": "Report a problem",
-                "title": "Email"
-            },
-            "faq": {
-                "title": "Help center"
-            },
-            "licence2": {
-                "title": "License",
-                "value": "Providing services of exchanging a virtual currency against a fiat currency FRK001293 issued 28.02.2020 by the Estonian FIU."
-            },
-            "licence": {
-                "title": "License",
-                "value": "Providing a virtual currency wallet service FVR001411 issued 28.02.2020 by the Estonian FIU."
-            },
-            "phone": {
-                "title": "Phone",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "Reg.number",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "Site",
-                "value": "ton.surf"
-            },
-            "title": "Business details"
-        },
         "confirmation": {
-            "antiFraud": "I have read and accept the Anti-Fraud\nPolicy",
             "common": "I have read and accept it",
             "confirm": "Confirm",
-            "cookies": "I have read and accept the Cookies Policy",
             "gotIt": "Got it",
-            "kycAml": "I have read and accept the KYC & AML Policy",
             "makeSure": "Hi there, let's do things right and start with agreements and policies:",
-            "openUrl": "Open the Legal Notices",
-            "privacyPolicy": "I have read and accept the Privacy Policy",
-            "termsOfUse": "I have read and accept the Terms of Use",
             "title": "Accept to continue"
-        },
-        "mainScreen": {
-            "businessDetails": "Business details",
-            "cookiesPolicy": "Cookies Policy",
-            "privacyPolicy": "Privacy Policy",
-            "surfDecentralizationPolicy": "Surf Decentralization Policy",
-            "termsOfUse": "Terms of Use",
-            "title": "Legal Notices"
         },
         "policy": {
             "title": {
@@ -633,7 +576,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -663,7 +606,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "Decentralization policy"
+        "profileButtonTitle": "Decentralization policy",
+        "surfDecentralizationPolicy": "Surf Decentralization Policy"
     },
     "lockScreen": {
         "PINCorrect": "PIN correct",
@@ -1382,11 +1326,16 @@
     "support": {
         "askQuestion": "Ask a question",
         "button": "Get support",
+        "email": {
+            "body": "Address: {0}\nVersion: {1}\n{2}: {3}\nDevice: {4}",
+            "subject": "Report a problem"
+        },
         "giveFeedback": {
             "button": "Give feedback",
             "subject": "Feedback"
         },
         "group": "Support group",
+        "helpCenter": "Help center",
         "makeSuggestion": "Make a suggestion",
         "message": {
             "first": "Hi, I am Surf Assistant.",

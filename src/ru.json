@@ -5,7 +5,7 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Additional Account"
+            "addMenuItem": "Extra Account"
         },
         "assets": {
             "addressCopied": "Адрес скопирован",
@@ -14,7 +14,9 @@
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
             "title": "Активы",
             "mainAccount": "Main account",
-            "multisigAccountTitle": "Счет с мультиподписью"
+            "multisigAccountTitle": "Счет с мультиподписью",
+            "flexPromo": "Flex. Soon...",
+            "tokenPromo": "Token. Soon..."
         },
         "charts": {
             "monthAgo": "30 дней назад",
@@ -109,6 +111,7 @@
             "farming": "Фарминг"
         },
         "saving": {
+            "surfStaking": "Surf Stakes",
             "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
@@ -690,22 +693,18 @@
         "currencies": {
             "CRYSTAL": {
                 "comment": "Токены Everscale",
-                "stake": "Ставки в эверах",
                 "title": "Мои эверы"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "stake": "",
                 "title": "My {0} tokens"
             },
             "RUBY": {
                 "comment": "Тестовые токены Everscale",
-                "stake": "Ставки в рубинах",
                 "title": "Мои рубины"
             },
             "SRFM": {
                 "comment": "Surf Medal True NFT tokens",
-                "stake": "",
                 "title": "Мои медали Surf"
             }
         },

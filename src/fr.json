@@ -5,7 +5,7 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Additional Account"
+            "addMenuItem": "Extra Account"
         },
         "assets": {
             "addressCopied": "Adresse du portefeuille copiée dans le presse-papiers",
@@ -14,7 +14,9 @@
             "description": "Glissez-déposez pour échanger des fonds et rééquilibrer vos actifs",
             "title": "Actifs",
             "mainAccount": "Main account",
-            "multisigAccountTitle": "Multisig account"
+            "multisigAccountTitle": "Multisig account",
+            "flexPromo": "Flex. Soon...",
+            "tokenPromo": "Token. Soon..."
         },
         "charts": {
             "monthAgo": "Il y a 30 jours",
@@ -109,6 +111,7 @@
             "farming": "Farming"
         },
         "saving": {
+            "surfStaking": "Surf Stakes",
             "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
@@ -690,22 +693,18 @@
         "currencies": {
             "CRYSTAL": {
                 "comment": "Jetons Free TON",
-                "stake": "Stakes de Crystal",
                 "title": "Mes cristaux"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "stake": "",
                 "title": "My {0} tokens"
             },
             "RUBY": {
                 "comment": "Jetons de test Free TON",
-                "stake": "Stakes de Ruby",
                 "title": "Mes Rubis"
             },
             "SRFM": {
                 "comment": "Jeton True NFT Médaille Surf",
-                "stake": "",
                 "title": "Mes médailles de Surf"
             }
         },

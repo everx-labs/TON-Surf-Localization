@@ -5,7 +5,7 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Additional Account"
+            "addMenuItem": "Extra Account"
         },
         "assets": {
             "addressCopied": "Cüzdan adresi panoya kopyalandı",
@@ -14,7 +14,9 @@
             "description": "Para takası yapmak ve varlıklarınızı yeniden dengelemek için sürükle ve bırak",
             "title": "Varlık",
             "mainAccount": "Main account",
-            "multisigAccountTitle": "Multisig account"
+            "multisigAccountTitle": "Multisig account",
+            "flexPromo": "Flex. Soon...",
+            "tokenPromo": "Token. Soon..."
         },
         "charts": {
             "monthAgo": "30 gün önce",
@@ -109,6 +111,7 @@
             "farming": "Farming"
         },
         "saving": {
+            "surfStaking": "Surf Stakes",
             "everStakesDesc": "Get up to 5.0 % a year"
         },
         "subscriptions": {
@@ -690,22 +693,18 @@
         "currencies": {
             "CRYSTAL": {
                 "comment": "Free TON tokens",
-                "stake": "Crystal Stakes",
                 "title": "My Crystals"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "stake": "",
                 "title": "My {0} tokens"
             },
             "RUBY": {
                 "comment": "Free TON test tokens",
-                "stake": "Ruby Stakes",
                 "title": "My Rubies"
             },
             "SRFM": {
                 "comment": "Surf Medal True NFT tokens",
-                "stake": "",
                 "title": "My Surf Medals"
             }
         },

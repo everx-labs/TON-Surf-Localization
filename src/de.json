@@ -212,7 +212,7 @@
             "addressInput": {
                 "auto": "Select main address",
                 "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
+                "invalidAddress": "Invalid address.",
                 "manual": "Manuell eingeben"
             },
             "agreement": {
@@ -849,7 +849,7 @@
                     "title": "Open-Source für Entwickler"
                 },
                 "development": {
-                    "description": "Machen Sie es Ihnen mit dem Kostenlosen Everscale SDK. Sie können die Karte für Ihre eigenen smart contracts und Anwendungsfälle Programmieren",
+                    "description": "Machen Sie es Ihnen mit dem Everscale SDK. Sie können die Karte für Ihre eigenen smart contracts und Anwendungsfälle Programmieren",
                     "title": "Open-source und erweiterbar"
                 },
                 "personalization": {
@@ -1412,7 +1412,7 @@
             "title": "Schützen Sie Ihre Tokens"
         },
         "recipient": {
-            "address": "Kostenlose TON-Adresse",
+            "address": "Everscale-Adresse",
             "email": "E-Mail",
             "phone": "Telefonnummer"
         },
@@ -1424,9 +1424,9 @@
                 "private": "rubies",
                 "tonlabs": "rubies"
             },
-            "enterValidAddress": "Kostenlose TON Adresse ...",
+            "enterValidAddress": "Everscale Adresse ...",
             "from": "Von",
-            "invalidAddress": "Ungültige TON-Adresse.",
+            "invalidAddress": "Ungültige Adresse.",
             "recipientWarning": "Hinweis: Bei Fehlern geht das Geld verloren",
             "title": "Tokens senden"
         },

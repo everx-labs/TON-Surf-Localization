@@ -212,7 +212,7 @@
             "addressInput": {
                 "auto": "Select main address",
                 "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
+                "invalidAddress": "Invalid address.",
                 "manual": "Introduzca manualmente"
             },
             "agreement": {
@@ -1424,9 +1424,9 @@
                 "private": "rubies",
                 "tonlabs": "rubies"
             },
-            "enterValidAddress": "Dirección de TON libre...",
+            "enterValidAddress": "Dirección de Everscale...",
             "from": "De",
-            "invalidAddress": "Dirección de TON no válida.",
+            "invalidAddress": "Dirección no válida.",
             "recipientWarning": "¡Asegúrate de que la dirección es correcta! ¡Las transferencias enviadas no pueden ser revertidas!",
             "title": "Enviar tokens"
         },

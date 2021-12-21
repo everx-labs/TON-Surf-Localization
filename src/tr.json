@@ -212,7 +212,7 @@
             "addressInput": {
                 "auto": "Ana adresi seç",
                 "enterAddress": "Adresinizi girin",
-                "invalidAddress": "Geçersiz TON adresi.",
+                "invalidAddress": "Geçersiz adresi.",
                 "manual": "Elle gir"
             },
             "agreement": {
@@ -1426,7 +1426,7 @@
             },
             "enterValidAddress": "Everscale adresi...",
             "from": "Gönderen:",
-            "invalidAddress": "Geçersiz TON adresi.",
+            "invalidAddress": "Geçersiz adresi.",
             "recipientWarning": "Adresin doğru olduğunu kontrol edin! Gönderilen aktarım geri alınamaz!",
             "title": "Para gönder"
         },

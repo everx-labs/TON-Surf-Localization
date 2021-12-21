@@ -212,7 +212,7 @@
             "addressInput": {
                 "auto": "Select main address",
                 "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
+                "invalidAddress": "无效的地址。",
                 "manual": "Enter manually"
             },
             "agreement": {
@@ -298,7 +298,7 @@
             "failedToSend": "发送消息失败。请稍后再试"
         },
         "labels": {
-            "address": "免费的TON钱包地址",
+            "address": "Everscale钱包地址",
             "establishingConnection": "正在建立安全连接……",
             "today": "今天",
             "yesterday": "昨天"
@@ -1424,9 +1424,9 @@
                 "private": "rubies",
                 "tonlabs": "rubies"
             },
-            "enterValidAddress": "免费TON地址",
+            "enterValidAddress": "Everscale地址",
             "from": "从",
-            "invalidAddress": "无效的TON地址。",
+            "invalidAddress": "无效的地址。",
             "recipientWarning": "确保地址正确！发送的转账不能撤销！",
             "title": "发送代币"
         },

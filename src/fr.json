@@ -212,7 +212,7 @@
             "addressInput": {
                 "auto": "Sélectionnez l'adresse principale",
                 "enterAddress": "Entrez votre adresse",
-                "invalidAddress": "Adresse TON non valide.",
+                "invalidAddress": "Adresse non valide.",
                 "manual": "Entrer manuellement"
             },
             "agreement": {
@@ -1426,7 +1426,7 @@
             },
             "enterValidAddress": "Adresse Everscale",
             "from": "De",
-            "invalidAddress": "Adresse TON non valide.",
+            "invalidAddress": "Adresse non valide.",
             "recipientWarning": "Remarque: s'il y a des erreurs, les fonds seront perdus",
             "title": "Envoyer des tokens"
         },

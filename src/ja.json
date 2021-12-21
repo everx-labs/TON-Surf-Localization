@@ -212,7 +212,7 @@
             "addressInput": {
                 "auto": "Select main address",
                 "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
+                "invalidAddress": "無効なアドレス。",
                 "manual": "Enter manually"
             },
             "agreement": {
@@ -1426,7 +1426,7 @@
             },
             "enterValidAddress": "Everscaleアドレス",
             "from": "差出人",
-            "invalidAddress": "無効なTONアドレス。",
+            "invalidAddress": "無効なアドレス。",
             "recipientWarning": "注: エラーがあった場合、資金は失われます",
             "title": "トークンを送信する"
         },

@@ -95,8 +95,7 @@
                 "shareMsg": "私の{0}アドレス：\n{1}"
             },
             "nets": {
-                "mainnet": "Free TON",
-                "private": "プライベート",
+                "mainnet": "Everscale",
                 "tonlabs": "デブネット"
             },
             "titles": {
@@ -356,7 +355,7 @@
         "info": {
             "firstName": "名",
             "lastName": "姓",
-            "tonAddress": "無料のTONウォレットアドレス"
+            "address": "Everscaleウォレットアドレス"
         },
         "invitation": {
             "view": {
@@ -366,7 +365,7 @@
             }
         },
         "inviteFriends": "友達を招待する",
-        "inviteMessage": "素晴らしいことを見つけました！無料のTONウォレットとモバイルバンクがすべて1つに！いかがですか？次のリンクをクリックするとTONSurfアプリを入手します。\n\n {INSTALL_LINK_HOST}",
+        "inviteMessage": "素晴らしいことを見つけました！Everscaleウォレットとモバイルバンクがすべて1つに！いかがですか？次のリンクをクリックするとTONSurfアプリを入手します。\n\n {INSTALL_LINK_HOST}",
         "inviteToApplication": "{APP_NAME} に招待する",
         "newContact": "新しい連絡先",
         "otherContacts": "連絡先",
@@ -575,7 +574,7 @@
             },
             "taxes": {
                 "term": "Taxes",
-                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Free TON."
+                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Everscale."
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
@@ -692,15 +691,15 @@
         "congrats": "人生を変えて、おめでとうございます。これは痛くないですね。",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Free TON tokens",
-                "title": "My Crystals"
+                "comment": "Everscale tokens",
+                "title": "My Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
                 "title": "My {0} tokens"
             },
             "RUBY": {
-                "comment": "Free TON test tokens",
+                "comment": "Everscale test tokens",
                 "title": "My Rubies"
             },
             "SRFM": {
@@ -734,7 +733,6 @@
         "PINCorrect": "PINが正しいです",
         "PINDoesNotMatch": "PIN が一致しません",
         "PINNotCorrect": "PINが正しくありません",
-        "TONAddress": "無料のTONアドレス",
         "address": "アドレス",
         "addressAndKeys": "アドレスとキー",
         "altAddress": "代替アドレス形式",
@@ -745,6 +743,7 @@
             "iris": "Iris",
             "touchID": "タッチ ID"
         },
+        "blockchainAddress": "Everscaleアドレス",
         "changePinCode": "PINを変更する",
         "confirmNewPin": "PINを確認する",
         "enterNewPin": "新しいPIN",
@@ -846,11 +845,11 @@
             "laterBtn": "いいえ、後で",
             "learnMore": {
                 "developers": {
-                    "description": "Free TON SDKでは、自分のスマートコントラクトとユースケースに合わせてカードをプログラムできます",
+                    "description": "Everscale SDKでは、自分のスマートコントラクトとユースケースに合わせてカードをプログラムできます",
                     "title": "開発者向けのオープンソース"
                 },
                 "development": {
-                    "description": "Free TON SDKでは、自分のスマートコントラクトとユースケースに合わせてカードをプログラムできます。",
+                    "description": "Everscale SDKでは、自分のスマートコントラクトとユースケースに合わせてカードをプログラムできます。",
                     "title": "オープンソースで拡張可能"
                 },
                 "personalization": {
@@ -873,7 +872,7 @@
                     "description": "シングルチップ設計、EAL 6+認定、フォーマル検証済みマルチシグニチャウォレットスマートコントラクト、および暗号化により、資産を安全に保ちます",
                     "title": "最先端のセキュリティ技術"
                 },
-                "title": "FreeTON用のセキュリティカード"
+                "title": "Advantages"
             },
             "menuTitle": "セキュリティカード",
             "moreFeaturesSoon": "セキュリティカードの機能がまもなく登場します。",
@@ -908,7 +907,7 @@
             "scanCode": "コードをスキャンする",
             "scanCodeDescription": "カードのコードをスキャンし、カードをデバイスの横に置いたら、接続します。",
             "screenTitle": "セキュリティカード",
-            "shareSecurityCardMessage": "FreeTONブロックチェーンでの完全にパーソナライズされたハードウェアウォレット：最初からあなたしか管理できないものです。\n\n{0}",
+            "shareSecurityCardMessage": "Everscaleブロックチェーンでの完全にパーソナライズされたハードウェアウォレット：最初からあなたしか管理できないものです。\n\n{0}",
             "shareSecurityCardSubtitle": "セキュリティカード\nTON Labs",
             "shareSecurityCardSuccess": "リンクはコピーされました。",
             "shipping": "出荷",
@@ -955,11 +954,11 @@
                     "title": "寸法"
                 },
                 "extended": {
-                    "description": "カードには120KBの空きメモリーがあるため、独自のデータをカードに書き込むことができます。\nオープンソースのFree TON SDKを提供しているので、カードを自分のスマートコントラクトでプログラムして、銀行カード、建物のアクセスカードなどの使い方が可能です。",
+                    "description": "カードには120KBの空きメモリーがあるため、独自のデータをカードに書き込むことができます。\nオープンソースのEverscale SDKを提供しているので、カードを自分のスマートコントラクトでプログラムして、銀行カード、建物のアクセスカードなどの使い方が可能です。",
                     "title": "拡張使用"
                 },
                 "extendedUse": {
-                    "description": "カードには120KBの空きメモリーがあるため、独自のデータをカードに書き込むことができます。\nオープンソースのTONLabs APIを提供しているので、カードを自分のスマートコントラクトでプログラムして、銀行カード、建物のアクセスカードなどの使い方が可能です。",
+                    "description": "カードには120KBの空きメモリーがあるため、独自のデータをカードに書き込むことができます。\nオープンソースのEverscale APIを提供しているので、カードを自分のスマートコントラクトでプログラムして、銀行カード、建物のアクセスカードなどの使い方が可能です。",
                     "title": "拡張使用"
                 },
                 "hardware": {
@@ -981,10 +980,10 @@
                 "added": "待機リストに追加されました。カード注文の開始についてお知らせします。",
                 "addedToastMsg": "待機リストに追加されました",
                 "comingThisDecemberBtn": "今年の12月に",
-                "description": "無料TONのためのTONLabs セキュリティカードは、ユニークなNFCスマートカードです 。 あなたのデータを安全に保ち、あなただけの特別な使い方もできるカードです。",
-                "joinWaitlistBtn": "順番待ちリストに参加する",
+                "description": " 。 あなたのデータを安全に保ち、あなただけの特別な使い方もできるカードです。",
+                "joinWaitlistBtn": "めのTONLabs セキュリティカードは、ユニークなNFCスマートカードです待ちリストに参加する",
                 "learnMoreBtn": "詳細情報",
-                "policy": "TONLabsセキュリティカードをFreeTONで使用することにより、あなたは、当社の利用規約とポリシーに同意します。",
+                "policy": "TONLabsセキュリティカードをEverscaleで使用することにより、あなたは、当社の利用規約とポリシーに同意します。",
                 "techSpecsBtn": "技術仕様",
                 "title": "普通のハードウェアウォレットじゃありません"
             }
@@ -1055,12 +1054,6 @@
             "remindLater": "後で思い出させる"
         },
         "main": {
-            "earlyAccess": {
-                "button": "理解した",
-                "description": "TON LabsはSurf をリリースことに興奮しています!早期アクセスのバージョンであり、予期しない動作が発生する可能性があります。",
-                "devDescription": "TON LabsはSurf をリリースことに興奮しています!無料のTONテストルビーでの早期アクセスのバージョンであり、予期しない動作が発生する可能性があります。",
-                "title": "重要"
-            },
             "securityCard": {
                 "create": "新しいSurfに繋がる",
                 "restore": "既存へのリンク"
@@ -1110,7 +1103,7 @@
             },
             "wallet": {
                 "description": "最高の機会のにSurfし、安全を維持し、情報に基づいた意思決定を行います。",
-                "title": "Surfは、無料TONブロックチェーンでナビゲートするのに役立ちます。"
+                "title": "Surfは、Everscaleブロックチェーンでナビゲートするのに役立ちます。"
             }
         },
         "welcome": {
@@ -1160,52 +1153,6 @@
         }
     },
     "stake": {
-        "about": {
-            "button": "了解しました！",
-            "description": "Free TONブロック検証に参加し、それから利益を得るためにステークを作成します。\n\nステークは、バリデーターの選挙に参加するノードにプールされます。選挙が始まると、ステークはロックされます。\n\nノードが負けた場合、ステークは解放されます。それが勝った場合、ステークは検証ラウンドが終了するまでロックされたままになります。ラウンドが終了すると、ステークと収益はユーザーに返済されます。\n\n単一のステークを作成するか、[自動再開]オプションを有効にして、複数の再生可能なステークを交互に実行しする操作があります。\n\nバリデーターの不正行為により、ステークの全部または一部が失われるリスクがあることをご了承ください。",
-            "title": "ステーキングとは何ですか？"
-        },
-        "bot": {
-            "autoresumeDisable": "自動再開を無効にする",
-            "autoresumeDisabled": "自動再開が無効済み",
-            "autoresumeEnable": "自動再開を有効にする",
-            "autoresumeEnabled": "自動再開が有効",
-            "autoresumeFee": "自動再開料",
-            "available": "{0}は引き出し可能です",
-            "compliment": "お世辞",
-            "deposit": "{0}がステークに追加され、次のラウンドで利用できるようになります。自動再開オプションが有効になりました。",
-            "errors": {
-                "autoresume": "トランザクションを作成するための残高が不十分です。残高を補充してください",
-                "closedPool": "ステーキングプールは閉鎖されています。",
-                "default": "エラーが発生しました。資金はあなたのSurfウォレットに戻されました",
-                "lessThanMinStake": "ステークが拒否されました：ステークの金額が許容最小金額よりも少ない",
-                "noRoundsInPool": "ステーキングプールにはラウンドがありません。",
-                "notEnoughFeesForOperation": "トランザクションが失敗しました: 不十分な受け取り金額",
-                "roundIsFull": "ステークラウンド制限に達しました。新しいステークは受け入れられません。次のラウンドまでお待ちください。",
-                "stakeDeposit": "ステークデポジットを開けません。",
-                "stakeholderHasNoStakeInPool": "指定された利害関係者に対するステークが検出されない",
-                "success": "資金がデポシットに追加されました",
-                "withdraw": "現在、引き出し可能なトークンはありません。ステークから引き出には、必ず自動再開オプションを無効にしてください",
-                "withdrawError": "現時、資金を引き出すことはできません。後でもう一度やり直してください。"
-            },
-            "noRewardMessages": {
-                "lostElections": "選挙は失われました",
-                "missedElections": "選挙は逃した",
-                "nodeStakeTooSmall": "ノードのステークが小さすぎます",
-                "notEnoughTotal": "総出資数が十分ではありませんでした",
-                "poolClosed": "プールが閉じられました",
-                "roundWasFinished": "ラウンドは報酬の支払いなしで途中で終了しました。理由: {0}",
-                "stakeRejected": "ステークは拒否されました",
-                "wentWrong": "何かがうまくいかなかったです。"
-            },
-            "reinvest": "{0}は次のラウンドに再賭けられます",
-            "reward": "報酬",
-            "stakeDeposit": "ステーク",
-            "stakeWithdraw": "引き出す",
-            "stakingFee": "ステーキング料金",
-            "withdrawFunds": "資金を引き出す",
-            "withdrawalFee": "引き出し手数料"
-        },
         "dePoolStaking": {
             "age": {
                 "definition": " – this indicates how many rounds this DePool has been active.",
@@ -1233,6 +1180,7 @@
             "dash": "—",
             "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
             "fundsControl": "Full control of your funds",
+            "gotIt": "了解しました！",
             "lockUpPeriod": {
                 "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
                 "term": "Lock-up period"

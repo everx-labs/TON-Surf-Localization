@@ -298,7 +298,7 @@
             "failedToSend": "メッセージを送信できませんでした。後でもう一度やり直してください"
         },
         "labels": {
-            "address": "無料のTONウォレットアドレス",
+            "address": "Everscaleウォレットアドレス",
             "establishingConnection": "安全な接続を確立しています...",
             "today": "今日",
             "yesterday": "昨日"
@@ -1424,7 +1424,7 @@
                 "private": "rubies",
                 "tonlabs": "rubies"
             },
-            "enterValidAddress": "無料のTONアドレス",
+            "enterValidAddress": "Everscaleアドレス",
             "from": "差出人",
             "invalidAddress": "無効なTONアドレス。",
             "recipientWarning": "注: エラーがあった場合、資金は失われます",

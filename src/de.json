@@ -366,7 +366,7 @@
             }
         },
         "inviteFriends": "Freunde einladen",
-        "inviteMessage": "Hey, rate mal, was ich gefunden habe? Eine große Free TON Brieftasche und eine mobile bank, alles in einem! Klingt gut? Folgen Sie dann dem link, um zur TON Surf app zu Gelangen:\n{INSTALL_LINK_HOST}",
+        "inviteMessage": "Hey, rate mal, was ich gefunden habe? Eine große Free TON Brieftasche und eine mobile bank, alles in einem! Klingt gut? Folgen Sie dann dem link, um zur Surf app zu Gelangen:\n{INSTALL_LINK_HOST}",
         "inviteToApplication": "Einladen zu {APP_NAME}",
         "newContact": "Neukontakte",
         "otherContacts": "Kontakte",
@@ -437,7 +437,7 @@
             "title": "Contests"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -469,69 +469,12 @@
         "title": "Schnittstellenoptionen"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "Adresse",
-                "value": "Tuukri 19-314, 10152 Tallinn, Estland"
-            },
-            "company": {
-                "title": "Unternehmen",
-                "value": "Wallet Solutions Ltd."
-            },
-            "copyright": {
-                "title": "Urheberrecht",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
-            },
-            "email": {
-                "body": "Adresse {0}\nVersion {1}\n{2}: {3}\nGerät: {4}",
-                "subject": "Ein Problem melden",
-                "title": "Email"
-            },
-            "faq": {
-                "title": "Hilfezentrum"
-            },
-            "licence2": {
-                "title": "Lizenz",
-                "value": "Erbringung von Dienstleistungen zum Umtausch einer virtuellen Währung gegen eine Fiat-Währung FRK001293, ausgestellt am 28.02.2020 von der estnischen FIU."
-            },
-            "licence": {
-                "title": "Lizenz",
-                "value": "Bereitstellung eines virtuellen Währungs-wallet-service FVR001411 ausgestellt 28.02.2020 von der Estnischen FIU."
-            },
-            "phone": {
-                "title": "Telefon\n",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "Reg.nummer",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "Seite",
-                "value": "connect@ton.surf"
-            },
-            "title": "Geschäftsdetails"
-        },
         "confirmation": {
-            "antiFraud": "Ich habe die Betrugsbekämpfung gelesen und akzeptiere sie.\nPolitik",
             "common": "Ich habe es gelesen und akzeptiere es",
             "confirm": "Bestätigen",
-            "cookies": "Ich habe die Cookie-Richtlinie gelesen und akzeptiere sie.",
             "gotIt": "Verstanden",
-            "kycAml": "Ich habe die KYC & AML Policy gelesen und akzeptiere sie.",
             "makeSure": "Hallo, lasst uns die Dinge richtig machen und mit Vereinbarungen und Richtlinien beginnen:",
-            "openUrl": "Rechtshinweise öffnen",
-            "privacyPolicy": "Ich habe die Datenschutzerklärung gelesen und akzeptiere sie.",
-            "termsOfUse": "Ich habe die Nutzungsbedingungen gelesen und akzeptiere sie",
             "title": "Akzeptieren Sie die Fortsetzung"
-        },
-        "mainScreen": {
-            "businessDetails": "Geschäftsdetails",
-            "cookiesPolicy": "Richtlinie zu Cookies",
-            "privacyPolicy": "Datenschutzerklärung",
-            "surfDecentralizationPolicy": "Surf Dezentralisierungspolitik",
-            "termsOfUse": "Nutzungsbedingungen",
-            "title": "Rechtliche Hinweise"
         },
         "policy": {
             "title": {
@@ -636,7 +579,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -666,7 +609,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "Dezentralisierungspolitik"
+        "profileButtonTitle": "Dezentralisierungspolitik",
+        "surfDecentralizationPolicy": "Surf Dezentralisierungspolitik"
     },
     "lockScreen": {
         "PINCorrect": "PIN korrekt",
@@ -1113,7 +1057,7 @@
         "main": {
             "earlyAccess": {
                 "button": "Verstanden",
-                "description": "TON Labs freut sich, TON Surf der Öffentlichkeit zugänglich zu machen! Der Zugang ist noch zu früh, so dass unerwartetes Verhalten auftreten könnte.",
+                "description": "TON Labs freut sich, Surf der Öffentlichkeit zugänglich zu machen! Der Zugang ist noch zu früh, so dass unerwartetes Verhalten auftreten könnte.",
                 "devDescription": "TON Labs freut sich auftreten die Veröffentlichung, um der öffentlichkeit zu Surfen! Es ist immer noch early access mit Kostenlosen TON-test-Rubinen, so dass unerwartetes Verhalten auftreten kann.",
                 "title": "Wichtig"
             },
@@ -1381,14 +1325,19 @@
     "support": {
         "askQuestion": "Stellen Sie eine Frage",
         "button": "Hilfe erhalten",
+        "email": {
+            "body": "Adresse {0}\nVersion {1}\n{2}: {3}\nGerät: {4}",
+            "subject": "Ein Problem melden"
+        },
         "giveFeedback": {
             "button": "Feedback senden",
             "subject": "Feedback"
         },
         "group": "Selbsthilfegruppe",
+        "helpCenter": "Hilfezentrum",
         "makeSuggestion": "Einen Vorschlag machen",
         "message": {
-            "first": "Hallo, ich bin TON Surf Assistant.",
+            "first": "Hallo, ich bin Surf Assistant.",
             "second": "Fragen Sie mich etwas und ich werde Ihnen sagen, was Sie dagegen tun können."
         },
         "reportProblem": "Ein Problem melden",

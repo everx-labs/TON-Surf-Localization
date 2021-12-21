@@ -1,7 +1,7 @@
 {
     "name": "ton-surf-localization",
     "version": "6.2.1",
-    "description": "TON-Surf localization files",
+    "description": "Surf application localization files",
     "main": "src/index.ts",
     "scripts": {
         "tsc": "tsc"
@@ -14,9 +14,9 @@
         "url": "git+https://github.com/tonlabs/TON-Surf-Localization.git"
     },
     "keywords": [
-        "TON-Surf",
         "Surf",
-        "Free TON",
+        "Ever Surf",
+        "Everscale",
         "localization"
     ],
     "author": "TON Labs",

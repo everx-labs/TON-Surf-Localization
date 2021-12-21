@@ -437,7 +437,7 @@
             "title": "Конкурсы"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -469,69 +469,12 @@
         "title": "Настройки интерфейса"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "Адрес",
-                "value": "Туукри 19-314, 10152 Таллинн, Эстония"
-            },
-            "company": {
-                "title": "Компания",
-                "value": "Wallet solutions Ltd."
-            },
-            "copyright": {
-                "title": "Авторские права",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
-            },
-            "email": {
-                "body": "Адрес: {0}\nВерсия: {1}\n{2}: {3}\nУстройство: {4}",
-                "subject": "Сообщить о проблеме",
-                "title": "Адрес электронной почты"
-            },
-            "faq": {
-                "title": "Справочный центр"
-            },
-            "licence2": {
-                "title": "Лицензия",
-                "value": "Оказание услуг по обмену виртуальной валюты на фиатную валюту FRK001293, выдана 28.02.2020 Службой Финансового Надзора Эстонии"
-            },
-            "licence": {
-                "title": "Лицензия",
-                "value": "Предоставление услуги кошелька виртуальной валюты FVR001411, выдана 28.02.2020 БДОД Эстонии."
-            },
-            "phone": {
-                "title": "Телефон",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "Регистрационный номер",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "Сайт",
-                "value": "ever.surf"
-            },
-            "title": "Информация о компании"
-        },
         "confirmation": {
-            "antiFraud": "Я прочитал(а) и принимаю условия Политики по борьбе\nс мошенничеством",
             "common": "Я прочитал(а) и принимаю условия",
             "confirm": "Подтвердить",
-            "cookies": "Я прочитал(а) и принимаю условия Политики использования\ncookie",
             "gotIt": "Понятно",
-            "kycAml": "Я прочитал(а) и принимаю условия Политики KYC и AML",
             "makeSure": "Привет, давай всё правильно сделаем и начнем с соглашений и политик:",
-            "openUrl": "Открыть Правовое уведомление",
-            "privacyPolicy": "Я прочитал(а) и принимаю условия\nПолитики конфиденциальности",
-            "termsOfUse": "Я прочитал(а) и принимаю Условия использования приложения",
             "title": "Примите, чтобы продолжить"
-        },
-        "mainScreen": {
-            "businessDetails": "Информация о компании",
-            "cookiesPolicy": "Политика использования файлов cookie",
-            "privacyPolicy": "Политика конфиденциальности",
-            "surfDecentralizationPolicy": "Политика децентрализации",
-            "termsOfUse": "Условия использования",
-            "title": "Правовое уведомление"
         },
         "policy": {
             "title": {
@@ -636,7 +579,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -666,7 +609,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "Политика децентрализации"
+        "profileButtonTitle": "Политика децентрализации",
+        "surfDecentralizationPolicy": "Политика децентрализации"
     },
     "lockScreen": {
         "PINCorrect": "PIN-код верный",
@@ -1381,11 +1325,16 @@
     "support": {
         "askQuestion": "Задать вопрос",
         "button": "Получить помощь",
+        "email": {
+            "body": "Адрес: {0}\nВерсия: {1}\n{2}: {3}\nУстройство: {4}",
+            "subject": "Сообщить о проблеме"
+        },
         "giveFeedback": {
             "button": "Отправить отзыв",
             "subject": "Обратная связь"
         },
         "group": "Группа поддержки",
+        "helpCenter": "Справочный центр",
         "makeSuggestion": "Внести предложение",
         "message": {
             "first": "Привет, я ассистент Surf.",

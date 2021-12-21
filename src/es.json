@@ -92,7 +92,7 @@
             "labels": {
                 "app": "Surf",
                 "newCoinsSoonMsg": "Al igual que tú, no podemos esperar al lanzamiento de nuevos activos para disfrutar de sus beneficios",
-                "shareMsg": "Mi dirección: \n{1}\n\nhttps://ton.surf"
+                "shareMsg": "Mi dirección: \n{1}"
             },
             "nets": {
                 "mainnet": "Free TON",
@@ -366,7 +366,7 @@
             }
         },
         "inviteFriends": "Invitar amigos",
-        "inviteMessage": "¡Mira lo que encontré! ¡Una genial cartera Free TON y un banco móvil, todo en uno! ¿Suena bien? Entonces sigue el enlace para conseguir la aplicación TON Surf:\n\n{INSTALL_LINK_HOST}",
+        "inviteMessage": "¡Mira lo que encontré! ¡Una genial cartera Free TON y un banco móvil, todo en uno! ¿Suena bien? Entonces sigue el enlace para conseguir la aplicación Surf:\n\n{INSTALL_LINK_HOST}",
         "inviteToApplication": "Invitar a la APP_NAME",
         "newContact": "Nuevo contacto",
         "otherContacts": "Contactos",
@@ -437,7 +437,7 @@
             "title": "Contests"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -469,69 +469,12 @@
         "title": "Opciones de interfaz"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "Dirección",
-                "value": "Tuukri 19-314, 10152 Tallinn, Estonia"
-            },
-            "company": {
-                "title": "Compañía",
-                "value": " Soluciones de Wallet Ltd."
-            },
-            "copyright": {
-                "title": "Derechos de autor",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
-            },
-            "email": {
-                "body": "Dirección: {0}\nVersión: {1}\n{2}: {3}\nDispositivo: {4}",
-                "subject": "Informar de un problema...",
-                "title": "Correo electrónico"
-            },
-            "faq": {
-                "title": "Centro de ayuda"
-            },
-            "licence2": {
-                "title": "Licencia",
-                "value": "Prestación de servicios de intercambio de una moneda virtual contra una moneda fiduciaria FRK001293 emitida el 28.02.2020 por la UIF de Estonia."
-            },
-            "licence": {
-                "title": "Licencia",
-                "value": "Proporcionar un servicio de billetera de moneda virtual FVR001411 emitida el 28.02.2020 por la UIF de Estonia."
-            },
-            "phone": {
-                "title": "Teléfono",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "Número de registro",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "Sitio",
-                "value": "ton.surf"
-            },
-            "title": "Detalles del negocio"
-        },
         "confirmation": {
-            "antiFraud": "He leído y acepto la política anti-fraude",
             "common": "Lo he leído y lo acepto",
             "confirm": "Confirmar",
-            "cookies": "He leído y acepto la Política de Cookies",
             "gotIt": "¡Entendido!",
-            "kycAml": "He leído y acepto la política de KYC & AML",
             "makeSure": "Hola, hagamos las cosas bien y empecemos con los acuerdos y políticas:",
-            "openUrl": "Abrir los avisos legales",
-            "privacyPolicy": "He leído y acepto la Política de Privacidad",
-            "termsOfUse": "He leído y acepto los Términos de Uso",
             "title": "Aceptar para continuar"
-        },
-        "mainScreen": {
-            "businessDetails": "Detalles del negocio",
-            "cookiesPolicy": "Política de cookies",
-            "privacyPolicy": "Política de privacidad",
-            "surfDecentralizationPolicy": "Política de descentralización de Surf",
-            "termsOfUse": "Términos de Uso",
-            "title": "Avisos legales"
         },
         "policy": {
             "title": {
@@ -636,7 +579,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -666,7 +609,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "Política de descentralización"
+        "profileButtonTitle": "Política de descentralización",
+        "surfDecentralizationPolicy": "Política de descentralización de Surf"
     },
     "lockScreen": {
         "PINCorrect": "PIN correcto",
@@ -1113,8 +1057,8 @@
         "main": {
             "earlyAccess": {
                 "button": "Entendido",
-                "description": "TON Labs está entusiasmado con el lanzamiento de TON Surf al público! Todavía es pronto para acceder con los rubíes de prueba de Free TON , así que puede ocurrir un comportamiento inesperado.",
-                "devDescription": "TON Labs está entusiasmado con el lanzamiento de TON Surf al público! Todavía es pronto para acceder con los rubíes de prueba de Free TON , así que puede ocurrir un comportamiento inesperado.",
+                "description": "TON Labs está entusiasmado con el lanzamiento de Surf al público! Todavía es pronto para acceder con los rubíes de prueba de Free TON , así que puede ocurrir un comportamiento inesperado.",
+                "devDescription": "TON Labs está entusiasmado con el lanzamiento de Surf al público! Todavía es pronto para acceder con los rubíes de prueba de Free TON , así que puede ocurrir un comportamiento inesperado.",
                 "title": "Importante"
             },
             "securityCard": {
@@ -1381,14 +1325,19 @@
     "support": {
         "askQuestion": "Haz una pregunta.",
         "button": "Obtener apoyo",
+        "email": {
+            "body": "Dirección: {0}\nVersión: {1}\n{2}: {3}\nDispositivo: {4}",
+            "subject": "Informar de un problema..."
+        },
         "giveFeedback": {
             "button": "Enviar comentarios",
             "subject": "Comentarios"
         },
         "group": "Grupo de apoyo",
+        "helpCenter": "Centro de ayuda",
         "makeSuggestion": "Haz una sugerencia",
         "message": {
-            "first": "Hola, soy TON Surf Assistant.",
+            "first": "Hola, soy Surf Assistant.",
             "second": "Pregúntame cualquier cosa y te diré lo que Surf puede hacer al respecto."
         },
         "reportProblem": "Informar de un problema...",

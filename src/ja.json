@@ -437,7 +437,7 @@
             "title": "Contests"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -469,69 +469,12 @@
         "title": "インターフェースオプション"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "住所",
-                "value": "トゥクリ 19-314, 10152 タリン, エストニア"
-            },
-            "company": {
-                "title": "会社",
-                "value": "Wallet solutions Ltd."
-            },
-            "copyright": {
-                "title": "著作権",
-                "value": "TON Labs (TON Venture Studio Ltd.)"
-            },
-            "email": {
-                "body": "アドレス：{0}\nバージョン：{1}\n{2}：{3}\nデバイス：{4}",
-                "subject": "問題を報告する",
-                "title": "Eメール"
-            },
-            "faq": {
-                "title": "ヘルプセンター"
-            },
-            "licence2": {
-                "title": "ライセンス",
-                "value": "仮想通貨を法定通貨と交換するサービスを提供すること、エストニアのFIUが2020年2月28日に発行したFRK001293。"
-            },
-            "licence": {
-                "title": "ライセンス",
-                "value": "仮想通貨ウォレットサービスの提供すること、エストニアのFIUが2020年2月28日に発行したFVR001411。"
-            },
-            "phone": {
-                "title": "電話",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "登録番号",
-                "value": "2004764, BVI"
-            },
-            "site": {
-                "title": "サイト",
-                "value": "ton.surf"
-            },
-            "title": "事業内容"
-        },
         "confirmation": {
-            "antiFraud": "私は詐欺防止のポリシーを読み、同意しました。",
             "common": "私はそれを読み、同意しました。",
             "confirm": "確認",
-            "cookies": "クッキーポリシーを読み、同意しました",
             "gotIt": "了解しました",
-            "kycAml": "KYC＆AMLポリシーを読み、同意しました",
             "makeSure": "こんにちは。正しいことをして、契約とポリシーから始めましょう。",
-            "openUrl": "法的通知を開く",
-            "privacyPolicy": "プライバシーポリシーを読み、同意します",
-            "termsOfUse": "利用規約を読み、同意します。",
             "title": "続行する前に同意してください"
-        },
-        "mainScreen": {
-            "businessDetails": "事業内容",
-            "cookiesPolicy": "クッキーポリシー",
-            "privacyPolicy": "プライバシーポリシー",
-            "surfDecentralizationPolicy": "Surfの分散ポリシー",
-            "termsOfUse": "利用規約",
-            "title": "法的通知"
         },
         "policy": {
             "title": {
@@ -636,7 +579,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -666,7 +609,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "分散ポリシー"
+        "profileButtonTitle": "分散ポリシー",
+        "surfDecentralizationPolicy": "Surfの分散ポリシー"
     },
     "lockScreen": {
         "PINCorrect": "PINが正しいです",
@@ -1113,8 +1057,8 @@
         "main": {
             "earlyAccess": {
                 "button": "理解した",
-                "description": "TON LabsはTON Surf をリリースことに興奮しています!早期アクセスのバージョンであり、予期しない動作が発生する可能性があります。",
-                "devDescription": "TON LabsはTON Surf をリリースことに興奮しています!無料のTONテストルビーでの早期アクセスのバージョンであり、予期しない動作が発生する可能性があります。",
+                "description": "TON LabsはSurf をリリースことに興奮しています!早期アクセスのバージョンであり、予期しない動作が発生する可能性があります。",
+                "devDescription": "TON LabsはSurf をリリースことに興奮しています!無料のTONテストルビーでの早期アクセスのバージョンであり、予期しない動作が発生する可能性があります。",
                 "title": "重要"
             },
             "securityCard": {
@@ -1381,11 +1325,16 @@
     "support": {
         "askQuestion": "質問する",
         "button": "Get support",
+        "email": {
+            "body": "アドレス：{0}\nバージョン：{1}\n{2}：{3}\nデバイス：{4}",
+            "subject": "問題を報告する"
+        },
         "giveFeedback": {
             "button": "Give feedback",
             "subject": "Feedback"
         },
         "group": "Support group",
+        "helpCenter": "ヘルプセンター",
         "makeSuggestion": "Make a suggestion",
         "message": {
             "first": "はじめまして、TONSurfのアシスタントです。",

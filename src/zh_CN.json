@@ -437,7 +437,7 @@
             "title": "Contests"
         },
         "exchanges": {
-            "bitcoin": "Bitcoin.com",
+            "fmfw": "FMFW.io",
             "coineal": "Coineal",
             "digifinex": "DigiFinex",
             "hitbtc": "HitBTC",
@@ -469,69 +469,12 @@
         "title": "Interface options"
     },
     "legalNotes": {
-        "businessDetails": {
-            "address": {
-                "title": "地址",
-                "value": "Tuukri 19-314, 10152 塔林, 爱沙尼亚"
-            },
-            "company": {
-                "title": "公司",
-                "value": "钱包解决方案有限公司"
-            },
-            "copyright": {
-                "title": "著作权",
-                "value": "TON实验室（TON创业工作室有限公司）"
-            },
-            "email": {
-                "body": "地址：{0}\n版本：{1}\n{2}:{3}\n设备：{4}",
-                "subject": "报告问题",
-                "title": "电子邮件"
-            },
-            "faq": {
-                "title": "帮助中心"
-            },
-            "licence2": {
-                "title": "许可证",
-                "value": "提供将法定货币兑换成虚拟货币的服务FRK001293 爱沙尼亚FIU于28.02.2020发行。"
-            },
-            "licence": {
-                "title": "许可证",
-                "value": "提供虚拟货币钱包服务FVR001411爱沙尼亚FIU于28.02.2020发行。"
-            },
-            "phone": {
-                "title": "电话",
-                "value": "+372 7124030"
-            },
-            "registration": {
-                "title": "登记号",
-                "value": "2004764， BVI"
-            },
-            "site": {
-                "title": "网站",
-                "value": "ton.surf"
-            },
-            "title": "业务详细信息"
-        },
         "confirmation": {
-            "antiFraud": "我已经阅读并接受反欺诈政策",
             "common": "我已阅读并接受",
             "confirm": "确认",
-            "cookies": "我已阅读并接受Cookies政策",
             "gotIt": "明白了",
-            "kycAml": "我已阅读并接受认识你的客户(KYC)和反洗钱(AML)政策",
             "makeSure": "你好， 让我们做正确的事， 从协议和政策开始：",
-            "openUrl": "打开法律声明",
-            "privacyPolicy": "我已阅读并接受隐私政策",
-            "termsOfUse": "我已阅读并接受使用条款",
             "title": "接受继续"
-        },
-        "mainScreen": {
-            "businessDetails": "业务详细信息",
-            "cookiesPolicy": "Cookies政策",
-            "privacyPolicy": "隐私政策",
-            "surfDecentralizationPolicy": "冲浪分权政策",
-            "termsOfUse": "使用条款",
-            "title": "法律声明"
         },
         "policy": {
             "title": {
@@ -636,7 +579,7 @@
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
-                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ton.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
+                "definitions": "All copyrights and other intellectual property of Surf, including all content and information published in Surf and in ever.surf, including but not limited to the Surf logo, designs, graphics, pictures, software and other related materials, belong exclusively to TON Venture Studio Ltd, a company incorporated under the laws of the British Virgin Islands, whose registered office is at Ground Floor, Coastal Building Wickhams Cay II, Road Town, P.O. Box 2136, Carrot Bay VG 1130, British Virgin Islands (\"TON Labs\").",
                 "part2": "Surf is built on top of TON Labs open source SDK available at:",
                 "link1": "https://github.com/tonlabs/TON-SDK/",
                 "part3": "Licensing information about TON Labs SDK can be found at:",
@@ -666,7 +609,8 @@
                 "part2": "Warning! As noted above, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation before accepting to use their services before using Surf."
             }
         },
-        "profileButtonTitle": "分权政策"
+        "profileButtonTitle": "分权政策",
+        "surfDecentralizationPolicy": "冲浪分权政策"
     },
     "lockScreen": {
         "PINCorrect": "PIN码正确",
@@ -1113,7 +1057,7 @@
         "main": {
             "earlyAccess": {
                 "button": "明白了",
-                "description": "TON Labs 很高兴能向公众发布 TON Surf！仍然是早期访问，所以可能发生意外行为。",
+                "description": "TON Labs 很高兴能向公众发布 Surf！仍然是早期访问，所以可能发生意外行为。",
                 "devDescription": "TON 实验室很高兴能向公众发布 TON冲浪！仍然是早期访问与免费 TON 测试红宝石，所以可能发生意外行为。",
                 "title": "重要"
             },
@@ -1381,11 +1325,16 @@
     "support": {
         "askQuestion": "提出问题",
         "button": "Get support",
+        "email": {
+            "body": "地址：{0}\n版本：{1}\n{2}:{3}\n设备：{4}",
+            "subject": "报告问题"
+        },
         "giveFeedback": {
             "button": "Give feedback",
             "subject": "Feedback"
         },
         "group": "Support group",
+        "helpCenter": "帮助中心",
         "makeSuggestion": "Make a suggestion",
         "message": {
             "first": "嗨， 我是TON冲浪助理。",

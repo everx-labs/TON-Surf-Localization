@@ -96,7 +96,6 @@
             },
             "nets": {
                 "mainnet": "에버스케일",
-                "private": "비공개성",
                 "tonlabs": "데브넷"
             },
             "titles": {
@@ -363,7 +362,7 @@
         "info": {
             "firstName": "이름",
             "lastName": "성",
-            "tonAddress": "에버스케일 지갑 주소"
+            "address": "에버스케일 지갑 주소"
         },
         "invitation": {
             "view": {
@@ -741,7 +740,6 @@
         "PINCorrect": "정확한 암호",
         "PINDoesNotMatch": "암호가 일치하지 않음",
         "PINNotCorrect": "잘못된 암호",
-        "TONAddress": "에버스케일 주소",
         "address": "주소",
         "addressAndKeys": "주소 및 키",
         "altAddress": "대체 주소 형식",
@@ -752,6 +750,7 @@
             "iris": "아이리스",
             "touchID": "Touch ID"
         },
+        "blockchainAddress": "에버스케일 주소",
         "changePinCode": "암호 변경하기",
         "confirmNewPin": "암호 확인하기",
         "enterNewPin": "새 암호",
@@ -1062,12 +1061,6 @@
             "remindLater": "나중에 상기시켜 주세요"
         },
         "main": {
-            "earlyAccess": {
-                "button": "알았습니다",
-                "description": "TON Labs는 에버 서프를 대중에게 공개하게 되는 것에 대해서 매우 흥분되었습니다! 에버스케일 테스트 루비는 제공하게 된 것은 얼마 안 되어서 문제가 발생할 수 있습니다.",
-                "devDescription": "TON Labs는 에버 서프를 대중에게 공개하게 되는 것에 대해서 매우 흥분되었습니다! 에버스케일 테스트 루비는 제공하게 된 것은 얼마 안 되어서 문제가 발생할 수 있습니다.",
-                "title": "중요"
-            },
             "securityCard": {
                 "create": "새로운 서프 연결하기",
                 "restore": "기존 링크"
@@ -1167,52 +1160,6 @@
         }
     },
     "stake": {
-        "about": {
-            "button": "알겠습니다",
-            "description": "에버스케일 블록 검증에 참여하고 이익을 얻으려면 스테이킹을 만드십시오.\n\n스테이킹은 벨리데이터 선거에 참여하는 노드로 추가됩니다. 선거가 시작되면 스테이킹이 잠깁니다.\n\n노드가 손실되면 스테이킹 잠금이 해제됩니다. 이기면 검증 라운드가 끝날 때까지 스테이킹이 잠긴 상태로 유지됩니다. 사용자는 라운드가 종료되면 스테이킹과 수익을 받습니다.\n\n단일 스테이킹을 만들거나 자동 재시작 기능을 활성화하여 여러 개의 대체 재생 가능 스테이킹을 실행합니다.\n\n벨리데이터 위법 행위로 인해 전체 또는 부분 스테이킹 손실의 위험이 있음을 유의하십시오.",
-            "title": "스테이킹이 무엇인가요?"
-        },
-        "bot": {
-            "autoresumeDisable": "자동 재시작 비활성화하기",
-            "autoresumeDisabled": "자동 재시작 비활성화됨",
-            "autoresumeEnable": "자동 재시작 활성화하기",
-            "autoresumeEnabled": "자동 재시작 활성화됨",
-            "autoresumeFee": "자동 재시작 수수료",
-            "available": "{0}(을)를 인출할 수 있습니다",
-            "compliment": "칭찬",
-            "deposit": "{0} 스테이킹에 추가되었고 다음 라운드에서 사용할 수 있습니다. 자동 추정 옵션이 활성화되었습니다.",
-            "errors": {
-                "autoresume": "트랜잭션을 만들기 위한 잔액이 부족합니다. 잔액을 최상으로 유지하십시오.",
-                "closedPool": "스테이킹 풀이 폐쇄됩니다.",
-                "default": "오류가 발생했습니다. 자금이 서핑 지갑으로 다시 이체되었습니다.",
-                "lessThanMinStake": "스테이킹 거부됨: 스테이킹된 금액이 최소 허용 금액보다 적습니다.",
-                "noRoundsInPool": "스테이킹 풀에 라운드 없음",
-                "notEnoughFeesForOperation": "트랜잭션 실패: 수신할 금액이 부족합니다",
-                "roundIsFull": "스테이크 라운드 제한에 도달했습니다. 새로운 스테이킹은 허용되지 않습니다. 다음 라운드까지 기다려 주세요",
-                "stakeDeposit": "스테이킹을 열지 못했습니다.",
-                "stakeholderHasNoStakeInPool": "지정된 스테이킹 관계자는 감지된 스테이킹이 없습니다.",
-                "success": "자금이 성공적으로 예금에 추가되었습니다",
-                "withdraw": "지금 인출할 수 있는 토큰이 없습니다. 스테이킹 자동 추정 옵션을 비활성화하여 스테이킹에서 철회할 수 있습니다.",
-                "withdrawError": "현재 자금을 인출할 수 없습니다. 나중에 다시 시도하십시오."
-            },
-            "noRewardMessages": {
-                "lostElections": "선거가 패배했습니다",
-                "missedElections": "선거가 누락되었습니다",
-                "nodeStakeTooSmall": "노드 스테이킹이 너무 작았습니다.",
-                "notEnoughTotal": "총 스테이킹 액수는 충분하지 않습니다",
-                "poolClosed": "스테이킹 풀이 폐쇠되었습니다",
-                "roundWasFinished": "보상 지급없이 라운드가 종료되었습니다. 이유: {0}",
-                "stakeRejected": "스테이킹이 거부되었습니다",
-                "wentWrong": "문제가 발생했습니다."
-            },
-            "reinvest": "{0}(은)는 다음 라운드에 다시 스테이킹되었니다.",
-            "reward": "보상",
-            "stakeDeposit": "스테이킹",
-            "stakeWithdraw": "인출하기",
-            "stakingFee": "스테이킹 수수료",
-            "withdrawFunds": "자금 인출하기",
-            "withdrawalFee": "인출 수수료"
-        },
         "dePoolStaking": {
             "age": {
                 "definition": ": 이것은 이 DePool이 활성화된 라운드 수를 나타냅니다.",
@@ -1240,6 +1187,7 @@
             "dash": "—",
             "description": "DePool은 누구나 스테이크를 공통 풀에 투자할 수 있도록 하는 스마트 컨트랙트입니다. 이 스테이크 투자한 사용자들을 대표하여 검증인이 검증인 선거에 스테이크를 사용하며 성공적인 검증 시 기여도에 비례하여 모든 구성원에게 보상을 지급합니다.",
             "fundsControl": "자금에 대한 완전한 통제",
+            "gotIt": "알겠습니다",
             "lockUpPeriod": {
                 "definition": ": DePool이 선거에 들어간 후 자금이 잠긴 기간입니다. 자금을 인출하기로 결정하면 자금이 잠금 해제되는 즉시 반환됩니다. 즉, 인출을 요청한 후 최대 1회의 잠금 기간이 필요합니다.",
                 "term": "락업 기간"

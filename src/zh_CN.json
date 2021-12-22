@@ -95,8 +95,7 @@
                 "shareMsg": "我的{0}地址：\n{1}"
             },
             "nets": {
-                "mainnet": "Free TON",
-                "private": "私人",
+                "mainnet": "Everscale",
                 "tonlabs": "开发网"
             },
             "titles": {
@@ -213,7 +212,7 @@
             "addressInput": {
                 "auto": "Select main address",
                 "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
+                "invalidAddress": "无效的地址。",
                 "manual": "Enter manually"
             },
             "agreement": {
@@ -299,7 +298,7 @@
             "failedToSend": "发送消息失败。请稍后再试"
         },
         "labels": {
-            "address": "免费的TON钱包地址",
+            "address": "Everscale钱包地址",
             "establishingConnection": "正在建立安全连接……",
             "today": "今天",
             "yesterday": "昨天"
@@ -356,7 +355,7 @@
         "info": {
             "firstName": "名字",
             "lastName": "姓",
-            "tonAddress": "免费钱包地址"
+            "address": "Everscale钱包地址"
         },
         "invitation": {
             "view": {
@@ -366,7 +365,7 @@
             }
         },
         "inviteFriends": "邀请朋友们",
-        "inviteMessage": "嘿，猜猜我发现了什么？一个伟大的免费TON钱包和一个手机银行，所有在一个！听起来不错？然后点击链接获取TON冲浪应用程序：\n\n{INSTALL_LINK_HOST}",
+        "inviteMessage": "嘿，猜猜我发现了什么？一个伟大的Everscale钱包和一个手机银行，所有在一个！听起来不错？然后点击链接获取TON冲浪应用程序：\n\n{INSTALL_LINK_HOST}",
         "inviteToApplication": "邀请参加{APP_NAME}",
         "newContact": "新联系人",
         "otherContacts": "联系人",
@@ -575,7 +574,7 @@
             },
             "taxes": {
                 "term": "Taxes",
-                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Free TON."
+                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Everscale."
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
@@ -692,15 +691,15 @@
         "congrats": "恭喜您改变生活。永远不会痛。",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Free TON tokens",
-                "title": "My Crystals"
+                "comment": "Everscale tokens",
+                "title": "My Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
                 "title": "My {0} tokens"
             },
             "RUBY": {
-                "comment": "Free TON test tokens",
+                "comment": "Everscale test tokens",
                 "title": "My Rubies"
             },
             "SRFM": {
@@ -734,7 +733,6 @@
         "PINCorrect": "PIN码正确",
         "PINDoesNotMatch": "PIN码不匹配",
         "PINNotCorrect": "PIN码错误",
-        "TONAddress": "免费TON地址",
         "address": "地址",
         "addressAndKeys": "地址和密钥",
         "altAddress": "备用地址格式",
@@ -745,6 +743,7 @@
             "iris": "虹膜识别",
             "touchID": "指纹识别功能"
         },
+        "blockchainAddress": "Everscale地址",
         "changePinCode": "更改PIN",
         "confirmNewPin": "确认PIN",
         "enterNewPin": "新PIN",
@@ -846,11 +845,11 @@
             "laterBtn": "不是，以后",
             "learnMore": {
                 "developers": {
-                    "description": "使用Free TON SDK您可以为自己的智能合约和用例编程卡",
+                    "description": "使用Everscale SDK您可以为自己的智能合约和用例编程卡",
                     "title": "为开发人员提供开源"
                 },
                 "development": {
-                    "description": "把Free TON SDK变成你的。您可以为自己的智能合约和用例编程卡",
+                    "description": "把Everscale SDK变成你的。您可以为自己的智能合约和用例编程卡",
                     "title": "开源且可扩展"
                 },
                 "personalization": {
@@ -908,7 +907,7 @@
             "scanCode": "扫描代码",
             "scanCodeDescription": "扫描卡上的代码，将卡放在设备旁边以创建连接。",
             "screenTitle": "安全卡",
-            "shareSecurityCardMessage": "Free Ton 区块链上完全个性化的硬件钱包：从订单放置的那一刻起, 只有您拥有并控制它。\n\n{0}",
+            "shareSecurityCardMessage": "Everscale 区块链上完全个性化的硬件钱包：从订单放置的那一刻起, 只有您拥有并控制它。\n\n{0}",
             "shareSecurityCardSubtitle": "安全卡\nTON实验室",
             "shareSecurityCardSuccess": "链接复制到剪贴板。",
             "shipping": "航运",
@@ -955,11 +954,11 @@
                     "title": "尺寸"
                 },
                 "extended": {
-                    "description": "卡上有120 KB的可用空间，因此您可以在卡上写入自己的数据。\n\n我们为您提供开源的Free TON SDK，您可以使用自己的智能合约对卡进行编程，并使用它，例如，作为支付卡、建筑物访问卡或您想要的",
+                    "description": "卡上有120 KB的可用空间，因此您可以在卡上写入自己的数据。\n\n我们为您提供开源的Everscale SDK，您可以使用自己的智能合约对卡进行编程，并使用它，例如，作为支付卡、建筑物访问卡或您想要的",
                     "title": "扩展使用"
                 },
                 "extendedUse": {
-                    "description": "卡上有120 KB的可用空间，因此您可以在卡上写入自己的数据。\n\n我们为您提供开源的TON Labs API，您可以使用自己的智能合约对卡进行编程，并使用它，例如，作为银行卡、建筑物访问卡或随便你想要什么",
+                    "description": "卡上有120 KB的可用空间，因此您可以在卡上写入自己的数据。\n\n我们为您提供开源的Everscale API，您可以使用自己的智能合约对卡进行编程，并使用它，例如，作为银行卡、建筑物访问卡或随便你想要什么",
                     "title": "扩展使用"
                 },
                 "hardware": {
@@ -981,10 +980,10 @@
                 "added": "您已添加到等候名单。开卡订购后，我们会尽快通知您",
                 "addedToastMsg": "您已添加到等候名单",
                 "comingThisDecemberBtn": "今年十二月来",
-                "description": "Free TON的TON Labs安全卡是独特的NFC智能卡 – 它可以保护您的数据安全，并可以根据您的需要进行调整",
+                "description": "TON Labs安全卡是独特的NFC智能卡 – 它可以保护您的数据安全，并可以根据您的需要进行调整",
                 "joinWaitlistBtn": "加入候补名单",
                 "learnMoreBtn": "了解更多",
-                "policy": "通过Free TON区块链的TON Labs安全卡，您接受条款和政策",
+                "policy": "通过TON Labs安全卡，您接受条款和政策",
                 "techSpecsBtn": "技术规格",
                 "title": "不仅仅是一个硬件钱包"
             }
@@ -1055,12 +1054,6 @@
             "remindLater": "稍后提醒我"
         },
         "main": {
-            "earlyAccess": {
-                "button": "明白了",
-                "description": "TON Labs 很高兴能向公众发布 Surf！仍然是早期访问，所以可能发生意外行为。",
-                "devDescription": "TON 实验室很高兴能向公众发布 TON冲浪！仍然是早期访问与免费 TON 测试红宝石，所以可能发生意外行为。",
-                "title": "重要"
-            },
             "securityCard": {
                 "create": "链接新冲浪",
                 "restore": "链接到现有"
@@ -1110,7 +1103,7 @@
             },
             "wallet": {
                 "description": "冲浪以获得最佳机会，保持安全并做出明智的决定。",
-                "title": "让冲浪帮助您浏览免费TON区块链"
+                "title": "让冲浪帮助您浏览Everscale区块链"
             }
         },
         "welcome": {
@@ -1160,52 +1153,6 @@
         }
     },
     "stake": {
-        "about": {
-            "button": "明白了！",
-            "description": "创建stake以参与Free TON区块验证并从中获利。\n\nStake被汇总到参与验证者选举的节点中。当选举开始，stake被锁定。\n\n如果您的节点丢失，stake被释放。如果获胜，stake将保持锁定，直到验证回合结束。当回合结束时，stake和收益将返还给用户。\n\n做一个stake或者启用自动恢复选项以运行多个交替的可再生stake。\n\n请注意，由于验证人的不当行为存在全部或部stake损失的风险。",
-            "title": "Stake是什么?"
-        },
-        "bot": {
-            "autoresumeDisable": "禁用自动恢复",
-            "autoresumeDisabled": "自动恢复已禁用",
-            "autoresumeEnable": "启用自动恢复",
-            "autoresumeEnabled": "自动恢复已启用",
-            "autoresumeFee": "自动恢复费",
-            "available": "{0}可提取",
-            "compliment": "恭维",
-            "deposit": "{0}已添加到stake，可用于下一轮。自动恢复选项已启用。",
-            "errors": {
-                "autoresume": "余额不足，无法进行交易。请充值",
-                "closedPool": "Stake池被关闭",
-                "default": "发生了错误。您的资金转回了您的冲浪钱包",
-                "lessThanMinStake": "拒绝了Stake：stake量小于允许的最小stake量",
-                "noRoundsInPool": "Stake池中没有回合。",
-                "notEnoughFeesForOperation": "交易失败：收款额不足",
-                "roundIsFull": "已达到Stake限制。不接受新的stakes。请等到下一轮。",
-                "stakeDeposit": "无法打开Stake存款。",
-                "stakeholderHasNoStakeInPool": "对于指定的利益相关者未检测到stake",
-                "success": "资金已成功添加到存款",
-                "withdraw": "现在没有可以提取的代币。确保禁用自动恢复选项以提取stake",
-                "withdrawError": "目前无法提取资金。请稍后再试。"
-            },
-            "noRewardMessages": {
-                "lostElections": "选举失败",
-                "missedElections": "选举被错过",
-                "nodeStakeTooSmall": "节点stake太小",
-                "notEnoughTotal": "总stake是不够的",
-                "poolClosed": "池被关闭",
-                "roundWasFinished": "回合被提前终止，没有奖励支出。原因：{0}",
-                "stakeRejected": "stake被拒绝了",
-                "wentWrong": "出了点问题"
-            },
-            "reinvest": "{0}重新stake到下一轮",
-            "reward": "奖励",
-            "stakeDeposit": "Stake",
-            "stakeWithdraw": "提取",
-            "stakingFee": "Stake费",
-            "withdrawFunds": "提取资金",
-            "withdrawalFee": "提取费"
-        },
         "dePoolStaking": {
             "age": {
                 "definition": " – this indicates how many rounds this DePool has been active.",
@@ -1233,6 +1180,7 @@
             "dash": "—",
             "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
             "fundsControl": "Full control of your funds",
+            "gotIt": "明白了！",
             "lockUpPeriod": {
                 "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
                 "term": "Lock-up period"
@@ -1476,9 +1424,9 @@
                 "private": "rubies",
                 "tonlabs": "rubies"
             },
-            "enterValidAddress": "免费TON地址",
+            "enterValidAddress": "Everscale地址",
             "from": "从",
-            "invalidAddress": "无效的TON地址。",
+            "invalidAddress": "无效的地址。",
             "recipientWarning": "确保地址正确！发送的转账不能撤销！",
             "title": "发送代币"
         },

@@ -95,8 +95,7 @@
                 "shareMsg": "Mi dirección: \n{1}"
             },
             "nets": {
-                "mainnet": "Free TON",
-                "private": "Privado",
+                "mainnet": "Everscale",
                 "tonlabs": "Devnet"
             },
             "titles": {
@@ -213,7 +212,7 @@
             "addressInput": {
                 "auto": "Select main address",
                 "enterAddress": "Enter your address",
-                "invalidAddress": "Invalid TON address.",
+                "invalidAddress": "Invalid address.",
                 "manual": "Introduzca manualmente"
             },
             "agreement": {
@@ -299,7 +298,7 @@
             "failedToSend": "No se pudo enviar el mensaje. Vuelve a intentarlo más tarde"
         },
         "labels": {
-            "address": "Dirección de la cartera de Free TON ",
+            "address": "Dirección de la cartera de Everscale",
             "establishingConnection": "Estableciendo una conexión segura...",
             "today": "Hoy",
             "yesterday": "Ayer"
@@ -356,7 +355,7 @@
         "info": {
             "firstName": "Primer nombre",
             "lastName": "Apellido",
-            "tonAddress": "Dirección de la cartera Free TON "
+            "address": "Dirección de la cartera Everscale"
         },
         "invitation": {
             "view": {
@@ -366,7 +365,7 @@
             }
         },
         "inviteFriends": "Invitar amigos",
-        "inviteMessage": "¡Mira lo que encontré! ¡Una genial cartera Free TON y un banco móvil, todo en uno! ¿Suena bien? Entonces sigue el enlace para conseguir la aplicación Surf:\n\n{INSTALL_LINK_HOST}",
+        "inviteMessage": "¡Mira lo que encontré! ¡Una genial cartera Everscale y un banco móvil, todo en uno! ¿Suena bien? Entonces sigue el enlace para conseguir la aplicación Surf:\n\n{INSTALL_LINK_HOST}",
         "inviteToApplication": "Invitar a la APP_NAME",
         "newContact": "Nuevo contacto",
         "otherContacts": "Contactos",
@@ -575,7 +574,7 @@
             },
             "taxes": {
                 "term": "Taxes",
-                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Free TON."
+                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Everscale."
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
@@ -692,15 +691,15 @@
         "congrats": "Felicidades por hacer cambios en tu vida. Nunca duele.",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Free TON tokens",
-                "title": "My Crystals"
+                "comment": "Everscale tokens",
+                "title": "My Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
                 "title": "My {0} tokens"
             },
             "RUBY": {
-                "comment": "Free TON test tokens",
+                "comment": "Everscale test tokens",
                 "title": "My Rubies"
             },
             "SRFM": {
@@ -734,7 +733,6 @@
         "PINCorrect": "PIN correcto",
         "PINDoesNotMatch": "Los PIN no coinciden",
         "PINNotCorrect": "PIN incorrecto",
-        "TONAddress": "Dirección Free TON",
         "address": "Dirección",
         "addressAndKeys": "Dirección y claves",
         "altAddress": "Formato de dirección alternativo",
@@ -745,6 +743,7 @@
             "iris": "Iris",
             "touchID": "Touch ID"
         },
+        "blockchainAddress": "Dirección Everscale",
         "changePinCode": "Cambiar el PIN",
         "confirmNewPin": "confirmar PIN",
         "enterNewPin": "Nuevo PIN",
@@ -846,11 +845,11 @@
             "laterBtn": "No, más tarde.",
             "learnMore": {
                 "developers": {
-                    "description": "Con Free TON SDK puede programar la tarjeta para sus propios contratos inteligentes y casos de uso",
+                    "description": "Con Everscale SDK puede programar la tarjeta para sus propios contratos inteligentes y casos de uso",
                     "title": "Código abierto para desarrolladores"
                 },
                 "development": {
-                    "description": "Hágalo suyo con el SDK de Free TON. Puede programar la tarjeta para tus propios contratos inteligentes y casos de uso",
+                    "description": "Hágalo suyo con el SDK de Everscale. Puede programar la tarjeta para tus propios contratos inteligentes y casos de uso",
                     "title": "Código abierto y ampliable"
                 },
                 "personalization": {
@@ -908,7 +907,7 @@
             "scanCode": "Escanea el código de barras de la tarjeta",
             "scanCodeDescription": "Escanee el código de barras y coloque la tarjeta contra su dispositivo para establecer una conexión",
             "screenTitle": "Tarjeta de seguridad",
-            "shareSecurityCardMessage": "Cartera de hardware totalmente personalizada en Free TON blockchain: sólo tú la posees y la controlas desde el momento en que haces el pedido.\n\n{0}",
+            "shareSecurityCardMessage": "Cartera de hardware totalmente personalizada en Everscale blockchain: sólo tú la posees y la controlas desde el momento en que haces el pedido.\n\n{0}",
             "shareSecurityCardSubtitle": "Security Card\nTON Labs",
             "shareSecurityCardSuccess": "Enlace copiado al portapapeles.",
             "shipping": "Envío",
@@ -955,11 +954,11 @@
                     "title": "Dimensiones"
                 },
                 "extended": {
-                    "description": "Hay 120 KB de espacio libre en la tarjeta para que pueda escribir sus propios datos en ella. \n\n Le proporcionamos Free TON SDK de código abierto, y puede programar la tarjeta con sus propios contratos inteligentes y usarla, por ejemplo, como tarjeta de pago, tarjeta de acceso a un edificio o como desee.",
+                    "description": "Hay 120 KB de espacio libre en la tarjeta para que pueda escribir sus propios datos en ella. \n\n Le proporcionamos Everscale SDK de código abierto, y puede programar la tarjeta con sus propios contratos inteligentes y usarla, por ejemplo, como tarjeta de pago, tarjeta de acceso a un edificio o como desee.",
                     "title": "Uso extendido"
                 },
                 "extendedUse": {
-                    "description": "Hay 120 KB de espacio libre en la tarjeta, para que pueda escribir sus propios datos en ella. \n\n Le proporcionamos la API de TON Labs de código abierto, y puede programar la tarjeta con sus propios contratos inteligentes y usarla, por ejemplo, como una tarjeta bancaria, una tarjeta de acceso a un edificio o lo que necesite.",
+                    "description": "Hay 120 KB de espacio libre en la tarjeta, para que pueda escribir sus propios datos en ella. \n\n Le proporcionamos la API de Everscale de código abierto, y puede programar la tarjeta con sus propios contratos inteligentes y usarla, por ejemplo, como una tarjeta bancaria, una tarjeta de acceso a un edificio o lo que necesite.",
                     "title": "Uso extendido"
                 },
                 "hardware": {
@@ -981,10 +980,10 @@
                 "added": "Ha sido agregado a la lista de espera. Le notificaremos tan pronto como se abra el pedido de la tarjeta",
                 "addedToastMsg": "Has sido añadido a la lista de espera",
                 "comingThisDecemberBtn": "Próximamente este diciembre",
-                "description": "ToN Labs Security Card for Free TON es una tarjeta inteligente NFC única: mantiene sus datos seguros y se puede adaptar a sus propias necesidades",
+                "description": "TON Labs Security Card es una tarjeta inteligente NFC única: mantiene sus datos seguros y se puede adaptar a sus propias necesidades",
                 "joinWaitlistBtn": "Únete a la lista de espera",
                 "learnMoreBtn": "Aprende más.",
-                "policy": "Al usar la tarjeta de seguridad de TON Labs para la cadena de bloques Free TON, aceptas los Términos y Políticas",
+                "policy": "Al usar la tarjeta de seguridad de TON Labs, aceptas los Términos y Políticas",
                 "techSpecsBtn": "Especificaciones técnicas",
                 "title": "Más que una cartera de hardware"
             }
@@ -1055,12 +1054,6 @@
             "remindLater": "Recordar mas tarde"
         },
         "main": {
-            "earlyAccess": {
-                "button": "Entendido",
-                "description": "TON Labs está entusiasmado con el lanzamiento de Surf al público! Todavía es pronto para acceder con los rubíes de prueba de Free TON , así que puede ocurrir un comportamiento inesperado.",
-                "devDescription": "TON Labs está entusiasmado con el lanzamiento de Surf al público! Todavía es pronto para acceder con los rubíes de prueba de Free TON , así que puede ocurrir un comportamiento inesperado.",
-                "title": "Importante"
-            },
             "securityCard": {
                 "create": "Enlace nuevo Surf",
                 "restore": "Enlace Surf existente"
@@ -1110,7 +1103,7 @@
             },
             "wallet": {
                 "description": "Navegue en busca de las mejores oportunidades, manténgase seguro y tome decisiones informadas.",
-                "title": "Deja que Surf te ayude a navegar a través de Free TON blockchain"
+                "title": "Deja que Surf te ayude a navegar a través de Everscale blockchain"
             }
         },
         "welcome": {
@@ -1160,52 +1153,6 @@
         }
     },
     "stake": {
-        "about": {
-            "button": "¡Entendido!",
-            "description": "Crear un depósito para participar en la validación de bloques Free TON y beneficiarse de ella. \n\nLos depósitos se agrupan en nodos que participan en las elecciones de validadores. Cuando comienza una elección, los depósitos se bloquean. \n\n Si su nodo pierde, el depósito  se libera. Si gana, el depósito permanece bloqueado hasta el final de una ronda de validación. Cuando finaliza la ronda, los depósitos y las ganancias se devuelven a los usuarios. \n\nRealice un solo depósito  o habilite la opción de reanudación automática  para ejecutar varias apuestas renovables alternas. \n\nTenga en cuenta que existe el riesgo de pérdida total o parcial del depósito debido a la mala conducta del validador",
-            "title": "¿Qué es depositar?"
-        },
-        "bot": {
-            "autoresumeDisable": "Deshabilitar la reanudación automática",
-            "autoresumeDisabled": " Reanudación automática deshabilitada",
-            "autoresumeEnable": " Reanudación automática habilitada ",
-            "autoresumeEnabled": " Reanudación automática habilitada",
-            "autoresumeFee": "Cuota de reanudación automática",
-            "available": "{0} están disponibles para el retiro",
-            "compliment": "Cumplido",
-            "deposit": "{0} añadido al depósito y disponible para la siguiente ronda. Se habilitó la opción de reanudación automática",
-            "errors": {
-                "autoresume": "Saldo insuficiente para realizar la transacción. Por favor, recarga tu saldo",
-                "closedPool": "El grupo del depósito está cerrado",
-                "default": "Se produjo un error. Sus fondos se transfirieron de nuevo a su cartera de surf",
-                "lessThanMinStake": "Depósito rechazado: la cantidad  depositada es menor que el mínimo permitido",
-                "noRoundsInPool": "No hay rondas en el grupo de depósito",
-                "notEnoughFeesForOperation": "Transacción fallida: cantidad insuficiente para recibir",
-                "roundIsFull": "Se ha alcanzado el límite de la ronda de depósito. No se aceptan nuevos depósitos. Por favor, espere hasta la próxima ronda",
-                "stakeDeposit": "No se pudo abrir el depósito",
-                "stakeholderHasNoStakeInPool": "No se detectó ningún depósito para el interesado especificado",
-                "success": "Los fondos se añadieron con éxito al depósito",
-                "withdraw": "No hay tokens disponibles para retirar ahora. Deshabilite la opción de reinicio automático del depósito para retirarse del depósito",
-                "withdrawError": "Es imposible retirar fondos en este momento. Por favor, inténtelo de nuevo más tarde."
-            },
-            "noRewardMessages": {
-                "lostElections": "la elección se perdió",
-                "missedElections": "se perdió la elección",
-                "nodeStakeTooSmall": "el depósito del nodo fue demasiado pequeño",
-                "notEnoughTotal": "el monto total del depósito no fue suficiente",
-                "poolClosed": "El grupo fue cerrado",
-                "roundWasFinished": "La ronda terminó sin pago de recompensa. Razón: {0}",
-                "stakeRejected": "deposito rechazado",
-                "wentWrong": "algo salió mal"
-            },
-            "reinvest": "se vuelven a depositar para la siguiente ronda.",
-            "reward": "Recompensa",
-            "stakeDeposit": "Depositar",
-            "stakeWithdraw": "Retirar",
-            "stakingFee": "Cuota de depósito",
-            "withdrawFunds": "Retirar los fondos",
-            "withdrawalFee": "Cuota de retiro"
-        },
         "dePoolStaking": {
             "age": {
                 "definition": " – this indicates how many rounds this DePool has been active.",
@@ -1233,6 +1180,7 @@
             "dash": "—",
             "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
             "fundsControl": "Full control of your funds",
+            "gotIt": "¡Entendido!",
             "lockUpPeriod": {
                 "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
                 "term": "Lock-up period"
@@ -1476,9 +1424,9 @@
                 "private": "rubies",
                 "tonlabs": "rubies"
             },
-            "enterValidAddress": "Dirección de TON libre...",
+            "enterValidAddress": "Dirección de Everscale...",
             "from": "De",
-            "invalidAddress": "Dirección de TON no válida.",
+            "invalidAddress": "Dirección no válida.",
             "recipientWarning": "¡Asegúrate de que la dirección es correcta! ¡Las transferencias enviadas no pueden ser revertidas!",
             "title": "Enviar tokens"
         },

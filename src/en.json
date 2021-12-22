@@ -96,7 +96,6 @@
             },
             "nets": {
                 "mainnet": "Everscale",
-                "private": "Private",
                 "tonlabs": "Devnet"
             },
             "titles": {
@@ -356,7 +355,7 @@
         "info": {
             "firstName": "First name",
             "lastName": "Last name",
-            "tonAddress": "Everscale wallet address"
+            "address": "Everscale wallet address"
         },
         "invitation": {
             "view": {
@@ -575,7 +574,7 @@
             },
             "taxes": {
                 "term": "Taxes",
-                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Free TON."
+                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Everscale."
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
@@ -734,7 +733,6 @@
         "PINCorrect": "PIN correct",
         "PINDoesNotMatch": "PINs do not match",
         "PINNotCorrect": "Incorrect PIN",
-        "TONAddress": "Everscale address",
         "address": "Address",
         "addressAndKeys": "Address and keys",
         "altAddress": "Alternative address format",
@@ -745,6 +743,7 @@
             "iris": "Iris",
             "touchID": "Touch ID"
         },
+        "blockchainAddress": "Everscale address",
         "changePinCode": "Change PIN",
         "confirmNewPin": "Confirm PIN",
         "enterNewPin": "New PIN",
@@ -846,11 +845,11 @@
             "laterBtn": "No, later",
             "learnMore": {
                 "developers": {
-                    "description": "With the TON Labs SDK you can program the card for your own smart contracts and use cases",
+                    "description": "With the Everscale SDK you can program the card for your own smart contracts and use cases",
                     "title": "Open-sourced for developers"
                 },
                 "development": {
-                    "description": "Make it yours with the TON Labs SDK. You can program the card for your own smart contracts and use cases",
+                    "description": "Make it yours with the Everscale SDK. You can program the card for your own smart contracts and use cases",
                     "title": "Open-sourced and expandable"
                 },
                 "personalization": {
@@ -908,7 +907,7 @@
             "scanCode": "Scan the card barcode",
             "scanCodeDescription": "Scan the barcode and place the card against your device to establish a connection",
             "screenTitle": "Security Card",
-            "shareSecurityCardMessage": "Fully personalized hardware wallet on Everscale blockchain: only you own and control it from the moment of order placement\n\n{0}",
+            "shareSecurityCardMessage": "Fully personalized hardware wallet on Everscale blockchain: only you own and control it from the moment of order placement.\n\n{0}",
             "shareSecurityCardSubtitle": "Security Card",
             "shareSecurityCardSuccess": "Link copied to clipboard",
             "shipping": "Shipping",
@@ -955,11 +954,11 @@
                     "title": "Dimensions"
                 },
                 "extended": {
-                    "description": "There is 120 KB of free space on the card so that you could write your own data on it.\n\nWe provide you with the open-source TON Labs SDK,  and you can program the card with your own smart contracts and use it, for example, as a payment card, a building access card, or however you want.",
+                    "description": "There is 120 KB of free space on the card so that you could write your own data on it.\n\nWe provide you with the open-source Everscale SDK,  and you can program the card with your own smart contracts and use it, for example, as a payment card, a building access card, or however you want.",
                     "title": "Extended use"
                 },
                 "extendedUse": {
-                    "description": "There is 120 KB of free space on the card, so that you could write your own data on it.\n\nWe provide you with the open source TON Labs API, and you can program the card with your own smart contracts and use it, for example, as a bank card, a building access card or whatever you need.",
+                    "description": "There is 120 KB of free space on the card, so that you could write your own data on it.\n\nWe provide you with the open source Everscale API, and you can program the card with your own smart contracts and use it, for example, as a bank card, a building access card or whatever you need.",
                     "title": "Extended use"
                 },
                 "hardware": {
@@ -984,7 +983,7 @@
                 "description": "Security Card is a unique NFC smart card —  it keeps your data safe and can be adapted to your own needs",
                 "joinWaitlistBtn": "Join waitlist",
                 "learnMoreBtn": "Learn more",
-                "policy": "By using Security Card for Everscale blockchain, you accept our Terms and Policies",
+                "policy": "By using Security Card, you accept our Terms and Policies",
                 "techSpecsBtn": "Specs",
                 "title": "More than a hardware wallet"
             }
@@ -1055,12 +1054,6 @@
             "remindLater": "Remind me later"
         },
         "main": {
-            "earlyAccess": {
-                "button": "Understood",
-                "description": "TON Labs is excited to release Surf to the public! It is still early access, so unexpected behavior might occur",
-                "devDescription": "TON Labs is excited to release Surf to the public! It is still early access with Everscale test Rubies, so unexpected behavior might occur.",
-                "title": "Important"
-            },
             "securityCard": {
                 "create": "Link new Surf",
                 "restore": "Link existing Surf"
@@ -1160,52 +1153,6 @@
         }
     },
     "stake": {
-        "about": {
-            "button": "Got it",
-            "description": "Create a stake to take part in Everscale block validation and to profit from it. \n\nStakes are pooled into nodes that participate in validator elections. When an election starts, stakes get locked. \n\nIf your node loses, the stake is released. If it wins, the stake remains locked until the end of a validation round. When the round ends, stakes and proceeds are paid back to users.\n\nMake a single stake or enable the Autoresume option to run multiple alternating renewable stakes. \n\nNote that there is a risk of full or partial stake loss due to validator misconduct",
-            "title": "What is staking?"
-        },
-        "bot": {
-            "autoresumeDisable": "Disable autoresume",
-            "autoresumeDisabled": "Autoresume disabled",
-            "autoresumeEnable": "Enable autoresume",
-            "autoresumeEnabled": "Autoresume enabled",
-            "autoresumeFee": "Autoresume fee",
-            "available": "{0} are available for withdrawal",
-            "compliment": "Compliment",
-            "deposit": "{0} added to the stake and available for the next round. Autoresume option was enabled",
-            "errors": {
-                "autoresume": "Insufficient balance to make the transaction. Please top up your balance",
-                "closedPool": "The Staking pool is closed",
-                "default": "Error occurred. Your funds transferred back to your Surf wallet",
-                "lessThanMinStake": "Stake rejected: the staked amount is less than the minimum allowable",
-                "noRoundsInPool": "No rounds in the Staking pool",
-                "notEnoughFeesForOperation": "Transaction failed: insufficient amount to be received",
-                "roundIsFull": "The stake round limit is reached. No new stakes are accepted. Please wait until the next round",
-                "stakeDeposit": "Failed to open the stake",
-                "stakeholderHasNoStakeInPool": "No stake detected for the specified stakeholder",
-                "success": "Funds successfully added to deposit",
-                "withdraw": "No tokens available for withdrawal now. Disable the stake autoresume option to withdraw from the stake",
-                "withdrawError": "It's impossible to withdraw funds at this time. Please try again later."
-            },
-            "noRewardMessages": {
-                "lostElections": "election was lost",
-                "missedElections": "election was missed",
-                "nodeStakeTooSmall": "node stake was too small",
-                "notEnoughTotal": "total stake amount was not enough",
-                "poolClosed": "pool was closed",
-                "roundWasFinished": "Round terminated without reward payout. Reason: {0}",
-                "stakeRejected": "stake rejected",
-                "wentWrong": "something went wrong"
-            },
-            "reinvest": "{0} are re-staked for the next round",
-            "reward": "Reward",
-            "stakeDeposit": "Stake",
-            "stakeWithdraw": "Withdraw",
-            "stakingFee": "Staking fee",
-            "withdrawFunds": "Withdraw funds",
-            "withdrawalFee": "Withdrawal fee"
-        },
         "dePoolStaking": {
             "age": {
                 "definition": " – this indicates how many rounds this DePool has been active.",
@@ -1233,6 +1180,7 @@
             "dash": "—",
             "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
             "fundsControl": "Full control of your funds",
+            "gotIt": "Got it",
             "lockUpPeriod": {
                 "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
                 "term": "Lock-up period"

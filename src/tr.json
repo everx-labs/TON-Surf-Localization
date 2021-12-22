@@ -95,8 +95,7 @@
                 "shareMsg": "{0}  adresim:\n{1}"
             },
             "nets": {
-                "mainnet": "Free TON",
-                "private": "Özel",
+                "mainnet": "Everscale",
                 "tonlabs": "Geliştirici ağı"
             },
             "titles": {
@@ -213,7 +212,7 @@
             "addressInput": {
                 "auto": "Ana adresi seç",
                 "enterAddress": "Adresinizi girin",
-                "invalidAddress": "Geçersiz TON adresi.",
+                "invalidAddress": "Geçersiz adresi.",
                 "manual": "Elle gir"
             },
             "agreement": {
@@ -299,7 +298,7 @@
             "failedToSend": "Mesaj gönderilemedi. Daha sonra tekrar deneyin"
         },
         "labels": {
-            "address": "Free TON cüzdan adresi",
+            "address": "Everscale cüzdan adresi",
             "establishingConnection": "Güvenli bağlantı oluşturuluyor...",
             "today": "Bugün",
             "yesterday": "Dün"
@@ -356,7 +355,7 @@
         "info": {
             "firstName": "Ad",
             "lastName": "Soyad",
-            "tonAddress": "Free TON cüzdan adresi"
+            "address": "Everscale cüzdan adresi"
         },
         "invitation": {
             "view": {
@@ -366,7 +365,7 @@
             }
         },
         "inviteFriends": "Arkadaşları davet et",
-        "inviteMessage": "Selam! Bil bakalım ne buldum? Harika bir Free TON cüzdanı ve mobil banka hepsi bir arada! Kulağa iyi geliyor? O zaman Surf uygulamasını edinmek için bağlantıyı takip edin:\n\n{INSTALL_LINK_HOST}",
+        "inviteMessage": "Selam! Bil bakalım ne buldum? Harika bir Everscale cüzdanı ve mobil banka hepsi bir arada! Kulağa iyi geliyor? O zaman Surf uygulamasını edinmek için bağlantıyı takip edin:\n\n{INSTALL_LINK_HOST}",
         "inviteToApplication": "{APP_NAME} uygulamasına davet et",
         "newContact": "Yeni kişi",
         "otherContacts": "Kişiler",
@@ -575,7 +574,7 @@
             },
             "taxes": {
                 "term": "Taxes",
-                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Free TON."
+                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Everscale."
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
@@ -692,15 +691,15 @@
         "congrats": "Hayatınızda değişiklik yaptığınız için tebrikler. Zararsız olsun.",
         "currencies": {
             "CRYSTAL": {
-                "comment": "Free TON tokens",
-                "title": "My Crystals"
+                "comment": "Everscale tokens",
+                "title": "My Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
                 "title": "My {0} tokens"
             },
             "RUBY": {
-                "comment": "Free TON test tokens",
+                "comment": "Everscale test tokens",
                 "title": "My Rubies"
             },
             "SRFM": {
@@ -734,7 +733,6 @@
         "PINCorrect": "PIN doğrudur",
         "PINDoesNotMatch": "PIN'ler eşleşmiyor",
         "PINNotCorrect": "Yanlış PIN",
-        "TONAddress": "Free TON adresi",
         "address": "Adres",
         "addressAndKeys": "Adres ve Anahtarlar",
         "altAddress": "Alternatif adres biçimi",
@@ -745,6 +743,7 @@
             "iris": "İris",
             "touchID": "Dokunmatik Kimlik"
         },
+        "blockchainAddress": "Everscale adresi",
         "changePinCode": "Pin'i değiştir",
         "confirmNewPin": "PIN'i onayla",
         "enterNewPin": "Yeni PIN",
@@ -846,11 +845,11 @@
             "laterBtn": "Şimdi değil",
             "learnMore": {
                 "developers": {
-                    "description": "Free TON SDK ile kartı kendi akıllı sözleşmeleriniz ve kullanım ihtiyaçlarınız için programlayabilirsiniz.",
+                    "description": "Everscale SDK ile kartı kendi akıllı sözleşmeleriniz ve kullanım ihtiyaçlarınız için programlayabilirsiniz.",
                     "title": "Geliştiriciler için açık kaynak"
                 },
                 "development": {
-                    "description": "Free TON SDK ile özel hale getirin. Kartı özel akıllı sözleşmeleriniz ve kullanım durumlarınız için programlayabilirsiniz.",
+                    "description": "Everscale SDK ile özel hale getirin. Kartı özel akıllı sözleşmeleriniz ve kullanım durumlarınız için programlayabilirsiniz.",
                     "title": "Açık kaynak ve genişletilebilen"
                 },
                 "personalization": {
@@ -908,7 +907,7 @@
             "scanCode": "Kodu tara",
             "scanCodeDescription": "Bağlantı kurmak için karttaki barkodu tarayın ve kartı cihazınızın karşısına yerleştirin",
             "screenTitle": "Güvenlik Kartı",
-            "shareSecurityCardMessage": "Free TON blok zincirinde tamamen kişiselleştirilmiş donanım cüzdanı: Siparişin verildiğiniz andan itibaren sadece siz sahipsiniz ve sadece siz kontrol edersiniz\n\n{0}",
+            "shareSecurityCardMessage": "Everscale blok zincirinde tamamen kişiselleştirilmiş donanım cüzdanı: Siparişin verildiğiniz andan itibaren sadece siz sahipsiniz ve sadece siz kontrol edersiniz.\n\n{0}",
             "shareSecurityCardSubtitle": "TON Labs\nGüvenlik Kartı",
             "shareSecurityCardSuccess": "Bağlantı kopyalandı",
             "shipping": "Teslimat",
@@ -955,11 +954,11 @@
                     "title": "Boyutlar"
                 },
                 "extended": {
-                    "description": "Kartta kendi verilerinizi saklamak için 120 KB boş alan vardır.\n\n Size açık kaynak Free TON SDK sunuyoruz, böylece kartı kendi akıllı sözleşmelerinizle programlayabilir ve örneğin bir ödeme kartı, bir bina erişim kartı gibi veya istediğiniz gibi kullanabilirsiniz.",
+                    "description": "Kartta kendi verilerinizi saklamak için 120 KB boş alan vardır.\n\n Size açık kaynak Everscale SDK sunuyoruz, böylece kartı kendi akıllı sözleşmelerinizle programlayabilir ve örneğin bir ödeme kartı, bir bina erişim kartı gibi veya istediğiniz gibi kullanabilirsiniz.",
                     "title": "Genişletilmiş kullanım"
                 },
                 "extendedUse": {
-                    "description": "Kartta kendi verilerinizi saklamak için 120 KB boş alan vardır.\n\nSize kartı kendi akıllı sözleşmelerinizi programlayabilmeniz için açık kaynak TON Labs API'yi sağlıyoruz. Bunu, örneğin bir banka kartı, bina erişim kartı veya neye ihtiyacınız varsa onun için kullanabilirsiniz.",
+                    "description": "Kartta kendi verilerinizi saklamak için 120 KB boş alan vardır.\n\nSize kartı kendi akıllı sözleşmelerinizi programlayabilmeniz için açık kaynak Everscale API'yi sağlıyoruz. Bunu, örneğin bir banka kartı, bina erişim kartı veya neye ihtiyacınız varsa onun için kullanabilirsiniz.",
                     "title": "Genişletilmiş kullanım"
                 },
                 "hardware": {
@@ -981,10 +980,10 @@
                 "added": "Bekleme listesine eklendiniz. Kart siparişi hazır olan zaman sizi bilgilendireceğiz",
                 "addedToastMsg": "Bekleme listesine eklendiniz",
                 "comingThisDecemberBtn": "Aralık ayında geliyor",
-                "description": "Free TON için kullanılan TON Labs Güvenlik Kartı NFC destekleyen akıllı karttır. Bu kart verilerinizi güvende tutar ve kendi ihtiyaçlarınıza göre uyarlanabilir",
+                "description": "TON Labs Güvenlik Kartı NFC destekleyen akıllı karttır. Bu kart verilerinizi güvende tutar ve kendi ihtiyaçlarınıza göre uyarlanabilir",
                 "joinWaitlistBtn": "Bekleme listesine katıl",
                 "learnMoreBtn": "Daha fazla",
-                "policy": "Free TON için TON Labs Güvenlik kartını kullanarak, Şartlar ve Politikamızı kabul etmiş olursunuz.",
+                "policy": "TON Labs Güvenlik kartını kullanarak, Şartlar ve Politikamızı kabul etmiş olursunuz.",
                 "techSpecsBtn": "Teknik özellikler",
                 "title": "Bu sıradan bir donanım cüzdanı değil"
             }
@@ -1055,12 +1054,6 @@
             "remindLater": "Daha sonra hatırlat"
         },
         "main": {
-            "earlyAccess": {
-                "button": "Anlaşıldı",
-                "description": "TON Labs, Surf'ü halka göstermekten heyecanını duyuyor! Hala erken erişim olduğundan beklenmedik davranışlar ortaya çıkabilir",
-                "devDescription": "TON Labs, Surf'ü halka göstermekten heyecanını duyuyor! Free TON deneme Yakutları ile hala erken erişimdir, bu nedenle beklenmedik davranışlar ortaya çıkabilir.",
-                "title": "Önemli"
-            },
             "securityCard": {
                 "create": "Yeni Surf'ü bağla",
                 "restore": "Mevcut bağlantılar"
@@ -1110,7 +1103,7 @@
             },
             "wallet": {
                 "description": "En iyi fırsatları bulun, güvende kalın ve bilgili kararlar verin.",
-                "title": "Surf, Free TON blok zincirinde gezinmenize yardımcı olmasını sağlayın"
+                "title": "Surf, Everscale blok zincirinde gezinmenize yardımcı olmasını sağlayın"
             }
         },
         "welcome": {
@@ -1160,52 +1153,6 @@
         }
     },
     "stake": {
-        "about": {
-            "button": "Anladım!",
-            "description": "Free TON blok doğrulamasına katılmak ve bundan kazanç sağlamak için bir stake (hisse) oluşturun. \n\nStake'ler, doğrulayıcı seçimlere katılan düğümlerde toplanır. Seçim başladığında, stake'ler kilitlenir. \n\nDüğümünüz kaybederse stake serbest bırakılır. Stake kazanırsa, doğrulama devrenin sonuna kadar kilitli kalır. Devre sona erdiğinde, stake'ler ve gelirler kullanıcılara geri ödenir. \n\nStake'e bir kez para gönderin veya stake'i sonraki seçime otomatik olarak göndermek için otomatik yenileme işlevini etkinleştirin.\n\nDoğrulayıcının suistimalinden dolayı tamamen veya kısmen stake kaybı riski olduğunu unutmayın.",
-            "title": "Stake etme nedir?"
-        },
-        "bot": {
-            "autoresumeDisable": "Otomatik devamı kapat",
-            "autoresumeDisabled": "Otomatik devam kapalı",
-            "autoresumeEnable": "Otomatik devamı etkinleştir",
-            "autoresumeEnabled": "Otomatik devam etkin",
-            "autoresumeFee": "Otomatik devam ücreti",
-            "available": "{0} çekilebilir",
-            "compliment": "İltifat",
-            "deposit": "{0} stake tutarına eklendi ve sonraki devre için kullanılabilir. Otomatik devam etkindir",
-            "errors": {
-                "autoresume": "İşlemi yapmak için yetersiz bakiye. Lütfen bakiyenizi doldurun",
-                "closedPool": "Stake etme havuzu kapalıdır",
-                "default": "Hata oluştu. Paranız Surf cüzdanınıza geri aktarıldı",
-                "lessThanMinStake": "Stake reddedildi: stake tutarı, izin verilen minimumdan küçüktür",
-                "noRoundsInPool": "Stake etme havuzunda devre yok",
-                "notEnoughFeesForOperation": "İşlem başarısız oldu: yetersiz miktar",
-                "roundIsFull": "Stake devresi limitine ulaşıldı. Yeni stake kabul edilmez. Lütfen sonraki devreye kadar bekleyin",
-                "stakeDeposit": "Stake açılamadı",
-                "stakeholderHasNoStakeInPool": "Bu paydaş için stake tespit edilmedi",
-                "success": "Para mevduata başarıyla eklendi",
-                "withdraw": "Şimdi çekilebilecek belirteç yok. Stake'ten para çekmek için stake otomatik devam seçeneğini devre dışı bırakın",
-                "withdrawError": "Şu anda para çekmek imkansız. Lütfen daha sonra tekrar deneyin."
-            },
-            "noRewardMessages": {
-                "lostElections": "seçim kaybedildi",
-                "missedElections": "seçim kaçırıldı",
-                "nodeStakeTooSmall": "düğüm stake'i çok küçük",
-                "notEnoughTotal": "toplam stake tutarı yeterli değil",
-                "poolClosed": "havuz kapatıldı",
-                "roundWasFinished": "Devre, ödül ödemesi olmadan sona erdi. Nedeni: {0}",
-                "stakeRejected": "stake reddedildi",
-                "wentWrong": "bir şeyler yanlış gitti"
-            },
-            "reinvest": "{0} sonraki tur için yeniden stake yapıldı",
-            "reward": "Ödül",
-            "stakeDeposit": "Stake",
-            "stakeWithdraw": "Parayı çek",
-            "stakingFee": "Stake etme ücreti",
-            "withdrawFunds": "Parayı çek",
-            "withdrawalFee": "Para çekme ücreti"
-        },
         "dePoolStaking": {
             "age": {
                 "definition": " – this indicates how many rounds this DePool has been active.",
@@ -1233,6 +1180,7 @@
             "dash": "—",
             "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
             "fundsControl": "Full control of your funds",
+            "gotIt": "Anladım!",
             "lockUpPeriod": {
                 "definition": " – this is how long your funds are locked in the DePool after it enters elections. When you decide to withdraw your funds, they will be returned to you as soon as they are unlocked, meaning no later than one full lock-up period after you request withdrawal.",
                 "term": "Lock-up period"
@@ -1476,9 +1424,9 @@
                 "private": "yakut",
                 "tonlabs": "yakut"
             },
-            "enterValidAddress": "Free TON adresi...",
+            "enterValidAddress": "Everscale adresi...",
             "from": "Gönderen:",
-            "invalidAddress": "Geçersiz TON adresi.",
+            "invalidAddress": "Geçersiz adresi.",
             "recipientWarning": "Adresin doğru olduğunu kontrol edin! Gönderilen aktarım geri alınamaz!",
             "title": "Para gönder"
         },

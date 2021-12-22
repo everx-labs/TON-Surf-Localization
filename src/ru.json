@@ -96,7 +96,6 @@
             },
             "nets": {
                 "mainnet": "Everscale",
-                "private": "Приват",
                 "tonlabs": "Сеть для тестирования"
             },
             "titles": {
@@ -356,7 +355,7 @@
         "info": {
             "firstName": "Имя",
             "lastName": "Фамилия",
-            "tonAddress": "Адрес кошелька Everscale"
+            "address": "Адрес кошелька Everscale"
         },
         "invitation": {
             "view": {
@@ -575,7 +574,7 @@
             },
             "taxes": {
                 "term": "Taxes",
-                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Free TON."
+                "definitions": "You agree to assume full responsibility to determine which taxes may apply to your digital assets, as well as to duly report such and remit same in accordance with your local, state, federal and/or international tax laws and respective tax authorities. You agree that Surf is not a qualified or licensed tax or accounting representative and shall not be held responsible in any way whatsoever for determining, collecting, reporting, withholding, remitting, or in any way otherwise assuming any responsibility for any taxes or tax information that may arise as a result of your participation in and use of Everscale."
             },
             "intellectualProperty": {
                 "term": "Intellectual Property",
@@ -734,7 +733,6 @@
         "PINCorrect": "Пин-код верный",
         "PINDoesNotMatch": "Пин-коды не совпадают",
         "PINNotCorrect": "Неверный PIN-код",
-        "TONAddress": "Адрес кошелька Everscale",
         "address": "Адрес",
         "addressAndKeys": "Адрес и ключи",
         "altAddress": "Альтернативный формат адреса",
@@ -745,6 +743,7 @@
             "iris": "Радужная оболочка глаза",
             "touchID": "Touch ID"
         },
+        "blockchainAddress": "Адрес кошелька Everscale",
         "changePinCode": "Изменить пин-код",
         "confirmNewPin": "Подтвердить пин-код",
         "enterNewPin": "Новый пин-код",
@@ -908,7 +907,7 @@
             "scanCode": "Сканировать код",
             "scanCodeDescription": "Отсканируйте код карты и приложите карту к устройству, чтобы установить соединение",
             "screenTitle": "Карта безопасности",
-            "shareSecurityCardMessage": "Полностью персонализированный аппаратный кошелек для блокчейна Everscale: он принадлежит только вам и только вы можете его контролировать с момента оформления заказа\n\n {0}",
+            "shareSecurityCardMessage": "Полностью персонализированный аппаратный кошелек для блокчейна Everscale: он принадлежит только вам и только вы можете его контролировать с момента оформления заказа.\n\n {0}",
             "shareSecurityCardSubtitle": "Карта безопасности",
             "shareSecurityCardSuccess": "Ссылка скопирована в буфер обмена",
             "shipping": "Доставка",
@@ -1055,12 +1054,6 @@
             "remindLater": "Напомнить позже"
         },
         "main": {
-            "earlyAccess": {
-                "button": "Понятно",
-                "description": "TON Labs рады представить публике Surf! Это все еще ранний доступ, поэтому возможно непредвиденное поведение",
-                "devDescription": "TON Labs рады представить публике Surf! Это все еще ранний доступ с тестовыми Рубинами Everscale, поэтому возможно непредвиденное поведение",
-                "title": "Важно"
-            },
             "securityCard": {
                 "create": "Привязать новый Surf",
                 "restore": "Привязать существующий Surf"
@@ -1160,52 +1153,6 @@
         }
     },
     "stake": {
-        "about": {
-            "button": "Понятно!",
-            "description": "Создайте стейк, чтобы принять участие в валидации блоков сети Everscale и заработать на этом. \n\nСтейки передаются на ноды, которые участвуют в выборах валидаторов. Как только выборы начинаются, стейки временно блокируются. \n\nЕсли ваша нода проиграет выборы, стейк разблокируется. Если выиграет – стейк будет заблокирован до окончания раунда валидации. Когда он закончится, стейки и доходы будут выплачены пользователям.\n\nОтправьте средства в стейк однократно или включите функцию автопродления для автоматической отправки стейка на последующие выборы. \n\nОбратите внимание, что существует риск полной или частичной потери стейка, если с валидатором возникнет проблема",
-            "title": "Что такое стейкинг?"
-        },
-        "bot": {
-            "autoresumeDisable": "Отключить автопродление",
-            "autoresumeDisabled": "Автопродление отключено",
-            "autoresumeEnable": "Включить автопродление",
-            "autoresumeEnabled": "Автопродление включено",
-            "autoresumeFee": "Комиссия за автопродление",
-            "available": "{0} доступно для вывода",
-            "compliment": "Комплимент",
-            "deposit": "{0} добавляются к стейку и доступны для следующего раунда. Включено автопродление",
-            "errors": {
-                "autoresume": "Недостаточный баланс для выполнения операции. Пожалуйста, пополни баланс.",
-                "closedPool": "Пул стейков закрыт",
-                "default": "Не удалось выполнить перевод. Средства возвращены в ваш кошелек Surf",
-                "lessThanMinStake": "Стейк отклонен. Сумма стейка меньше минимально допустимой",
-                "noRoundsInPool": "В пуле стейков нет раундов",
-                "notEnoughFeesForOperation": "Транзакция не удалась: полученная сумма слишком мала.",
-                "roundIsFull": "В этом раунде достигнут лимит на стейкинг, новые стейки не принимаются. Дождитесь следующего раунда",
-                "stakeDeposit": "Невозможно открыть стейк",
-                "stakeholderHasNoStakeInPool": "Стейк указанного участника не обнаружен",
-                "success": "Средства успешно добавлены на депозит",
-                "withdraw": "Сейчас нет токенов, доступных для вывода. Отключите автопродление, чтобы вывести средства",
-                "withdrawError": "Невозможно вывести средства сейчас. Пожалуйста, попробуйте позже"
-            },
-            "noRewardMessages": {
-                "lostElections": "выборы были проиграны",
-                "missedElections": "выборы были пропущены",
-                "nodeStakeTooSmall": "сумма стейка ноды меньше минимально допустимой",
-                "notEnoughTotal": "общая сумма стейков меньше минимально допустимой",
-                "poolClosed": "пул был закрыт",
-                "roundWasFinished": "Раунд прекращен досрочно без выплаты вознаграждения. Причина: {0}",
-                "stakeRejected": "стейк отклонен",
-                "wentWrong": "что-то пошло не так"
-            },
-            "reinvest": "{0} повторно ставятся в следующий раунд",
-            "reward": "Награда",
-            "stakeDeposit": "Стейк",
-            "stakeWithdraw": "Вывести",
-            "stakingFee": "Комиссия за стейкинг",
-            "withdrawFunds": "Вывести средства",
-            "withdrawalFee": "Комиссия за вывод"
-        },
         "dePoolStaking": {
             "age": {
                 "definition": " —  сколько раундов ДеПулов Surf были активны",
@@ -1233,6 +1180,7 @@
             "dash": "—",
             "description": "ДеПул — это смарт-контракт, позволяющий любому человеку инвестировать стейки в общий пул, который затем участвует в выборах валидатора от имени владельца валидатора, а после успешного подтверждения выплачивает вознаграждение всем участникам пропорционально их вкладу",
             "fundsControl": "Полный контроль над вашими средствами",
+            "gotIt": "Понятно!",
             "lockUpPeriod": {
                 "definition": " — как долго ваши средства будут заблокированы в ДеПуле после того, как он зарегистрируется на выборы. Когда вы решите снять свои средства, они будут возвращены вам сразу после разблокировки, то есть не позднее, чем через один полный период блокировки после того, как вы запросите снятие средств",
                 "term": "Период блокировки"

@@ -1271,24 +1271,19 @@
         "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "support": {
-        "askQuestion": "Poser une question",
+        "askQuestion": "L'assistant",
+        "askInTelegram": "Ask in Telegram",
         "button": "Obtenir de l'aide",
         "email": {
             "body": "Adresse: {0}\n Version: {1}\n {2} : {3}\n Appareil: {4}",
             "subject": "Signaler un problème"
         },
-        "giveFeedback": {
-            "button": "Envoyez des commentaires",
-            "subject": "Commentaires"
-        },
-        "group": "Groupe de soutien",
-        "helpCenter": "Centre d'aide",
-        "makeSuggestion": "Faites une suggestion",
+        "emailUs": "Email us",
+        "FAQ": "FAQ",
         "message": {
             "first": "Salut, je suis Surf Assistant.",
             "second": "Demandez-moi n'importe quoi et je vous dirai ce que Surf peut faire à ce sujet."
         },
-        "reportProblem": "Signaler un problème",
         "title": "Obtenir de l'aide",
         "videoTutorials": "Tutoriels vidéo"
     },

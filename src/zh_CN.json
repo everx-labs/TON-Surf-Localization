@@ -1271,24 +1271,19 @@
         "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "support": {
-        "askQuestion": "提出问题",
+        "askQuestion": "助理",
+        "askInTelegram": "Ask in Telegram",
         "button": "Get support",
         "email": {
             "body": "地址：{0}\n版本：{1}\n{2}:{3}\n设备：{4}",
             "subject": "报告问题"
         },
-        "giveFeedback": {
-            "button": "Give feedback",
-            "subject": "Feedback"
-        },
-        "group": "Support group",
-        "helpCenter": "帮助中心",
-        "makeSuggestion": "Make a suggestion",
+        "emailUs": "Email us",
+        "FAQ": "FAQ",
         "message": {
             "first": "嗨， 我是TON冲浪助理。",
             "second": "问我任何事情，我会告诉您可以做什么冲浪。"
         },
-        "reportProblem": "报告问题",
         "title": "Get support",
         "videoTutorials": "Video tutorials"
     },

@@ -1274,24 +1274,19 @@
         }
     },
     "support": {
-        "askQuestion": "질문하기",
+        "askQuestion": "어시스턴트",
+        "askInTelegram": "Telegram으로 문의해 주세요",
         "button": "지원 받기",
         "email": {
             "body": "주소: {0}\n버전: {1}\n{2}: {3}\n장치: {4}",
             "subject": "문제를 보고하기"
         },
-        "giveFeedback": {
-            "button": "피드백 제시하기",
-            "subject": "피드백"
-        },
-        "group": "지원 그룹",
-        "helpCenter": "지원 센터",
-        "makeSuggestion": "제안 보내기",
+        "emailUs": "이메일을 보내 주세요",
+        "FAQ": "자주 묻는 질문",
         "message": {
             "first": "안녕하세요? 저는 에버 서프 어시스턴트입니다.",
             "second": "무엇이든 물어보세요. 서프가 이에 대해 무엇을 할 수 있는지 알려 드리겠습니다."
         },
-        "reportProblem": "문제 신고하기",
         "title": "지원 받기",
         "videoTutorials": "동영상 튜토리얼"
     },

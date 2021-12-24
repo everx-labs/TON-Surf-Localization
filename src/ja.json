@@ -1271,24 +1271,19 @@
         "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "support": {
-        "askQuestion": "質問する",
+        "askQuestion": "アシスタント",
+        "askInTelegram": "Ask in Telegram",
         "button": "Get support",
         "email": {
             "body": "アドレス：{0}\nバージョン：{1}\n{2}：{3}\nデバイス：{4}",
             "subject": "問題を報告する"
         },
-        "giveFeedback": {
-            "button": "Give feedback",
-            "subject": "Feedback"
-        },
-        "group": "Support group",
-        "helpCenter": "ヘルプセンター",
-        "makeSuggestion": "Make a suggestion",
+        "emailUs": "Email us",
+        "FAQ": "FAQ",
         "message": {
             "first": "はじめまして、TONSurfのアシスタントです。",
             "second": "何でも聞いてください。Surfがそれに対して何ができるか答えます。"
         },
-        "reportProblem": "問題を報告する",
         "title": "Get support",
         "videoTutorials": "Video tutorials"
     },

@@ -1271,24 +1271,19 @@
         "buySheetTitle": "How much do you want\nto use to buy Evers?"
     },
     "support": {
-        "askQuestion": "Soru sor",
+        "askQuestion": "Yardımcı",
+        "askInTelegram": "Ask in Telegram",
         "button": "Get support",
         "email": {
             "body": "Adres: {0}\nSürüm: {1}\n{2}:{3}\nCihaz: {4}",
             "subject": "Sorunu bildir"
         },
-        "giveFeedback": {
-            "button": "Give feedback",
-            "subject": "Feedback"
-        },
-        "group": "Support group",
-        "helpCenter": "Yardım merkezi",
-        "makeSuggestion": "Make a suggestion",
+        "emailUs": "Email us",
+        "FAQ": "FAQ",
         "message": {
             "first": "Selam! ben Surf Yardımcısıyım.",
             "second": "Bana bir şey sorun, ben de size Surf'ün bu konuda neler yapabileceğini söyleyeyim."
         },
-        "reportProblem": "Sorunu bildir",
         "title": "Get support",
         "videoTutorials": "Video tutorials"
     },

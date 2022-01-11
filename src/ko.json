@@ -111,7 +111,8 @@
             "accounts": "계정",
             "collectibles": "수집품",
             "farming": "이자 농사",
-            "investments": "서비스"
+            "investments": "서비스",
+            "tokens": "토큰"
         },
         "subscriptions": {
             "actions": {

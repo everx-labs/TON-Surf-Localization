@@ -106,9 +106,9 @@
         "separators": {
             "accounts": "Konten",
             "collectibles": "Collectibles",
+            "farming": "Farming",
             "investments": "Dienstleistungen",
-            "tokens": "Tokens",
-            "farming": "Farming"
+            "tokens": "Tokens"
         },
         "saving": {
             "surfStaking": "Surf Stakes",

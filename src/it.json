@@ -106,9 +106,9 @@
         "separators": {
             "accounts": "Conti",
             "collectibles": "Collectibles",
+            "farming": "Farming",
             "investments": "Servizi",
-            "tokens": "Tokens",
-            "farming": "Farming"
+            "tokens": "Tokens"
         },
         "saving": {
             "surfStaking": "Surf Stakes",

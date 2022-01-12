@@ -106,9 +106,9 @@
         "separators": {
             "accounts": "Счета",
             "collectibles": "Коллекции",
+            "farming": "Фарминг",
             "investments": "Сервисы",
-            "tokens": "Токены",
-            "farming": "Фарминг"
+            "tokens": "Токены"
         },
         "saving": {
             "surfStaking": "Surf Stakes",

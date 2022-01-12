@@ -241,7 +241,7 @@
             },
             "favorites": "Favorites",
             "functionalUnsupported": "Oops!! The functionality is temporarily not supported. Stay in touch",
-            "history": "History",
+            "history": "Recently",
             "info": {
                 "about": "About",
                 "legalNotes": "Legal notes",
@@ -269,8 +269,12 @@
             "open": "Open DeBot",
             "recommended": "Popular",
             "restart": "Restart",
-            "search": "Enter DeBot address…",
+            "results": "Results",
+            "search": "Search",
             "searching": "Searching...",
+            "discover": "Discover",
+            "essentials": "Essentials",
+            "getYourDebotListed": "Get your Debot listed",
             "securityCard": {
                 "notSupport": "Unfortunately your device does not support NFC, which is required for proper operation. Please turn it on, or use another device."
             },

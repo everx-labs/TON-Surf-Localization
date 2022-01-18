@@ -20,14 +20,14 @@ Now you have a copy of the TON-Surf-Localization repository and you are ready to
 It's extremely important to edit strings in the latest version of file. Otherwise, your changes can cause conflicts when merging them.
 To get the file latest version, please check the current Surf version number and select the Github branch with the same number.
 
-1. Open [Surf for Translators](https://ton-surf-translate.firebaseapp.com/). If opening for the fist time, please comply with legal requirements as discribed in the [Help Center](https://help.ton.surf/en/support/solutions/articles/77000236686-do-i-need-to-register-to-use-surf-).
+1. Open [Surf for Translators](https://ton-surf-translate.firebaseapp.com/). If opening for the fist time, please comply with legal requirements as described in the [Help Center](https://help.ever.surf/en/support/solutions/articles/77000236686-do-i-need-to-register-to-use-surf-).
 2. In the upper left corner, click the Surf icon.
 3. Scroll down and find the Surf current version number.
    ![alt text](images/screenshot-19.png)
-4. Open the bookmark with your local repositiory copied from TON-Surf-Localization.
+4. Open the bookmark with your local repository copied from TON-Surf-Localization.
 5. Click on the branch name and enter the version number you found at [Surf for Translators](https://ton-surf-translate.firebaseapp.com/).
    ![alt text](images/screenshot-23.png)
-7. If there is no appropriate branch in the list, create it the following way:
+6. If there is no appropriate branch in the list, create it the following way:
    ![alt text](images/screenshot-20.png)
    a. Enter the branch name starting from the "surf@" and containing the Surf version number. For example, surf@6.6.9
    b. Click **Create branch**.
@@ -42,7 +42,7 @@ Every localization file named according to the two-letter country code.
 
 ### Edit on GitHub
 
-1. Open the bookmark with your local repositiory copied from TON-Surf-Localization.
+1. Open the bookmark with your local repository copied from TON-Surf-Localization.
 2. Switch to the right branch.
 3. Click the **src** folder.
 4. Click on the file you want to edit.
@@ -53,11 +53,11 @@ The file opens in GitHub build-in editor.
 
 ### Download file
 
-1. Open the bookmark with your local repositiory copied from TON-Surf-Localization.
+1. Open the bookmark with your local repository copied from TON-Surf-Localization.
 2. Switch to the right branch.
 3. Click the **src** folder.
-2. Click on the file you want to edit.
-3. Right-click the **Raw** button and select **Download Linked File**.
+4. Click on the file you want to edit.
+5. Right-click the **Raw** button and select **Download Linked File**.
    ![alt text](images/screenshot-04.png)
    The name of the context menu varies from the browser you use.
 
@@ -76,7 +76,7 @@ Sometimes different strings can have the same translation. To know exactly what 
 Now, when you put the cursor in the string, its ID is displayed above the screen.
 ![alt text](images/screenshot-05.png)
 
-Every ID consists of keys separated with commas. Knowing the string ID you can search the localization file for keys and find the string you need. 
+Every ID consists of keys separated with commas. Knowing the string ID you can search the localization file for keys and find the string you need.
 ![alt text](images/screenshot-25.png)
 
 ## Commit changes

@@ -14,6 +14,7 @@
             "description": "拖放以交换资金并重新平衡您的资产",
             "title": "资产",
             "mainAccount": "Main account",
+            "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
             "flexPromo": "Flex. Soon...",

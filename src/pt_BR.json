@@ -155,6 +155,7 @@
             "on": "Ligado",
             "saveTitle": "Salvando dados biométricos"
         },
+        "communityTranslations": "Community translations",
         "currencies": {
             "button": "Moedas",
             "title": "Moedas"
@@ -269,6 +270,7 @@
             "nothingFound": "Nada foi encontrado",
             "open": "Abrir DeBot",
             "recommended": "Popular",
+            "newest": "Newest",
             "discover": "Discover",
             "essentials": "Essentials",
             "getYourDebotListed": "Get your Debot listed",

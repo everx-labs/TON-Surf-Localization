@@ -155,6 +155,7 @@
             "on": "Etkin",
             "saveTitle": "Biyometrik verilerin kaydedilmesi"
         },
+        "communityTranslations": "Community translations",
         "currencies": {
             "button": "Currencies",
             "title": "Currencies"
@@ -269,6 +270,7 @@
             "nothingFound": "Hiçbirşey bulunamadı",
             "open": "DeBot'u Aç",
             "recommended": "Popular",
+            "newest": "Newest",
             "discover": "Discover",
             "essentials": "Essentials",
             "getYourDebotListed": "Get your Debot listed",

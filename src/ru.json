@@ -155,6 +155,7 @@
             "on": "Вкл",
             "saveTitle": "Сохранение биометрических данных"
         },
+        "communityTranslations": "Переведено сообществом",
         "currencies": {
             "button": "Валюты",
             "title": "Валюты"
@@ -269,6 +270,7 @@
             "nothingFound": "Ничего не найдено",
             "open": "Открыть ДеБот",
             "recommended": "Популярные",
+            "newest": "Новые",
             "discover": "Обзор",
             "essentials": "Важные",
             "getYourDebotListed": "Добавить своего Дебота",

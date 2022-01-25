@@ -155,6 +155,7 @@
             "on": "オン",
             "saveTitle": "Saving biometric data"
         },
+        "communityTranslations": "Community translations",
         "currencies": {
             "button": "Currencies",
             "title": "Currencies"
@@ -269,6 +270,7 @@
             "nothingFound": "Nothing found",
             "open": "Open DeBot",
             "recommended": "Popular",
+            "newest": "Newest",
             "discover": "Discover",
             "essentials": "Essentials",
             "getYourDebotListed": "Get your Debot listed",

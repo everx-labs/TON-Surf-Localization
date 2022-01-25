@@ -121,10 +121,10 @@
                 "goToExplorer": "익스플로러로 이동하기",
                 "openThread": "스레드를 열기",
                 "send": "보내기",
-                "showAddress": "주소 표시",
+                "showAddress": "주소 보기",
                 "title": "기록",
                 "transfer": "송금",
-                "viewHistory": "기록 보기",
+                "viewHistory": "기록 열기",
                 "viewKeys": "키를 보기"
             },
             "addressPlaceholder": "계정 주소",

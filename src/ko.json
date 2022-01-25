@@ -111,8 +111,7 @@
             "accounts": "계정",
             "collectibles": "수집품",
             "farming": "이자 농사",
-            "investments": "서비스",
-            "tokens": "토큰"
+            "investments": "서비스"
         },
         "subscriptions": {
             "actions": {
@@ -154,7 +153,7 @@
             "on": "켜기",
             "saveTitle": "생체 정보 저장"
         },
-        "communityTranslations": "Community translations",
+        "communityTranslations": "커뮤니티 번역가",
         "currencies": {
             "button": "통화",
             "title": "통화"
@@ -240,6 +239,7 @@
             "debot": "DeBot",
             "debotError": "이크! 저는 좀 망가졌어요. 연락을 유지해 주세요",
             "defaultHello": "안녕하세요? 저는 DeBot입니다",
+            "discover": "알아보기",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "서프로 암호화/복호화"
             },
@@ -260,8 +260,10 @@
                     "notFound": "매니페스트를 찾을 수 없음"
                 }
             },
+            "essentials": "필수 항목",
             "favorites": "즐겨찾는 항목",
             "functionalUnsupported": "앗! 이 기능은 일시적으로 사용할 수 없습니다. 연락을 유지해 주세요",
+            "getYourDebotListed": "DeBot 목록 받으세요",
             "history": "기록",
             "info": {
                 "about": "자세한 내용",
@@ -285,17 +287,14 @@
                 "version": "v. {0}",
                 "writeToDeveloper": "개발자에게 쓰기"
             },
+            "newest": "최신",
             "notFound": "Debot을 찾을 수 없습니다",
             "nothingFound": "아무것도 찾지 못했습니다",
             "open": "DeBot을 열기",
             "queueEnd": "그뿐입니다! 제 도움이 필요하시면 저를 다시 실행해 주세요",
             "recommended": "권장 사항",
-            "newest": "Newest",
-            "discover": "알아보기",
-            "essentials": "필수 항목",
-            "getYourDebotListed": "DeBot 목록 받으세요",
-            "results": "결과",
             "restart": "다시 시작",
+            "results": "결과",
             "search": "DeBot 주소 입력",
             "searching": "검색 중...",
             "securityCard": {

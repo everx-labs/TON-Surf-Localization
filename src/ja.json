@@ -1276,7 +1276,11 @@
     },
     "buy": {
         "buySheetSubTitle": "Purchases up to {0} 300\ndo not require KYC verification",
-        "buySheetTitle": "How much do you want\nto use to buy Evers?"
+        "buySheetTitle": "How much do you want\nto use to buy Evers?",
+        "providers": {
+            "itez": "Itez",
+            "payler": "Surf Payments"
+        }
     },
     "support": {
         "askQuestion": "アシスタント",

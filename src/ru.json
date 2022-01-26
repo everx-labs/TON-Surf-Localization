@@ -1276,7 +1276,11 @@
     },
     "buy": {
         "buySheetSubTitle": "Покупки до {0}300 анонимны\nи не требуют проверки KYC",
-        "buySheetTitle": "На какую сумму\nхотите купить эверов?"
+        "buySheetTitle": "На какую сумму\nхотите купить эверов?",
+        "providers": {
+            "itez": "Itez",
+            "payler": "Surf Payments"
+        }
     },
     "support": {
         "askQuestion": "Ассистент",

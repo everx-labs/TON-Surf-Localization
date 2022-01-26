@@ -195,7 +195,11 @@
     },
     "buy": {
         "buySheetSubTitle": "최대 {0} 300개 구매하면\neKYC 인증이 필요하지 않습니다",
-        "buySheetTitle": "얼마나 많은 에버를\n구매하시겠습니까?"
+        "buySheetTitle": "얼마나 많은 에버를\n구매하시겠습니까?",
+        "providers": {
+            "itez": "Itez",
+            "payler": "Surf Payments"
+        }
     },
     "chats": {
         "button": {

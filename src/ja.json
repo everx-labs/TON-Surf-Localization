@@ -14,6 +14,7 @@
             "description": "ドラッグアンドドロップで資金を交換し、資産のバランスを取り直します",
             "title": "資産",
             "mainAccount": "Main account",
+            "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
             "flexPromo": "Flex. Soon...",

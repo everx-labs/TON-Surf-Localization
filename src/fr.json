@@ -14,6 +14,7 @@
             "description": "Glissez-déposez pour échanger des fonds et rééquilibrer vos actifs",
             "title": "Actifs",
             "mainAccount": "Main account",
+            "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
             "flexPromo": "Flex. Soon...",

@@ -14,6 +14,7 @@
             "description": "Drag-and-Drop zum Austausch von Geldern und zur Neugewichtung Ihres Vermögens",
             "title": "Vermögenswerte",
             "mainAccount": "Main account",
+            "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
             "flexPromo": "Flex. Soon...",

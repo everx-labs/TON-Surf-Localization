@@ -15,6 +15,7 @@
             "extraAccountPromo": "추가의 계정. 곧 공개됩니다...",
             "flexPromo": "Flex. 곧 공개됩니다...",
             "mainAccount": "메인 계정",
+            "extra": "추가",
             "multisigAccountTitle": "멀티시그 계정",
             "title": "자산",
             "tokenPromo": "토큰. 곧 공개됩니다..."
@@ -120,10 +121,10 @@
                 "goToExplorer": "익스플로러로 이동하기",
                 "openThread": "스레드를 열기",
                 "send": "보내기",
-                "showAddress": "주소 표시",
+                "showAddress": "주소 보기",
                 "title": "기록",
                 "transfer": "송금",
-                "viewHistory": "기록 보기",
+                "viewHistory": "기록 열기",
                 "viewKeys": "키를 보기"
             },
             "addressPlaceholder": "계정 주소",

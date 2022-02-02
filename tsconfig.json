@@ -1,15 +1,12 @@
 {
-  "compilerOptions": {
-      "esModuleInterop": true,
-      "moduleResolution": "node",
-      "strict": true,
-      "baseUrl": "./src",
-      "resolveJsonModule": true,
-      "lib": [
-          "es2020",
-          "dom"
-      ]
-  },
-  "include": ["**/*.ts"],
-  "exclude": ["node_modules"]
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "strict": true,
+        "baseUrl": "./src",
+        "resolveJsonModule": true,
+        "lib": ["es2020", "dom"]
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules"]
 }

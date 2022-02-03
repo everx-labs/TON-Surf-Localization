@@ -18,7 +18,9 @@
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
             "flexPromo": "Flex. Soon...",
-            "tokenPromo": "Token. Soon..."
+            "tokenPromo": "Token. Soon...",
+            "successScreenText": "Your extra account has been added. It is now being activated and will be available in a few minutes.",
+            "successScreenBtn": "OK, great"
         },
         "charts": {
             "monthAgo": "30日前",

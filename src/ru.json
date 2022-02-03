@@ -18,7 +18,9 @@
             "multisigAccountTitle": "Счет с мультиподписью",
             "extraAccountPromo": "Дополнительный счет. Скоро...",
             "flexPromo": "Flex. Скоро...",
-            "tokenPromo": "Токены. Скоро..."
+            "tokenPromo": "Токены. Скоро...",
+            "successScreenText": "Your extra account has been added. It is now being activated and will be available in a few minutes.",
+            "successScreenBtn": "OK, great"
         },
         "charts": {
             "monthAgo": "30 дней назад",

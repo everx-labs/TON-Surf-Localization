@@ -18,7 +18,9 @@
             "extra": "추가",
             "multisigAccountTitle": "멀티시그 계정",
             "title": "자산",
-            "tokenPromo": "토큰. 곧 공개됩니다..."
+            "tokenPromo": "토큰. 곧 공개됩니다...",
+            "successScreenText": "Your extra account has been added. It is now being activated and will be available in a few minutes.",
+            "successScreenBtn": "OK, great"
         },
         "charts": {
             "monthAgo": "30일 전",

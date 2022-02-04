@@ -18,7 +18,9 @@
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
             "flexPromo": "Flex. Soon...",
-            "tokenPromo": "Token. Soon..."
+            "tokenPromo": "Token. Soon...",
+            "successScreenText": "Your extra account is almost ready. You can use it in a few minutes after we finish its activation.",
+            "successScreenBtn": "OK, great"
         },
         "charts": {
             "monthAgo": "30 giorni fa",

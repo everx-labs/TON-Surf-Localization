@@ -252,7 +252,8 @@
             "errors": {
                 "common": {
                     "fetch": "DeBot 로딩 오류",
-                    "init": "DeBot 초기화 오류"
+                    "init": "DeBot 초기화 오류",
+                    "restart": "DeBot restart error"
                 },
                 "interface": {
                     "one": "",

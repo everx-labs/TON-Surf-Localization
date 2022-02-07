@@ -68,7 +68,7 @@
                 "trueNft": "True NFT"
             },
             "request": {
-                "title": "Request"
+                "title": "Запрос"
             },
             "sections": {
                 "library": "Библиотека",
@@ -76,9 +76,9 @@
                 "trending": "Тренды"
             },
             "send": {
-                "confirm": "Confirm",
-                "receiver": "Receiver",
-                "title": "Send"
+                "confirm": "Подтвердить",
+                "receiver": "Кому",
+                "title": "Отправка"
             },
             "storage": "Хранилище",
             "view": "Посмотреть",

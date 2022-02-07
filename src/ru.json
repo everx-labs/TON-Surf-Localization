@@ -72,6 +72,12 @@
                 "partners": "Партнеры",
                 "trending": "Тренды"
             },
+            "send": {
+                "confirm": "Confirm",
+                "receiver": "Receiver",
+                "request": "Request",
+                "title": "Send"
+            },
             "storage": "Хранилище",
             "view": "Посмотреть",
             "owner": "Владелец",

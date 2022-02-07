@@ -73,6 +73,12 @@
                 "partners": "Partners",
                 "trending": "Trending"
             },
+            "send": {
+                "confirm": "Confirm",
+                "receiver": "Receiver",
+                "request": "Request",
+                "title": "Send"
+            },
             "storage": "Storage",
             "tokens": "Tokens",
             "type": "Type",

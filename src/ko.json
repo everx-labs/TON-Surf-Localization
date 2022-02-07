@@ -73,6 +73,12 @@
                 "partners": "파트너",
                 "trending": "유행"
             },
+            "send": {
+                "confirm": "Confirm",
+                "receiver": "Receiver",
+                "request": "Request",
+                "title": "Send"
+            },
             "storage": "저장",
             "tokens": "토큰",
             "type": "유형",

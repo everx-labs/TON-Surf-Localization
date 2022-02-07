@@ -68,6 +68,9 @@
                 "trueNft": "True NFT"
             },
             "owner": "Owner",
+            "request": {
+                "title": "Request"
+            },
             "sections": {
                 "library": "Library",
                 "partners": "Partners",
@@ -76,7 +79,6 @@
             "send": {
                 "confirm": "Confirm",
                 "receiver": "Receiver",
-                "request": "Request",
                 "title": "Send"
             },
             "storage": "Storage",

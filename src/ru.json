@@ -67,10 +67,18 @@
                 "notTrue": "Not True",
                 "trueNft": "True NFT"
             },
+            "request": {
+                "title": "Запрос"
+            },
             "sections": {
                 "library": "Библиотека",
                 "partners": "Партнеры",
                 "trending": "Тренды"
+            },
+            "send": {
+                "confirm": "Подтвердить",
+                "receiver": "Кому",
+                "title": "Отправка"
             },
             "storage": "Хранилище",
             "view": "Посмотреть",

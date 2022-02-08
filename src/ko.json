@@ -68,10 +68,18 @@
             },
             "notSupportedMedia": "서프는 곧 이 True NFT를\n표시하게 될 것입니다.",
             "owner": "소유자",
+            "request": {
+                "title": "요청"
+            },
             "sections": {
                 "library": "라이브러리",
                 "partners": "파트너",
                 "trending": "유행"
+            },
+            "send": {
+                "confirm": "확인",
+                "receiver": "수신인",
+                "title": "보내기"
             },
             "storage": "저장",
             "tokens": "토큰",

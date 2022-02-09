@@ -308,7 +308,7 @@
             "nothingFound": "아무것도 찾지 못했습니다",
             "open": "DeBot을 열기",
             "queueEnd": "그뿐입니다! 제 도움이 필요하시면 저를 다시 실행해 주세요",
-            "queueEndWithManifest": "여기까지입니다! 다시 시도하거나 재시도에 실패하면 DeBot을 다시 시작하십시오.",
+            "queueEndWithManifest": "다시 시도하거나 재시도에 실패하면 DeBot을 다시 시작하십시오.",
             "recommended": "권장 사항",
             "restart": "다시 시작",
             "retry": "다시 시도",

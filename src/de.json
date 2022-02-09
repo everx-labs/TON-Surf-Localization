@@ -247,7 +247,7 @@
             "debot": "DeBot",
             "debotError": "Oops!! Ich bin ein wenig kaputt. Bleiben Sie in Kontakt",
             "queueEnd": "That's all! Restart me in case you need my help again",
-            "queueEndWithManifest": "That's all! Try again or restart Debot if retries fail",
+            "queueEndWithManifest": "Try again or restart Debot if retries fail",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Verschlüsseln / Entschlüsseln mit Surf"

@@ -247,6 +247,7 @@
             "debot": "DeBot",
             "debotError": "Oops!! Sono al verde. Rimani in contatto",
             "queueEnd": "That's all! Restart me in case you need my help again",
+            "queueEndWithManifest": "Try again or restart Debot if retries fail",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Crittografa / decifra con Surf"
@@ -286,6 +287,7 @@
             "getYourDebotListed": "Get your Debot listed",
             "results": "Results",
             "restart": "Riavvia",
+            "retry": "Retry",
             "search": "Enter DeBot address…",
             "searching": "Ricerca...",
             "securityCard": {

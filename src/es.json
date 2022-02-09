@@ -247,6 +247,7 @@
             "debot": "DeBot",
             "debotError": "¡¡Oops!! Estoy un poco roto. Mantente en contacto",
             "queueEnd": "That's all! Restart me in case you need my help again",
+            "queueEndWithManifest": "Try again or restart Debot if retries fail",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Cifrar / descifrar con Surf"
@@ -286,6 +287,7 @@
             "getYourDebotListed": "Get your Debot listed",
             "results": "Results",
             "restart": "Restart",
+            "retry": "Retry",
             "search": "Enter DeBot address…",
             "searching": "Searching...",
             "securityCard": {

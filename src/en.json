@@ -247,6 +247,7 @@
             "debot": "DeBot",
             "debotError": "Oops!! I'm a little broken. Stay in touch",
             "queueEnd": "That's all! Restart me in case you need my help again",
+            "queueEndWithManifest": "Try again or restart Debot if retries fail",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Use Surf keys"
@@ -282,6 +283,7 @@
             "recommended": "Popular",
             "newest": "Newest",
             "restart": "Restart",
+            "retry": "Retry",
             "results": "Results",
             "search": "Search",
             "searching": "Searching...",

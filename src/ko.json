@@ -18,7 +18,9 @@
             "extra": "추가",
             "multisigAccountTitle": "멀티시그 계정",
             "title": "자산",
-            "tokenPromo": "토큰. 곧 공개됩니다..."
+            "tokenPromo": "토큰. 곧 공개됩니다...",
+            "successScreenText": "본인의 추가 계정이 추가되었습니다. 현재 활성화 중이며 몇 분 안에 사용할 수 있습니다.",
+            "successScreenBtn": "네, 좋습니다"
         },
         "charts": {
             "monthAgo": "30일 전",
@@ -66,10 +68,18 @@
             },
             "notSupportedMedia": "서프는 곧 이 True NFT를\n표시하게 될 것입니다.",
             "owner": "소유자",
+            "request": {
+                "title": "요청"
+            },
             "sections": {
                 "library": "라이브러리",
                 "partners": "파트너",
                 "trending": "유행"
+            },
+            "send": {
+                "confirm": "확인",
+                "receiver": "수신인",
+                "title": "보내기"
             },
             "storage": "저장",
             "tokens": "토큰",
@@ -299,8 +309,10 @@
             "nothingFound": "아무것도 찾지 못했습니다",
             "open": "DeBot을 열기",
             "queueEnd": "그뿐입니다! 제 도움이 필요하시면 저를 다시 실행해 주세요",
+            "queueEndWithManifest": "다시 시도하거나 재시도에 실패하면 DeBot을 다시 시작하십시오.",
             "recommended": "권장 사항",
             "restart": "다시 시작",
+            "retry": "다시 시도",
             "results": "결과",
             "search": "DeBot 주소 입력",
             "searching": "검색 중...",

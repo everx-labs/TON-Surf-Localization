@@ -18,7 +18,9 @@
             "multisigAccountTitle": "Счет с мультиподписью",
             "extraAccountPromo": "Дополнительный счет. Скоро...",
             "flexPromo": "Flex. Скоро...",
-            "tokenPromo": "Токены. Скоро..."
+            "tokenPromo": "Токены. Скоро...",
+            "successScreenText": "Дополнительный счет открыт. Сейчас активируем его, и через пару минут сможете им пользоваться.",
+            "successScreenBtn": "Отлично"
         },
         "charts": {
             "monthAgo": "30 дней назад",
@@ -65,10 +67,18 @@
                 "notTrue": "Not True",
                 "trueNft": "True NFT"
             },
+            "request": {
+                "title": "Запрос"
+            },
             "sections": {
                 "library": "Библиотека",
                 "partners": "Партнеры",
                 "trending": "Тренды"
+            },
+            "send": {
+                "confirm": "Подтвердить",
+                "receiver": "Кому",
+                "title": "Отправка"
             },
             "storage": "Хранилище",
             "view": "Посмотреть",
@@ -237,6 +247,7 @@
             "debot": "ДеБот",
             "debotError": "Ой! Кажется, я сломался. Будьте на связи",
             "queueEnd": "Вот и все. Если вам еще будет нужна моя помощь, просто перезапустите",
+            "queueEndWithManifest": "Повторите попытку, а если это не даст результата — перезапустите ДеБота",
             "defaultHello": "Привет! Я ДеБот",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Зашифровать / расшифровать с помощью Surf"
@@ -276,6 +287,7 @@
             "getYourDebotListed": "Добавить своего Дебота",
             "results": "Найдено",
             "restart": "Перезапустить",
+            "retry": "Повторить",
             "search": "Найти Дебота",
             "searching": "Поиск...",
             "securityCard": {

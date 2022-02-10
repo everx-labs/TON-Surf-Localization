@@ -18,7 +18,9 @@
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
             "flexPromo": "Flex. Soon...",
-            "tokenPromo": "Token. Soon..."
+            "tokenPromo": "Token. Soon...",
+            "successScreenText": "Your extra account is almost ready. You can use it in a few minutes after we finish its activation.",
+            "successScreenBtn": "OK, great"
         },
         "charts": {
             "monthAgo": "Hace 30 días",
@@ -66,10 +68,18 @@
                 "trueNft": "True NFT"
             },
             "owner": "Owner",
+            "request": {
+                "title": "Request"
+            },
             "sections": {
                 "library": "Library",
                 "partners": "Partners",
                 "trending": "Trending"
+            },
+            "send": {
+                "confirm": "Confirm",
+                "receiver": "Receiver",
+                "title": "Send"
             },
             "storage": "Storage",
             "tokens": "Tokens",
@@ -237,6 +247,7 @@
             "debot": "DeBot",
             "debotError": "¡¡Oops!! Estoy un poco roto. Mantente en contacto",
             "queueEnd": "That's all! Restart me in case you need my help again",
+            "queueEndWithManifest": "Try again or restart Debot if retries fail",
             "defaultHello": "Hi! I'm DeBot",
             "encryptionBox": {
                 "encryptDecryptWithSurf": "Cifrar / descifrar con Surf"
@@ -276,6 +287,7 @@
             "getYourDebotListed": "Get your Debot listed",
             "results": "Results",
             "restart": "Restart",
+            "retry": "Retry",
             "search": "Enter DeBot address…",
             "searching": "Searching...",
             "securityCard": {

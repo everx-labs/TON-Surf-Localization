@@ -1399,6 +1399,7 @@
             "invite": "邀请",
             "receive": "接收",
             "send": "发送",
+            "swap": "Swap",
             "tokenValue": "Token value",
             "updating": "正在更新。。。",
             "yourBalance": "您的余额",
@@ -1406,7 +1407,7 @@
             "evers": "Evers",
             "devers": "Devers",
             "tokens": "Tokens",
-            "buy": "Buy tokens"
+            "buy": "Buy"
         },
         "payInvoice": {
             "buyNetTokens": "购买{0}代币",

@@ -1399,6 +1399,7 @@
             "invite": "招待する",
             "receive": "受信",
             "send": "送信",
+            "swap": "Swap",
             "tokenValue": "Token value",
             "updating": "更新中...",
             "yourBalance": "あなたの残高",
@@ -1406,7 +1407,7 @@
             "evers": "Evers",
             "devers": "Devers",
             "tokens": "Tokens",
-            "buy": "Buy tokens"
+            "buy": "Buy"
         },
         "payInvoice": {
             "buyNetTokens": "{0}トークンを購入する",

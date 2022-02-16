@@ -1399,6 +1399,7 @@
             "invite": "Davet",
             "receive": "Teslim al",
             "send": "Gönder",
+            "swap": "Swap",
             "tokenValue": "Token value",
             "updating": "Güncelleniyor...",
             "yourBalance": "Bakiyeniz",
@@ -1406,7 +1407,7 @@
             "evers": "Evers",
             "devers": "Devers",
             "tokens": "Tokens",
-            "buy": "Buy tokens"
+            "buy": "Buy"
         },
         "payInvoice": {
             "buyNetTokens": "{0} belirteç satın al",

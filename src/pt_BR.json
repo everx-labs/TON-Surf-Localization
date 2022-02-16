@@ -1399,6 +1399,7 @@
             "invite": "Convidar",
             "receive": "Receber",
             "send": "Enviar",
+            "swap": "Swap",
             "tokenValue": "Valor do token",
             "updating": "Atualizando…",
             "yourBalance": "Seu saldo",
@@ -1406,7 +1407,7 @@
             "evers": "Evers",
             "devers": "Devers",
             "tokens": "Tokens",
-            "buy": "Buy tokens"
+            "buy": "Buy"
         },
         "payInvoice": {
             "buyNetTokens": "Comprar {0} tokens",

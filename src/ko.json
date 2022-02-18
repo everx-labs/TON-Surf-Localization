@@ -263,7 +263,7 @@
                 "common": {
                     "fetch": "DeBot 로딩 오류",
                     "init": "DeBot 초기화 오류",
-                    "restart": "DeBot restart error"
+                    "restart": "DeBot 재시작 오류"
                 },
                 "interface": {
                     "one": "",

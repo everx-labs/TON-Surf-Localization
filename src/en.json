@@ -296,7 +296,8 @@
             "errors": {
                 "common": {
                     "fetch": "DeBot loading error",
-                    "init": "DeBot initialization error"
+                    "init": "DeBot initialization error",
+                    "restart": "DeBot restart error"
                 },
                 "interface": {},
                 "manifest": {

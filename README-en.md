@@ -4,27 +4,31 @@ All localization files of the Surf app are stored on GitHub. You need a GitHub a
 
 ## Create a repository copy
 
-All changes to the strings you make in your own repository without affecting the original TON Surf repository.
+All changes to the strings you make in your own repository without affecting the original TON Surf repository. This step is performed only once, you don't need to create a copy of repository every time you want to edit strings.
 
 1. Go to the [TON-Surf-Localization](https://github.com/tonlabs/TON-Surf-Localization) repository.
    ![alt text](images/screenshot-00.png)
 2. In the upper right corner, click **Fork**.
    ![alt text](images/screenshot-01.png)
-3. Select you local repository name. GitHub will copy the TON-Surf-Localization repository there.
+3. Click you local repository name. GitHub will copy the TON-Surf-Localization repository there. 
+   ![alt text](images/screenshot-27.png)
 
-Now you have a copy of the TON-Surf-Localization repository and you are ready to edit strings. You can add this webpage to your Favourites or Bookmarks in your browser to easily revisit later.
+Well done! Now you have a copy of the TON-Surf-Localization repository and you are ready to edit string files.
 ![alt text](images/screenshot-02.png)
+
+Do not close the tab. We recommend you to add this webpage to your Favourites or Bookmarks in your browser to easily revisit it later.
 
 ## Switch to the right branch
 
 It's extremely important to edit strings in the latest version of file. Otherwise, your changes can cause conflicts when merging them.
-To get the file latest version, please check the current Surf version number and select the Github branch with the same number.
+First, please check the current Surf version number. Then, switch to the Github branch with the same number to get the file latest version.
 
 1. Open [Surf for Translators](https://ton-surf-translate.firebaseapp.com/). If opening for the fist time, please comply with legal requirements as described in the [Help Center](https://help.ever.surf/en/support/solutions/articles/77000236686-do-i-need-to-register-to-use-surf-).
-2. In the upper left corner, click the Surf icon.
-3. Scroll down and find the Surf current version number.
+2. On the main screen, click the Settings icon.
+   ![alt text](images/screenshot-28.png)
+3.  At the bottom of the screen, find the Surf current version number.
    ![alt text](images/screenshot-19.png)
-4. Open the bookmark with your local repository copied from TON-Surf-Localization.
+4. If you closed the browser tab with your local repository on GitHub, please reopen it.
 5. Click on the branch name and enter the version number you found at [Surf for Translators](https://ton-surf-translate.firebaseapp.com/).
    ![alt text](images/screenshot-23.png)
 6. If there is no appropriate branch in the list, create it the following way:
@@ -36,14 +40,14 @@ To get the file latest version, please check the current Surf version number and
 
 ## Open file for edit
 
-You can edit files right in GitHub or download them to your computer and edit locally. All localization files are stored in the **src** folder.
+All localization files are stored in the **src** folder. Every localization file named according to the two-letter country code.
 ![alt text](images/screenshot-24.png)
-Every localization file named according to the two-letter country code.
+
+You can edit files right in GitHub or download them to your computer and edit locally.
 
 ### Edit on GitHub
 
-1. Open the bookmark with your local repository copied from TON-Surf-Localization.
-2. Switch to the right branch.
+1. In your local repository, switch to the right branch.
 3. Click the **src** folder.
 4. Click on the file you want to edit.
 5. Click the pencil icon.
@@ -53,8 +57,7 @@ The file opens in GitHub build-in editor.
 
 ### Download file
 
-1. Open the bookmark with your local repository copied from TON-Surf-Localization.
-2. Switch to the right branch.
+1. In your local repository, switch to the right branch.
 3. Click the **src** folder.
 4. Click on the file you want to edit.
 5. Right-click the **Raw** button and select **Download Linked File**.
@@ -76,7 +79,7 @@ Sometimes different strings can have the same translation. To know exactly what 
 Now, when you put the cursor in the string, its ID is displayed above the screen.
 ![alt text](images/screenshot-05.png)
 
-Every ID consists of keys separated with commas. Knowing the string ID you can search the localization file for keys and find the string you need.
+Every ID consists of keys separated with commas. Knowing the string ID you can search the localization file for keys and find the string you need. For example, the string ID **TON-Surf.setup.promoCards.faq.initial** consists of the following keys:  
 ![alt text](images/screenshot-25.png)
 
 ## Commit changes

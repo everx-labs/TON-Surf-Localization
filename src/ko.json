@@ -722,7 +722,7 @@
         "confirm": "확인하기",
         "congrats": "삶의 변화를 축하합니다. 변화에 나쁠 것은 없습니다!",
         "currencies": {
-            "CRYSTAL": {
+            "EVER": {
                 "comment": "에버스케일 토큰",
                 "title": "내 에버"
             },
@@ -730,7 +730,7 @@
                 "comment": "{0} 토큰",
                 "title": "내 {0} 토큰"
             },
-            "RUBY": {
+            "DEVER": {
                 "comment": "에버스케일 테스트 토큰",
                 "title": "내 루비"
             },

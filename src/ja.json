@@ -711,7 +711,7 @@
         "confirm": "確認",
         "congrats": "人生を変えて、おめでとうございます。これは痛くないですね。",
         "currencies": {
-            "CRYSTAL": {
+            "EVER": {
                 "comment": "Everscale tokens",
                 "title": "My Evers"
             },
@@ -719,7 +719,7 @@
                 "comment": "{0} tokens",
                 "title": "My {0} tokens"
             },
-            "RUBY": {
+            "DEVER": {
                 "comment": "Everscale test tokens",
                 "title": "My Rubies"
             },

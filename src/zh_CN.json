@@ -14,7 +14,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "拖放以交换资金并重新平衡您的资产",
             "title": "资产",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",

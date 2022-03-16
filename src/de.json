@@ -14,7 +14,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-Drop zum Austausch von Geldern und zur Neugewichtung Ihres Vermögens",
             "title": "Vermögenswerte",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",

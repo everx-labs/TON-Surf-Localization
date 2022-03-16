@@ -14,7 +14,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-drop to exchange funds and rebalance your assets",
             "title": "Assets",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",

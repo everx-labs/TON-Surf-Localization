@@ -14,7 +14,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "Arrastrar y soltar para intercambiar fondos y reequilibrar sus activos",
             "title": "Activos",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",

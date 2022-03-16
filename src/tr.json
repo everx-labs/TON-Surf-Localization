@@ -14,7 +14,7 @@
             "copyAddressHint2": "Adresi kopyala",
             "description": "Para takası yapmak ve varlıklarınızı yeniden dengelemek için sürükle ve bırak",
             "title": "Varlık",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",

@@ -1413,6 +1413,13 @@
             "updating": "업데이트 중 ...",
             "yourBalance": "사용자 잔액"
         },
+        "operationResults": {
+            "completed": "Operation completed",
+            "done": "Done",
+            "failed": "Operation failed",
+            "inProgress": "Operation in progress",
+            "tryAgain": "Try again"
+        },
         "payInvoice": {
             "buyNetTokens": "{0} 토큰 구매하기",
             "cardNumber": "카드 번호",
@@ -1453,6 +1460,22 @@
             "invalidAddress": "유효하지 않은 에버스케일 주소입니다",
             "recipientWarning": "주소를 확인하십시오! 송금을 취소할 수 없습니다!",
             "title": "토큰 보내기"
+        },
+        "swap": {
+            "confirm": "Confirm",
+            "continue": "Continue",
+            "currencyNotFound": {
+                "description": "Try again or select from the list",
+                "title": "We didn't find your currency"
+            },
+            "fee": "Fee",
+            "get": "Get",
+            "order": "Order",
+            "pay": "Pay",
+            "selectTokens": "Select tokens",
+            "swapTokens": "Swap tokens",
+            "youGet": "You get",
+            "youPay": "You pay"
         },
         "transaction": {
             "aborted": "중단됨",

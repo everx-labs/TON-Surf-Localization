@@ -1411,6 +1411,13 @@
             "tokens": "Токенов",
             "buy": "Купить"
         },
+        "operationResults": {
+            "completed": "Operation completed",
+            "done": "Done",
+            "failed": "Operation failed",
+            "inProgress": "Operation in progress",
+            "tryAgain": "Try again"
+        },
         "payInvoice": {
             "buyNetTokens": "Купить {0} токенов",
             "cardNumber": "Номер карты",
@@ -1451,6 +1458,22 @@
             "invalidAddress": "Недействительный адрес",
             "recipientWarning": "Убедитесь, что адрес верный! Отправленные переводы невозможно вернуть!",
             "title": "Отправить токены"
+        },
+        "swap": {
+            "confirm": "Confirm",
+            "continue": "Continue",
+            "currencyNotFound": {
+                "description": "Try again or select from the list",
+                "title": "We didn't find your currency"
+            },
+            "fee": "Fee",
+            "get": "Get",
+            "order": "Order",
+            "pay": "Pay",
+            "selectTokens": "Select tokens",
+            "swapTokens": "Swap tokens",
+            "youGet": "You get",
+            "youPay": "You pay"
         },
         "transaction": {
             "aborted": "Прервано",

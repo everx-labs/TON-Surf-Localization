@@ -1410,6 +1410,13 @@
             "tokens": "Tokens",
             "buy": "Buy"
         },
+        "operationResults": {
+            "completed": "Operation completed",
+            "done": "Done",
+            "failed": "Operation failed",
+            "inProgress": "Operation in progress",
+            "tryAgain": "Try again"
+        },
         "payInvoice": {
             "buyNetTokens": "{0} belirteç satın al",
             "cardNumber": "Kart numarası",
@@ -1450,6 +1457,22 @@
             "invalidAddress": "Geçersiz adresi.",
             "recipientWarning": "Adresin doğru olduğunu kontrol edin! Gönderilen aktarım geri alınamaz!",
             "title": "Para gönder"
+        },
+        "swap": {
+            "confirm": "Confirm",
+            "continue": "Continue",
+            "currencyNotFound": {
+                "description": "Try again or select from the list",
+                "title": "We didn't find your currency"
+            },
+            "fee": "Fee",
+            "get": "Get",
+            "order": "Order",
+            "pay": "Pay",
+            "selectTokens": "Select tokens",
+            "swapTokens": "Swap tokens",
+            "youGet": "You get",
+            "youPay": "You pay"
         },
         "transaction": {
             "aborted": "İptal edildi",

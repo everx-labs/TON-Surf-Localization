@@ -813,8 +813,6 @@
             },
             "checkingCardIntegrity": "カードの完全性を確認しています。",
             "codeScanning": "コードをスキャンしている…",
-            "comingSoonText": "私たちも、セキュリティカードが開くすべての新しい可能性を楽しみにしています。",
-            "comingSoonTitle": "近日公開",
             "confirm": "確認",
             "confirmAndBuy": "確認して購入する",
             "confirmAndOrder": "確認して注文する",
@@ -862,40 +860,7 @@
             "enterCodeDescription": "カードにコードを入力し、デバイスの横にカードを置いたら、接続します。",
             "free": "無料",
             "included": "株式会社",
-            "keepInformed": "オッケーです。何かがあれば、知らせてください。",
             "laterBtn": "いいえ、後で",
-            "learnMore": {
-                "developers": {
-                    "description": "Everscale SDKでは、自分のスマートコントラクトとユースケースに合わせてカードをプログラムできます",
-                    "title": "開発者向けのオープンソース"
-                },
-                "development": {
-                    "description": "Everscale SDKでは、自分のスマートコントラクトとユースケースに合わせてカードをプログラムできます。",
-                    "title": "オープンソースで拡張可能"
-                },
-                "personalization": {
-                    "description": "発注からパーソナライズ。ハードウェアで生成された暗号化秘密キーが表示されることは決してありません。",
-                    "title": "最初からあなたのためにパーソナライズされた"
-                },
-                "personalized": {
-                    "description": "あなたのカードは注文の瞬間からあなたのアカウントに割り当てられ、易感染性になれません",
-                    "title": "発注からパーソナライズ"
-                },
-                "protectTech": {
-                    "description": "シングルチップ設計、EAL 6+認定、フォーマル検証済みマルチシグニチャウォレットスマートコントラクト、および暗号化により、資産を安全に保ちます。あなたの秘密キーは、あなたにも明らかにされることはありません！",
-                    "title": "最先端のセキュリティ"
-                },
-                "simpleness": {
-                    "description": "バッテリーもケーブルもプラグもありません。財布やポケットにピッタリ。携帯電話のNFCで2分以内にカードをアクティブにします。簡単に！",
-                    "title": "入手しやすく、使いやすい"
-                },
-                "technology": {
-                    "description": "シングルチップ設計、EAL 6+認定、フォーマル検証済みマルチシグニチャウォレットスマートコントラクト、および暗号化により、資産を安全に保ちます",
-                    "title": "最先端のセキュリティ技術"
-                },
-                "title": "Advantages"
-            },
-            "menuTitle": "セキュリティカード",
             "moreFeaturesSoon": "セキュリティカードの機能がまもなく登場します。",
             "options": "オプション",
             "order": "注文",
@@ -969,44 +934,13 @@
             "tapSecurityCard": "セキュリティカードをタップします",
             "tapSecurityCardDescription": "カードをタップしてアクションを確認します。",
             "taxAndFees": "税金と料金",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "ハードウェアウォレットを使いやすいものにしたかったので、85.6×53.98×0.76センチのプラスチックカードの形にデザインしました。",
-                    "title": "寸法"
-                },
-                "extended": {
-                    "description": "カードには120KBの空きメモリーがあるため、独自のデータをカードに書き込むことができます。\nオープンソースのEverscale SDKを提供しているので、カードを自分のスマートコントラクトでプログラムして、銀行カード、建物のアクセスカードなどの使い方が可能です。",
-                    "title": "拡張使用"
-                },
-                "extendedUse": {
-                    "description": "カードには120KBの空きメモリーがあるため、独自のデータをカードに書き込むことができます。\nオープンソースのEverscale APIを提供しているので、カードを自分のスマートコントラクトでプログラムして、銀行カード、建物のアクセスカードなどの使い方が可能です。",
-                    "title": "拡張使用"
-                },
-                "hardware": {
-                    "description": "トラブルのない動作を保証し、悪用のリスクを軽減するために、シングルチップNFCのみの設計（ISO 14443）と認定されたセキュアチップSECC EAL6 +を使用しました。",
-                    "title": "ハードウェア"
-                },
-                "protection": {
-                    "description": "セキュリティとプライバシーは私たちの優先事項です。設計によりサイドチャネル攻撃から保護されたCCEAL 6+ Infineon SecureElementを使用しています。\nマスターパスワード（シードフレーズ）がカードから離れることはありません。\nあなたのカードはあなたが注文した瞬間からあなたのアカウントに割り当てられ、それを注文するために使用された暗号ウォレットに対してのみアクティブにすることができます。",
-                    "title": "保護"
-                },
-                "title": "技術仕様"
-            },
             "total": "トータル",
             "turningOnCardWallet": "カードウォレットをオンにする...",
             "understand": "了解しました！",
             "verifyIdentity": "本人確認してください",
             "verifyIdentityDescription": "画面を見てください",
             "waitlist": {
-                "added": "待機リストに追加されました。カード注文の開始についてお知らせします。",
-                "addedToastMsg": "待機リストに追加されました",
-                "comingThisDecemberBtn": "今年の12月に",
-                "description": "めのTONLabs セキュリティカードは、ユニークなNFCスマートカードです 。 あなたのデータを安全に保ち、あなただけの特別な使い方もできるカードです。",
-                "joinWaitlistBtn": "順番待ちリストに参加する",
-                "learnMoreBtn": "詳細情報",
-                "policy": "TONLabsセキュリティカードをEverscaleで使用することにより、あなたは、当社の利用規約とポリシーに同意します。",
-                "techSpecsBtn": "技術仕様",
-                "title": "普通のハードウェアウォレットじゃありません"
+                "addedToastMsg": "待機リストに追加されました"
             }
         },
         "showPrivateKey": "秘密キーを表示する",
@@ -1096,9 +1030,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "マスター\nパスワードを\nバックアップする"
-            },
-            "card": {
-                "initial": "ハードウェア\nウォレット以上\nのもの"
             },
             "faq": {
                 "initial": "よく\nある\n質問"

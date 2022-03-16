@@ -813,8 +813,6 @@
             },
             "checkingCardIntegrity": "Verificando a integridade do cartão…",
             "codeScanning": "Escaneando código…",
-            "comingSoonText": "Nós também estamos ansiosos por todas as novas possibilidades que o Cartão de Segurança permitirá.",
-            "comingSoonTitle": "Em breve",
             "confirm": "Confirmar",
             "confirmAndBuy": "Confirmar e comprar",
             "confirmAndOrder": "Confirmar e encomendar",
@@ -862,40 +860,7 @@
             "enterCodeDescription": "Insira o código do cartão e depois encoste-o no dispositivo para estabelecer uma conexão",
             "free": "Free",
             "included": "Inc.",
-            "keepInformed": "OK. Mantenha-me informado",
             "laterBtn": "Não, mais tarde",
-            "learnMore": {
-                "developers": {
-                    "description": "Com o SDK do Everscale você pode programar o cartão para funcionar com seus próprios contratos inteligentes e necessidades.",
-                    "title": "Código aberto para desenvolvedores"
-                },
-                "development": {
-                    "description": "Deixe-o do seu jeito com o Everscale SDK. Você pode programar o cartão para seus próprios contratos inteligentes e casos de uso.",
-                    "title": "De código aberto e versátil"
-                },
-                "personalization": {
-                    "description": "Personalizado para você desde o momento em que você faz seu pedido. A chave privada criptografada gerada por hardware nunca é revelada",
-                    "title": "Personalizado para você desde o início"
-                },
-                "personalized": {
-                    "description": "Seu cartão é vinculado à sua conta no instante em que você realiza o pedido e não pode ser hackeado",
-                    "title": "Personalizado no instante em que você faz o pedido"
-                },
-                "protectTech": {
-                    "description": "Design single-chip, certificação EAL 6+, contrato inteligente de carteira multi-assinatura formalmente verificado e criptografia, tudo isso mantém seus ativos seguros. Sua chave privada nunca é revelada, nem mesmo para você!",
-                    "title": "Tecnologia de segurança de última geração"
-                },
-                "simpleness": {
-                    "description": "Sem bateria, sem fios, sem plugues. Cabe facilmente na sua bolsa ou bolso. Ative o cartão em menos de 2 minutos via NFC em seu dispositivo móvel",
-                    "title": "Fácil de obter, simples de usar"
-                },
-                "technology": {
-                    "description": "Design de chip único, certificação EAL 6+, contrato inteligente de carteira multi-assinatura formalmente verificado e a criptografia de ponta, tudo isso mantém seus ativos seguros.",
-                    "title": "Tecnologia de segurança de última geração"
-                },
-                "title": "Vantagens"
-            },
-            "menuTitle": "Cartão de segurança",
             "moreFeaturesSoon": "Mais recursos para o Cartão de Segurança serão oferecidos em breve.",
             "options": "Opções",
             "order": "Solicitar",
@@ -969,44 +934,13 @@
             "tapSecurityCard": "Toque no Cartão de Segurança",
             "tapSecurityCardDescription": "Toque no cartão para confirmar a ação.",
             "taxAndFees": "Impostos e Taxas",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "Queríamos tornar a carteira física conveniente e fácil de usar, por isso a projetamos no formato de um cartão plástico: 85,6 mm × 53,98 mm × 0,76 mm",
-                    "title": "Dimensões"
-                },
-                "extended": {
-                    "description": "Há 120 KB de espaço livre no cartão, para que você possa escrever seus próprios dados nele.\n\nDisponibilizamos o SDK de código aberto do Everscale para que você possa programar o cartão com seus próprios contratos inteligentes e usá-lo, por exemplo, como um cartão de pagamento, um cartão de acesso a prédios ou o que mais você quiser.",
-                    "title": "Uso prolongado"
-                },
-                "extendedUse": {
-                    "description": "Há 120 KB de espaço livre no cartão para que você possa escrever seus próprios dados nele.\n\nDisponibilizamos a API de código aberto do Everscale para que você possa programar o cartão com seus próprios contratos inteligentes e usá-lo, por exemplo, como um cartão de pagamento, um cartão de acesso a prédios ou o que mais você precisar.",
-                    "title": "Uso prolongado"
-                },
-                "hardware": {
-                    "description": "Para garantir um funcionamento sem problemas e mitigar os riscos de ataques utilizamos a solução de chip único NFC-only (ISO 14443) e um chip seguro com certificação SE CC EAL 6+.",
-                    "title": "Hardware"
-                },
-                "protection": {
-                    "description": "Segurança e privacidade são nossas prioridades. Usamos o CC EAL 6+ Infineon Secure Element, projetado contra ataques do tipo side-channel.\nSua senha mestra (frase semente) nunca sai do cartão.\nSeu cartão é atribuído à sua conta a partir do momento em que você faz o pedido e pode ser ativado apenas para a carteira criptografada usada para pedir o cartão.",
-                    "title": "Proteção"
-                },
-                "title": "Especificações técnicas"
-            },
             "total": "Total",
             "turningOnCardWallet": "Ativando a carteira física…",
             "understand": "Entendi",
             "verifyIdentity": "Verifique sua identidade",
             "verifyIdentityDescription": "Olhe para a tela",
             "waitlist": {
-                "added": "Você foi adicionado à lista de espera. Vamos notificá-lo sobre a abertura dos pedidos.",
-                "addedToastMsg": "Você foi adicionado à lista de espera",
-                "comingThisDecemberBtn": "Disponível em dezembro",
-                "description": "O Cartão de Segurança da TON Labs é um cartão inteligente NFC único — ele mantém seus dados seguros e pode ser adaptado para uso em diversas situações do dia-a-dia.",
-                "joinWaitlistBtn": "Entre para a lista de espera",
-                "learnMoreBtn": "Saiba mais",
-                "policy": "Ao utilizar o Cartão de Segurança da TON Labs você está concordando com nossos Termos e Políticas de uso.",
-                "techSpecsBtn": "Especificações técnicas",
-                "title": "É mais que uma carteira física"
+                "addedToastMsg": "Você foi adicionado à lista de espera"
             }
         },
         "showPrivateKey": "Mostrar chave privada",
@@ -1096,9 +1030,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "Backup\nda senha\nmestra"
-            },
-            "card": {
-                "initial": "Mais que\numa carteira\nfísica"
             },
             "faq": {
                 "initial": "Perguntas\nmais\nfrequentes"

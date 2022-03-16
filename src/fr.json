@@ -813,8 +813,6 @@
             },
             "checkingCardIntegrity": "Vérification de l'intégrité de la carte ...",
             "codeScanning": "Analyse de code...",
-            "comingSoonText": "Nous attendons également avec impatience toutes les nouvelles possibilités que la carte de sécurité ouvrira.",
-            "comingSoonTitle": "Bientôt disponible",
             "confirm": "Confirmer",
             "confirmAndBuy": "Confirmer et acheter",
             "confirmAndOrder": "Confirmer et commander",
@@ -862,40 +860,7 @@
             "enterCodeDescription": "Entrez le code sur la carte et placez la carte à côté de l'appareil pour créer une connexion.",
             "free": "Gratuit",
             "included": "Inc.",
-            "keepInformed": "OK, tenez-moi informé",
             "laterBtn": "Non, plus tard",
-            "learnMore": {
-                "developers": {
-                    "description": "Avec le SDK Everscale, vous pouvez programmer la carte pour vos propres contrats intelligents et cas d'utilisation",
-                    "title": "Open-source pour les développeurs"
-                },
-                "development": {
-                    "description": "Personnalisez-le avec le SDK Everscale. Vous pouvez programmer la carte pour vos propres contrats intelligents et cas d'utilisation.",
-                    "title": "Open-source et extensible"
-                },
-                "personalization": {
-                    "description": "Personnalisé pour vous dès le moment où vous passez votre commande. La clé privée cryptographique générée par le matériel n'est jamais révélée",
-                    "title": "Personnalisé pour vous dès le départ"
-                },
-                "personalized": {
-                    "description": "Votre carte est attribuée à votre compte à partir du moment de la commande et ne peut pas être compromise",
-                    "title": "Personnalisé dès le placement de la commande"
-                },
-                "protectTech": {
-                    "description": "La conception à puce unique, la certification EAL 6+, le contrat intelligent de portefeuille multisignature officiellement vérifié et le cryptage protègent vos actifs. Votre clé privée n'est jamais révélée, même pas à vous!",
-                    "title": "Technologie de sécurité de pointe"
-                },
-                "simpleness": {
-                    "description": "Pas de batterie, pas de câbles, pas de prises. Se glisse facilement dans votre sac à main ou votre poche. Activez la carte en moins de 2 minutes via NFC sur votre mobile.",
-                    "title": "Facile à obtenir, simple à utiliser"
-                },
-                "technology": {
-                    "description": "La conception à puce unique, la certification EAL 6+, le contrat intelligent de portefeuille multi-signature officiellement vérifié et le cryptage protègent vos actifs",
-                    "title": "Technologie de sécurité de pointe"
-                },
-                "title": "Avantages"
-            },
-            "menuTitle": "Carte de sécurité",
             "moreFeaturesSoon": "Plus de fonctionnalités pour la carte de sécurité apparaîtront bientôt.",
             "options": "Options",
             "order": "Commander",
@@ -969,44 +934,13 @@
             "tapSecurityCard": "Appuyez sur Carte de sécurité",
             "tapSecurityCardDescription": "Appuyez sur la carte pour confirmer l'action",
             "taxAndFees": "Impôts et frais",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "Nous voulions rendre le portefeuille matériel pratique et facile à utiliser et l'avons conçu sous la forme d'une carte plastique: 85,6 mm × 53,98 mm × 0,76 mm",
-                    "title": "Dimensions"
-                },
-                "extended": {
-                    "description": "Il y a 120 Ko d'espace libre sur la carte, vous pouvez donc y écrire vos propres données.\n Nous vous fournissons le SDK open source Everscale, afin que vous puissiez programmer la carte avec vos propres contrats intelligents et l'utiliser, par exemple, comme une carte bancaire, une carte d'accès au bâtiment ou tout autre cas d'utilisation dont vous avez besoin",
-                    "title": "Utilisation prolongée"
-                },
-                "extendedUse": {
-                    "description": "Il y a 120 Ko d'espace libre sur la carte, vous pouvez donc y écrire vos propres données.\n Nous vous fournissons l'API open source Everscale, afin que vous puissiez programmer la carte avec vos propres contrats intelligents et l'utiliser, par exemple, comme une carte bancaire, une carte d'accès au bâtiment ou tout autre cas d'utilisation dont vous avez besoin.",
-                    "title": "Utilisation prolongée"
-                },
-                "hardware": {
-                    "description": "Pour garantir un fonctionnement sans problème et atténuer les risques d'exploits, nous avons utilisé une conception à puce unique NFC (ISO 14443) et une puce sécurisée certifiée SE CC EAL 6+",
-                    "title": "Matériel"
-                },
-                "protection": {
-                    "description": "La sécurité et la confidentialité sont nos priorités. Nous utilisons le CC EAL 6+ Infineon Secure Element, protégé des attaques par canal latéral de par sa conception.\n Votre mot de passe principal (seed phrase) ne quitte jamais la carte.\n Votre carte est attribuée à votre compte à partir du moment où vous passez la commande et ne peut être activée que pour le portefeuille crypto qui a été utilisé pour la commander",
-                    "title": "Protection"
-                },
-                "title": "Spécifications techniques"
-            },
             "total": "Total",
             "turningOnCardWallet": "Activation du portefeuille de cartes en cours…",
             "understand": "J'ai compris",
             "verifyIdentity": "Vérifiez votre identité",
             "verifyIdentityDescription": "Regardez l'écran.",
             "waitlist": {
-                "added": "Vous avez été ajouté à la liste d'attente. Nous vous informerons de l'ouverture de la commande de la carte.",
-                "addedToastMsg": "Vous avez été ajouté à la liste d'attente",
-                "comingThisDecemberBtn": "À venir en décembre",
-                "description": "La carte de sécurité est une carte à puce NFC unique — elle protège vos données et peut être adaptée à vos propres besoins",
-                "joinWaitlistBtn": "Rejoindre la liste d'attente",
-                "learnMoreBtn": "En savoir plus",
-                "policy": "En utilisant la carte de sécurité de TON Labs, vous acceptez nos conditions et notre politique.",
-                "techSpecsBtn": "Spécifications",
-                "title": "Plus qu'un portefeuille matériel"
+                "addedToastMsg": "Vous avez été ajouté à la liste d'attente"
             }
         },
         "showPrivateKey": "Afficher la clé privée",
@@ -1096,9 +1030,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "Sauvegarder\nla phrase\nseed"
-            },
-            "card": {
-                "initial": "Plus qu'un \nportefeuille\nphysique"
             },
             "faq": {
                 "initial": "Questions\nFréquemment\nPosées"

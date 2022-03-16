@@ -5,7 +5,8 @@
             "addMenuTitle": "추가",
             "addTitle": "계정 추가",
             "renameBtn": "계정 이름 바꾸기",
-            "renameTitle": "이름 바꾸기"
+            "renameTitle": "이름 바꾸기",
+            "setPrimary": "Set as primary"
         },
         "assets": {
             "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",

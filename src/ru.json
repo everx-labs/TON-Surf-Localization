@@ -5,7 +5,8 @@
             "renameTitle": "Переименовать",
             "addMenuTitle": "Добавить",
             "renameBtn": "Переименовать счет",
-            "addMenuItem": "Дополнительный счет"
+            "addMenuItem": "Дополнительный счет",
+            "setPrimary": "Set as primary"
         },
         "assets": {
             "addressCopied": "Адрес скопирован",

@@ -1342,6 +1342,13 @@
             "tokens": "Tokens",
             "buy": "Buy"
         },
+        "operationResults": {
+            "completed": "Operation completed",
+            "done": "Done",
+            "failed": "Operation failed",
+            "inProgress": "Operation in progress",
+            "tryAgain": "Try again"
+        },
         "payInvoice": {
             "buyNetTokens": "购买{0}代币",
             "cardNumber": "卡号",
@@ -1382,6 +1389,22 @@
             "invalidAddress": "无效的地址。",
             "recipientWarning": "确保地址正确！发送的转账不能撤销！",
             "title": "发送代币"
+        },
+        "swap": {
+            "confirm": "Confirm",
+            "continue": "Continue",
+            "currencyNotFound": {
+                "description": "Try again or select from the list",
+                "title": "We didn't find your currency"
+            },
+            "fee": "Fee",
+            "get": "Get",
+            "order": "Order",
+            "pay": "Pay",
+            "selectTokens": "Select tokens",
+            "swapTokens": "Swap tokens",
+            "youGet": "You get",
+            "youPay": "You pay"
         },
         "transaction": {
             "aborted": "中止",

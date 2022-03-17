@@ -1342,6 +1342,13 @@
             "tokens": "Tokens",
             "buy": "Buy"
         },
+        "operationResults": {
+            "completed": "Operation completed",
+            "done": "Done",
+            "failed": "Operation failed",
+            "inProgress": "Operation in progress",
+            "tryAgain": "Try again"
+        },
         "payInvoice": {
             "buyNetTokens": "Comprar {0} tokens",
             "cardNumber": "Número de tarjeta",
@@ -1382,6 +1389,22 @@
             "invalidAddress": "Dirección no válida.",
             "recipientWarning": "¡Asegúrate de que la dirección es correcta! ¡Las transferencias enviadas no pueden ser revertidas!",
             "title": "Enviar tokens"
+        },
+        "swap": {
+            "confirm": "Confirm",
+            "continue": "Continue",
+            "currencyNotFound": {
+                "description": "Try again or select from the list",
+                "title": "We didn't find your currency"
+            },
+            "fee": "Fee",
+            "get": "Get",
+            "order": "Order",
+            "pay": "Pay",
+            "selectTokens": "Select tokens",
+            "swapTokens": "Swap tokens",
+            "youGet": "You get",
+            "youPay": "You pay"
         },
         "transaction": {
             "aborted": "Abortado",

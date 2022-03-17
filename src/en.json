@@ -813,8 +813,6 @@
             },
             "checkingCardIntegrity": "Checking card integrity...",
             "codeScanning": "Сode scanning…",
-            "comingSoonText": "We are also looking forward to all the new opportunities the Security Card will open up",
-            "comingSoonTitle": "Coming soon",
             "confirm": "Confirm",
             "confirmAndBuy": "Confirm and buy",
             "confirmAndOrder": "Confirm and Order",
@@ -862,40 +860,7 @@
             "enterCodeDescription": "Enter the card number and place the card against your device to establish a connection",
             "free": "Free",
             "included": "Inc.",
-            "keepInformed": "OK. Keep me informed",
             "laterBtn": "No, later",
-            "learnMore": {
-                "developers": {
-                    "description": "With the Everscale SDK you can program the card for your own smart contracts and use cases",
-                    "title": "Open-sourced for developers"
-                },
-                "development": {
-                    "description": "Make it yours with the Everscale SDK. You can program the card for your own smart contracts and use cases",
-                    "title": "Open-sourced and expandable"
-                },
-                "personalization": {
-                    "description": "Personalized for you from the moment you place your order. The hardware-generated cryptographic private key is never revealed",
-                    "title": "Personalized for you from the start"
-                },
-                "personalized": {
-                    "description": "Your card is assigned to your account from the moment of order placement and cannot be compromised",
-                    "title": "Personalized from order placement"
-                },
-                "protectTech": {
-                    "description": "Single-chip design, EAL 6+ certification, formally verified multisignature wallet smart contract and encryption keep your assets safe. Your private key is never revealed, not even to you!",
-                    "title": "Cutting-edge security technology"
-                },
-                "simpleness": {
-                    "description": "No battery, no cables, no plugs. Easily fits in your purse or pocket. Activate the card in less than 2 minutes via NFC on your mobile device",
-                    "title": "Easy to get, simple to use"
-                },
-                "technology": {
-                    "description": "Single-chip design, EAL 6+ certification, formally verified multi-signature wallet smart contract and encryption keep your assets safe.",
-                    "title": "Cutting-edge security technology"
-                },
-                "title": "Advantages"
-            },
-            "menuTitle": "Security card",
             "moreFeaturesSoon": "More Security Card features will appear soon",
             "options": "Options",
             "order": "Order",
@@ -969,44 +934,13 @@
             "tapSecurityCard": "Tap Security Card",
             "tapSecurityCardDescription": "Tap the card to confirm the action",
             "taxAndFees": "Tax and Fees",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "We wanted to make the hardware wallet convenient and easy to use and designed it in the shape of a payment card: 85.6 mm × 53.98 mm × 0.76 mm.",
-                    "title": "Dimensions"
-                },
-                "extended": {
-                    "description": "There is 120 KB of free space on the card so that you could write your own data on it.\n\nWe provide you with the open-source Everscale SDK,  and you can program the card with your own smart contracts and use it, for example, as a payment card, a building access card, or however you want.",
-                    "title": "Extended use"
-                },
-                "extendedUse": {
-                    "description": "There is 120 KB of free space on the card, so that you could write your own data on it.\n\nWe provide you with the open source Everscale API, and you can program the card with your own smart contracts and use it, for example, as a bank card, a building access card or whatever you need.",
-                    "title": "Extended use"
-                },
-                "hardware": {
-                    "description": "To guarantee trouble-free operation and to mitigate security risks we used a single-chip NFC-only design (ISO 14443) and a certified secure chip SE CC EAL 6+.",
-                    "title": "Hardware"
-                },
-                "protection": {
-                    "description": "Security and privacy are our priorities. We use the CC EAL 6+ Infineon Secure Element, protected from side-channel attacks by design.\nYour seed phrase never leaves the card.\nYour card is assigned to your account from the moment you place the order and can be activated only for the crypto wallet that was used to order it.",
-                    "title": "Protection"
-                },
-                "title": "Technical specifications"
-            },
             "total": "Total",
             "turningOnCardWallet": "Turning on card wallet...",
             "understand": "Got it",
             "verifyIdentity": "Verify your identity",
             "verifyIdentityDescription": "Look at the screen",
             "waitlist": {
-                "added": "You have been added to the waitlist, we will notify you about the opening of the card order",
-                "addedToastMsg": "You have been added to the waitlist",
-                "comingThisDecemberBtn": "Coming this December",
-                "description": "Security Card is a unique NFC smart card —  it keeps your data safe and can be adapted to your own needs",
-                "joinWaitlistBtn": "Join waitlist",
-                "learnMoreBtn": "Learn more",
-                "policy": "By using Security Card, you accept our Terms and Policies",
-                "techSpecsBtn": "Specs",
-                "title": "More than a hardware wallet"
+                "addedToastMsg": "You have been added to the waitlist"
             }
         },
         "showPrivateKey": "Show private key",
@@ -1096,9 +1030,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "Backup\nseed\nphrase"
-            },
-            "card": {
-                "initial": "More than\na hardware\nwallet"
             },
             "faq": {
                 "initial": "Frequently\nasked\nquestions"

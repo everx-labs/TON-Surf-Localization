@@ -813,8 +813,6 @@
             },
             "checkingCardIntegrity": "Überprüfen der Kartenintegrität ...",
             "codeScanning": "Code scannen…",
-            "comingSoonText": "Auch wir freuen uns auf all die neuen Möglichkeiten, die sich die Security Card eröffnen wird.",
-            "comingSoonTitle": "Demnächst",
             "confirm": "Bestätigen",
             "confirmAndBuy": "Bestätigen und kaufen",
             "confirmAndOrder": "Bestätigen und bestellen",
@@ -862,40 +860,7 @@
             "enterCodeDescription": "Geben Sie den code auf der Karte ein und legen Sie die Karte neben das Gerät, um eine Verbindung herzustellen.",
             "free": "Kostenlos",
             "included": "Inc.",
-            "keepInformed": "OK. Halten Sie mich auf dem Laufenden",
             "laterBtn": "Nicht später",
-            "learnMore": {
-                "developers": {
-                    "description": "Mit dem Everscale SDK können Sie die Karte für Ihre eigenen smart contracts und use cases Programmieren.",
-                    "title": "Open-Source für Entwickler"
-                },
-                "development": {
-                    "description": "Machen Sie es Ihnen mit dem Everscale SDK. Sie können die Karte für Ihre eigenen smart contracts und Anwendungsfälle Programmieren",
-                    "title": "Open-source und erweiterbar"
-                },
-                "personalization": {
-                    "description": "Personalisiert für Sie ab dem Zeitpunkt Ihrer Bestellung. Der hardware-generierte kryptografische private Schlüssel wird nie enthüllt",
-                    "title": "Personalisiert für Sie von Anfang anfang"
-                },
-                "personalized": {
-                    "description": "Ihre Karte ist ab dem Zeitpunkt der Auftragserteilung kryptografisch auf Ihr Konto personalisiert und kann nicht kompromittiert werden.",
-                    "title": "Personalisiert ab Auftragserteilung"
-                },
-                "protectTech": {
-                    "description": "Single-chip-design, EAL 6+ Zertifizierung, formal überprüft multi-Signatur Brieftasche smart Vertrag und Verschlüsselung halten Ihre Vermögenswerte sicher. Es zeigt nie Ihren privaten Schlüssel, nicht einmal für Sie!",
-                    "title": "Modernste Schutztechnologie"
-                },
-                "simpleness": {
-                    "description": "Keine Batterie, keine Kabel, keine Stecker. Passt leicht in Ihre Handtasche oder Tasche. Aktivieren Sie die Karte in weniger als 2 Minuten über NFC auf Ihrem Handy. Bring es einfach hoch!",
-                    "title": "Einfach zu bekommen, einfach zu bedienen"
-                },
-                "technology": {
-                    "description": "Single-chip-design, EAL 6+ Zertifizierung, formal überprüft multi-Signatur Brieftasche smart Vertrag und Verschlüsselung halten Ihre Vermögenswerte sicherheit.",
-                    "title": "Modernste Sicherheitstechnologie"
-                },
-                "title": "Advantages"
-            },
-            "menuTitle": "Sicherheitsausweis",
             "moreFeaturesSoon": "Weitere Funktionen für die Sicherheitskarte werden in Kürze angezeigt.",
             "options": "Optionen",
             "order": "Bestellung",
@@ -969,44 +934,13 @@
             "tapSecurityCard": "Tippen Sie auf Sicherheitskarte",
             "tapSecurityCardDescription": "Tippen Sie auf die Karte, um die Aktion zu bestätigen.",
             "taxAndFees": "Steuern und Gebühren",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "Wir wollten die hardware-Brieftasche bequem und einfach zu bedienen machen und Sie in Form einer Plastikkarte gestalten: 85,6 mm × 53,98 mm × 0,76 mm.",
-                    "title": "Bemaßungen"
-                },
-                "extended": {
-                    "description": "Auf der Karte befinden sich 120 KB freier Speicherplatz, sodass Sie Ihre eigenen Daten darauf schreiben können.\n\nWir stellen Ihnen das open-source Everscale SDK zur Verfügung, und Sie können die Karte mit Ihren eigenen smart contracts Programmieren und beispielsweise als Zahlungskarte, gebäudezugriffskarte oder nach Belieben verwenden.",
-                    "title": "Erweiterte Nutzung"
-                },
-                "extendedUse": {
-                    "description": "Es gibt 120 KB freien Speicherplatz auf der Karte, so dass Sie Ihre eigenen Daten darauf schreiben können.\nWir stellen Ihnen die open source Everscale API zur Verfügung, damit Sie die Karte mit Ihren eigenen smart contracts Programmieren und beispielsweise als Bankkarte, gebäudezugriffskarte oder als Anwendungsfall verwenden können.",
-                    "title": "Erweiterte Nutzung"
-                },
-                "hardware": {
-                    "description": "Um einen störungsfreien Betrieb zu gewährleisten und das Risiko von exploits zu mindern, verwendeten wir single-chip-NFC-only-design (ISO 14443) und einen zertifizierten secure chip SE CC EAL 6+.",
-                    "title": "Hardware"
-                },
-                "protection": {
-                    "description": "Sicherheit und Privatsphäre sind unsere Prioritäten. Wir verwenden das CC EAL 6 + Infineon Secure Element, das durch design vor seitenkanalangriffen geschützt ist.\nIhr master-Passwort (seed phrase) verlässt die Karte nie.\nIhre Karte wird Ihrem Konto ab dem Zeitpunkt der Bestellung zugewiesen und kann nur für die Krypto-Brieftasche aktiviert werden, mit der Sie bestellt wurde.",
-                    "title": "Schutz"
-                },
-                "title": "Technischen spezifikationen"
-            },
             "total": "Insgesamt",
             "turningOnCardWallet": "Kartenmappe einschalten ...",
             "understand": "Ich habs",
             "verifyIdentity": "Bestätigen Sie Ihre Identität",
             "verifyIdentityDescription": "Schau auf den Bildschirm",
             "waitlist": {
-                "added": "Sie wurden zur Warteliste Hinzugefügt. Wir werden Sie Benachrichtigen, sobald die Kartenbestellung geöffnet wird",
-                "addedToastMsg": "Sie wurden zur Warteliste Hinzugefügt",
-                "comingThisDecemberBtn": "Kommt diesen Dezember",
-                "description": "TON Labs Security Card Ist eine einzigartige NFC-Smartcard-Sie schützt Ihre Daten und kann für Ihre eigenen Fälle angepasst werden",
-                "joinWaitlistBtn": "Zur Warteliste beitreten",
-                "learnMoreBtn": "Mehr erfahren",
-                "policy": "Durch die Nutzung der TON Labs Security card akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen.",
-                "techSpecsBtn": "Technische Daten",
-                "title": "Es ist mehr als eine hardware-Brieftasche"
+                "addedToastMsg": "Sie wurden zur Warteliste Hinzugefügt"
             }
         },
         "showPrivateKey": "Privaten Schlüssel anzeigen",
@@ -1096,9 +1030,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "Backup\n Meister\n Passwort"
-            },
-            "card": {
-                "initial": "Verwenden Sie die\ngleiche Karte\nfür Krypto\nund Fiat"
             },
             "faq": {
                 "initial": "Häufig\nGefragt\nFragen"

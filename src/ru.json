@@ -1412,11 +1412,11 @@
             "buy": "Купить"
         },
         "operationResults": {
-            "completed": "Operation completed",
-            "done": "Done",
-            "failed": "Operation failed",
-            "inProgress": "Operation in progress",
-            "tryAgain": "Try again"
+            "completed": "Готово!",
+            "done": "Супер",
+            "failed": "Не получилось",
+            "inProgress": "Меняем токены...",
+            "tryAgain": "Повторить"
         },
         "payInvoice": {
             "buyNetTokens": "Купить {0} токенов",
@@ -1460,20 +1460,20 @@
             "title": "Отправить токены"
         },
         "swap": {
-            "confirm": "Confirm",
-            "continue": "Continue",
+            "confirm": "Подтвердить",
+            "continue": "Дальше",
             "currencyNotFound": {
-                "description": "Try again or select from the list",
-                "title": "We didn't find your currency"
+                "description": "Либо в названии опечатка, либо такая не существует",
+                "title": "Неизвестная валюта"
             },
-            "fee": "Fee",
-            "get": "Get",
-            "order": "Order",
-            "pay": "Pay",
-            "selectTokens": "Select tokens",
-            "swapTokens": "Swap tokens",
-            "youGet": "You get",
-            "youPay": "You pay"
+            "fee": "Комиссия",
+            "get": "Получаете",
+            "order": "Операция",
+            "pay": "Меняете",
+            "selectTokens": "Выбор токенов",
+            "swapTokens": "Обмен",
+            "youGet": "Получить",
+            "youPay": "Поменять"
         },
         "transaction": {
             "aborted": "Прервано",

@@ -5,7 +5,8 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra Account"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary"
         },
         "assets": {
             "addressCopied": "ウオレットアドレスはコーヒーされました。",
@@ -13,7 +14,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "ドラッグアンドドロップで資金を交換し、資産のバランスを取り直します",
             "title": "資産",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",

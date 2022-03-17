@@ -5,7 +5,8 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra Account"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary"
         },
         "assets": {
             "addressCopied": "Adresse du portefeuille copiée dans le presse-papiers",
@@ -13,7 +14,7 @@
             "copyAddressHint2": "Appuyez pour enregistrer l'adresse",
             "description": "Glissez-déposez pour échanger des fonds et rééquilibrer vos actifs",
             "title": "Actifs",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",

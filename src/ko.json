@@ -5,7 +5,8 @@
             "addMenuTitle": "추가",
             "addTitle": "계정 추가",
             "renameBtn": "계정 이름 바꾸기",
-            "renameTitle": "이름 바꾸기"
+            "renameTitle": "이름 바꾸기",
+            "setPrimary": "기본 계정으로 설정"
         },
         "assets": {
             "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",
@@ -14,7 +15,7 @@
             "description": "끌어 놓기 기능 이용하여 자금을 바꾸하고 자산을 바꿀 수 있습니다",
             "extraAccountPromo": "추가의 계정. 곧 공개됩니다...",
             "flexPromo": "Flex. 곧 공개됩니다...",
-            "mainAccount": "메인 계정",
+            "mainAccount": "기본 계정",
             "extra": "추가",
             "multisigAccountTitle": "멀티시그 계정",
             "title": "자산",

@@ -5,7 +5,8 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra Account"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary"
         },
         "assets": {
             "addressCopied": "Endereço da carteira copiado para a área de transferência",
@@ -13,7 +14,7 @@
             "copyAddressHint2": "Toque para copiar o endereço",
             "description": "Arraste e solte para trocar fundos e rebalancear seus ativos",
             "title": "Ativos",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",

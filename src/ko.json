@@ -5,7 +5,8 @@
             "addMenuTitle": "추가",
             "addTitle": "계정 추가",
             "renameBtn": "계정 이름 바꾸기",
-            "renameTitle": "이름 바꾸기"
+            "renameTitle": "이름 바꾸기",
+            "setPrimary": "기본 계정으로 설정"
         },
         "assets": {
             "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",
@@ -14,7 +15,7 @@
             "description": "끌어 놓기 기능 이용하여 자금을 바꾸하고 자산을 바꿀 수 있습니다",
             "extraAccountPromo": "추가의 계정. 곧 공개됩니다...",
             "flexPromo": "Flex. 곧 공개됩니다...",
-            "mainAccount": "메인 계정",
+            "mainAccount": "기본 계정",
             "extra": "추가",
             "multisigAccountTitle": "멀티시그 계정",
             "title": "자산",
@@ -1069,8 +1070,6 @@
             },
             "checkingCardIntegrity": "카드 무결성을 확인하는 중...",
             "codeScanning": "코드 스캔하는 중...",
-            "comingSoonText": "저희도 보안 카드가 제공할 새로운 기회에 대해 기대가 됩니다",
-            "comingSoonTitle": "곧 출시",
             "confirm": "확인하기",
             "confirmAndBuy": "확인 및 구매",
             "confirmAndOrder": "확인 및 주문",
@@ -1118,40 +1117,7 @@
             "enterCodeDescription": "카드 번호를 입력하고 카드를 장치에 대고 연결을 설정하십시오",
             "free": "무료",
             "included": "주식회사",
-            "keepInformed": "네, 계속 알려 주세요",
             "laterBtn": "아니요, 나중에",
-            "learnMore": {
-                "developers": {
-                    "description": "에버스케일 SDK를 사용할 때 이용자는 자신의 스마트 콘트랙트와 유스 케이스를 위해서 카드 프로그래밍할 수 있다",
-                    "title": "개발자를 위한 오픈 소스"
-                },
-                "development": {
-                    "description": "에버스케일 SDK로 귀하의 것으로 만드십시오. 자신의 스마트 계약 및 사용 사례에 맞게 카드를 프로그래밍할 수 있습니다",
-                    "title": "오픈 소스 및 확장 가능"
-                },
-                "personalization": {
-                    "description": "주문하는 순간부터 맞춤형으로 제공됩니다. 하드웨어 생성 암호화 개인 키는 절대 공개되지 않습니다.",
-                    "title": "시작부터 개인의 필요에 맞춰져 있습니다"
-                },
-                "personalized": {
-                    "description": "귀하의 카드는 주문 순간부터 귀하의 계정에 할당되며 손상될 수 없습니다",
-                    "title": "주문하는 순간부터 맞춤형으로 제공됩니다"
-                },
-                "protectTech": {
-                    "description": "단일 칩 설계, EAL 6+ 인증, 공식적으로 검증된 다중 서명 지갑 스마트 컨트랙트와 암호화는 이용자 자산의 보호가 됩니다. 이용자의 개인 키는 절대로 공개되지 않습니다!",
-                    "title": "최첨단 보안 기술"
-                },
-                "simpleness": {
-                    "description": "배터리도 없고 케이블도 없고 플러그도 없습니다. 지갑이나 주머니에 쉽게 맞습니다. 모바일 장치에서 NFC를 통해 2분 이내에 카드 활성화할 수 있습니다",
-                    "title": "쉽고 간단합니다"
-                },
-                "technology": {
-                    "description": "단일 칩 설계, EAL 6+ 인증, 공식적으로 검증된 다중 서명 지갑 스마트 계약과 암호화는 이용자의 자산을 보호합니다.",
-                    "title": "최첨단 보안 기술"
-                },
-                "title": "장점"
-            },
-            "menuTitle": "보안 카드",
             "moreFeaturesSoon": "더 많은 보안 카드 기능이 곧 나타날 것입니다.",
             "options": "옵션",
             "order": "주문하기",
@@ -1225,44 +1191,13 @@
             "tapSecurityCard": "보안 카드를 탭하세요",
             "tapSecurityCardDescription": "카드를 탭하여 작업을 확인하십시오.",
             "taxAndFees": "세금 및 수수료",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "하드웨어 지갑을 편리하고 사용하기 쉽게 만들고자 85.6mm × 53.98mm × 0.76mm의 결제 카드 모양으로 디자인했습니다.",
-                    "title": "치수"
-                },
-                "extended": {
-                    "description": "카드에 120KB의 여유 공간이 있으므로 원하시는 데이터를 쓸 수 있습니다.\n\n저희는 오픈 소스 에버스케일 SDK를 제공하며 자신의 스마트 컨트랙트로 카드를 프로그래밍하고 예를 들어 결제 카드, 건물 출입 카드 또는 원하는 대로 사용할 수 있습니다.",
-                    "title": "확장 사용"
-                },
-                "extendedUse": {
-                    "description": "카드에 120KB의 여유 공간이 있으므로 자신의 데이터를 쓸 수 있습니다.\n\n저희는 귀하에게 오픈 소스 에버스케일 SDK를 제공하며, 귀하는 귀하의 스마트 컨트랙트로 카드를 프로그래밍하고 예를 들어 지불 카드, 건물 출입 카드로 또는 원하는 대로 사용할 수 있습니다.",
-                    "title": "확장 사용"
-                },
-                "hardware": {
-                    "description": "문제 없는 작동을 보장하고 보안 위험을 완화하기 위해 단일 칩 NFC 전용 설계(ISO 14 443)와 인증된 보안 칩 SE CC EAL 6+를 사용했습니다.",
-                    "title": "하드웨어"
-                },
-                "protection": {
-                    "description": "보안 및 개인 정보 보호는 저희의 우선 순위입니다. 설계로 부채널 공격으로부터 보호되는 CC EAL 6+ Infineon 보안적 요소를 사용합니다.\n시드키는 카드를 떠나지 않습니다.\n귀하의 카드는 주문하는 순간부터 귀하의 계정에 할당되며 주문에 사용된 암호화 지갑에 대해서만 활성화할 수 있습니다.",
-                    "title": "보호"
-                },
-                "title": "기술 명세서"
-            },
             "total": "총",
             "turningOnCardWallet": "카드 지갑을 만드는 중...",
             "understand": "알겠습니다",
             "verifyIdentity": "ID 확인",
             "verifyIdentityDescription": "화면을 보세요",
             "waitlist": {
-                "added": "대기자 명단에 추가되었습니다. 카드 주문이 시작될 때 알려 드리겠습니다.",
-                "addedToastMsg": "대기자 명단에 추가되었습니다",
-                "comingThisDecemberBtn": "올 12월 출시 예정",
-                "description": "보안 카드는 고유한 NFC 스마트 카드입니다. 데이터를 안전하게 보호하고 필요에 맞게 조정할 수 있습니다",
-                "joinWaitlistBtn": "대기자 명단에 가입하기",
-                "learnMoreBtn": "더 알아보기",
-                "policy": "에버스케일 블록체인용 TON Labs 보안 카드를 사용하면 약관 및 정책에 동의하게 됩니다",
-                "techSpecsBtn": "기술 사양",
-                "title": "단순한 하드웨어 지갑 그 이상입니다"
+                "addedToastMsg": "대기자 명단에 추가되었습니다"
             }
         },
         "showPrivateKey": "개인 키 표시",
@@ -1352,9 +1287,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "시드키\n백업하기"
-            },
-            "card": {
-                "initial": "단순한 하드웨어\n지갑 그\n이상입니다"
             },
             "faq": {
                 "initial": "자주 묻는 질문"
@@ -1658,6 +1590,13 @@
             "updating": "업데이트 중 ...",
             "yourBalance": "사용자 잔액"
         },
+        "operationResults": {
+            "completed": "작업 완료",
+            "done": "끝",
+            "failed": "작업 실패",
+            "inProgress": "작업이 진행 중",
+            "tryAgain": "다시 시도"
+        },
         "payInvoice": {
             "buyNetTokens": "{0} 토큰 구매하기",
             "cardNumber": "카드 번호",
@@ -1698,6 +1637,22 @@
             "invalidAddress": "유효하지 않은 에버스케일 주소입니다",
             "recipientWarning": "주소를 확인하십시오! 송금을 취소할 수 없습니다!",
             "title": "토큰 보내기"
+        },
+        "swap": {
+            "confirm": "확인",
+            "continue": "계속",
+            "currencyNotFound": {
+                "description": "다시 시도하거나 목록에서 선택해 주세요",
+                "title": "통화를 찾지 못했습니다"
+            },
+            "fee": "수수료",
+            "get": "받기",
+            "order": "주문",
+            "pay": "결제",
+            "selectTokens": "토큰 선택",
+            "swapTokens": "토큰 스왑",
+            "youGet": "받는 금액",
+            "youPay": "결제 금액"
         },
         "transaction": {
             "aborted": "중단됨",

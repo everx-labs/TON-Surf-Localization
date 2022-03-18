@@ -5,7 +5,8 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra Account"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary"
         },
         "assets": {
             "addressCopied": "钱包地址复制到剪贴板",
@@ -13,7 +14,7 @@
             "copyAddressHint2": "Tap to copy address",
             "description": "拖放以交换资金并重新平衡您的资产",
             "title": "资产",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
@@ -1058,8 +1059,6 @@
             },
             "checkingCardIntegrity": "检查卡完整性……",
             "codeScanning": "代码扫描……",
-            "comingSoonText": "我们也期待着安全卡将打开的所有新的可能性。",
-            "comingSoonTitle": "即将推出",
             "confirm": "确认",
             "confirmAndBuy": "确认并购买",
             "confirmAndOrder": "确认并订购",
@@ -1107,40 +1106,7 @@
             "enterCodeDescription": "输入卡上的代码，将卡放在设备旁边以创建连接。",
             "free": "免费",
             "included": "包括在内",
-            "keepInformed": "好的， 随时通知我",
             "laterBtn": "不是，以后",
-            "learnMore": {
-                "developers": {
-                    "description": "使用Everscale SDK您可以为自己的智能合约和用例编程卡",
-                    "title": "为开发人员提供开源"
-                },
-                "development": {
-                    "description": "把Everscale SDK变成你的。您可以为自己的智能合约和用例编程卡",
-                    "title": "开源且可扩展"
-                },
-                "personalization": {
-                    "description": "从下订单开始就为您个性化。硬件生成的加密私钥永远不会泄露",
-                    "title": "从一开始就为您个性化"
-                },
-                "personalized": {
-                    "description": "您的卡从订单放置之时起分配给您的账户，不会泄露",
-                    "title": "从订单放置个性化"
-                },
-                "protectTech": {
-                    "description": "单芯片设计，EAL 6+认证，正式验证多签名钱包智能合约和加密，保证您的资产安全。您的私钥永远不会泄露，甚至不会泄露给您！",
-                    "title": "尖端的安全技术"
-                },
-                "simpleness": {
-                    "description": "没有电池，没有电缆，没有插头。轻松放入钱包或口袋。在不到2分钟的时间内通过移动设备上的NFC激活卡",
-                    "title": "易于获得，易于使用"
-                },
-                "technology": {
-                    "description": "单芯片设计，EAL 6+认证，正式验证多签名钱包智能合约和加密，保证您的资产安全",
-                    "title": "尖端的安全技术"
-                },
-                "title": "好处"
-            },
-            "menuTitle": "安全卡",
             "moreFeaturesSoon": "安全卡的更多功能即将出现。",
             "options": "选项",
             "order": "订购",
@@ -1214,44 +1180,13 @@
             "tapSecurityCard": "点击安全卡",
             "tapSecurityCardDescription": "点击卡以确认操作。",
             "taxAndFees": "税收和费用",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "我们希望使硬件钱包方便易用，并设计为付款卡形状：85.6毫米×53.98毫米×0.76毫米。",
-                    "title": "尺寸"
-                },
-                "extended": {
-                    "description": "卡上有120 KB的可用空间，因此您可以在卡上写入自己的数据。\n\n我们为您提供开源的Everscale SDK，您可以使用自己的智能合约对卡进行编程，并使用它，例如，作为支付卡、建筑物访问卡或您想要的",
-                    "title": "扩展使用"
-                },
-                "extendedUse": {
-                    "description": "卡上有120 KB的可用空间，因此您可以在卡上写入自己的数据。\n\n我们为您提供开源的Everscale API，您可以使用自己的智能合约对卡进行编程，并使用它，例如，作为银行卡、建筑物访问卡或随便你想要什么",
-                    "title": "扩展使用"
-                },
-                "hardware": {
-                    "description": "为了保证无故障运行并减轻安全风险，我们使用了仅NFC的单芯片设计（ISO 14443）和经过认证的安全芯片SE CC EAL 6+。",
-                    "title": "硬件"
-                },
-                "protection": {
-                    "description": "安全和隐私是我们的首要任务。我们使用CC EAL 6+ 英飞凌安全元件，通过设计保护免受侧通道攻击。\n您的主密码（种子短语）永远不会离开卡。\n您的卡从您下订单的那一刻起便被分配到您的账户，并且只能为用于订购它的加密钱包激活。",
-                    "title": "保护"
-                },
-                "title": "技术规格"
-            },
             "total": "总计",
             "turningOnCardWallet": "打开卡钱包……",
             "understand": "明白了",
             "verifyIdentity": "验证您的身份",
             "verifyIdentityDescription": "看屏幕",
             "waitlist": {
-                "added": "您已添加到等候名单。开卡订购后，我们会尽快通知您",
-                "addedToastMsg": "您已添加到等候名单",
-                "comingThisDecemberBtn": "今年十二月来",
-                "description": "TON Labs安全卡是独特的NFC智能卡 – 它可以保护您的数据安全，并可以根据您的需要进行调整",
-                "joinWaitlistBtn": "加入候补名单",
-                "learnMoreBtn": "了解更多",
-                "policy": "通过TON Labs安全卡，您接受条款和政策",
-                "techSpecsBtn": "技术规格",
-                "title": "不仅仅是一个硬件钱包"
+                "addedToastMsg": "您已添加到等候名单"
             }
         },
         "showPrivateKey": "显示私钥",
@@ -1341,9 +1276,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "恢复\n主口令"
-            },
-            "card": {
-                "initial": "为了法定和加密货币，使用同一张卡"
             },
             "faq": {
                 "initial": "常问问题"
@@ -1655,6 +1587,13 @@
             "tokens": "Tokens",
             "buy": "Buy"
         },
+        "operationResults": {
+            "completed": "Operation completed",
+            "done": "Done",
+            "failed": "Operation failed",
+            "inProgress": "Operation in progress",
+            "tryAgain": "Try again"
+        },
         "payInvoice": {
             "buyNetTokens": "购买{0}代币",
             "cardNumber": "卡号",
@@ -1695,6 +1634,22 @@
             "invalidAddress": "无效的地址。",
             "recipientWarning": "确保地址正确！发送的转账不能撤销！",
             "title": "发送代币"
+        },
+        "swap": {
+            "confirm": "Confirm",
+            "continue": "Continue",
+            "currencyNotFound": {
+                "description": "Try again or select from the list",
+                "title": "We didn't find your currency"
+            },
+            "fee": "Fee",
+            "get": "Get",
+            "order": "Order",
+            "pay": "Pay",
+            "selectTokens": "Select tokens",
+            "swapTokens": "Swap tokens",
+            "youGet": "You get",
+            "youPay": "You pay"
         },
         "transaction": {
             "aborted": "中止",

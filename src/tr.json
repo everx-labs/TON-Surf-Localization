@@ -5,7 +5,8 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra Account"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary"
         },
         "assets": {
             "addressCopied": "Cüzdan adresi panoya kopyalandı",
@@ -13,7 +14,7 @@
             "copyAddressHint2": "Adresi kopyala",
             "description": "Para takası yapmak ve varlıklarınızı yeniden dengelemek için sürükle ve bırak",
             "title": "Varlık",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
@@ -1058,8 +1059,6 @@
             },
             "checkingCardIntegrity": "Kart bütünlüğü kontrol ediliyor...",
             "codeScanning": "Kod taranıyor…",
-            "comingSoonText": "Güvenlik Kartının açacağı tüm yeni fırsatları biz de sabırsızca bekliyoruz.",
-            "comingSoonTitle": "Çok yakında",
             "confirm": "Onayla",
             "confirmAndBuy": "Onayla ve satın al",
             "confirmAndOrder": "Onayla ve Sipariş Et",
@@ -1107,40 +1106,7 @@
             "enterCodeDescription": "Karttaki kodu girin ve bağlantı oluşturmak için kartı cihazın yanına yerleştirin.",
             "free": "Ücretsiz",
             "included": "A.Ş",
-            "keepInformed": "Tamam. Beni bilgilendir",
             "laterBtn": "Şimdi değil",
-            "learnMore": {
-                "developers": {
-                    "description": "Everscale SDK ile kartı kendi akıllı sözleşmeleriniz ve kullanım ihtiyaçlarınız için programlayabilirsiniz.",
-                    "title": "Geliştiriciler için açık kaynak"
-                },
-                "development": {
-                    "description": "Everscale SDK ile özel hale getirin. Kartı özel akıllı sözleşmeleriniz ve kullanım durumlarınız için programlayabilirsiniz.",
-                    "title": "Açık kaynak ve genişletilebilen"
-                },
-                "personalization": {
-                    "description": "Siparişinizi verdiğiniz andan itibaren sizin için kişiselleştirilmiştir. Donanım tarafından üretilen şifrelenmiş gizli anahtarı asla kimse görmez",
-                    "title": "Başından beri sizin için kişiselleştirildi"
-                },
-                "personalized": {
-                    "description": "Kartınız sipariş verdiğiniz andan itibaren hesabınıza atanır; kart tehlikeye atılamaz",
-                    "title": "Sipariş yerleşiminden kişiselleştirilmiş"
-                },
-                "protectTech": {
-                    "description": "Tek yongalı tasarım, EAL 6+ sertifikası, resmi olarak doğrulanmış çoklu imzalı cüzdan akıllı sözleşmesi ve şifreleme, varlıklarınızı güvende tutar. Gizli anahtarınız size bile asla açıklanmaz!",
-                    "title": "En gelişmiş güvenlik teknolojisi"
-                },
-                "simpleness": {
-                    "description": "Pil yok, kablo yok, fiş yok. Çantanıza veya cebinize kolayca sığar. Kartı, telefonunuzda NFC aracılığıyla 2 dakikadan kısa sürede etkinleştirin. Sadece kullanın!",
-                    "title": "Kullanımı kolay ve basit"
-                },
-                "technology": {
-                    "description": "Tek yongalı tasarım, EAL 6+ sertifikası, resmi olarak doğrulanmış çoklu imzalı cüzdan akıllı sözleşmesi ve şifreleme, varlıklarınızı güvende tutar.",
-                    "title": "En gelişmiş güvenlik teknolojisi"
-                },
-                "title": "Üstünlükleri"
-            },
-            "menuTitle": "Güvenlik kartı",
             "moreFeaturesSoon": "Güvenlik Kartı için daha fazla özellik yakında görünecektir.",
             "options": "Seçenekler",
             "order": "Sipariş",
@@ -1214,44 +1180,13 @@
             "tapSecurityCard": "Güvenlik Kartına Dokunun",
             "tapSecurityCardDescription": "Eylemi onaylamak için karta dokunun.",
             "taxAndFees": "Vergi ve Ücret",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "Donanım cüzdanını kullanımı kolay ve sabit hale getirmek istedik ve plastik kart şeklinde tasarladık: 85,6 mm × 53,98 mm × 0,76 mm.",
-                    "title": "Boyutlar"
-                },
-                "extended": {
-                    "description": "Kartta kendi verilerinizi saklamak için 120 KB boş alan vardır.\n\n Size açık kaynak Everscale SDK sunuyoruz, böylece kartı kendi akıllı sözleşmelerinizle programlayabilir ve örneğin bir ödeme kartı, bir bina erişim kartı gibi veya istediğiniz gibi kullanabilirsiniz.",
-                    "title": "Genişletilmiş kullanım"
-                },
-                "extendedUse": {
-                    "description": "Kartta kendi verilerinizi saklamak için 120 KB boş alan vardır.\n\nSize kartı kendi akıllı sözleşmelerinizi programlayabilmeniz için açık kaynak Everscale API'yi sağlıyoruz. Bunu, örneğin bir banka kartı, bina erişim kartı veya neye ihtiyacınız varsa onun için kullanabilirsiniz.",
-                    "title": "Genişletilmiş kullanım"
-                },
-                "hardware": {
-                    "description": "Sorunsuz kullanımı garanti etmek ve kırma risklerini azaltmak için, tek yongalı NFC tasarımı (ISO 14443) ve sertifikalı güvenli SE CC EAL 6+ yongası kullandık.",
-                    "title": "Donanım"
-                },
-                "protection": {
-                    "description": "Güvenlik ve gizlilik önceliklerimizdir. Tasarım gereği yan kanal saldırılarından korunan CC EAL 6+ Infineon Güvenli Elemanı kullanıyoruz.\nAna parolanız (seed phrase) asla karttan çıkmaz.\nKartınız, siparişi verdiğiniz andan itibaren hesabınıza atanır ve yalnızca sipariş vermek için kullanılan kripto cüzdanı için etkinleştirilebilir.",
-                    "title": "Koruma"
-                },
-                "title": "Teknik özellikler"
-            },
             "total": "Toplam",
             "turningOnCardWallet": "Kart cüzdanı açılıyor...",
             "understand": "Anladım",
             "verifyIdentity": "Kimliğinizi doğrulayın",
             "verifyIdentityDescription": "Ekrana bakın",
             "waitlist": {
-                "added": "Bekleme listesine eklendiniz. Kart siparişi hazır olan zaman sizi bilgilendireceğiz",
-                "addedToastMsg": "Bekleme listesine eklendiniz",
-                "comingThisDecemberBtn": "Aralık ayında geliyor",
-                "description": "TON Labs Güvenlik Kartı NFC destekleyen akıllı karttır. Bu kart verilerinizi güvende tutar ve kendi ihtiyaçlarınıza göre uyarlanabilir",
-                "joinWaitlistBtn": "Bekleme listesine katıl",
-                "learnMoreBtn": "Daha fazla",
-                "policy": "TON Labs Güvenlik kartını kullanarak, Şartlar ve Politikamızı kabul etmiş olursunuz.",
-                "techSpecsBtn": "Teknik özellikler",
-                "title": "Bu sıradan bir donanım cüzdanı değil"
+                "addedToastMsg": "Bekleme listesine eklendiniz"
             }
         },
         "showPrivateKey": "Özel anahtarı göster",
@@ -1341,9 +1276,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "Ana\nŞifreni\nYedekle"
-            },
-            "card": {
-                "initial": "Bir donanım\ncüzdanından\ndaha fazlası"
             },
             "faq": {
                 "initial": "Sıkça\nSorulan\nSorular"
@@ -1655,6 +1587,13 @@
             "tokens": "Tokens",
             "buy": "Buy"
         },
+        "operationResults": {
+            "completed": "Operation completed",
+            "done": "Done",
+            "failed": "Operation failed",
+            "inProgress": "Operation in progress",
+            "tryAgain": "Try again"
+        },
         "payInvoice": {
             "buyNetTokens": "{0} belirteç satın al",
             "cardNumber": "Kart numarası",
@@ -1695,6 +1634,22 @@
             "invalidAddress": "Geçersiz adresi.",
             "recipientWarning": "Adresin doğru olduğunu kontrol edin! Gönderilen aktarım geri alınamaz!",
             "title": "Para gönder"
+        },
+        "swap": {
+            "confirm": "Confirm",
+            "continue": "Continue",
+            "currencyNotFound": {
+                "description": "Try again or select from the list",
+                "title": "We didn't find your currency"
+            },
+            "fee": "Fee",
+            "get": "Get",
+            "order": "Order",
+            "pay": "Pay",
+            "selectTokens": "Select tokens",
+            "swapTokens": "Swap tokens",
+            "youGet": "You get",
+            "youPay": "You pay"
         },
         "transaction": {
             "aborted": "İptal edildi",

@@ -5,7 +5,8 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra Account"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary"
         },
         "assets": {
             "addressCopied": "Indirizzo del portafoglio copiato negli appunti",
@@ -13,7 +14,7 @@
             "copyAddressHint2": "Toccare per copiare l'indirizzo",
             "description": "Drag-and-drop per scambiare fondi e riequilibrare le risorse",
             "title": "Asset",
-            "mainAccount": "Main account",
+            "mainAccount": "Primary account",
             "extra": "Extra",
             "multisigAccountTitle": "Multisig account",
             "extraAccountPromo": "Extra account. Soon...",
@@ -1058,8 +1059,6 @@
             },
             "checkingCardIntegrity": "Controllo dell'integrità della carta...",
             "codeScanning": "Scansione del codice...",
-            "comingSoonText": "Anche noi attendiamo trepidanti tutte le nuove opportunità che porterà la Security Card",
-            "comingSoonTitle": "Prossimamente",
             "confirm": "Conferma",
             "confirmAndBuy": "Conferma e acquista",
             "confirmAndOrder": "Confermare e ordina",
@@ -1107,40 +1106,7 @@
             "enterCodeDescription": "Inserisci il codice della carta e posiziona la carta accanto al dispositivo per stabilire una connessione.",
             "free": "Free",
             "included": "Inc.",
-            "keepInformed": "OK. Tienimi informato",
             "laterBtn": "No, più tardi",
-            "learnMore": {
-                "developers": {
-                    "description": "Con l'SDK di Everscale è possibile programmare la carta per i propri smart contract secondo le proprie necessità.",
-                    "title": "Open Source, per gli sviluppatori"
-                },
-                "development": {
-                    "description": "Falla tua con l'SDK di Everscale. È possibile programmare la carta per i propri smart contract e le proprie necessità.",
-                    "title": "Open Source ed espandibile"
-                },
-                "personalization": {
-                    "description": "Personalizzata per te dal momento in cui si effettua l'ordine. La chiave crittografica  privata generata dall'hardware non viene mai rivelata.",
-                    "title": "Personalizzata per te fin dall'inizio"
-                },
-                "personalized": {
-                    "description": "La tua carta è assegnata al tuo account dal momento dell'ordine e non può essere manomessa.",
-                    "title": "Personalizzata fin dal momento dell'ordine"
-                },
-                "protectTech": {
-                    "description": "Il design a chip singolo, la certificazione EAL 6+, un wallet smart contract multi-firma verificato e la crittografia proteggono i tuoi fondi. La tua chiave privata non viene mai rivelata, neanche a te!",
-                    "title": "Tecnologia di protezione all'avanguardia"
-                },
-                "simpleness": {
-                    "description": "Nessuna batteria, nessun cavo, nessuna spina. Si mette facilmente in borsa o in tasca. La carta si attiva in meno di 2 minuti tramite l'NFC del tuo smartphone.",
-                    "title": "Facile da avere, semplice da usare"
-                },
-                "technology": {
-                    "description": "Il design a chip singolo, la certificazione EAL 6+, un wallet smart contract multi-firma verificato e la crittografia proteggono i tuoi fondi.",
-                    "title": "Tecnologia di sicurezza all'avanguardia"
-                },
-                "title": "Vantaggi"
-            },
-            "menuTitle": "Security Card",
             "moreFeaturesSoon": "Altre funzionalità per la Security Card saranno presto disponibili.",
             "options": "Opzioni",
             "order": "Ordina",
@@ -1214,44 +1180,13 @@
             "tapSecurityCard": "Tocca Security Card",
             "tapSecurityCardDescription": "Toccare la carta per confermare l'azione.",
             "taxAndFees": "Tasse e commissioni",
-            "techSpecs": {
-                "dimensions": {
-                    "description": "Abbiamo voluto rendere l'hardware wallet comodo e facile da usare e l'abbiamo progettato nella forma di una carta di pagamento: 85.6 mm × 53.98 mm × 0.76 mm.",
-                    "title": "Dimensioni"
-                },
-                "extended": {
-                    "description": "Ci sono 120 KB di spazio libero sulla carta, così che puoi scriverci sopra i tuoi dati.\n\nTi forniamo l'SDK open source di Everscale, così potrai programmare la carta con i tuoi smart contract e usarla, ad esempio, come carta di pagamento, come carta di accesso per edifici o nel modo che preferisci.",
-                    "title": "Uso esteso"
-                },
-                "extendedUse": {
-                    "description": "Ci sono 120 KB di spazio libero sulla carta, così che puoi scriverci sopra i tuoi dati.\n\nTi forniamo l'SDK open source di Everscale, così potrai programmare la carta con i tuoi smart contract e usarla, ad esempio, come carta di pagamento, come carta di accesso per edifici o nel modo che preferisci.",
-                    "title": "Uso esteso"
-                },
-                "hardware": {
-                    "description": "Per garantire un funzionamento senza problemi e mitigare i rischi di exploit abbiamo utilizzato un singolo chip NFC (ISO 14443) e un chip sicuro certificato SE CC EAL 6+.",
-                    "title": "Hardware"
-                },
-                "protection": {
-                    "description": "Sicurezza e privacy sono le nostre priorità. Utilizziamo il CC EAL 6 + Infineon Secure Element, protetto fin dalla progettazione da attacchi side-channel.\nLa tua password principale (Seed Phrase) non lascia mai la carta.\nLa tua carta viene assegnata al tuo account dal momento in cui effettui l'ordine e può essere attivata solo per il portafoglio crypto utilizzato per ordinarla.",
-                    "title": "Protezione"
-                },
-                "title": "Specifiche tecniche"
-            },
             "total": "Totale",
             "turningOnCardWallet": "Attivazione del card wallet...",
             "understand": "Fatto",
             "verifyIdentity": "Verifica la tua identità",
             "verifyIdentityDescription": "Guarda lo schermo",
             "waitlist": {
-                "added": "Sei stato aggiunto alla lista d'attesa. Ti informeremo non appena sarà disponibile l'ordinazione delle carte",
-                "addedToastMsg": "Sei stato aggiunto alla lista d'attesa",
-                "comingThisDecemberBtn": "In arrivo questo dicembre",
-                "description": "La Ton Labs Security Card è una smart card NFC unica: mantiene i tuoi dati al sicuro e può essere adattata alle tue necessità.",
-                "joinWaitlistBtn": "Iscriviti alla lista d'attesa",
-                "learnMoreBtn": "Scopri di più",
-                "policy": "Utilizzando la TON Labs Security Card, si accettano i nostri Termini di Servizio.",
-                "techSpecsBtn": "Specifiche tecniche",
-                "title": "Più di un semplice hardware wallet"
+                "addedToastMsg": "Sei stato aggiunto alla lista d'attesa"
             }
         },
         "showPrivateKey": "Mostra chiave privata",
@@ -1341,9 +1276,6 @@
         "promoCards": {
             "backupPassword": {
                 "initial": "Fai il backup della\nMaster Password"
-            },
-            "card": {
-                "initial": "Più di \nun semplice\nhardware wallet"
             },
             "faq": {
                 "initial": "Domande\nFrequenti"
@@ -1655,6 +1587,13 @@
             "tokens": "Tokens",
             "buy": "Buy"
         },
+        "operationResults": {
+            "completed": "Operation completed",
+            "done": "Done",
+            "failed": "Operation failed",
+            "inProgress": "Operation in progress",
+            "tryAgain": "Try again"
+        },
         "payInvoice": {
             "buyNetTokens": "Acquista {0} token",
             "cardNumber": "Numero di carta",
@@ -1695,6 +1634,22 @@
             "invalidAddress": "Indirizzo non valido.",
             "recipientWarning": "Assicurati che l'indirizzo sia corretto! Le transazioni effettuate non possono essere invertite!",
             "title": "Invia token"
+        },
+        "swap": {
+            "confirm": "Confirm",
+            "continue": "Continue",
+            "currencyNotFound": {
+                "description": "Try again or select from the list",
+                "title": "We didn't find your currency"
+            },
+            "fee": "Fee",
+            "get": "Get",
+            "order": "Order",
+            "pay": "Pay",
+            "selectTokens": "Select tokens",
+            "swapTokens": "Swap tokens",
+            "youGet": "You get",
+            "youPay": "You pay"
         },
         "transaction": {
             "aborted": "Abortito",

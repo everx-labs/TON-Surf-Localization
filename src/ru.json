@@ -248,7 +248,7 @@
                 },
                 "failedSendToDeBot": {
                     "message": "Ошибка отправки данных в DeBot",
-                    "sendReport": "Пожалуйста, сообщите нам об этой проблеме"
+                    "hint": "Пожалуйста, сообщите нам об этой проблеме"
                 },
                 "addressInput": {
                     "failedToCreateMessage": {

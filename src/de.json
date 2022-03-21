@@ -698,9 +698,10 @@
         }
     },
     "operationsHistory": {
-        "button": "Betriebsverlauf",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "Noch keine Transaktionen",
-        "title": "Betriebsverlauf"
+        "title": "Transactions history"
     },
     "profile": {
         "otherProducts": "Sonstige Produkte",
@@ -1409,7 +1410,6 @@
         "transaction": {
             "aborted": "Abgebrochen",
             "amount": "Menge",
-            "change": "Veränderung",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "Kommentar",
             "encrypted": "Verschlüsselt",
@@ -1417,14 +1417,15 @@
             "from": "Von",
             "fromBankCard": "Von der Bankkarte",
             "goToExplorer": "Go to explorer",
+            "mainDetails": "Main details",
             "moreDetails": "Mehr Details",
             "networkFees": "NetzwerkGebühren",
             "no": "Nein",
             "pending": "Ausstehend...",
             "received": "Empfangen",
-            "repeatTransaction": "Kann ich Gram-Transaktionen rückgängig machen?",
+            "repeatTransaction": "Send again",
             "result": "Ergebnis",
-            "reverseTransaction": "Kann ich Gram-Transaktionen rückgängig machen?",
+            "reverseTransaction": "Give back",
             "sent": "Geschickt",
             "share": "Share",
             "statusSuccess": "Erfolg",

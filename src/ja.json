@@ -698,9 +698,10 @@
         }
     },
     "operationsHistory": {
-        "button": "操作履歴",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "まだトランザクションがありません",
-        "title": "運用履歴"
+        "title": "Transactions history"
     },
     "profile": {
         "otherProducts": "その他の製品",
@@ -1409,7 +1410,6 @@
         "transaction": {
             "aborted": "中止されました。",
             "amount": "金額",
-            "change": "変更",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "コメント",
             "encrypted": "暗号済み",
@@ -1417,14 +1417,15 @@
             "from": "差出人",
             "fromBankCard": "銀行カードから",
             "goToExplorer": "Go to explorer",
+            "mainDetails": "Main details",
             "moreDetails": "詳細",
             "networkFees": "ネットワーク料金",
             "no": "いいえ",
             "pending": "保留中...",
             "received": "受信済み",
-            "repeatTransaction": "トランザクションを繰り返す",
+            "repeatTransaction": "Send again",
             "result": "結果",
-            "reverseTransaction": "トランザクションの取消",
+            "reverseTransaction": "Give back",
             "sent": "送信済み",
             "share": "Share",
             "statusSuccess": "完成",

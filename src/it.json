@@ -698,9 +698,10 @@
         }
     },
     "operationsHistory": {
-        "button": "Storia delle operazioni",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "Ancora nessuna transazione",
-        "title": "Storia delle operazioni"
+        "title": "Transactions history"
     },
     "profile": {
         "otherProducts": "Altri prodotti",
@@ -1409,7 +1410,6 @@
         "transaction": {
             "aborted": "Abortito",
             "amount": "Quantità",
-            "change": "Cambia",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "Comment",
             "encrypted": "Crittografato",
@@ -1417,14 +1417,15 @@
             "from": "Da",
             "fromBankCard": "Dalla carta di credito",
             "goToExplorer": "Go to explorer",
+            "mainDetails": "Main details",
             "moreDetails": "Più dettagli",
             "networkFees": "Commissioni di rete",
             "no": "No",
             "pending": "In attesa...",
             "received": "Ricevuto",
-            "repeatTransaction": "Ripeti la transazione",
+            "repeatTransaction": "Send again",
             "result": "Risultato",
-            "reverseTransaction": "Inverti transazione",
+            "reverseTransaction": "Give back",
             "sent": "Inviato",
             "share": "Share",
             "statusSuccess": "Successo",

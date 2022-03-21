@@ -698,9 +698,10 @@
         }
     },
     "operationsHistory": {
-        "button": "История операций",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "Транзакций пока нет",
-        "title": "История операций"
+        "title": "Transactions history"
     },
     "profile": {
         "otherProducts": "Другие продукты",
@@ -1410,7 +1411,6 @@
         "transaction": {
             "aborted": "Прервано",
             "amount": "Сумма",
-            "change": "Изменение",
             "checkStatusLater": "Ничего страшного — проверите статус транзакции позже",
             "comment": "Комментарий",
             "encrypted": "Зашифрованный",
@@ -1418,14 +1418,15 @@
             "from": "От",
             "fromBankCard": "С банковской карты",
             "goToExplorer": "Перейти в проводник",
+            "mainDetails": "Main details",
             "moreDetails": "Подробнее",
             "networkFees": "Комиссия сети",
             "no": "Нет",
             "pending": "В ожидании...",
             "received": "Получено",
-            "repeatTransaction": "Повторить транзакцию",
+            "repeatTransaction": "Send again",
             "result": "Результат",
-            "reverseTransaction": "Вернуть транзакцию",
+            "reverseTransaction": "Give back",
             "sent": "Отправлено",
             "share": "Поделиться",
             "statusSuccess": "Успешно",

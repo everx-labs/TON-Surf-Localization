@@ -709,9 +709,10 @@
         }
     },
     "operationsHistory": {
-        "button": "운영 기록",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "아직은 트랜잭션이 없음",
-        "title": "운영 기록"
+        "title": "Transactions history"
     },
     "profile": {
         "otherProducts": "다른 제품들",
@@ -1412,7 +1413,6 @@
         "transaction": {
             "aborted": "중단됨",
             "amount": "액수",
-            "change": "잔액 변경",
             "checkStatusLater": "당황하지 마세요. 잠시 후 상태를 확인할 수 있습니다",
             "comment": "코멘트 남기기",
             "encrypted": "암호화됨",
@@ -1420,14 +1420,15 @@
             "from": "보낸 사람",
             "fromBankCard": "은행 카드에서",
             "goToExplorer": "익스플로러로 이동하기",
+            "mainDetails": "Main details",
             "moreDetails": "자세한 정보",
             "networkFees": "네트워크 수수료",
             "no": "아니오",
             "pending": "보류 중...",
             "received": "받음",
-            "repeatTransaction": "트랜잭션 반복하기",
+            "repeatTransaction": "Send again",
             "result": "결과",
-            "reverseTransaction": "트랜잭션을 취소하기",
+            "reverseTransaction": "Give back",
             "sent": "전송됨",
             "share": "공유하기",
             "statusSuccess": "성공",

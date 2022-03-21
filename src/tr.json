@@ -698,9 +698,10 @@
         }
     },
     "operationsHistory": {
-        "button": "İşlem geçmişi",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "Henüz işlem yok",
-        "title": "İşlem geçmişi"
+        "title": "Transactions history"
     },
     "profile": {
         "otherProducts": "Diğer ürünler",
@@ -1409,7 +1410,6 @@
         "transaction": {
             "aborted": "İptal edildi",
             "amount": "Miktar",
-            "change": "Değiştir",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "Yorum",
             "encrypted": "Şifrelenmiş",
@@ -1417,14 +1417,15 @@
             "from": "Gönderen:",
             "fromBankCard": "Banka kartından",
             "goToExplorer": "Gezgine git",
+            "mainDetails": "Main details",
             "moreDetails": "Daha fazla bilgi",
             "networkFees": "Ağ ücreti",
             "no": "Yok",
             "pending": "Bekleyen...",
             "received": "Alındı",
-            "repeatTransaction": "İşlemi tekrarla",
+            "repeatTransaction": "Send again",
             "result": "Sonuç",
-            "reverseTransaction": "Aktarımı geri al",
+            "reverseTransaction": "Give back",
             "sent": "Gönderildi",
             "share": "Paylaş",
             "statusSuccess": "Başarılı",

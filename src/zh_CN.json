@@ -698,9 +698,10 @@
         }
     },
     "operationsHistory": {
-        "button": "操作历史",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "还没有交易",
-        "title": "操作历史"
+        "title": "Transactions history"
     },
     "profile": {
         "otherProducts": "其他产品",
@@ -1409,7 +1410,6 @@
         "transaction": {
             "aborted": "中止",
             "amount": "数量",
-            "change": "改变",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "评论",
             "encrypted": "加密的",
@@ -1417,14 +1417,15 @@
             "from": "从",
             "fromBankCard": "从银行卡",
             "goToExplorer": "Go to explorer",
+            "mainDetails": "Main details",
             "moreDetails": "更多细节",
             "networkFees": "网络费用",
             "no": "不",
             "pending": "在待定……",
             "received": "收到的",
-            "repeatTransaction": "重复交易",
+            "repeatTransaction": "Send again",
             "result": "结果",
-            "reverseTransaction": "反向交易",
+            "reverseTransaction": "Give back",
             "sent": "发送了",
             "share": "Share",
             "statusSuccess": "成功",

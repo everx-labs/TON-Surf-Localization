@@ -1416,11 +1416,11 @@
             "fee": "Gebühren",
             "from": "Von",
             "fromBankCard": "Von der Bankkarte",
-            "goToExplorer": "Go to explorer",
             "mainDetails": "Main details",
             "moreDetails": "Mehr Details",
             "networkFees": "NetzwerkGebühren",
             "no": "Nein",
+            "note": "Note",
             "pending": "Ausstehend...",
             "received": "Empfangen",
             "repeatTransaction": "Send again",
@@ -1434,7 +1434,8 @@
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Übertragung nicht gesendet. Bitte versuchen Sie es erneut.",
             "transferDetails": "Transferdetails",
-            "yes": "Ja"
+            "yes": "Ja",
+            "view": "View"
         },
         "warning": {
             "awaitTransaction": "Vorherige Übertragung läuft.",

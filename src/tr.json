@@ -1416,11 +1416,11 @@
             "fee": "Ücret",
             "from": "Gönderen:",
             "fromBankCard": "Banka kartından",
-            "goToExplorer": "Gezgine git",
             "mainDetails": "Main details",
             "moreDetails": "Daha fazla bilgi",
             "networkFees": "Ağ ücreti",
             "no": "Yok",
+            "note": "Note",
             "pending": "Bekleyen...",
             "received": "Alındı",
             "repeatTransaction": "Send again",
@@ -1434,7 +1434,8 @@
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Aktarılamadı. Lütfen tekrar deneyin.",
             "transferDetails": "Aktarım detayları",
-            "yes": "Evet"
+            "yes": "Evet",
+            "view": "View"
         },
         "warning": {
             "awaitTransaction": "Önceki aktarım devam ediyor.",

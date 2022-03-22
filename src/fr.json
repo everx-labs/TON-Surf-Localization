@@ -1416,11 +1416,11 @@
             "fee": "Frais",
             "from": "De",
             "fromBankCard": "De la carte bancaire",
-            "goToExplorer": "Aller à l'explorateur",
             "mainDetails": "Main details",
             "moreDetails": "Plus de détails",
             "networkFees": "Frais de réseau",
             "no": "Non",
+            "note": "Note",
             "pending": "En attente...",
             "received": "Reçu",
             "repeatTransaction": "Send again",
@@ -1434,7 +1434,8 @@
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Transfert non envoyé. Veuillez réessayer.",
             "transferDetails": "Détails",
-            "yes": "Oui"
+            "yes": "Oui",
+            "view": "View"
         },
         "warning": {
             "awaitTransaction": "Transfert précédent en cours.",

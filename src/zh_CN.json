@@ -1416,11 +1416,11 @@
             "fee": "费用",
             "from": "从",
             "fromBankCard": "从银行卡",
-            "goToExplorer": "Go to explorer",
             "mainDetails": "Main details",
             "moreDetails": "更多细节",
             "networkFees": "网络费用",
             "no": "不",
+            "note": "Note",
             "pending": "在待定……",
             "received": "收到的",
             "repeatTransaction": "Send again",
@@ -1434,7 +1434,8 @@
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "传输未发送。请再试一次。",
             "transferDetails": "传输详细信息",
-            "yes": "是"
+            "yes": "是",
+            "view": "View"
         },
         "warning": {
             "awaitTransaction": "上一个传输正在进行中。",

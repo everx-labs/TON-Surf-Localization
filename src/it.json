@@ -1416,11 +1416,11 @@
             "fee": "Commissioni",
             "from": "Da",
             "fromBankCard": "Dalla carta di credito",
-            "goToExplorer": "Go to explorer",
             "mainDetails": "Main details",
             "moreDetails": "Più dettagli",
             "networkFees": "Commissioni di rete",
             "no": "No",
+            "note": "Note",
             "pending": "In attesa...",
             "received": "Ricevuto",
             "repeatTransaction": "Send again",
@@ -1434,7 +1434,8 @@
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Trasferimento non inviato. Riprova.",
             "transferDetails": "Dettagli del trasferimento",
-            "yes": "Sì"
+            "yes": "Sì",
+            "view": "View"
         },
         "warning": {
             "awaitTransaction": "Trasferimento precedente in corso.",

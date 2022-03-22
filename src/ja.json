@@ -1416,11 +1416,11 @@
             "fee": "料金",
             "from": "差出人",
             "fromBankCard": "銀行カードから",
-            "goToExplorer": "Go to explorer",
             "mainDetails": "Main details",
             "moreDetails": "詳細",
             "networkFees": "ネットワーク料金",
             "no": "いいえ",
+            "note": "Note",
             "pending": "保留中...",
             "received": "受信済み",
             "repeatTransaction": "Send again",
@@ -1434,7 +1434,8 @@
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
             "transferDetails": "転送の詳細",
-            "yes": "はい"
+            "yes": "はい",
+            "view": "View"
         },
         "warning": {
             "awaitTransaction": "以前の転送が進行中です。",

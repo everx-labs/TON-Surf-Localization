@@ -1416,11 +1416,11 @@
             "fee": "Tarifas",
             "from": "De",
             "fromBankCard": "De la tarjeta bancaria",
-            "goToExplorer": "Go to explorer",
             "mainDetails": "Main details",
             "moreDetails": "Más detalles",
             "networkFees": "Tarifas de red",
             "no": "No",
+            "note": "Note",
             "pending": "Pendiente...",
             "received": "Recibido",
             "repeatTransaction": "Send again",
@@ -1434,7 +1434,8 @@
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Transferencia no enviada. Por favor, inténtelo de nuevo.",
             "transferDetails": "Detalles de la transferencia",
-            "yes": "Sí"
+            "yes": "Sí",
+            "view": "View"
         },
         "warning": {
             "awaitTransaction": "Transferencia anterior en curso.",

@@ -1416,11 +1416,11 @@
             "fee": "Taxas",
             "from": "De",
             "fromBankCard": "Do cartão de crédito",
-            "goToExplorer": "Abrir no explorador",
             "mainDetails": "Main details",
             "moreDetails": "Mais detalhes",
             "networkFees": "Taxas da rede",
             "no": "Não",
+            "note": "Note",
             "pending": "Pendente…",
             "received": "Recebido",
             "repeatTransaction": "Send again",
@@ -1434,7 +1434,8 @@
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Transferência não enviada. Por favor, tente novamente.",
             "transferDetails": "Detalhes",
-            "yes": "Sim"
+            "yes": "Sim",
+            "view": "View"
         },
         "warning": {
             "awaitTransaction": "Transferência anterior em andamento.",

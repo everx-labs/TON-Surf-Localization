@@ -1305,7 +1305,8 @@
         "chats": {
             "attachDocument": "문서",
             "attachImage": "이미지",
-            "listTitle": "활동",
+            "historyButton": "History",
+            "listTitle": "Transactions",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷 사진",

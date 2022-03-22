@@ -1302,7 +1302,8 @@
         "chats": {
             "attachDocument": "文件",
             "attachImage": "图像",
-            "listTitle": "活动",
+            "historyButton": "History",
+            "listTitle": "Transactions",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷照片",

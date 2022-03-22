@@ -1303,7 +1303,8 @@
         "chats": {
             "attachDocument": "Документ",
             "attachImage": "Изображение",
-            "listTitle": "События",
+            "historyButton": "History",
+            "listTitle": "Transactions",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷 Фото",

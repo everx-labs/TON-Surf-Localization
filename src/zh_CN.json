@@ -220,7 +220,7 @@
                 "withdraw": "撤回"
             },
             "chat": "聊天",
-            "goToConversation": "去聊天"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -1416,6 +1416,7 @@
             "fee": "费用",
             "from": "从",
             "fromBankCard": "从银行卡",
+            "fromSender": "From {0}",
             "mainDetails": "Main details",
             "moreDetails": "更多细节",
             "networkFees": "网络费用",
@@ -1423,19 +1424,24 @@
             "note": "Note",
             "pending": "在待定……",
             "received": "收到的",
+            "recipientAddress": "Recipent’s address",
             "repeatTransaction": "Send again",
             "result": "结果",
             "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "发送了",
             "share": "Share",
             "statusSuccess": "成功",
+            "subscribe": "Subscribe",
             "time": "Time",
             "to": "至",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "传输未发送。请再试一次。",
             "transferDetails": "传输详细信息",
-            "yes": "是",
-            "view": "View"
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
+            "yes": "是"
         },
         "warning": {
             "awaitTransaction": "上一个传输正在进行中。",

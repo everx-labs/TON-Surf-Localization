@@ -220,7 +220,7 @@
                 "withdraw": "撤回"
             },
             "chat": "チャット",
-            "goToConversation": "チャットへ"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -1416,6 +1416,7 @@
             "fee": "料金",
             "from": "差出人",
             "fromBankCard": "銀行カードから",
+            "fromSender": "From {0}",
             "mainDetails": "Main details",
             "moreDetails": "詳細",
             "networkFees": "ネットワーク料金",
@@ -1423,19 +1424,24 @@
             "note": "Note",
             "pending": "保留中...",
             "received": "受信済み",
+            "recipientAddress": "Recipent’s address",
             "repeatTransaction": "Send again",
             "result": "結果",
             "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "送信済み",
             "share": "Share",
             "statusSuccess": "完成",
+            "subscribe": "Subscribe",
             "time": "Time",
             "to": "宛先",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
             "transferDetails": "転送の詳細",
-            "yes": "はい",
-            "view": "View"
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
+            "yes": "はい"
         },
         "warning": {
             "awaitTransaction": "以前の転送が進行中です。",

@@ -220,7 +220,7 @@
                 "withdraw": "Вывести"
             },
             "chat": "Чат",
-            "goToConversation": "Открыть чат"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -1417,6 +1417,7 @@
             "fee": "Комиссия",
             "from": "Transaction from",
             "fromBankCard": "С банковской карты",
+            "fromSender": "From {0}",
             "mainDetails": "Main details",
             "moreDetails": "Подробнее",
             "networkFees": "Комиссия сети",
@@ -1424,19 +1425,24 @@
             "note": "Note",
             "pending": "В ожидании...",
             "received": "Получено",
+            "recipientAddress": "Recipent’s address",
             "repeatTransaction": "Send again",
             "result": "Status",
             "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "Отправлено",
             "share": "Поделиться",
             "statusSuccess": "Completed",
+            "subscribe": "Subscribe",
             "time": "Время",
             "to": "Transaction to",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Статус транзакции неизвестен",
             "transactionNotSend": "Перевод не отправлен. Пожалуйста, попробуй еще раз.",
             "transferDetails": "Детали перевода",
-            "yes": "Да",
-            "view": "View"
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
+            "yes": "Да"
         },
         "warning": {
             "awaitTransaction": "Выполняется предыдущий перевод.",

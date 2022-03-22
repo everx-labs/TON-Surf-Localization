@@ -220,7 +220,7 @@
                 "withdraw": "Withdraw"
             },
             "chat": "Chat",
-            "goToConversation": "Open thread"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -1416,6 +1416,7 @@
             "fee": "Fees",
             "from": "Transaction from",
             "fromBankCard": "From bank card",
+            "fromSender": "From {0}",
             "mainDetails": "Main details",
             "moreDetails": "More details",
             "networkFees": "Network fees",
@@ -1423,19 +1424,24 @@
             "note": "Note",
             "pending": "Pending...",
             "received": "Received",
+            "recipientAddress": "Recipent’s address",
             "repeatTransaction": "Send again",
             "result": "Status",
             "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "Sent",
             "share": "Share",
             "statusSuccess": "Completed",
+            "subscribe": "Subscribe",
             "time": "Time",
             "to": "Transaction to",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Transfer not sent. Please try again.",
             "transferDetails": "Details",
-            "yes": "Yes",
-            "view": "View"
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
+            "yes": "Yes"
         },
         "warning": {
             "awaitTransaction": "Previous transfer in progress.",

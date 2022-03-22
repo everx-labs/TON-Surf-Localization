@@ -220,7 +220,7 @@
                 "withdraw": "Parayı çek"
             },
             "chat": "Sohbet",
-            "goToConversation": "Sohbeti aç"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -1416,6 +1416,7 @@
             "fee": "Ücret",
             "from": "Gönderen:",
             "fromBankCard": "Banka kartından",
+            "fromSender": "From {0}",
             "mainDetails": "Main details",
             "moreDetails": "Daha fazla bilgi",
             "networkFees": "Ağ ücreti",
@@ -1423,19 +1424,24 @@
             "note": "Note",
             "pending": "Bekleyen...",
             "received": "Alındı",
+            "recipientAddress": "Recipent’s address",
             "repeatTransaction": "Send again",
             "result": "Sonuç",
             "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "Gönderildi",
             "share": "Paylaş",
             "statusSuccess": "Başarılı",
+            "subscribe": "Subscribe",
             "time": "Time",
             "to": "Alıcı:",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Aktarılamadı. Lütfen tekrar deneyin.",
             "transferDetails": "Aktarım detayları",
-            "yes": "Evet",
-            "view": "View"
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
+            "yes": "Evet"
         },
         "warning": {
             "awaitTransaction": "Önceki aktarım devam ediyor.",

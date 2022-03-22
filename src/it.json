@@ -220,7 +220,7 @@
                 "withdraw": "Ritira"
             },
             "chat": "Chatta",
-            "goToConversation": "Apri la chat"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -1416,6 +1416,7 @@
             "fee": "Commissioni",
             "from": "Da",
             "fromBankCard": "Dalla carta di credito",
+            "fromSender": "From {0}",
             "mainDetails": "Main details",
             "moreDetails": "Più dettagli",
             "networkFees": "Commissioni di rete",
@@ -1423,19 +1424,24 @@
             "note": "Note",
             "pending": "In attesa...",
             "received": "Ricevuto",
+            "recipientAddress": "Recipent’s address",
             "repeatTransaction": "Send again",
             "result": "Risultato",
             "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "Inviato",
             "share": "Share",
             "statusSuccess": "Successo",
+            "subscribe": "Subscribe",
             "time": "Time",
             "to": "A",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Trasferimento non inviato. Riprova.",
             "transferDetails": "Dettagli del trasferimento",
-            "yes": "Sì",
-            "view": "View"
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
+            "yes": "Sì"
         },
         "warning": {
             "awaitTransaction": "Trasferimento precedente in corso.",

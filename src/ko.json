@@ -228,7 +228,7 @@
                 "withdraw": "인출하기"
             },
             "chat": "채팅",
-            "goToConversation": "Chat"
+            "goToConversation": "채팅"
         },
         "debots": {
             "addressInput": {
@@ -709,10 +709,10 @@
         }
     },
     "operationsHistory": {
-        "allAccounts": "All accounts",
-        "button": "Transactions history",
+        "allAccounts": "모든 계정",
+        "button": "트랜잭션 기록",
         "empty": "아직은 트랜잭션이 없음",
-        "title": "Transactions history"
+        "title": "트랜잭션 기록"
     },
     "profile": {
         "otherProducts": "다른 제품들",
@@ -1305,8 +1305,8 @@
         "chats": {
             "attachDocument": "문서",
             "attachImage": "이미지",
-            "historyButton": "History",
-            "listTitle": "Transactions",
+            "historyButton": "기록",
+            "listTitle": "트랜잭션",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷 사진",
@@ -1418,33 +1418,33 @@
             "comment": "코멘트 남기기",
             "encrypted": "암호화됨",
             "fee": "수수료",
-            "from": "Transaction from",
+            "from": "트랜잭션 출처",
             "fromBankCard": "은행 카드에서",
-            "fromSender": "From {0}",
-            "mainDetails": "Main details",
+            "fromSender": "{0}에서",
+            "mainDetails": "주요 사항",
             "moreDetails": "자세한 정보",
             "networkFees": "네트워크 수수료",
             "no": "아니오",
-            "note": "Note",
+            "note": "메모",
             "pending": "보류 중...",
             "received": "받음",
-            "recipientAddress": "Recipent’s address",
-            "repeatTransaction": "Send again",
-            "result": "Status",
-            "reverseTransaction": "Give back",
-            "senderAddress": "Sender’s address",
+            "recipientAddress": "받는 사람의 주소",
+            "repeatTransaction": "다시 보내기",
+            "result": "상태",
+            "reverseTransaction": "반환",
+            "senderAddress": "보내는 사람의 주소",
             "sent": "전송됨",
             "share": "공유하기",
-            "statusSuccess": "Completed",
-            "subscribe": "Subscribe",
+            "statusSuccess": "완료",
+            "subscribe": "구독",
             "time": "시간",
-            "to": "Transaction to",
-            "toReceiver": "To {0}",
+            "to": "트랜잭션 대상",
+            "toReceiver": "{0}에게",
             "transactionGoneSilent": "트랜잭션이 무음으로 변경합니다",
             "transactionNotSend": "송금이 전송되지 않았습니다. 다시 시도하십시오.",
             "transferDetails": "세부 정보",
-            "unsubscribe": "Unsubscribe",
-            "view": "View",
+            "unsubscribe": "구독 해지",
+            "view": "보기",
             "yes": "예"
         },
         "warning": {

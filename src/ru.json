@@ -220,7 +220,7 @@
                 "withdraw": "Вывести"
             },
             "chat": "Чат",
-            "goToConversation": "Chat"
+            "goToConversation": "Чат"
         },
         "debots": {
             "addressInput": {
@@ -698,10 +698,10 @@
         }
     },
     "operationsHistory": {
-        "allAccounts": "All accounts",
-        "button": "Transactions history",
+        "allAccounts": "По всем счетам",
+        "button": "История операций",
         "empty": "Транзакций пока нет",
-        "title": "Transactions history"
+        "title": "История операций"
     },
     "profile": {
         "otherProducts": "Другие продукты",
@@ -1303,8 +1303,8 @@
         "chats": {
             "attachDocument": "Документ",
             "attachImage": "Изображение",
-            "historyButton": "History",
-            "listTitle": "Transactions",
+            "historyButton": "История",
+            "listTitle": "Операции",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷 Фото",
@@ -1416,33 +1416,33 @@
             "comment": "Комментарий",
             "encrypted": "Зашифрованный",
             "fee": "Комиссия",
-            "from": "Transaction from",
+            "from": "Со счета",
             "fromBankCard": "С банковской карты",
-            "fromSender": "From {0}",
-            "mainDetails": "Main details",
+            "fromSender": "От {0}",
+            "mainDetails": "Об операции",
             "moreDetails": "Подробнее",
             "networkFees": "Комиссия сети",
             "no": "Нет",
-            "note": "Note",
+            "note": "Комментарий",
             "pending": "В ожидании...",
             "received": "Получено",
-            "recipientAddress": "Recipent’s address",
-            "repeatTransaction": "Send again",
-            "result": "Status",
-            "reverseTransaction": "Give back",
-            "senderAddress": "Sender’s address",
+            "recipientAddress": "Адрес отправителя",
+            "repeatTransaction": "Повторить",
+            "result": "Статус",
+            "reverseTransaction": "Возврат",
+            "senderAddress": "Адрес получателя",
             "sent": "Отправлено",
             "share": "Поделиться",
-            "statusSuccess": "Completed",
-            "subscribe": "Subscribe",
+            "statusSuccess": "Успешно",
+            "subscribe": "Подписаться",
             "time": "Время",
-            "to": "Transaction to",
-            "toReceiver": "To {0}",
+            "to": "На счет",
+            "toReceiver": "Для {0}",
             "transactionGoneSilent": "Статус транзакции неизвестен",
             "transactionNotSend": "Перевод не отправлен. Пожалуйста, попробуй еще раз.",
             "transferDetails": "Детали перевода",
-            "unsubscribe": "Unsubscribe",
-            "view": "View",
+            "unsubscribe": "Отписаться",
+            "view": "Открыть",
             "yes": "Да"
         },
         "warning": {

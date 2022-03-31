@@ -733,7 +733,7 @@
             },
             "DEVER": {
                 "comment": "에버스케일 테스트 토큰",
-                "title": "내 Devers"
+                "title": "내 데버"
             },
             "SRFM": {
                 "comment": "서프 메달 True NFT 토큰",
@@ -1333,7 +1333,7 @@
             "assetsBalance": "자산 잔액",
             "buy": "구입",
             "contacts": "연락처",
-            "devers": "Devers",
+            "devers": "데버",
             "evers": "에버",
             "invite": "초대하기",
             "receive": "받기",

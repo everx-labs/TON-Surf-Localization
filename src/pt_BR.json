@@ -5,7 +5,7 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra Account",
+            "addMenuItem": "Extra account",
             "setPrimary": "Set as primary"
         },
         "assets": {
@@ -13,15 +13,16 @@
             "copyAddressHint": "Copiar o endereço da carteira",
             "copyAddressHint2": "Toque para copiar o endereço",
             "description": "Arraste e solte para trocar fundos e rebalancear seus ativos",
-            "title": "Ativos",
-            "mainAccount": "Primary account",
+            "exchangeAccount": "Exchange account",
             "extra": "Extra",
+            "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
-            "extraAccountPromo": "Extra account. Soon...",
-            "flexPromo": "Flex. Soon...",
-            "tokenPromo": "Token. Soon...",
+            "sharedAccount": "Shared account",
+            "successScreenBtn": "OK, great",
             "successScreenText": "Your extra account is almost ready. You can use it in a few minutes after we finish its activation.",
-            "successScreenBtn": "OK, great"
+            "title": "Ativos",
+            "titleAccountName": "{0} assets",
+            "tokenAccount": "Token"
         },
         "charts": {
             "monthAgo": "há 30 dias",
@@ -659,7 +660,7 @@
     "multiWallets": {
         "addWallet": "Add wallet",
         "create": "Criar carteira",
-        "defaultWalletName": "Meu Surf",
+        "defaultWalletName": "Surf",
         "editWallet": "Editar carteira",
         "manage": "Gerenciar",
         "manageWallets": "Gerenciar carteiras",
@@ -714,19 +715,19 @@
         "currencies": {
             "EVER": {
                 "comment": "Everscale tokens",
-                "title": "My Evers"
+                "title": "Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "title": "My {0} tokens"
+                "title": "{0} tokens"
             },
             "DEVER": {
                 "comment": "Everscale test tokens",
-                "title": "My Devers"
+                "title": "Devers"
             },
             "SRFM": {
                 "comment": "Surf Medal True NFT tokens",
-                "title": "Minhas medalhas de Surf"
+                "title": "Surf Medals"
             }
         },
         "disableAutoresume": "Desabilitar o Reinvestimento Automático",

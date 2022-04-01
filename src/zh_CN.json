@@ -9,7 +9,9 @@
             "setPrimary": "Set as primary",
             "show": "Show",
             "hide": "Hide",
-            "showHidden": "Show hidden"
+            "showHidden": "Show hidden",
+            "AccountIsHidden": "Account is hidden",
+            "AccountIsShown": "Account is shown"
         },
         "assets": {
             "addressCopied": "钱包地址复制到剪贴板",

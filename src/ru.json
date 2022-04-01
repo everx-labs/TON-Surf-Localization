@@ -9,7 +9,9 @@
             "setPrimary": "Сделать основным",
             "show": "Show",
             "hide": "Hide",
-            "showHidden": "Show hidden"
+            "showHidden": "Показать скрытые счета",
+            "AccountIsHidden": "Счет скрыт",
+            "AccountIsShown": "Теперь счет видно"
         },
         "assets": {
             "addressCopied": "Адрес скопирован",

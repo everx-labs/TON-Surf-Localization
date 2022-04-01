@@ -6,7 +6,10 @@
             "addMenuTitle": "Добавить",
             "renameBtn": "Переименовать счет",
             "addMenuItem": "Дополнительный счет",
-            "setPrimary": "Сделать основным"
+            "setPrimary": "Сделать основным",
+            "show": "Show",
+            "hide": "Hide",
+            "showHidden": "Show hidden"
         },
         "assets": {
             "addressCopied": "Адрес скопирован",

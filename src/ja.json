@@ -6,7 +6,10 @@
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
             "addMenuItem": "Extra Account",
-            "setPrimary": "Set as primary"
+            "setPrimary": "Set as primary",
+            "show": "Show",
+            "hide": "Hide",
+            "showHidden": "Show hidden"
         },
         "assets": {
             "addressCopied": "ウオレットアドレスはコーヒーされました。",

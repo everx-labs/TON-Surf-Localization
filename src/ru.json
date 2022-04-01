@@ -1437,14 +1437,12 @@
             "yes": "Да"
         },
         "warning": {
-            "awaitTransaction": "Выполняется предыдущий перевод.",
             "couldNotIdentifyQRCode": "Не удалось идентифицировать QR-код",
             "insufficientBalance": "Недостаточно средств",
             "insufficientBalanceForFee": "Недостаточно средств для оплаты комиссии сети",
             "insufficientFundsToActivate": "Недостаточно средств для активации кошелька",
             "limitReached": "Сумма превышает один из установленных лимитов",
-            "notYetSupported": "Пока не поддерживается",
-            "pleaseWait": "Подождите, пожалуйста"
+            "notYetSupported": "Пока не поддерживается"
         },
         "withdrawGram": {
             "amount": "Сумма",

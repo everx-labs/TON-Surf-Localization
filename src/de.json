@@ -1436,14 +1436,12 @@
             "yes": "Ja"
         },
         "warning": {
-            "awaitTransaction": "Vorherige Übertragung läuft.",
             "couldNotIdentifyQRCode": "Couldn't identify QR code",
             "insufficientBalance": "Unzureichende Mittel",
             "insufficientBalanceForFee": "Unzureichende Mittel für die Netzwerkgebühr\n",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "Der Betrag überschreitet einen der festgelegten Grenzwerte",
-            "notYetSupported": "Noch nicht unterstützt",
-            "pleaseWait": "Bitte aktualisieren"
+            "notYetSupported": "Noch nicht unterstützt"
         },
         "withdrawGram": {
             "amount": "Menge",

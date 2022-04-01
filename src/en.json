@@ -1436,14 +1436,12 @@
             "yes": "Yes"
         },
         "warning": {
-            "awaitTransaction": "Previous transfer in progress.",
             "couldNotIdentifyQRCode": "Couldn't identify QR code",
             "insufficientBalance": "Insufficient funds",
             "insufficientBalanceForFee": "Insufficient funds for network fee",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "The amount exceeds one of the established limits",
-            "notYetSupported": "Not supported yet",
-            "pleaseWait": "Please wait"
+            "notYetSupported": "Not supported yet"
         },
         "withdrawGram": {
             "amount": "Amount",

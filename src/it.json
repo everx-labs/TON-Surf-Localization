@@ -15,6 +15,7 @@
             "description": "Drag-and-drop per scambiare fondi e riequilibrare le risorse",
             "exchangeAccount": "Exchange account",
             "extra": "Extra",
+            "legacy": "Legacy",
             "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
             "sharedAccount": "Shared account",

@@ -15,6 +15,7 @@
             "description": "Drag-and-Drop zum Austausch von Geldern und zur Neugewichtung Ihres Vermögens",
             "exchangeAccount": "Exchange account",
             "extra": "Extra",
+            "legacy": "Legacy",
             "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
             "sharedAccount": "Shared account",

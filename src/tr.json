@@ -15,6 +15,7 @@
             "description": "Para takası yapmak ve varlıklarınızı yeniden dengelemek için sürükle ve bırak",
             "exchangeAccount": "Exchange account",
             "extra": "Extra",
+            "legacy": "Legacy",
             "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
             "sharedAccount": "Shared account",

@@ -15,6 +15,7 @@
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
             "exchangeAccount": "Exchange account",
             "extra": "Доп.",
+            "legacy": "Legacy",
             "mainAccount": "Основной счет",
             "multisigAccountTitle": "Счет с мультиподписью",
             "sharedAccount": "Shared account",

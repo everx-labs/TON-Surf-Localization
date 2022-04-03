@@ -15,6 +15,7 @@
             "description": "Glissez-déposez pour échanger des fonds et rééquilibrer vos actifs",
             "exchangeAccount": "Exchange account",
             "extra": "Extra",
+            "legacy": "Legacy",
             "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
             "sharedAccount": "Shared account",

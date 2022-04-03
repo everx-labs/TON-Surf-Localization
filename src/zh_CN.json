@@ -15,6 +15,7 @@
             "description": "拖放以交换资金并重新平衡您的资产",
             "exchangeAccount": "Exchange account",
             "extra": "Extra",
+            "legacy": "Legacy",
             "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
             "sharedAccount": "Shared account",

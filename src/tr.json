@@ -1438,14 +1438,12 @@
             "yes": "Evet"
         },
         "warning": {
-            "awaitTransaction": "Önceki aktarım devam ediyor.",
             "couldNotIdentifyQRCode": "Couldn't identify QR code",
             "insufficientBalance": "Yetersiz bakiye",
             "insufficientBalanceForFee": "Ağ ücreti için yetersiz bakiye",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "Miktar, belirlenen limitlerden birini aşıyor",
-            "notYetSupported": "Henüz desteklenmiyor",
-            "pleaseWait": "Lütfen bekleyin"
+            "notYetSupported": "Henüz desteklenmiyor"
         },
         "withdrawGram": {
             "amount": "Miktar",

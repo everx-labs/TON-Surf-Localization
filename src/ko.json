@@ -15,7 +15,7 @@
             "description": "끌어 놓기 기능 이용하여 자금을 바꾸하고 자산을 바꿀 수 있습니다",
             "exchangeAccount": "Exchange account",
             "extra": "추가",
-            "legacy": "Legacy",
+            "secondaryAccount": "Secondary account",
             "mainAccount": "기본 계정",
             "multisigAccountTitle": "멀티시그 계정",
             "sharedAccount": "Shared account",

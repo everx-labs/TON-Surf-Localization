@@ -15,7 +15,7 @@
             "description": "Arraste e solte para trocar fundos e rebalancear seus ativos",
             "exchangeAccount": "Exchange account",
             "extra": "Extra",
-            "legacy": "Legacy",
+            "secondaryAccount": "Secondary account",
             "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
             "sharedAccount": "Shared account",

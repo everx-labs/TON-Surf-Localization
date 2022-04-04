@@ -15,7 +15,7 @@
             "description": "Arrastrar y soltar para intercambiar fondos y reequilibrar sus activos",
             "exchangeAccount": "Exchange account",
             "extra": "Extra",
-            "legacy": "Legacy",
+            "secondaryAccount": "Secondary account",
             "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
             "sharedAccount": "Shared account",

@@ -1436,14 +1436,12 @@
             "yes": "Sim"
         },
         "warning": {
-            "awaitTransaction": "Transferência anterior em andamento.",
             "couldNotIdentifyQRCode": "Não foi possível identificar o QR code",
             "insufficientBalance": "Saldo insuficiente",
             "insufficientBalanceForFee": "Saldo insuficiente para a taxa de rede",
             "insufficientFundsToActivate": "Saldo insuficiente para ativar sua carteira",
             "limitReached": "A quantia excede um dos limites estabelecidos",
-            "notYetSupported": "Ainda não suportado",
-            "pleaseWait": "Por favor, aguarde"
+            "notYetSupported": "Ainda não suportado"
         },
         "withdrawGram": {
             "amount": "Quantia",

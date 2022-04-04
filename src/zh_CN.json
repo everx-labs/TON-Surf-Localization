@@ -1436,14 +1436,12 @@
             "yes": "是"
         },
         "warning": {
-            "awaitTransaction": "上一个传输正在进行中。",
             "couldNotIdentifyQRCode": "Couldn't identify QR code",
             "insufficientBalance": "资金不足",
             "insufficientBalanceForFee": "网络费用资金不足",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "金额超过既定限制之一",
-            "notYetSupported": "尚未支持",
-            "pleaseWait": "请稍等"
+            "notYetSupported": "尚未支持"
         },
         "withdrawGram": {
             "amount": "数量",

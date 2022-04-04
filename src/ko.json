@@ -13,15 +13,17 @@
             "copyAddressHint": "지갑 주소 복사하기",
             "copyAddressHint2": "지갑 주소 복사하기",
             "description": "끌어 놓기 기능 이용하여 자금을 바꾸하고 자산을 바꿀 수 있습니다",
-            "extraAccountPromo": "추가의 계정. 곧 공개됩니다...",
-            "flexPromo": "Flex. 곧 공개됩니다...",
-            "mainAccount": "기본 계정",
+            "exchangeAccount": "계정 바꾸기",
             "extra": "추가",
+            "secondaryAccount": "제2차 계정",
+            "mainAccount": "기본 계정",
             "multisigAccountTitle": "멀티시그 계정",
-            "title": "자산",
-            "tokenPromo": "토큰. 곧 공개됩니다...",
+            "sharedAccount": "공유 계정",
+            "successScreenBtn": "네, 좋습니다",
             "successScreenText": "본인의 추가 계정이 추가되었습니다. 현재 활성화 중이며 몇 분 안에 사용할 수 있습니다.",
-            "successScreenBtn": "네, 좋습니다"
+            "title": "자산",
+            "titleAccountName": "{0} 자산",
+            "tokenAccount": "토큰"
         },
         "charts": {
             "monthAgo": "30일 전",
@@ -670,7 +672,7 @@
     "multiWallets": {
         "addWallet": "지갑을 추가하기",
         "create": "지갑 만들기",
-        "defaultWalletName": "내 서프",
+        "defaultWalletName": "서프",
         "editWallet": "지갑 수정",
         "manage": "관리",
         "manageWallets": "지갑 관리",
@@ -725,19 +727,19 @@
         "currencies": {
             "EVER": {
                 "comment": "에버스케일 토큰",
-                "title": "내 에버"
+                "title": "에버"
             },
             "CUSTOM": {
                 "comment": "{0} 토큰",
-                "title": "내 {0} 토큰"
+                "title": "{0} 토큰"
             },
             "DEVER": {
                 "comment": "에버스케일 테스트 토큰",
-                "title": "내 데버"
+                "title": "데버"
             },
             "SRFM": {
                 "comment": "서프 메달 True NFT 토큰",
-                "title": "내 서프 메달"
+                "title": "서프 메달"
             }
         },
         "disableAutoresume": "자동 재시작 기능 끄기",

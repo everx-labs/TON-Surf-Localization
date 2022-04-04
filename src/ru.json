@@ -13,17 +13,17 @@
             "copyAddressHint": "Скопировать адрес кошелька",
             "copyAddressHint2": "Скопировать адрес",
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
-            "exchangeAccount": "Exchange account",
+            "exchangeAccount": "Биржевой счет",
             "extra": "Доп.",
-            "secondaryAccount": "Secondary account",
+            "secondaryAccount": "Вспомогательный счет",
             "mainAccount": "Основной счет",
             "multisigAccountTitle": "Счет с мультиподписью",
-            "sharedAccount": "Shared account",
+            "sharedAccount": "Общий счет",
             "successScreenBtn": "Отлично",
             "successScreenText": "Дополнительный счет открыт. Сейчас активируем его, и через пару минут сможете им пользоваться.",
             "title": "Активы",
-            "titleAccountName": "{0} assets",
-            "tokenAccount": "Token"
+            "titleAccountName": "{0} активы",
+            "tokenAccount": "Токен"
         },
         "charts": {
             "monthAgo": "30 дней назад",

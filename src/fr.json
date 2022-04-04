@@ -18,15 +18,17 @@
             "copyAddressHint": "Copiez l'adresse du portefeuille",
             "copyAddressHint2": "Appuyez pour enregistrer l'adresse",
             "description": "Glissez-déposez pour échanger des fonds et rééquilibrer vos actifs",
-            "title": "Actifs",
-            "mainAccount": "Primary account",
+            "exchangeAccount": "Exchange account",
             "extra": "Extra",
+            "secondaryAccount": "Secondary account",
+            "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
-            "extraAccountPromo": "Extra account. Soon...",
-            "flexPromo": "Flex. Soon...",
-            "tokenPromo": "Token. Soon...",
+            "sharedAccount": "Shared account",
+            "successScreenBtn": "OK, great",
             "successScreenText": "Your extra account is almost ready. You can use it in a few minutes after we finish its activation.",
-            "successScreenBtn": "OK, great"
+            "title": "Actifs",
+            "titleAccountName": "{0} assets",
+            "tokenAccount": "Token"
         },
         "charts": {
             "monthAgo": "Il y a 30 jours",
@@ -664,7 +666,7 @@
     "multiWallets": {
         "addWallet": "Add wallet",
         "create": "Créer portefeuille",
-        "defaultWalletName": "Mon Surf",
+        "defaultWalletName": "Surf",
         "editWallet": "Modifier le portefeuille",
         "manage": "Gérer",
         "manageWallets": "Gérer les portefeuilles",
@@ -719,19 +721,19 @@
         "currencies": {
             "EVER": {
                 "comment": "Jetons Everscale",
-                "title": "Mes Evers"
+                "title": "Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "title": "My {0} tokens"
+                "title": "{0} tokens"
             },
             "DEVER": {
                 "comment": "Jetons de test Everscale",
-                "title": "Mes Devers"
+                "title": "Devers"
             },
             "SRFM": {
                 "comment": "Jeton True NFT Médaille Surf",
-                "title": "Mes médailles de Surf"
+                "title": "Surf Medals"
             }
         },
         "disableAutoresume": "Désactiver la reprise automatique",

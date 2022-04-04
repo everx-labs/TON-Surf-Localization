@@ -18,15 +18,17 @@
             "copyAddressHint": "Скопировать адрес кошелька",
             "copyAddressHint2": "Скопировать адрес",
             "description": "Перетаскивайте: обменивайте средства и меняйте баланс активов",
-            "title": "Активы",
-            "mainAccount": "Основной счет",
+            "exchangeAccount": "Биржевой счет",
             "extra": "Доп.",
+            "secondaryAccount": "Вспомогательный счет",
+            "mainAccount": "Основной счет",
             "multisigAccountTitle": "Счет с мультиподписью",
-            "extraAccountPromo": "Дополнительный счет. Скоро...",
-            "flexPromo": "Flex. Скоро...",
-            "tokenPromo": "Токены. Скоро...",
+            "sharedAccount": "Общий счет",
+            "successScreenBtn": "Отлично",
             "successScreenText": "Дополнительный счет открыт. Сейчас активируем его, и через пару минут сможете им пользоваться.",
-            "successScreenBtn": "Отлично"
+            "title": "Активы",
+            "titleAccountName": "{0} активы",
+            "tokenAccount": "Токен"
         },
         "charts": {
             "monthAgo": "30 дней назад",
@@ -664,7 +666,7 @@
     "multiWallets": {
         "addWallet": "Добавить кошелек",
         "create": "Создать кошелек",
-        "defaultWalletName": "Мой Surf",
+        "defaultWalletName": "Surf",
         "editWallet": "Редактировать кошелек",
         "manage": "Управлять",
         "manageWallets": "Управлять кошельками",
@@ -719,19 +721,19 @@
         "currencies": {
             "EVER": {
                 "comment": "Токены Everscale",
-                "title": "Мои эверы"
+                "title": "Эверы"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "title": "My {0} tokens"
+                "title": "{0} tokens"
             },
             "DEVER": {
                 "comment": "Тестовые токены Everscale",
-                "title": "Мои дэверы"
+                "title": "Дэверы"
             },
             "SRFM": {
                 "comment": "Surf Medal True NFT tokens",
-                "title": "Мои медали Surf"
+                "title": "Mедали Surf"
             }
         },
         "disableAutoresume": "Отключить автопродление",

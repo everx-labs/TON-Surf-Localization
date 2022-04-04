@@ -18,15 +18,17 @@
             "copyAddressHint": "Cüzdan adresini kopyala",
             "copyAddressHint2": "Adresi kopyala",
             "description": "Para takası yapmak ve varlıklarınızı yeniden dengelemek için sürükle ve bırak",
-            "title": "Varlık",
-            "mainAccount": "Primary account",
+            "exchangeAccount": "Exchange account",
             "extra": "Extra",
+            "secondaryAccount": "Secondary account",
+            "mainAccount": "Primary account",
             "multisigAccountTitle": "Multisig account",
-            "extraAccountPromo": "Extra account. Soon...",
-            "flexPromo": "Flex. Soon...",
-            "tokenPromo": "Token. Soon...",
+            "sharedAccount": "Shared account",
+            "successScreenBtn": "OK, great",
             "successScreenText": "Your extra account is almost ready. You can use it in a few minutes after we finish its activation.",
-            "successScreenBtn": "OK, great"
+            "title": "Varlık",
+            "titleAccountName": "{0} assets",
+            "tokenAccount": "Token"
         },
         "charts": {
             "monthAgo": "30 gün önce",
@@ -664,7 +666,7 @@
     "multiWallets": {
         "addWallet": "Add wallet",
         "create": "Create wallet",
-        "defaultWalletName": "Benim Surf",
+        "defaultWalletName": "Surf",
         "editWallet": "Edit wallet",
         "manage": "Yönet",
         "manageWallets": "Cüzdanları yönet",
@@ -719,19 +721,19 @@
         "currencies": {
             "EVER": {
                 "comment": "Everscale tokens",
-                "title": "My Evers"
+                "title": "Evers"
             },
             "CUSTOM": {
                 "comment": "{0} tokens",
-                "title": "My {0} tokens"
+                "title": "{0} tokens"
             },
             "DEVER": {
                 "comment": "Everscale test tokens",
-                "title": "My Devers"
+                "title": "Devers"
             },
             "SRFM": {
                 "comment": "Surf Medal True NFT tokens",
-                "title": "My Surf Medals"
+                "title": "Surf Medals"
             }
         },
         "disableAutoresume": "Otomatik Devamı kapat",

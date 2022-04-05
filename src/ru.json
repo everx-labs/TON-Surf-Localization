@@ -7,8 +7,8 @@
             "renameBtn": "Переименовать счет",
             "addMenuItem": "Дополнительный счет",
             "setPrimary": "Сделать основным",
-            "show": "Show",
-            "hide": "Hide",
+            "show": "Показать",
+            "hide": "Скрыть",
             "showHidden": "Показать скрытые счета",
             "AccountIsHidden": "Счет скрыт",
             "AccountIsShown": "Теперь счет видно"

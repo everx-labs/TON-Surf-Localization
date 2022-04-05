@@ -6,7 +6,12 @@
             "addTitle": "계정 추가",
             "renameBtn": "계정 이름 바꾸기",
             "renameTitle": "이름 바꾸기",
-            "setPrimary": "기본 계정으로 설정"
+            "setPrimary": "기본 계정으로 설정",
+            "show": "보이기",
+            "hide": "숨기기",
+            "showHidden": "숨겨진 계정 보이기",
+            "AccountIsHidden": "계정이 숨겨져 있습니다",
+            "AccountIsShown": "계정이 표시됩니다"
         },
         "assets": {
             "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",

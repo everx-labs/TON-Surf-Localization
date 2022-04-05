@@ -5,8 +5,13 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra account",
-            "setPrimary": "Set as primary"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary",
+            "show": "Show",
+            "hide": "Hide",
+            "showHidden": "Show hidden",
+            "AccountIsHidden": "Account is hidden",
+            "AccountIsShown": "Account is shown"
         },
         "assets": {
             "addressCopied": "Wallet address copied to clipboard",

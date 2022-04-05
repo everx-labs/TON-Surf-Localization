@@ -6,7 +6,12 @@
             "addMenuTitle": "Добавить",
             "renameBtn": "Переименовать счет",
             "addMenuItem": "Дополнительный счет",
-            "setPrimary": "Сделать основным"
+            "setPrimary": "Сделать основным",
+            "show": "Показать",
+            "hide": "Скрыть",
+            "showHidden": "Показать скрытые счета",
+            "AccountIsHidden": "Счет скрыт",
+            "AccountIsShown": "Теперь счет видно"
         },
         "assets": {
             "addressCopied": "Адрес скопирован",

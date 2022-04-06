@@ -208,22 +208,22 @@
         "exceptions": {
             "abi": {
                 "notSupport": {
-                    "message": "This version ABI not support",
-                    "hint": "Maybe, we will support this version later"
+                    "message": "Sorry, ABI version is not supported",
+                    "hint": "Maybe we'll support it soon"
                 }
             },
             "default": {
                 "hints": {
-                    "sendReport": "Please, send a report about this problem"
+                    "sendReport": "Please, contact our Support Team"
                 },
                 "messages": {
                     "somethingWentWrong": "Something went wrong",
-                    "failedSendToDeBot": "Failed to send to DeBot"
+                    "failedSendToDeBot": "Surf cannot send data to Debot. They can be corrupted or something else is happened"
                 }
             },
             "unknown": {
                 "message": "Unknown error",
-                "hint": "Something went wrong. Please, send a bug report."
+                "hint": "Please, contact our Support Team and describe your issue."
             },
             "interfaces": {
                 "notFound": {
@@ -231,11 +231,11 @@
                     "hint": "Interface with ID \"{0}\" is not supported"
                 },
                 "failedToDecode": {
-                    "message": "Failed to decode DeBot body message",
+                    "message": "Cannot decode the Debot message",
                     "hint": "Incorrect body in DeBot message"
                 },
                 "methodUnsupported": {
-                    "message": "Method \"{0}\" for interface \"{1}\" is unsupported",
+                    "message": "Method \"{0}\" for interface \"{1}\" is not supported",
                     "hint": "Please, check the interface method name"
                 },
                 "failedToRunMethod": {
@@ -243,7 +243,7 @@
                     "hint": "Please, check the interface method name"
                 },
                 "notSupported": {
-                    "message": "Interface is unsupported",
+                    "message": "Interface is not supported",
                     "hint": "Interface with ID \"{0}\" is not supported"
                 },
                 "failedSendToDeBot": {
@@ -257,13 +257,13 @@
                 },
                 "dateInput": {
                     "dateNotReturned": {
-                        "message": "Date has not been returned"
+                        "message": "Date was not been returned"
                     },
                     "timeNotReturned": {
-                        "message": "Time has not been returned"
+                        "message": "Time was not been returned"
                     },
                     "dateAndTimeNotFound": {
-                        "message": "DateTime has not been found"
+                        "message": "DateTime was not been found"
                     }
                 },
                 "encryption": {
@@ -390,7 +390,7 @@
                 },
                 "connectorNotFound": {
                     "message": "DeBot connectors are not found",
-                    "hint": "DeBot must have connectors for the correct work"
+                    "hint": "DeBot must have connectors to work correctly"
                 },
                 "emptyQueue": {
                     "message": "Failed to wait for the non-empty queue",

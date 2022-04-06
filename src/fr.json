@@ -5,8 +5,13 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra account",
-            "setPrimary": "Set as primary"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary",
+            "show": "Show",
+            "hide": "Hide",
+            "showHidden": "Show hidden",
+            "AccountIsHidden": "Account is hidden",
+            "AccountIsShown": "Account is shown"
         },
         "assets": {
             "addressCopied": "Adresse du portefeuille copiée dans le presse-papiers",
@@ -1448,14 +1453,12 @@
             "yes": "Oui"
         },
         "warning": {
-            "awaitTransaction": "Transfert précédent en cours.",
             "couldNotIdentifyQRCode": "Impossible d'identifier le code QR",
             "insufficientBalance": "Fonds insuffisants",
             "insufficientBalanceForFee": "Fonds insuffisants pour les frais de réseau",
             "insufficientFundsToActivate": "Fonds insuffisants pour activer votre portefeuille",
             "limitReached": "Le montant dépasse l'une des limites établies",
-            "notYetSupported": "Pas encore pris en charge",
-            "pleaseWait": "Veuillez patienter"
+            "notYetSupported": "Pas encore pris en charge"
         },
         "withdrawGram": {
             "amount": "Montant",

@@ -5,8 +5,13 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra account",
-            "setPrimary": "Set as primary"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary",
+            "show": "Show",
+            "hide": "Hide",
+            "showHidden": "Show hidden",
+            "AccountIsHidden": "Account is hidden",
+            "AccountIsShown": "Account is shown"
         },
         "assets": {
             "addressCopied": "Brieftaschenadresse in Zwischenablage kopiert",
@@ -1448,14 +1453,12 @@
             "yes": "Ja"
         },
         "warning": {
-            "awaitTransaction": "Vorherige Übertragung läuft.",
             "couldNotIdentifyQRCode": "Couldn't identify QR code",
             "insufficientBalance": "Unzureichende Mittel",
             "insufficientBalanceForFee": "Unzureichende Mittel für die Netzwerkgebühr\n",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "Der Betrag überschreitet einen der festgelegten Grenzwerte",
-            "notYetSupported": "Noch nicht unterstützt",
-            "pleaseWait": "Bitte aktualisieren"
+            "notYetSupported": "Noch nicht unterstützt"
         },
         "withdrawGram": {
             "amount": "Menge",

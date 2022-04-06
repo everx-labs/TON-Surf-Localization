@@ -6,7 +6,12 @@
             "addMenuTitle": "Добавить",
             "renameBtn": "Переименовать счет",
             "addMenuItem": "Дополнительный счет",
-            "setPrimary": "Сделать основным"
+            "setPrimary": "Сделать основным",
+            "show": "Показать",
+            "hide": "Скрыть",
+            "showHidden": "Показать скрытые счета",
+            "AccountIsHidden": "Счет скрыт",
+            "AccountIsShown": "Теперь счет видно"
         },
         "assets": {
             "addressCopied": "Адрес скопирован",
@@ -1449,14 +1454,12 @@
             "yes": "Да"
         },
         "warning": {
-            "awaitTransaction": "Выполняется предыдущий перевод.",
             "couldNotIdentifyQRCode": "Не удалось идентифицировать QR-код",
             "insufficientBalance": "Недостаточно средств",
             "insufficientBalanceForFee": "Недостаточно средств для оплаты комиссии сети",
             "insufficientFundsToActivate": "Недостаточно средств для активации кошелька",
             "limitReached": "Сумма превышает один из установленных лимитов",
-            "notYetSupported": "Пока не поддерживается",
-            "pleaseWait": "Подождите, пожалуйста"
+            "notYetSupported": "Пока не поддерживается"
         },
         "withdrawGram": {
             "amount": "Сумма",

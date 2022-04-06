@@ -5,8 +5,13 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra account",
-            "setPrimary": "Set as primary"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary",
+            "show": "Show",
+            "hide": "Hide",
+            "showHidden": "Show hidden",
+            "AccountIsHidden": "Account is hidden",
+            "AccountIsShown": "Account is shown"
         },
         "assets": {
             "addressCopied": "钱包地址复制到剪贴板",
@@ -1448,14 +1453,12 @@
             "yes": "是"
         },
         "warning": {
-            "awaitTransaction": "上一个传输正在进行中。",
             "couldNotIdentifyQRCode": "Couldn't identify QR code",
             "insufficientBalance": "资金不足",
             "insufficientBalanceForFee": "网络费用资金不足",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "金额超过既定限制之一",
-            "notYetSupported": "尚未支持",
-            "pleaseWait": "请稍等"
+            "notYetSupported": "尚未支持"
         },
         "withdrawGram": {
             "amount": "数量",

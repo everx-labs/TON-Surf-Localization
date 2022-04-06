@@ -5,8 +5,13 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra account",
-            "setPrimary": "Set as primary"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary",
+            "show": "Show",
+            "hide": "Hide",
+            "showHidden": "Show hidden",
+            "AccountIsHidden": "Account is hidden",
+            "AccountIsShown": "Account is shown"
         },
         "assets": {
             "addressCopied": "Endereço da carteira copiado para a área de transferência",
@@ -1448,14 +1453,12 @@
             "yes": "Sim"
         },
         "warning": {
-            "awaitTransaction": "Transferência anterior em andamento.",
             "couldNotIdentifyQRCode": "Não foi possível identificar o QR code",
             "insufficientBalance": "Saldo insuficiente",
             "insufficientBalanceForFee": "Saldo insuficiente para a taxa de rede",
             "insufficientFundsToActivate": "Saldo insuficiente para ativar sua carteira",
             "limitReached": "A quantia excede um dos limites estabelecidos",
-            "notYetSupported": "Ainda não suportado",
-            "pleaseWait": "Por favor, aguarde"
+            "notYetSupported": "Ainda não suportado"
         },
         "withdrawGram": {
             "amount": "Quantia",

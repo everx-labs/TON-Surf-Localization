@@ -6,7 +6,12 @@
             "addTitle": "계정 추가",
             "renameBtn": "계정 이름 바꾸기",
             "renameTitle": "이름 바꾸기",
-            "setPrimary": "기본 계정으로 설정"
+            "setPrimary": "기본 계정으로 설정",
+            "show": "보이기",
+            "hide": "숨기기",
+            "showHidden": "숨겨진 계정 보이기",
+            "AccountIsHidden": "계정이 숨겨져 있습니다",
+            "AccountIsShown": "계정이 표시됩니다"
         },
         "assets": {
             "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",
@@ -1451,14 +1456,12 @@
             "yes": "예"
         },
         "warning": {
-            "awaitTransaction": "이전 전송이 진행 중입니다.",
             "couldNotIdentifyQRCode": "QR 코드를 인식할 수 없음",
             "insufficientBalance": "부족한 자금",
             "insufficientBalanceForFee": "네트워크 수수료를 지불할 금액이 부족합니다",
             "insufficientFundsToActivate": "지갑을 활성화할 자금이 부족합니다",
             "limitReached": "금액이 설정된 한도 중 하나를 초과합니다.",
-            "notYetSupported": "아직 지원되지 않음",
-            "pleaseWait": "조금만 기다려 주세요"
+            "notYetSupported": "아직 지원되지 않음"
         },
         "withdrawGram": {
             "amount": "액수",

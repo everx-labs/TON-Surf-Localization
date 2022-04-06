@@ -5,8 +5,13 @@
             "renameTitle": "Rename",
             "addMenuTitle": "Add",
             "renameBtn": "Rename account",
-            "addMenuItem": "Extra account",
-            "setPrimary": "Set as primary"
+            "addMenuItem": "Extra Account",
+            "setPrimary": "Set as primary",
+            "show": "Show",
+            "hide": "Hide",
+            "showHidden": "Show hidden",
+            "AccountIsHidden": "Account is hidden",
+            "AccountIsShown": "Account is shown"
         },
         "assets": {
             "addressCopied": "ウオレットアドレスはコーヒーされました。",
@@ -1448,14 +1453,12 @@
             "yes": "はい"
         },
         "warning": {
-            "awaitTransaction": "以前の転送が進行中です。",
             "couldNotIdentifyQRCode": "Couldn't identify QR code",
             "insufficientBalance": "残高不足",
             "insufficientBalanceForFee": "ネットワーク料金の資金が不足です",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "金額が設定された制限のいずれかを超えています",
-            "notYetSupported": "まだサポートされていません",
-            "pleaseWait": "お待ちください"
+            "notYetSupported": "まだサポートされていません"
         },
         "withdrawGram": {
             "amount": "金額",

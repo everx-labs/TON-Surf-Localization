@@ -10,7 +10,7 @@ All changes to the strings you make in your own repository without affecting the
    ![alt text](images/screenshot-00.png)
 2. In the upper right corner, click **Fork**.
    ![alt text](images/screenshot-01.png)
-3. Click you local repository name. GitHub will copy the TON-Surf-Localization repository there. 
+3. Click you local repository name. GitHub will copy the TON-Surf-Localization repository there.
    ![alt text](images/screenshot-27.png)
 
 Well done! Now you have a copy of the TON-Surf-Localization repository and you are ready to edit string files.
@@ -26,7 +26,7 @@ First, please check the current Surf version number. Then, switch to the Github 
 1. Open [Surf for Translators](https://ton-surf-translate.firebaseapp.com/). If opening for the fist time, please comply with legal requirements as described in the [Help Center](https://help.ever.surf/en/support/solutions/articles/77000236686-do-i-need-to-register-to-use-surf-).
 2. On the main screen, click the Settings icon.
    ![alt text](images/screenshot-28.png)
-3.  At the bottom of the screen, find the Surf current version number.
+3. At the bottom of the screen, find the Surf current version number.
    ![alt text](images/screenshot-19.png)
 4. If you closed the browser tab with your local repository on GitHub, please reopen it.
 5. Click on the branch name and enter the version number you found at [Surf for Translators](https://ton-surf-translate.firebaseapp.com/).
@@ -48,9 +48,9 @@ You can edit files right in GitHub or download them to your computer and edit lo
 ### Edit on GitHub
 
 1. In your local repository, switch to the right branch.
-3. Click the **src** folder.
-4. Click on the file you want to edit.
-5. Click the pencil icon.
+2. Click the **src** folder.
+3. Click on the file you want to edit.
+4. Click the pencil icon.
    ![alt text](images/screenshot-03.png)
 
 The file opens in GitHub build-in editor.
@@ -58,9 +58,9 @@ The file opens in GitHub build-in editor.
 ### Download file
 
 1. In your local repository, switch to the right branch.
-3. Click the **src** folder.
-4. Click on the file you want to edit.
-5. Right-click the **Raw** button and select **Download Linked File**.
+2. Click the **src** folder.
+3. Click on the file you want to edit.
+4. Right-click the **Raw** button and select **Download Linked File**.
    ![alt text](images/screenshot-04.png)
    The name of the context menu varies from the browser you use.
 

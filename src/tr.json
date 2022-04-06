@@ -703,7 +703,9 @@
         "allAccounts": "All accounts",
         "button": "Transactions history",
         "empty": "Henüz işlem yok",
-        "title": "Transactions history"
+        "seeAll": "See all",
+        "title": "Transactions history",
+        "transactions": "Transactions"
     },
     "profile": {
         "otherProducts": "Diğer ürünler",
@@ -1304,8 +1306,7 @@
         "chats": {
             "attachDocument": "Belge",
             "attachImage": "Resim",
-            "historyButton": "History",
-            "listTitle": "Transactions",
+            "listTitle": "Etkinlik",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷 Fotoğraf",

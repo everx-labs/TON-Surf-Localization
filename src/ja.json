@@ -703,7 +703,9 @@
         "allAccounts": "All accounts",
         "button": "Transactions history",
         "empty": "まだトランザクションがありません",
-        "title": "Transactions history"
+        "seeAll": "See all",
+        "title": "Transactions history",
+        "transactions": "Transactions"
     },
     "profile": {
         "otherProducts": "その他の製品",
@@ -1304,8 +1306,7 @@
         "chats": {
             "attachDocument": "ドキュメント",
             "attachImage": "画像",
-            "historyButton": "History",
-            "listTitle": "Transactions",
+            "listTitle": "活動",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷写真",

@@ -703,7 +703,9 @@
         "allAccounts": "All accounts",
         "button": "Transactions history",
         "empty": "还没有交易",
-        "title": "Transactions history"
+        "seeAll": "See all",
+        "title": "Transactions history",
+        "transactions": "Transactions"
     },
     "profile": {
         "otherProducts": "其他产品",
@@ -1304,8 +1306,7 @@
         "chats": {
             "attachDocument": "文件",
             "attachImage": "图像",
-            "historyButton": "History",
-            "listTitle": "Transactions",
+            "listTitle": "活动",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷照片",

@@ -714,7 +714,9 @@
         "allAccounts": "모든 계정",
         "button": "트랜잭션 기록",
         "empty": "아직은 트랜잭션이 없음",
-        "title": "트랜잭션 기록"
+        "seeAll": "See all",
+        "title": "트랜잭션 기록",
+        "transactions": "트랜잭션"
     },
     "profile": {
         "otherProducts": "다른 제품들",
@@ -1307,8 +1309,7 @@
         "chats": {
             "attachDocument": "문서",
             "attachImage": "이미지",
-            "historyButton": "기록",
-            "listTitle": "트랜잭션",
+            "listTitle": "활동",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷 사진",

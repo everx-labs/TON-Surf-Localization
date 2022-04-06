@@ -703,7 +703,9 @@
         "allAccounts": "All accounts",
         "button": "Transactions history",
         "empty": "No hay transacciones todavía",
-        "title": "Transactions history"
+        "seeAll": "See all",
+        "title": "Transactions history",
+        "transactions": "Transactions"
     },
     "profile": {
         "otherProducts": "Otros productos",
@@ -1304,8 +1306,7 @@
         "chats": {
             "attachDocument": "Documento",
             "attachImage": "Imagen",
-            "historyButton": "History",
-            "listTitle": "Transactions",
+            "listTitle": "Actividad",
             "messageType": {
                 "document": "📄 {0}",
                 "image": "📷 Foto",

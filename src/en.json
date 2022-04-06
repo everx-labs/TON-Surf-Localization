@@ -376,7 +376,7 @@
                 },
                 "interfaceNotFound": {
                     "message": "Interface \"{0}\" is not found",
-                    "hint": "Please, use interfaces described in Consortium"
+                    "hint": "Please, use interfaces described in the DeBot Interface Specifications (IS) Consortium"
                 }
             },
             "store": {

@@ -1195,33 +1195,50 @@
             "button": "Rééquilibrer"
         },
         "stakingScreen": {
-            "about": "A propos",
-            "advancedFeatures": "Fonctions avancées",
-            "age": "Âge",
-            "assurance": "Assurance",
-            "availablePool": "Pool disponible",
-            "balance": "Solde",
+            "balance": {
+                "title": "Surf stakes in {0}",
+                "note": "{0} for all time",
+                "reward": "{0} % or {1} {2}"
+            },
+            "aboutDetails": {
+                "currentAPY": "Current APY",
+                "validatorFee": "Frais de récompense",
+                "efficiency": "Efficiency",
+                "age": "Âge",
+                "members": "Membres",
+                "tvl": "TVL,  {0}",
+                "rewardPaid": "Récompense payée",
+                "availablePool": "Pool disponible",
+                "assurance": "Assurance",
+                "minStake": "Min. stake",
+                "operationDeposit": "Operation deposit",
+                "percentage": "{0} %"
+            },
+            "balancesDetails": {
+                "staked": "Staked",
+                "available": "Available",
+                "withdrawal": "Withdrawal"
+            },
+            "buttons": {
+                "deposit": "Deposit",
+                "info": "How does it work?",
+                "withdraw": "Withdraw"
+            },
+            "sections": {
+                "about": "A propos",
+                "balances": "Balances",
+                "stakes": "Stakes"
+            },
             "btnBreakUnstake": "Refuser le retrait",
             "btnRestake": "Restaker",
             "btnStake": "Stake",
             "btnStakeAnotherRound": "Essayez de staker plus tard",
             "btnUnstake": "Retirer",
             "declineRequest": "Retrait annulé.",
-            "depools": "My DePools",
-            "fee": "Frais de récompense",
             "help": "Aide",
             "max": "max.",
-            "members": "Membres",
             "min": "min.",
-            "minStake": "Stake min.",
-            "moreInfo": "Plus d’infos",
-            "period": "Période de blocage",
-            "reward": "Récompense annuelle estimée",
-            "rewardPaid": "Récompense payée",
-            "rewarded": "My reward",
-            "stakes": "Stakes",
             "stakingRequest": "La demande de staking a été envoyée. Cela peut prendre un peu de temps.",
-            "successfulRounds": "Tours réussis",
             "unstakeBanner": "Pendant la période de blocage, vos fonds seront transférés sur le compte principal.",
             "withdrawRequest": "La demande de retrait a été envoyée. Cela peut prendre un peu de temps."
         }

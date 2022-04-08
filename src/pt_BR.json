@@ -1195,33 +1195,50 @@
             "button": "Rebalancear"
         },
         "stakingScreen": {
-            "about": "Detalhes",
-            "advancedFeatures": "Características avançadas",
-            "age": "Idade",
-            "assurance": "Garantia",
-            "availablePool": "Pool disponível",
-            "balance": "Saldo",
+            "balance": {
+                "title": "Surf stakes in {0}",
+                "note": "{0} for all time",
+                "reward": "{0} % or {1} {2}"
+            },
+            "aboutDetails": {
+                "currentAPY": "Current APY",
+                "validatorFee": "Validator fee",
+                "efficiency": "Efficiency",
+                "age": "Idade",
+                "members": "Membros",
+                "tvl": "TVL,  {0}",
+                "rewardPaid": "Recompensa paga",
+                "availablePool": "Pool disponível",
+                "assurance": "Garantia",
+                "minStake": "Stake mínimo",
+                "operationDeposit": "Operation deposit",
+                "percentage": "{0} %"
+            },
+            "balancesDetails": {
+                "staked": "Staked",
+                "available": "Available",
+                "withdrawal": "Withdrawal"
+            },
+            "buttons": {
+                "deposit": "Deposit",
+                "info": "How does it work?",
+                "withdraw": "Withdraw"
+            },
+            "sections": {
+                "about": "Detalhes",
+                "balances": "Balances",
+                "stakes": "Stakes"
+            },
             "btnBreakUnstake": "Anular unstake",
             "btnRestake": "Reinvestir",
             "btnStake": "Depositar em Staking",
             "btnStakeAnotherRound": "Tente fazer o stake mais tarde",
             "btnUnstake": "Desistir do Stake",
             "declineRequest": "Withdrawal canceled.",
-            "depools": "My DePools",
-            "fee": "Taxa de recompensa",
             "help": "Ajuda",
             "max": "máx.",
-            "members": "Membros",
             "min": "min.",
-            "minStake": "Stake mínimo",
-            "moreInfo": "Mais informações",
-            "period": "Período de bloqueio",
-            "reward": "Recompensa anual estimada",
-            "rewardPaid": "Recompensa paga",
-            "rewarded": "My reward",
-            "stakes": "Stakes",
             "stakingRequest": "A requisição de Staking foi enviada. Pode levar algum tempo para ser processada.",
-            "successfulRounds": "Rodadas de sucesso",
             "unstakeBanner": "Durante o período de bloqueio seu saldo será transferido para a conta principal.",
             "withdrawRequest": "O pedido de saque foi enviado. Pode levar algum tempo para ser processado."
         }

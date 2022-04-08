@@ -1195,33 +1195,50 @@
             "button": "Перебалансировать"
         },
         "stakingScreen": {
-            "about": "Информация",
-            "advancedFeatures": "Расширенные функции",
-            "age": "Возраст",
-            "assurance": "Гарантия",
-            "availablePool": "Доступный пул",
-            "balance": "Баланс",
+            "balance": {
+                "title": "Surf stakes in {0}",
+                "note": "{0} for all time",
+                "reward": "{0} % or {1} {2}"
+            },
+            "aboutDetails": {
+                "currentAPY": "Current APY",
+                "validatorFee": "Validator fee",
+                "efficiency": "Efficiency",
+                "age": "Возраст",
+                "members": "Участники",
+                "tvl": "TVL,  {0}",
+                "rewardPaid": "Вознаграждение выплачено",
+                "availablePool": "Доступный пул",
+                "assurance": "Гарантия",
+                "minStake": "Мин. ставка",
+                "operationDeposit": "Operation deposit",
+                "percentage": "{0} %"
+            },
+            "balancesDetails": {
+                "staked": "Staked",
+                "available": "Available",
+                "withdrawal": "Withdrawal"
+            },
+            "buttons": {
+                "deposit": "Deposit",
+                "info": "How does it work?",
+                "withdraw": "Withdraw"
+            },
+            "sections": {
+                "about": "Информация",
+                "balances": "Balances",
+                "stakes": "Stakes"
+            },
             "btnBreakUnstake": "Отказаться от вывода",
             "btnRestake": "Сделать еще ставку",
             "btnStake": "Сделать ставку",
             "btnStakeAnotherRound": "Попробуйте сделать ставку позже",
             "btnUnstake": "Отозвать ставку",
             "declineRequest": "Вывод средств отменен",
-            "depools": "Мои Депулы",
-            "fee": "Комиссия за стейкинг",
             "help": "Помощь",
             "max": "макс.",
-            "members": "Участники",
             "min": "мин.",
-            "minStake": "Мин. ставка",
-            "moreInfo": "Подробнее",
-            "period": "Период блокировки",
-            "reward": "Ежегодное вознаграждение",
-            "rewardPaid": "Вознаграждение выплачено",
-            "rewarded": "Моё вознаграждение",
-            "stakes": "Ставки",
             "stakingRequest": "Запрос на ставку отправлен. Потребуется некоторое время.",
-            "successfulRounds": "Успешные раунды",
             "unstakeBanner": "В период блокировки ваши средства будут переведены на основной счет",
             "withdrawRequest": "Запрос на вывод средств отправлен"
         }

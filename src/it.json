@@ -1195,33 +1195,50 @@
             "button": "Riequilibrare"
         },
         "stakingScreen": {
-            "about": "Informazioni",
-            "advancedFeatures": "Funzionalità avanzate",
-            "age": "Età",
-            "assurance": "Garanzia",
-            "availablePool": "Available pool",
-            "balance": "Saldo",
+            "balance": {
+                "title": "Surf stakes in {0}",
+                "note": "{0} for all time",
+                "reward": "{0} % or {1} {2}"
+            },
+            "aboutDetails": {
+                "currentAPY": "Current APY",
+                "validatorFee": "Validator fee",
+                "efficiency": "Efficiency",
+                "age": "Età",
+                "members": "Membri",
+                "tvl": "TVL,  {0}",
+                "rewardPaid": "Ricompensa pagata",
+                "availablePool": "Available pool",
+                "assurance": "Garanzia",
+                "minStake": "Min. stake",
+                "operationDeposit": "Operation deposit",
+                "percentage": "{0} %"
+            },
+            "balancesDetails": {
+                "staked": "Staked",
+                "available": "Available",
+                "withdrawal": "Withdrawal"
+            },
+            "buttons": {
+                "deposit": "Deposit",
+                "info": "How does it work?",
+                "withdraw": "Withdraw"
+            },
+            "sections": {
+                "about": "Informazioni",
+                "balances": "Balances",
+                "stakes": "Stakes"
+            },
             "btnBreakUnstake": "Decline withdrawal",
             "btnRestake": "Restake",
             "btnStake": "Stake",
             "btnStakeAnotherRound": "Try to stake later",
             "btnUnstake": "Unstake",
             "declineRequest": "Withdrawal canceled.",
-            "depools": "My DePools",
-            "fee": "Tassa di staking",
             "help": "Aiuto",
             "max": "max.",
-            "members": "Membri",
             "min": "min.",
-            "minStake": "Min. stake",
-            "moreInfo": "Più informazioni",
-            "period": "Periodo di lock-up",
-            "reward": "Ricompensa annuale",
-            "rewardPaid": "Ricompensa pagata",
-            "rewarded": "My reward",
-            "stakes": "Stake",
             "stakingRequest": "La richiesta di stakeing è stata inviata. Potrebbe richiedere un po' di tempo.",
-            "successfulRounds": "Round di successo",
             "unstakeBanner": "Durante il periodo di lock-up i tuoi fondi saranno trasferiti sul conto principale. Effettua un riaccredito se desideri annullare il prelievo.",
             "withdrawRequest": "La richiesta di prelievo è stata inviata"
         }

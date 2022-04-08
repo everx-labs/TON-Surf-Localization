@@ -1195,33 +1195,50 @@
             "button": "Rebalance"
         },
         "stakingScreen": {
-            "about": "About",
-            "advancedFeatures": "Erweiterte Funktionen",
-            "age": "Age",
-            "assurance": "Assurance",
-            "availablePool": "Available pool",
-            "balance": "Balance",
+            "balance": {
+                "title": "Surf stakes in {0}",
+                "note": "{0} for all time",
+                "reward": "{0} % or {1} {2}"
+            },
+            "aboutDetails": {
+                "currentAPY": "Current APY",
+                "validatorFee": "Validator fee",
+                "efficiency": "Efficiency",
+                "age": "Age",
+                "members": "Members",
+                "tvl": "TVL,  {0}",
+                "rewardPaid": "Reward paid",
+                "availablePool": "Available pool",
+                "assurance": "Assurance",
+                "minStake": "Min. stake",
+                "operationDeposit": "Operation deposit",
+                "percentage": "{0} %"
+            },
+            "balancesDetails": {
+                "staked": "Staked",
+                "available": "Available",
+                "withdrawal": "Withdrawal"
+            },
+            "buttons": {
+                "deposit": "Deposit",
+                "info": "How does it work?",
+                "withdraw": "Withdraw"
+            },
+            "sections": {
+                "about": "About",
+                "balances": "Balances",
+                "stakes": "Stakes"
+            },
             "btnBreakUnstake": "Decline withdrawal",
             "btnRestake": "Restake",
             "btnStake": "Stake",
             "btnStakeAnotherRound": "Try to stake later",
             "btnUnstake": "Withdraw",
             "declineRequest": "Withdrawal canceled.",
-            "depools": "My DePools",
-            "fee": "Reward fee",
             "help": "Hilfe",
             "max": "max.",
-            "members": "Members",
             "min": "min.",
-            "minStake": "Min. stake",
-            "moreInfo": "Mehr Info",
-            "period": "Lock-up period",
-            "reward": "Estimated annual reward",
-            "rewardPaid": "Reward paid",
-            "rewarded": "My reward",
-            "stakes": "Stakes",
             "stakingRequest": "Staking request was sent. It may take a little time.",
-            "successfulRounds": "Erfolgreiche Runden",
             "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
             "withdrawRequest": "Withdraw request was sent. It may take a short while."
         }

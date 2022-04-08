@@ -1206,33 +1206,50 @@
             "button": "재조정하기"
         },
         "stakingScreen": {
-            "about": "자세한 내용",
-            "advancedFeatures": "고급 기능",
-            "age": "수명 (age)",
-            "assurance": "보증금",
-            "availablePool": "사용 가능한 풀",
-            "balance": "잔액",
+            "balance": {
+                "title": "Surf stakes in {0}",
+                "note": "{0} for all time",
+                "reward": "{0} % or {1} {2}"
+            },
+            "aboutDetails": {
+                "currentAPY": "Current APY",
+                "validatorFee": "Validator fee",
+                "efficiency": "Efficiency",
+                "age": "수명 (age)",
+                "members": "회원",
+                "tvl": "TVL,  {0}",
+                "rewardPaid": "적립된 보상",
+                "availablePool": "사용 가능한 풀",
+                "assurance": "보증금",
+                "minStake": "최소 스테이킹 금액",
+                "operationDeposit": "Operation deposit",
+                "percentage": "{0} %"
+            },
+            "balancesDetails": {
+                "staked": "Staked",
+                "available": "Available",
+                "withdrawal": "Withdrawal"
+            },
+            "buttons": {
+                "deposit": "Deposit",
+                "info": "How does it work?",
+                "withdraw": "Withdraw"
+            },
+            "sections": {
+                "about": "자세한 내용",
+                "balances": "Balances",
+                "stakes": "Stakes"
+            },
             "btnBreakUnstake": "인출 거부",
             "btnRestake": "다시 스크이킹하기",
             "btnStake": "스테이킹",
             "btnStakeAnotherRound": "나중에 스테이킹 시도해 보세요",
             "btnUnstake": "인출하기",
             "declineRequest": "인출이 취소되었습니다.",
-            "depools": "내 DePool",
-            "fee": "보상 수수료",
             "help": "도움말",
             "max": "최대",
-            "members": "회원",
             "min": "취소",
-            "minStake": "최소 스테이킹 금액",
-            "moreInfo": "자세한 정보",
-            "period": "락업 기간",
-            "reward": "예상 연간 보상",
-            "rewardPaid": "적립된 보상",
-            "rewarded": "보상",
-            "stakes": "스테이크",
             "stakingRequest": "스테이킹 요청이 전송되었습니다. 시간이 조금 걸릴 수 있습니다.",
-            "successfulRounds": "성공적인 라운드",
             "unstakeBanner": "잠금 기간 동안 귀하의 자금은 기본 계정으로 이체됩니다.",
             "withdrawRequest": "춤금 요청이 전송되었습니다. 시간이 조금 걸릴 수 있습니다."
         }

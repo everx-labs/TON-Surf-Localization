@@ -1240,7 +1240,7 @@
             "min": "en azı",
             "stakingRequest": "Staking isteği gönderildi. Biraz zaman alabilir.",
             "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
-            "withdrawRequest": "Para çekme isteği gönderildi",
+            "withdrawRequest": "Para çekme isteği gönderildi"
         }
     },
     "buy": {

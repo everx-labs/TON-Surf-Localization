@@ -1198,7 +1198,7 @@
             "balance": {
                 "title": "Surf stakes in {0}",
                 "note": "{0} for all time",
-                "reward": "{0} % or {1} {2}"
+                "reward": "+{0} % or {1} {2}"
             },
             "aboutDetails": {
                 "currentAPY": "Current APY",

@@ -84,9 +84,12 @@
                 "trending": "Тренды"
             },
             "send": {
-                "confirm": "Подтвердить",
+                "confirmTitle": "Confirm sending",
+                "continueBtn": "Continue",
+                "fee": "Network fees",
                 "receiver": "Кому",
-                "title": "Отправка"
+                "sendBtn": "Send",
+                "sendTitle": "Send NFT"
             },
             "storage": "Хранилище",
             "view": "Посмотреть",

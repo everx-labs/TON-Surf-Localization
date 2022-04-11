@@ -85,9 +85,12 @@
                 "trending": "Trending"
             },
             "send": {
-                "confirm": "Confirm",
+                "confirmTitle": "Confirm sending",
+                "continueBtn": "Continue",
+                "fee": "Network fees",
                 "receiver": "Receiver",
-                "title": "Send"
+                "sendBtn": "Send",
+                "sendTitle": "Send NFT"
             },
             "storage": "Storage",
             "tokens": "Tokens",

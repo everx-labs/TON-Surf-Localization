@@ -1207,38 +1207,38 @@
         },
         "stakingScreen": {
             "balance": {
-                "title": "Surf stakes in {0}",
-                "note": "{0} for all time",
-                "reward": "+{0} % or {1} {2}"
+                "title": "{0}에 서프 스테이킹",
+                "note": "전체 시간 동안 {0}",
+                "reward": "+{0} % 또는 {1} {2}"
             },
             "aboutDetails": {
-                "currentAPY": "Current APY",
-                "validatorFee": "Validator fee",
-                "efficiency": "Efficiency",
-                "age": "수명 (age)",
+                "currentAPY": "현재 APY",
+                "validatorFee": "밸리데이터 수수료",
+                "efficiency": "효율성",
+                "age": "수명",
                 "members": "회원",
                 "tvl": "TVL,  {0}",
                 "rewardPaid": "적립된 보상",
                 "availablePool": "사용 가능한 풀",
                 "assurance": "보증금",
                 "minStake": "최소 스테이킹 금액",
-                "operationDeposit": "Operation deposit",
+                "operationDeposit": "작업 예금",
                 "percentage": "{0} %"
             },
             "balancesDetails": {
-                "staked": "Staked",
-                "available": "Available",
-                "withdrawal": "Withdrawal"
+                "staked": "스테이킹된 금액",
+                "available": "사용 가능",
+                "withdrawal": "출금"
             },
             "buttons": {
-                "deposit": "Deposit",
-                "info": "How does it work?",
-                "withdraw": "Withdraw"
+                "deposit": "예금",
+                "info": "어떻게 작동하나요?",
+                "withdraw": "출금"
             },
             "sections": {
                 "about": "자세한 내용",
-                "balances": "Balances",
-                "stakes": "Stakes"
+                "balances": "잔액",
+                "stakes": "스테이킹"
             },
             "btnBreakUnstake": "인출 거부",
             "btnRestake": "다시 스크이킹하기",

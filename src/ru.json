@@ -86,7 +86,8 @@
             "send": {
                 "confirmTitle": "Подтверждение",
                 "continueBtn": "Продолжить",
-                "fee": "Комиссия",
+                "contractFee": "Комиссия контракта",
+                "networkFee": "Комиссия сети",
                 "receiver": "Получатель",
                 "sendBtn": "Отправить",
                 "sendTitle": "Отправка NFT"

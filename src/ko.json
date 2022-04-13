@@ -87,7 +87,8 @@
             "send": {
                 "confirmTitle": "전송 확인",
                 "continueBtn": "계속",
-                "fee": "네트워크 수수료",
+                "contractFee": "Contract fee",
+                "networkFee": "Network fee",
                 "receiver": "수신인",
                 "sendBtn": "전송",
                 "sendTitle": "NFT 전송"

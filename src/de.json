@@ -230,7 +230,7 @@
                 "withdraw": "Abheben"
             },
             "chat": "Chat",
-            "goToConversation": "Zum Chat gehen"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -708,9 +708,12 @@
         }
     },
     "operationsHistory": {
-        "button": "Betriebsverlauf",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "Noch keine Transaktionen",
-        "title": "Betriebsverlauf"
+        "seeAll": "See all",
+        "title": "Transactions history",
+        "transactions": "Transactions"
     },
     "profile": {
         "otherProducts": "Sonstige Produkte",
@@ -1419,30 +1422,37 @@
         "transaction": {
             "aborted": "Abgebrochen",
             "amount": "Menge",
-            "change": "Veränderung",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "Kommentar",
             "encrypted": "Verschlüsselt",
             "fee": "Gebühren",
             "from": "Von",
             "fromBankCard": "Von der Bankkarte",
-            "goToExplorer": "Go to explorer",
+            "fromSender": "From {0}",
+            "mainDetails": "Main details",
             "moreDetails": "Mehr Details",
             "networkFees": "NetzwerkGebühren",
             "no": "Nein",
+            "note": "Note",
             "pending": "Ausstehend...",
             "received": "Empfangen",
-            "repeatTransaction": "Kann ich Gram-Transaktionen rückgängig machen?",
+            "recipientAddress": "Recipent’s address",
+            "repeatTransaction": "Send again",
             "result": "Ergebnis",
-            "reverseTransaction": "Kann ich Gram-Transaktionen rückgängig machen?",
+            "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "Geschickt",
             "share": "Share",
             "statusSuccess": "Erfolg",
+            "subscribe": "Subscribe",
             "time": "Time",
             "to": "Zu",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Übertragung nicht gesendet. Bitte versuchen Sie es erneut.",
             "transferDetails": "Transferdetails",
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
             "yes": "Ja"
         },
         "warning": {

@@ -230,7 +230,7 @@
                 "withdraw": "Parayı çek"
             },
             "chat": "Sohbet",
-            "goToConversation": "Sohbeti aç"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -708,9 +708,12 @@
         }
     },
     "operationsHistory": {
-        "button": "İşlem geçmişi",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "Henüz işlem yok",
-        "title": "İşlem geçmişi"
+        "seeAll": "See all",
+        "title": "Transactions history",
+        "transactions": "Transactions"
     },
     "profile": {
         "otherProducts": "Diğer ürünler",
@@ -1419,30 +1422,37 @@
         "transaction": {
             "aborted": "İptal edildi",
             "amount": "Miktar",
-            "change": "Değiştir",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "Yorum",
             "encrypted": "Şifrelenmiş",
             "fee": "Ücret",
             "from": "Gönderen:",
             "fromBankCard": "Banka kartından",
-            "goToExplorer": "Gezgine git",
+            "fromSender": "From {0}",
+            "mainDetails": "Main details",
             "moreDetails": "Daha fazla bilgi",
             "networkFees": "Ağ ücreti",
             "no": "Yok",
+            "note": "Note",
             "pending": "Bekleyen...",
             "received": "Alındı",
-            "repeatTransaction": "İşlemi tekrarla",
+            "recipientAddress": "Recipent’s address",
+            "repeatTransaction": "Send again",
             "result": "Sonuç",
-            "reverseTransaction": "Aktarımı geri al",
+            "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "Gönderildi",
             "share": "Paylaş",
             "statusSuccess": "Başarılı",
+            "subscribe": "Subscribe",
             "time": "Time",
             "to": "Alıcı:",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Aktarılamadı. Lütfen tekrar deneyin.",
             "transferDetails": "Aktarım detayları",
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
             "yes": "Evet"
         },
         "warning": {

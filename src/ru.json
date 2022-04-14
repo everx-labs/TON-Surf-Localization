@@ -124,7 +124,7 @@
         },
         "saving": {
             "surfStaking": "Surf Стейкинг",
-            "everStakesDesc": "Получайте до 5 % годовых"
+            "everStakesDesc": "Получайте до {0} % годовых"
         },
         "subscriptions": {
             "actions": {

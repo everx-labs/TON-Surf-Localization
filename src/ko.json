@@ -116,7 +116,7 @@
             }
         },
         "saving": {
-            "everStakesDesc": "연간 최대 5.0% 받기",
+            "everStakesDesc": "연간 최대 {0}% 받기",
             "surfStaking": "서프 스테이킹"
         },
         "separators": {

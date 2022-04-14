@@ -227,7 +227,7 @@
                 "withdraw": "Вывести"
             },
             "chat": "Чат",
-            "goToConversation": "Открыть чат"
+            "goToConversation": "Чат"
         },
         "debots": {
             "addressInput": {
@@ -705,9 +705,12 @@
         }
     },
     "operationsHistory": {
+        "allAccounts": "По всем счетам",
         "button": "История операций",
         "empty": "Транзакций пока нет",
-        "title": "История операций"
+        "seeAll": "Показать все",
+        "title": "История операций",
+        "transactions": "Операции"
     },
     "profile": {
         "otherProducts": "Другие продукты",
@@ -1434,30 +1437,37 @@
         "transaction": {
             "aborted": "Прервано",
             "amount": "Сумма",
-            "change": "Изменение",
             "checkStatusLater": "Ничего страшного — проверите статус транзакции позже",
             "comment": "Комментарий",
             "encrypted": "Зашифрованный",
             "fee": "Комиссия",
-            "from": "От",
+            "from": "Со счета",
             "fromBankCard": "С банковской карты",
-            "goToExplorer": "Перейти в проводник",
+            "fromSender": "От {0}",
+            "mainDetails": "Об операции",
             "moreDetails": "Подробнее",
             "networkFees": "Комиссия сети",
             "no": "Нет",
+            "note": "Комментарий",
             "pending": "В ожидании...",
             "received": "Получено",
-            "repeatTransaction": "Повторить транзакцию",
-            "result": "Результат",
-            "reverseTransaction": "Вернуть транзакцию",
+            "recipientAddress": "Адрес отправителя",
+            "repeatTransaction": "Повторить",
+            "result": "Статус",
+            "reverseTransaction": "Возврат",
+            "senderAddress": "Адрес получателя",
             "sent": "Отправлено",
             "share": "Поделиться",
             "statusSuccess": "Успешно",
+            "subscribe": "Подписаться",
             "time": "Время",
-            "to": "Кому",
+            "to": "На счет",
+            "toReceiver": "Для {0}",
             "transactionGoneSilent": "Статус транзакции неизвестен",
             "transactionNotSend": "Перевод не отправлен. Пожалуйста, попробуй еще раз.",
             "transferDetails": "Детали перевода",
+            "unsubscribe": "Отписаться",
+            "view": "Открыть",
             "yes": "Да"
         },
         "warning": {

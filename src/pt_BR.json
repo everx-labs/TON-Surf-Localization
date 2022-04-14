@@ -227,7 +227,7 @@
                 "withdraw": "Saque"
             },
             "chat": "Chat",
-            "goToConversation": "Abrir o tópico"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -705,9 +705,12 @@
         }
     },
     "operationsHistory": {
-        "button": "Histórico de operações",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "Nenhuma transação ainda",
-        "title": "Histórico de operações"
+        "seeAll": "See all",
+        "title": "Transactions history",
+        "transactions": "Transactions"
     },
     "profile": {
         "otherProducts": "Outros produtos",
@@ -1433,30 +1436,37 @@
         "transaction": {
             "aborted": "Abortada",
             "amount": "Quantia",
-            "change": "Alterar saldo",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "Comentário",
             "encrypted": "Criptografada",
             "fee": "Taxas",
             "from": "De",
             "fromBankCard": "Do cartão de crédito",
-            "goToExplorer": "Abrir no explorador",
+            "fromSender": "From {0}",
+            "mainDetails": "Main details",
             "moreDetails": "Mais detalhes",
             "networkFees": "Taxas da rede",
             "no": "Não",
+            "note": "Note",
             "pending": "Pendente…",
             "received": "Recebido",
-            "repeatTransaction": "Repetir transação",
+            "recipientAddress": "Recipent’s address",
+            "repeatTransaction": "Send again",
             "result": "Resultado",
-            "reverseTransaction": "Reverter transação",
+            "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "Enviado",
             "share": "Compartilhar",
             "statusSuccess": "Sucesso",
+            "subscribe": "Subscribe",
             "time": "Hora",
             "to": "Para",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "Transferência não enviada. Por favor, tente novamente.",
             "transferDetails": "Detalhes",
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
             "yes": "Sim"
         },
         "warning": {

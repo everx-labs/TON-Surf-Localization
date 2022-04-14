@@ -227,7 +227,7 @@
                 "withdraw": "撤回"
             },
             "chat": "チャット",
-            "goToConversation": "チャットへ"
+            "goToConversation": "Chat"
         },
         "debots": {
             "addressInput": {
@@ -705,9 +705,12 @@
         }
     },
     "operationsHistory": {
-        "button": "操作履歴",
+        "allAccounts": "All accounts",
+        "button": "Transactions history",
         "empty": "まだトランザクションがありません",
-        "title": "運用履歴"
+        "seeAll": "See all",
+        "title": "Transactions history",
+        "transactions": "Transactions"
     },
     "profile": {
         "otherProducts": "その他の製品",
@@ -1433,30 +1436,37 @@
         "transaction": {
             "aborted": "中止されました。",
             "amount": "金額",
-            "change": "変更",
             "checkStatusLater": "Don't panic. You can check its status some time later",
             "comment": "コメント",
             "encrypted": "暗号済み",
             "fee": "料金",
             "from": "差出人",
             "fromBankCard": "銀行カードから",
-            "goToExplorer": "Go to explorer",
+            "fromSender": "From {0}",
+            "mainDetails": "Main details",
             "moreDetails": "詳細",
             "networkFees": "ネットワーク料金",
             "no": "いいえ",
+            "note": "Note",
             "pending": "保留中...",
             "received": "受信済み",
-            "repeatTransaction": "トランザクションを繰り返す",
+            "recipientAddress": "Recipent’s address",
+            "repeatTransaction": "Send again",
             "result": "結果",
-            "reverseTransaction": "トランザクションの取消",
+            "reverseTransaction": "Give back",
+            "senderAddress": "Sender’s address",
             "sent": "送信済み",
             "share": "Share",
             "statusSuccess": "完成",
+            "subscribe": "Subscribe",
             "time": "Time",
             "to": "宛先",
+            "toReceiver": "To {0}",
             "transactionGoneSilent": "Transaction has gone silent",
             "transactionNotSend": "転送は送信されません。もう一度やり直してください。",
             "transferDetails": "転送の詳細",
+            "unsubscribe": "Unsubscribe",
+            "view": "View",
             "yes": "はい"
         },
         "warning": {

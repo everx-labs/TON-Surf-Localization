@@ -235,7 +235,7 @@
                 "withdraw": "인출하기"
             },
             "chat": "채팅",
-            "goToConversation": "스레드를 열기"
+            "goToConversation": "채팅"
         },
         "debots": {
             "addressInput": {
@@ -716,9 +716,12 @@
         }
     },
     "operationsHistory": {
-        "button": "운영 기록",
+        "allAccounts": "모든 계정",
+        "button": "트랜잭션 기록",
         "empty": "아직은 트랜잭션이 없음",
-        "title": "운영 기록"
+        "seeAll": "모두 보기",
+        "title": "트랜잭션 기록",
+        "transactions": "트랜잭션"
     },
     "profile": {
         "otherProducts": "다른 제품들",
@@ -1436,30 +1439,37 @@
         "transaction": {
             "aborted": "중단됨",
             "amount": "액수",
-            "change": "잔액 변경",
             "checkStatusLater": "당황하지 마세요. 잠시 후 상태를 확인할 수 있습니다",
             "comment": "코멘트 남기기",
             "encrypted": "암호화됨",
             "fee": "수수료",
-            "from": "보낸 사람",
+            "from": "트랜잭션 출처",
             "fromBankCard": "은행 카드에서",
-            "goToExplorer": "익스플로러로 이동하기",
+            "fromSender": "{0}에서",
+            "mainDetails": "주요 사항",
             "moreDetails": "자세한 정보",
             "networkFees": "네트워크 수수료",
             "no": "아니오",
+            "note": "메모",
             "pending": "보류 중...",
             "received": "받음",
-            "repeatTransaction": "트랜잭션 반복하기",
-            "result": "결과",
-            "reverseTransaction": "트랜잭션을 취소하기",
+            "recipientAddress": "받는 사람의 주소",
+            "repeatTransaction": "다시 보내기",
+            "result": "상태",
+            "reverseTransaction": "반환",
+            "senderAddress": "보내는 사람의 주소",
             "sent": "전송됨",
             "share": "공유하기",
-            "statusSuccess": "성공",
+            "statusSuccess": "완료",
+            "subscribe": "구독",
             "time": "시간",
-            "to": "받는 사람",
+            "to": "트랜잭션 대상",
+            "toReceiver": "{0}에게",
             "transactionGoneSilent": "트랜잭션이 무음으로 변경합니다",
             "transactionNotSend": "송금이 전송되지 않았습니다. 다시 시도하십시오.",
             "transferDetails": "세부 정보",
+            "unsubscribe": "구독 해지",
+            "view": "보기",
             "yes": "예"
         },
         "warning": {

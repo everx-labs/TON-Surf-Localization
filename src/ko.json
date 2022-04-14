@@ -85,9 +85,13 @@
                 "trending": "유행"
             },
             "send": {
-                "confirm": "확인",
+                "confirmTitle": "전송 확인",
+                "continueBtn": "계속",
+                "contractFee": "Contract fee",
+                "networkFee": "Network fee",
                 "receiver": "수신인",
-                "title": "보내기"
+                "sendBtn": "전송",
+                "sendTitle": "NFT 전송"
             },
             "storage": "저장",
             "tokens": "토큰",

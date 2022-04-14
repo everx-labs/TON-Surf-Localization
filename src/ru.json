@@ -1199,38 +1199,38 @@
         },
         "stakingScreen": {
             "balance": {
-                "title": "Surf stakes in {0}",
-                "note": "{0} for all time",
-                "reward": "+{0} % or {1} {2}"
+                "title": "Хранится в {0}",
+                "note": "{0} за все время",
+                "reward": "+{0} % или {1} {2}"
             },
             "aboutDetails": {
-                "currentAPY": "Current APY",
-                "validatorFee": "Validator fee",
-                "efficiency": "Efficiency",
+                "currentAPY": "Доходность",
+                "validatorFee": "Комиссия валидатора",
+                "efficiency": "Надежность",
                 "age": "Возраст",
                 "members": "Участники",
-                "tvl": "TVL,  {0}",
-                "rewardPaid": "Вознаграждение выплачено",
-                "availablePool": "Доступный пул",
-                "assurance": "Гарантия",
+                "tvl": "Текущий баланс,  {0}",
+                "rewardPaid": "Выплачено участникам",
+                "availablePool": "Вместимость",
+                "assurance": "Страховка",
                 "minStake": "Мин. ставка",
-                "operationDeposit": "Operation deposit",
+                "operationDeposit": "Комиссия контракта",
                 "percentage": "{0} %"
             },
             "balancesDetails": {
-                "staked": "Staked",
-                "available": "Available",
-                "withdrawal": "Withdrawal"
+                "staked": "Размещено",
+                "available": "Доступно",
+                "withdrawal": "Выведено"
             },
             "buttons": {
-                "deposit": "Deposit",
-                "info": "How does it work?",
-                "withdraw": "Withdraw"
+                "deposit": "Разместить",
+                "info": "Как это работает?",
+                "withdraw": "Вывести"
             },
             "sections": {
                 "about": "Информация",
-                "balances": "Balances",
-                "stakes": "Stakes"
+                "balances": "Баланс",
+                "stakes": "Стейки"
             },
             "btnBreakUnstake": "Отказаться от вывода",
             "btnRestake": "Сделать еще ставку",

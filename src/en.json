@@ -444,7 +444,7 @@
                 },
                 "noHandle": {
                     "message": "No debot handle is set for another browser",
-                    "hint": "Please, check DeBot with address \"{0}\""
+                    "hint": "Please, check that Debot with address \"{0}\" is working correctly."
                 }
             }
         }

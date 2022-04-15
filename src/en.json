@@ -339,7 +339,7 @@
                 },
                 "notFound": {
                     "message": "Manifest is not found",
-                    "hint": "Manifest does not work without settings"
+                    "hint": "Manifest cannot be empty"
                 },
                 "chainNotFound": {
                     "message": "Chain is not found",

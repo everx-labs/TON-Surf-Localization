@@ -30,10 +30,6 @@
             "titleAccountName": "{0} assets",
             "tokenAccount": "Token"
         },
-        "charts": {
-            "monthAgo": "há 30 dias",
-            "today": "hoje"
-        },
         "collectibles": {
             "address": "Address",
             "amountFromSupply": "{0} of {1}",
@@ -815,144 +811,6 @@
             "screenTitle": "Regras de segurança"
         },
         "securityCard": {
-            "activateAnotherCard": "Ativar outro cartão",
-            "activation": "Ativação",
-            "cardCode": "Código do cartão",
-            "cardConnected": "Cartão conectado.",
-            "cardConnection": "Estabelecendo conexão com o cartão…",
-            "cardsReadyToUse": {
-                "btn": "Entendi!",
-                "description": "Os cartões ativados são equivalentes. Recomendamos usar um para confirmar as ações e guardar o outro em um local seguro.",
-                "title": "Os cartões estão prontos para o uso"
-            },
-            "checkingCardIntegrity": "Verificando a integridade do cartão…",
-            "codeScanning": "Escaneando código…",
-            "confirm": "Confirmar",
-            "confirmAndBuy": "Confirmar e comprar",
-            "confirmAndOrder": "Confirmar e encomendar",
-            "connectionStatuses": {
-                "connected": {
-                    "description": "Mantenha o cartão próximo",
-                    "title": "Conectado"
-                },
-                "connecting": {
-                    "description": "Toque no Cartão de Segurança",
-                    "title": "Conectando…"
-                },
-                "connectionLost": {
-                    "description": "Tente reconectar",
-                    "title": "Conexão perdida"
-                },
-                "error": {
-                    "description": "",
-                    "title": ""
-                },
-                "lookingFor": {
-                    "description": "Coloque o cartão mais perto",
-                    "title": "Tentando encontrar…"
-                },
-                "processing": {
-                    "description": "Não remova o cartão",
-                    "title": "Processando…"
-                },
-                "success": {
-                    "description": "O cartão pode ser removido",
-                    "title": "Sucesso"
-                }
-            },
-            "continue": "Continuar",
-            "deactivate": "Desativar cartões",
-            "deactivateApprovalDescription": "Os cartões funcionarão apenas com esta conta e você precisará reativá-los.",
-            "deactivateApprovalTitle": "Desativar Cartões de Segurança?",
-            "deactivateBtn": "Desativar",
-            "deactivateDescription": "Você pode reativá-los imediatamente.",
-            "deactivatedCards": "Cartões de Segurança desativados",
-            "details": "Detalhes",
-            "detailsText": "O app Surf não rastreia você e suas ações, nem coleta nenhum dos seus dados. Não usamos nenhum software analítico. Não temos sequer um rastreador simples. Nada de cookies. Nenhum processamento de dados pessoais. Nada. Este é o nosso chamado e missão. \n\nAtenção! No entanto, outros serviços de terceiros sobre os quais não temos controle, podem, a seu exclusivo critério e vontade, coletar e usar seus dados. Você deve estar muito atento e extremamente prudente antes de aceitar sua política de privacidade, cookies, termos de uso e qualquer e todas as outras políticas e documentação contratualmente vinculativas se você quiser usar seus serviços no Surf",
-            "detailsTitle": "Conforme já mencionamos na Política de Descentralização",
-            "enterCode": "Digite o código",
-            "enterCodeDescription": "Insira o código do cartão e depois encoste-o no dispositivo para estabelecer uma conexão",
-            "free": "Free",
-            "included": "Inc.",
-            "laterBtn": "Não, mais tarde",
-            "moreFeaturesSoon": "Mais recursos para o Cartão de Segurança serão oferecidos em breve.",
-            "options": "Opções",
-            "order": "Solicitar",
-            "orderName": "Cartão de Segurança TON Labs",
-            "orderStatuses": {
-                "confirming": "Preparando",
-                "gettingReady": "Em preparação",
-                "onItsWay": "A caminho",
-                "processed": "Emitido",
-                "reactivate": "Reativação necessária",
-                "reorder": "Por favor, solicite novamente"
-            },
-            "orderStep": "Etapa {0} de 4",
-            "paymentDetails": "Detalhes do pagamento",
-            "promoBtn": "Solicite seu Cartão de Segurança",
-            "promoText": "Carteira física personalizada para assinar transações e armazenar suas chaves privadas.",
-            "promoTitle": "Um jeito simples de manter seus fundos seguros",
-            "purchaseSuccessMsg": "Parabéns! Você comprou com sucesso um cartão de segurança. Para rastrear o status da entrega chame no bata-papo o DeBot do Cartão de Segurança",
-            "purchaseSuccessTitle": "Compra realizada com sucesso",
-            "putCardOnPhoneDescription": "Para ativar o cartão encoste-o na traseira do telefone",
-            "putCardOnPhoneTitle": "Encoste o cartão no telefone",
-            "readingCardData": "Lendo os dados do cartão…",
-            "recipientInfo": "Informações do Destinatário",
-            "reissue": "Reemitir cartão",
-            "reissueApprovalDescription": "Quando um cartão é reemitido todos os outros cartões são temporariamente desativados",
-            "reissueApprovalTitle": "Reemitir Cartões de Segurança?",
-            "reissueBtn": "Reemitir",
-            "reissueDescription": "Quando um cartão é reemitido todos os outros cartões são temporariamente desativados",
-            "reviewOrder": "Resumo do pedido",
-            "scanCode": "Escanear o código de barras do cartão",
-            "scanCodeDescription": "Escaneie o código de barras do cartão e depois coloque-o próximo ao dispositivo para criar uma conexão",
-            "screenTitle": "Cartão de segurança",
-            "shareSecurityCardMessage": "Carteira física totalmente personalizada para o blockchain Everscale: somente você a possui e controla desde o momento em que realiza o pedido \n\n{0}",
-            "shareSecurityCardSubtitle": "Cartão de Segurança\nTON Labs",
-            "shareSecurityCardSuccess": "Link copiado para a área de transferência",
-            "shipping": "Remessa",
-            "shippingAddress": "Endereço de entrega",
-            "signTransfers": "Assinar transferências",
-            "signTransfersDisabled": "Assinatura de transferência desativada",
-            "signTransfersEnabled": "Assinatura de transferência ativada",
-            "statusInfo": {
-                "confirming": {
-                    "button": "Ótimo!",
-                    "description": "Estamos nos certificando de que tudo está certo para a emissão do cartão. Você será notificado assim que o processo for concluído.",
-                    "title": "Preparando"
-                },
-                "gettingReady": {
-                    "button": "Ótimo!",
-                    "description": "Estamos nos certificando de que tudo esteja pronto para a emissão do cartão. Você será notificado dos resultados.",
-                    "title": "Em preparação"
-                },
-                "onItsWay": {
-                    "button": "Rastrear",
-                    "description": "O cartão está quase chegando, o número de rastreamento é {0}. Ative seu cartão assim que o receber.",
-                    "title": "A caminho",
-                    "txtButton": "Ativar"
-                },
-                "processed": {
-                    "button": "Entendi!",
-                    "description": "O cartão está quase pronto. Em breve será enviado para o serviço de entregas",
-                    "title": "Processado"
-                },
-                "reorder": {
-                    "button": "Solicitar novamente",
-                    "description": "Não podemos emitir o cartão: há um erro em alguns dos dados inseridos.",
-                    "title": "Por favor, refaça o pedido",
-                    "txtButton": "Obter ajuda"
-                }
-            },
-            "subtotal": "Subtotal ({0} itens)",
-            "tapSecurityCard": "Toque no Cartão de Segurança",
-            "tapSecurityCardDescription": "Toque no cartão para confirmar a ação.",
-            "taxAndFees": "Impostos e Taxas",
-            "total": "Total",
-            "turningOnCardWallet": "Ativando a carteira física…",
-            "understand": "Entendi",
-            "verifyIdentity": "Verifique sua identidade",
-            "verifyIdentityDescription": "Olhe para a tela",
             "waitlist": {
                 "addedToastMsg": "Você foi adicionado à lista de espera"
             }
@@ -1004,10 +862,6 @@
         "title": "Configurações"
     },
     "setup": {
-        "confirmLocalPassword": {
-            "placeholder": "Repita a Senha",
-            "success": "Sucesso."
-        },
         "firstInteractions": {
             "notifications": {
                 "button": "Receber notificações",
@@ -1023,17 +877,10 @@
             "remindLater": "Lembre-me mais tarde"
         },
         "main": {
-            "securityCard": {
-                "create": "Vincular a um novo Surf",
-                "restore": "Vincular a Surf já existente"
-            },
-            "wallet": {
+            "profile": {
                 "create": "Criar Carteira",
                 "restore": "Restaurar"
             }
-        },
-        "newPhraseView": {
-            "details": "Escreva todas essas palavras em um papel e guarde-o em um lugar seguro. Você precisará delas se perder ou reinstalar a carteira."
         },
         "pinCode": {
             "confirmPin": "Confirme o código PIN",
@@ -1061,16 +908,6 @@
             "hint": "12 ou 24 palavras",
             "masterPassword": "Senha mestra",
             "title": "Restaurar o Surf"
-        },
-        "start": {
-            "securityCard": {
-                "description": "Para maximizar a segurança cada cartão é vinculado à sua conta Surf",
-                "title": "Personalização de Cartão"
-            },
-            "wallet": {
-                "description": "Surf por melhores oportunidades, mantenha-se seguro e tome decisões inteligentes.",
-                "title": "Deixe o Surf ajudá-lo a navegar pelo blockchain Everscale"
-            }
         },
         "welcome": {
             "item1": {
@@ -1331,8 +1168,8 @@
         "error": {
             "failedToDecrypt": "Falha na desencriptação. Parece que você precisa fazer login com outra carteira",
             "failedToLoadAccounts": "Falha ao carregar as contas.",
-            "failedToLoadWallet": "Falha ao carregar a carteira.",
-            "failedToLoginInTheWallet": "Falha no acesso à carteira.",
+            "failedToLoadProfile": "Falha ao carregar a carteira.",
+            "failedToLoginToProfile": "Falha no acesso à carteira.",
             "insufficientFunds": "Saldos insuficientes para realizar a operação. Por favor, aumente seu saldo no Surf.",
             "limitInvalidValue": "O valor limite não é válido ou é muito grande.",
             "timeIsNotSynced": "Relógio não sincronizado. Infelizmente as transações não podem ser processadas. Ative a opção Definir hora automaticamente."

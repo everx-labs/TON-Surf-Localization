@@ -30,10 +30,6 @@
             "titleAccountName": "{0} assets",
             "tokenAccount": "Token"
         },
-        "charts": {
-            "monthAgo": "30天前",
-            "today": "今天"
-        },
         "collectibles": {
             "address": "Address",
             "amountFromSupply": "{0} of {1}",
@@ -815,144 +811,6 @@
             "screenTitle": "安全规则"
         },
         "securityCard": {
-            "activateAnotherCard": "激活另一张卡",
-            "activation": "激活",
-            "cardCode": "卡代码",
-            "cardConnected": "已连接卡。",
-            "cardConnection": "卡连接……",
-            "cardsReadyToUse": {
-                "btn": "明白了！",
-                "description": "激活的卡是一样的。我们建议使用一个来确认操作，然后将另一个隐藏在安全的地方。",
-                "title": "卡可以使用了"
-            },
-            "checkingCardIntegrity": "检查卡完整性……",
-            "codeScanning": "代码扫描……",
-            "confirm": "确认",
-            "confirmAndBuy": "确认并购买",
-            "confirmAndOrder": "确认并订购",
-            "connectionStatuses": {
-                "connected": {
-                    "description": "保持这张卡在你旁边",
-                    "title": "连接的"
-                },
-                "connecting": {
-                    "description": "点按安全卡",
-                    "title": "连接……"
-                },
-                "connectionLost": {
-                    "description": "尝试重新连接",
-                    "title": "丢失连接"
-                },
-                "error": {
-                    "description": "",
-                    "title": ""
-                },
-                "lookingFor": {
-                    "description": "放卡更近",
-                    "title": "试图找到……"
-                },
-                "processing": {
-                    "description": "不要取出卡",
-                    "title": "处理中……"
-                },
-                "success": {
-                    "description": "可以取出卡",
-                    "title": "成功"
-                }
-            },
-            "continue": "继续",
-            "deactivate": "停用卡",
-            "deactivateApprovalDescription": "卡将只对这个账户有效，您需要重复激活。",
-            "deactivateApprovalTitle": "停用安全卡吗？",
-            "deactivateBtn": "禁用",
-            "deactivateDescription": "您可以立即重新激活它们。",
-            "deactivatedCards": "安全卡已禁用了",
-            "details": "细节",
-            "detailsText": "Surf不会跟踪您以及您的使用情况。 Surf不收集您的任何数据。我们不使用任何分析软件。我们甚至简单的跟踪器都没有。没有coolies。没有个人数据处理。什么都没有。这是我们的志向，也是我们的使命。\n\n请注意！不过，我们无法控制其他第三方的服务，可能会自行决定是否自愿收集和使用您的数据。在接受在冲浪中使用其服务之前，您应审慎并非常谨慎地查看其隐私，cookies，使用条款以及任何及所有其他具有合同约束力的政策和文档。",
-            "detailsTitle": "正如我们在分权政策上已经提到的",
-            "enterCode": "输入代码",
-            "enterCodeDescription": "输入卡上的代码，将卡放在设备旁边以创建连接。",
-            "free": "免费",
-            "included": "包括在内",
-            "laterBtn": "不是，以后",
-            "moreFeaturesSoon": "安全卡的更多功能即将出现。",
-            "options": "选项",
-            "order": "订购",
-            "orderName": "Ton 实验室安全卡",
-            "orderStatuses": {
-                "confirming": "准备好",
-                "gettingReady": "准备好",
-                "onItsWay": "在途中",
-                "processed": "处理",
-                "reactivate": "需要重新激活",
-                "reorder": "请调整顺序"
-            },
-            "orderStep": "第{0}步，共4步",
-            "paymentDetails": "付款信息",
-            "promoBtn": "订购卡片",
-            "promoText": "个性化的硬件钱包，用于签署交易和存储您的私钥。",
-            "promoTitle": "一个更简单的方法来保证您的资金安全",
-            "purchaseSuccessMsg": "祝贺！您成功购买了安全卡。要跟踪交货状态，请致电安全卡借记",
-            "purchaseSuccessTitle": "购买成功",
-            "putCardOnPhoneDescription": "要激活卡，请将其放在手机背面并保持不放",
-            "putCardOnPhoneTitle": "将卡放在手机上",
-            "readingCardData": "正在读取卡数据……",
-            "recipientInfo": "收件人信息",
-            "reissue": "补发卡",
-            "reissueApprovalDescription": "当一张卡重新发行时，所有其他卡都将被暂时停用",
-            "reissueApprovalTitle": "重新补发安全卡吗？",
-            "reissueBtn": "补发",
-            "reissueDescription": "当一张卡重新发行时，所有其他卡都将被暂时停用",
-            "reviewOrder": "订单汇总",
-            "scanCode": "扫描代码",
-            "scanCodeDescription": "扫描卡上的代码，将卡放在设备旁边以创建连接。",
-            "screenTitle": "安全卡",
-            "shareSecurityCardMessage": "Everscale 区块链上完全个性化的硬件钱包：从订单放置的那一刻起, 只有您拥有并控制它。\n\n{0}",
-            "shareSecurityCardSubtitle": "安全卡\nTON实验室",
-            "shareSecurityCardSuccess": "链接复制到剪贴板。",
-            "shipping": "航运",
-            "shippingAddress": "收货地址",
-            "signTransfers": "签署转账",
-            "signTransfersDisabled": "转移签名已禁用了",
-            "signTransfersEnabled": "启用转移签名",
-            "statusInfo": {
-                "confirming": {
-                    "button": "很好！",
-                    "description": "我们正在确保一切准备就绪的卡问题。您将收到结果通知。",
-                    "title": "准备好"
-                },
-                "gettingReady": {
-                    "button": "很好！",
-                    "description": "我们正在确保一切准备就绪的卡问题。您将收到结果通知。",
-                    "title": "准备好"
-                },
-                "onItsWay": {
-                    "button": "跟踪",
-                    "description": "卡快到了， 它的追踪号码： {0}。卡一到， 就尽快激活它。",
-                    "title": "在途中",
-                    "txtButton": "启用"
-                },
-                "processed": {
-                    "button": "明白了！",
-                    "description": "卡片差不多准备好了。不久，它将被转移到送货服务。",
-                    "title": "处理"
-                },
-                "reorder": {
-                    "button": "调整顺序",
-                    "description": "无法发出卡：您输入的一些数据存在错误。",
-                    "title": "请调整顺序",
-                    "txtButton": "得到帮助"
-                }
-            },
-            "subtotal": "小计（{0}项）",
-            "tapSecurityCard": "点击安全卡",
-            "tapSecurityCardDescription": "点击卡以确认操作。",
-            "taxAndFees": "税收和费用",
-            "total": "总计",
-            "turningOnCardWallet": "打开卡钱包……",
-            "understand": "明白了",
-            "verifyIdentity": "验证您的身份",
-            "verifyIdentityDescription": "看屏幕",
             "waitlist": {
                 "addedToastMsg": "您已添加到等候名单"
             }
@@ -1004,10 +862,6 @@
         "title": "设置"
     },
     "setup": {
-        "confirmLocalPassword": {
-            "placeholder": "重复密码",
-            "success": "成功。"
-        },
         "firstInteractions": {
             "notifications": {
                 "button": "接收消息",
@@ -1023,17 +877,10 @@
             "remindLater": "稍后提醒我"
         },
         "main": {
-            "securityCard": {
-                "create": "链接新冲浪",
-                "restore": "链接到现有"
-            },
-            "wallet": {
+            "profile": {
                 "create": "创建钱包",
                 "restore": "恢复"
             }
-        },
-        "newPhraseView": {
-            "details": "把这些话都写在纸上，放在安全的地方。如果您丢失或重新安装钱包，您将需要它们。"
         },
         "pinCode": {
             "confirmPin": "确认PIN码",
@@ -1061,16 +908,6 @@
             "hint": "12或24个词",
             "masterPassword": "主口令",
             "title": "恢复冲浪"
-        },
-        "start": {
-            "securityCard": {
-                "description": "为了最大化安全性每张卡都链接到您的冲浪账户",
-                "title": "卡个性化"
-            },
-            "wallet": {
-                "description": "冲浪以获得最佳机会，保持安全并做出明智的决定。",
-                "title": "让冲浪帮助您浏览Everscale区块链"
-            }
         },
         "welcome": {
             "item1": {
@@ -1331,8 +1168,8 @@
         "error": {
             "failedToDecrypt": "解密失败。看起来您需要用另一个钱包登录",
             "failedToLoadAccounts": "未能加载账户。",
-            "failedToLoadWallet": "加载钱包失败。",
-            "failedToLoginInTheWallet": "加载钱包失败。",
+            "failedToLoadProfile": "加载钱包失败。",
+            "failedToLoginToProfile": "加载钱包失败。",
             "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
             "limitInvalidValue": "限制值无效或太大。",
             "timeIsNotSynced": "时间未同步。很遗憾，交易无法处理。请启用自动设置时间选项。"

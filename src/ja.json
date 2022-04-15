@@ -30,10 +30,6 @@
             "titleAccountName": "{0} assets",
             "tokenAccount": "Token"
         },
-        "charts": {
-            "monthAgo": "30日前",
-            "today": "今日"
-        },
         "collectibles": {
             "address": "Address",
             "amountFromSupply": "{0} of {1}",
@@ -815,144 +811,6 @@
             "screenTitle": "安全のルール"
         },
         "securityCard": {
-            "activateAnotherCard": "別のカードを有効にする",
-            "activation": "活性化",
-            "cardCode": "カードのコード",
-            "cardConnected": "カードが接続されています。",
-            "cardConnection": "カード接続…",
-            "cardsReadyToUse": {
-                "btn": "了解しました！",
-                "description": "活性化されたカードは同等です。一枚をアクションの確認に使用し、もう一枚を安全な場所に隠すことをお勧めします。",
-                "title": "カードを使用できます。"
-            },
-            "checkingCardIntegrity": "カードの完全性を確認しています。",
-            "codeScanning": "コードをスキャンしている…",
-            "confirm": "確認",
-            "confirmAndBuy": "確認して購入する",
-            "confirmAndOrder": "確認して注文する",
-            "connectionStatuses": {
-                "connected": {
-                    "description": "Keep the card close ",
-                    "title": "接続済み"
-                },
-                "connecting": {
-                    "description": "セキュリティカードをタップしてください",
-                    "title": "接続しています..."
-                },
-                "connectionLost": {
-                    "description": "Try to reconnect",
-                    "title": "接続が失われました"
-                },
-                "error": {
-                    "description": "",
-                    "title": ""
-                },
-                "lookingFor": {
-                    "description": "Put the card closer",
-                    "title": "Trying to find..."
-                },
-                "processing": {
-                    "description": "カードを取り外さない",
-                    "title": "Processing..."
-                },
-                "success": {
-                    "description": "カードは取り外すことができます",
-                    "title": "完成"
-                }
-            },
-            "continue": "続く",
-            "deactivate": "カードを無効にする",
-            "deactivateApprovalDescription": "カードはこのアカウントのみで動作し、アクティベーションを繰り返す必要があります。",
-            "deactivateApprovalTitle": "セキュリティカードを無効しますか?",
-            "deactivateBtn": "無効にする",
-            "deactivateDescription": "すぐに再有効できます。",
-            "deactivatedCards": "セキュリティ カードが無効にされています",
-            "details": "詳細",
-            "detailsText": "サーフはあなたとあなたの使用、期間を追跡しません。サーフは、あなたのデータのいずれかを収集しません。当社は、分析ソフトウェアを使用しません。単純なトラッカーでもありません。クッキーもありません。個人データ処理なし。何もない。これがわたしたちのミッションです。\n\n警告！ただし、当社が管理できない他の第三者サービスは、その単独の裁量と意志で、お客様のデータを収集して使用する可能性があります。Surfでのサービスの使用を受け入れる前に、プライバシー、クッキー、利用規約、および他のすべての契約上拘束力のあるポリシーと文書を見直す際に非常に注意深く、非常に慎重しなければなりません。",
-            "detailsTitle": "地方分権ポリシーで既に述べたように",
-            "enterCode": "コードを入力する",
-            "enterCodeDescription": "カードにコードを入力し、デバイスの横にカードを置いたら、接続します。",
-            "free": "無料",
-            "included": "株式会社",
-            "laterBtn": "いいえ、後で",
-            "moreFeaturesSoon": "セキュリティカードの機能がまもなく登場します。",
-            "options": "オプション",
-            "order": "注文",
-            "orderName": "TON Labs　セキュリティカード",
-            "orderStatuses": {
-                "confirming": "準備中です。",
-                "gettingReady": "準備中です",
-                "onItsWay": "配達中です",
-                "processed": "処理",
-                "reactivate": "再アクティべート",
-                "reorder": "再注文してください"
-            },
-            "orderStep": "4ステップの{0}",
-            "paymentDetails": "支払詳細",
-            "promoBtn": "カードを注文する",
-            "promoText": "トランザクションに署名し、秘密キーを格納するためのパーソナライズされたハードウェアウォレット。",
-            "promoTitle": "資金を安全に保つ簡単な方法。",
-            "purchaseSuccessMsg": "おめでとう！セキュリティカードの購入が完了です。配達状況を追跡するには、セキュリティカードデボットを呼び出してください。",
-            "purchaseSuccessTitle": "購入が完了です",
-            "putCardOnPhoneDescription": "カードでスマホの裏側をタッチして、アクティブにしてください",
-            "putCardOnPhoneTitle": "カードで電話をタップしてください",
-            "readingCardData": "カードデータが読み取り中...",
-            "recipientInfo": "受信者情報",
-            "reissue": "カードを再発行する",
-            "reissueApprovalDescription": "カードが再発行されると、他のすべてのカードは一時的に無効になります",
-            "reissueApprovalTitle": "セキュリティカードを再発行しますか?",
-            "reissueBtn": "再発行する",
-            "reissueDescription": "カードが再発行されると、他のすべてのカードは一時的に無効になります",
-            "reviewOrder": "注文の概要",
-            "scanCode": "コードをスキャンする",
-            "scanCodeDescription": "カードのコードをスキャンし、カードをデバイスの横に置いたら、接続します。",
-            "screenTitle": "セキュリティカード",
-            "shareSecurityCardMessage": "Everscaleブロックチェーンでの完全にパーソナライズされたハードウェアウォレット：最初からあなたしか管理できないものです。\n\n{0}",
-            "shareSecurityCardSubtitle": "セキュリティカード\nTON Labs",
-            "shareSecurityCardSuccess": "リンクはコピーされました。",
-            "shipping": "出荷",
-            "shippingAddress": "お届け先の住所",
-            "signTransfers": "転送をサインする",
-            "signTransfersDisabled": "転送署名が無効されています",
-            "signTransfersEnabled": "転送署名が有効されています",
-            "statusInfo": {
-                "confirming": {
-                    "button": "よし！",
-                    "description": "カード発行の準備が整っていることを確認しています。結果のこと通知します。",
-                    "title": "準備中です"
-                },
-                "gettingReady": {
-                    "button": "よし！",
-                    "description": "カード発行の準備が整っていることを確認しています。結果のこと通知します。",
-                    "title": "準備中です。"
-                },
-                "onItsWay": {
-                    "button": "追跡",
-                    "description": "カードがまもなく届きます、その追跡番号:{0}。カードが届いたら、すぐ活性化してください。。",
-                    "title": "配達中です",
-                    "txtButton": "活性化する"
-                },
-                "processed": {
-                    "button": "了解しました！",
-                    "description": "カードはほとんどできています。まもなく配送サービスに転送されます。",
-                    "title": "処理"
-                },
-                "reorder": {
-                    "button": "再注文",
-                    "description": "カードを発行できません。 入力されたデータの一部にエラーがあります。",
-                    "title": "再注文してください",
-                    "txtButton": "助けを得ます"
-                }
-            },
-            "subtotal": "小計（ {0}アイテム）",
-            "tapSecurityCard": "セキュリティカードをタップします",
-            "tapSecurityCardDescription": "カードをタップしてアクションを確認します。",
-            "taxAndFees": "税金と料金",
-            "total": "トータル",
-            "turningOnCardWallet": "カードウォレットをオンにする...",
-            "understand": "了解しました！",
-            "verifyIdentity": "本人確認してください",
-            "verifyIdentityDescription": "画面を見てください",
             "waitlist": {
                 "addedToastMsg": "待機リストに追加されました"
             }
@@ -1004,10 +862,6 @@
         "title": "設定"
     },
     "setup": {
-        "confirmLocalPassword": {
-            "placeholder": "パスコードを繰り返す",
-            "success": "完成"
-        },
         "firstInteractions": {
             "notifications": {
                 "button": "通知を受け取る",
@@ -1023,17 +877,10 @@
             "remindLater": "後で思い出させる"
         },
         "main": {
-            "securityCard": {
-                "create": "新しいSurfに繋がる",
-                "restore": "既存へのリンク"
-            },
-            "wallet": {
+            "profile": {
                 "create": "ウォレットを作成する",
                 "restore": "復元"
             }
-        },
-        "newPhraseView": {
-            "details": "この言葉を紙に書き留め、安全な場所に保管してください。あなたは、ウォレットの紛失・再インストールの場合、必要になります。"
         },
         "pinCode": {
             "confirmPin": "PINコードを確認する",
@@ -1061,16 +908,6 @@
             "hint": "12 or 24 words",
             "masterPassword": "マスターパスワード",
             "title": "Surfを復元する"
-        },
-        "start": {
-            "securityCard": {
-                "description": "セキュリティを最大化するために、各カードはSurfアカウントにつながっています",
-                "title": "カードをパーソナライズ"
-            },
-            "wallet": {
-                "description": "最高の機会のにSurfし、安全を維持し、情報に基づいた意思決定を行います。",
-                "title": "Surfは、Everscaleブロックチェーンでナビゲートするのに役立ちます。"
-            }
         },
         "welcome": {
             "item1": {
@@ -1331,8 +1168,8 @@
         "error": {
             "failedToDecrypt": "データ暗号できませんでした。別のウォレットでログインしてみてください。",
             "failedToLoadAccounts": "アカウントを読み込めませんでした。",
-            "failedToLoadWallet": "ウォレットを読み込めませんでした。",
-            "failedToLoginInTheWallet": "ウォレットにログインできませんでした。",
+            "failedToLoadProfile": "ウォレットを読み込めませんでした。",
+            "failedToLoginToProfile": "ウォレットにログインできませんでした。",
             "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
             "limitInvalidValue": "制限値が無効であるか、大きすぎます。",
             "timeIsNotSynced": "時刻が同期されていません。残念ながら、トランザクションは処理できません。 [時刻を自動的に設定する]オプションを有効にしてください。"

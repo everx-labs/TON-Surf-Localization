@@ -217,7 +217,7 @@
                     "sendReport": "Please, contact our Support Team"
                 },
                 "messages": {
-                    "somethingWentWrong": "Something went wrong",
+                    "somethingWentWrong": "Unknown error",
                     "failedSendToDeBot": "Surf cannot send data to Debot. They can be corrupted or something else is happened"
                 }
             },
@@ -232,27 +232,27 @@
                 },
                 "failedToDecode": {
                     "message": "Cannot decode the Debot message",
-                    "hint": "Incorrect body in DeBot message"
+                    "hint": "Invalid message body in DeBot"
                 },
                 "methodUnsupported": {
                     "message": "Method \"{0}\" for interface \"{1}\" is not supported",
-                    "hint": "Please, check the interface method name"
+                    "hint": "Please, check the interface method name."
                 },
                 "failedToRunMethod": {
                     "message": "Unable to run method \"{0}\"",
-                    "hint": "Please, check the interface method name"
+                    "hint": "Please, check the interface method name."
                 },
                 "notSupported": {
                     "message": "Interface is not supported",
                     "hint": "Interface with ID \"{0}\" is not supported"
                 },
                 "failedSendToDeBot": {
-                    "message": "Failed to send to DeBot",
-                    "hint": "Please, send a report about this problem"
+                    "message": "Unable to send data to Debot",
+                    "hint": "Please, contact our Support Team and describe your issue."
                 },
                 "addressInput": {
                     "failedToCreateMessage": {
-                        "message": "Failed to create Address Input Interactive message with no main account"
+                        "message": "Debot cannot create the address input interactive message because the main account isn't found"
                     }
                 },
                 "dateInput": {
@@ -268,14 +268,14 @@
                 },
                 "encryption": {
                     "failedToCreate": {
-                        "message": "Failed to create an encryptor",
-                        "hint": "Please, send a report about this problem"
+                        "message": "Unable to run an encryption",
+                        "hint": "Please, contact our Support Team and describe your issue."
                     }
                 },
                 "media": {
                     "dataIsEmpty": {
                         "message": "Data is empty",
-                        "hint": "Please, check that data in the contract is not empty"
+                        "hint": "Please, check that there is no empty data in the contract."
                     },
                     "dataIsInvalid": {
                         "message": "Data is invalid",
@@ -284,18 +284,18 @@
                 },
                 "menu": {
                     "predefinedMenuNotFound": {
-                        "message": "Predefined menu is not found!",
+                        "message": "Predefined menu is not found",
                         "hint": "Please, check that you have a correct chain link for this step"
                     }
                 },
                 "securityCard": {
                     "notPersonalized": {
-                        "message": "Card is not personalized",
-                        "hint": "Please, initialize your card"
+                        "message": "Card is not activated",
+                        "hint": "Please, activate your card to use it."
                     },
                     "notSupported": {
-                        "message": "Interface is not supported",
-                        "hint": "Please, use the device with NFC support"
+                        "message": "Device is not supported",
+                        "hint": "Please, use the other NFC-equipped device."
                     }
                 },
                 "signingBox": {
@@ -320,10 +320,10 @@
                         "message": "Failed to get the main account address"
                     },
                     "failedToGetPublicKey": {
-                        "message": "Failed to get the main public key"
+                        "message": "Failed to get the public key of main account"
                     },
                     "failedToGetSigningBox": {
-                        "message": "Failed to get the main signing box"
+                        "message": "Failed to get the signing box of main account"
                     }
                 }
             },
@@ -335,7 +335,7 @@
             "manifest": {
                 "incorrectManifest": {
                     "message": "Incorrect manifest",
-                    "hint": "Check your manifest"
+                    "hint": "Please, check your manifest."
                 },
                 "notFound": {
                     "message": "Manifest is not found",
@@ -343,11 +343,11 @@
                 },
                 "chainNotFound": {
                     "message": "Chain is not found",
-                    "hint": "Check \"chain\" section in your manifest"
+                    "hint": "Please, check the \"chain\" section in your manifest."
                 },
                 "incorrectChainLink": {
                     "message": "Incorrect chain link",
-                    "hint": "Please, check that the chain link is correct"
+                    "hint": "Please, check that the chain link is correct."
                 },
                 "failedToApplyChainLink": {
                     "message": "Failed to apply the chain link",
@@ -358,21 +358,21 @@
                     "hint": "Please, check that all steps have a chain link"
                 },
                 "missedABI": {
-                    "message": "ABI not found!",
-                    "hint": "Missing DeBot ABI"
+                    "message": "ABI is not found",
+                    "hint": "Unable to find the Debot ABI"
                 },
                 "failedToDecodeMessage": {
-                    "message": "Failed to decode a message from DeBot",
-                    "hint": "Please, check that DeBot ABI is correct"
+                    "message": "Unable to decode a message from Debot.",
+                    "hint": "Please, check that DeBot has the correct ABI."
                 }
             },
             "browser": {
                 "startWithoutId": {
-                    "message": "Cannot start the debot with no ID specified"
+                    "message": "Unable to start Debot with no ID specified."
                 },
                 "notInitialized": {
                     "message": "DeBot is not initialized",
-                    "hint": "Need to initialize DeBot"
+                    "hint": "Please, initialize this Debot."
                 },
                 "interfaceNotFound": {
                     "message": "Interface \"{0}\" is not found",
@@ -382,11 +382,11 @@
             "store": {
                 "addressNotFound": {
                     "message": "DeBot address is not found",
-                    "hint": "DeBot must have an address"
+                    "hint": "Please, specify the Debot address."
                 },
                 "netNotFound": {
                     "message": "DeBot net is not specified",
-                    "hint": "DeBot must have a network specified"
+                    "hint": "Please, specify the Debot network."
                 },
                 "connectorNotFound": {
                     "message": "DeBot connectors are not found",
@@ -397,16 +397,16 @@
                     "hint": "Please, check DeBot works properly as it has not returned any messages"
                 },
                 "failedToGetInfo": {
-                    "message": "Failed to get DeBot info",
-                    "hint": "Check info into DeBot"
+                    "message": "Unable to get the Debot info",
+                    "hint": "Please, check the info his Debot has."
                 },
                 "failedToRestart": {
-                    "message": "Failed to run DeBot when restarting it with error",
-                    "hint": "Try restarting DeBot again"
+                    "message": "Unable to run Debot after the restart",
+                    "hint": "Please, try to restart Debot once again."
                 },
                 "failedToFetch": {
-                    "message": "Failed to fetch DeBot",
-                    "hint": "Please, check DeBot address and network"
+                    "message": "Unable to fetch Debot",
+                    "hint": "Please, check the DeBot's address and network."
                 },
                 "failedToStop": {
                     "message": "Failed to stop the browser"
@@ -422,25 +422,25 @@
                     "message": "DeBot running with the manifest and the listener has crashed"
                 },
                 "createTransactionConfirmationMessageFailed": {
-                    "message": "Failed to create a transaction confirmation message"
+                    "message": "Unable to create a transaction confirmation message."
                 },
                 "signingBoxNotFound": {
-                    "message": "Signing Box is not found",
-                    "hint": "Check that the DeBot has correct data for Signing box"
+                    "message": "Signing box is not found",
+                    "hint": "Please, check that the Debot has correct data for Signing box."
                 },
                 "signatureNotFound": {
                     "message": "Signature is not found",
-                    "hint": "Check that the DeBot has correct data for Signature"
+                    "hint": "Please, check that Debot has correct data for Signature."
                 }
             },
             "queue": {
                 "empty": {
                     "message": "DeBot queue is empty",
-                    "hint": "Check that the DeBot works correct"
+                    "hint": "Please, check that DeBot is working correctly."
                 },
                 "incorrectInterfaceAddress": {
                     "message": "Incorrect interface address",
-                    "hint": "Please, check that the message has a correct address location"
+                    "hint": "Please, check that the message has a correct destination address."
                 },
                 "noHandle": {
                     "message": "No debot handle is set for another browser",

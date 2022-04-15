@@ -668,23 +668,22 @@
         "memoryCheckButton": "Enregistré. Revérifier"
     },
     "multiWallets": {
-        "addWallet": "Add wallet",
-        "create": "Créer portefeuille",
-        "defaultWalletName": "Surf",
-        "editWallet": "Modifier le portefeuille",
+        "add": "Add profile",
+        "create": "Create profile",
+        "defaultName": "Surf",
+        "edit": "Edit profile",
         "manage": "Gérer",
-        "manageWallets": "Gérer les portefeuilles",
-        "migrate": "Migrer le portefeuille vers Surf",
+        "migrate": "Migrate profile to Surf",
         "name": "Nom",
         "nameTaken": "Choose another name. This one is taken already",
-        "newWalletName": "Portefeuille",
+        "newName": "Profile",
+        "notUniqueWarning": "Same address profile has been added already",
         "pair": "Lier le portefeuille matériel avec le compte",
-        "removeWallet": "Remover le portefeuille",
-        "restore": "Restaurer le portefeuille",
-        "restoreHint": "Vous pouvez restaurer un portefeuille créé dans Surf uniquement",
-        "update": "Mettre à jour",
-        "walletNotUnique": "Same address wallet has been added already",
-        "wallets": "Portefeuilles"
+        "profiles": "Profiles",
+        "remove": "Remove profile",
+        "restore": "Restore profile",
+        "restoreHint": "You can restore a profile created in Surf only",
+        "update": "Mettre à jour"
     },
     "networks": {
         "errors": {

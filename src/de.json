@@ -668,23 +668,22 @@
         "memoryCheckButton": "Gerettet. Überprüfen Sie  doppelt."
     },
     "multiWallets": {
-        "addWallet": "Add wallet",
-        "create": "Wallet erstellen",
-        "defaultWalletName": "Surf",
-        "editWallet": "Brieftasche bearbeiten",
+        "add": "Add profile",
+        "create": "Create profile",
+        "defaultName": "Surf",
+        "edit": "Edit profile",
         "manage": "Verwalten",
-        "manageWallets": "Geldbörsen verwalten",
-        "migrate": "Wallet zu Surf migrieren",
+        "migrate": "Migrate profile to Surf",
         "name": "Name",
         "nameTaken": "Choose another name. This one is taken already",
-        "newWalletName": "Brieftasche",
+        "newName": "Profile",
+        "notUniqueWarning": "Same address profile has been added already",
         "pair": "Hardware-Wallet mit Konto binden",
-        "removeWallet": "Brieftasche entfernen",
-        "restore": "Brieftasche wiederherstellen",
-        "restoreHint": "Sie können eine Brieftasche wiederherstellen, die nur in Surf erstellt wurde",
-        "update": "Aktualisieren",
-        "walletNotUnique": "Same address wallet has been added already",
-        "wallets": "Geldbörsen"
+        "profiles": "Profiles",
+        "remove": "Remove profile",
+        "restore": "Restore profile",
+        "restoreHint": "You can restore a profile created in Surf only",
+        "update": "Aktualisieren"
     },
     "networks": {
         "errors": {

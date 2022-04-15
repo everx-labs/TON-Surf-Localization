@@ -668,23 +668,22 @@
         "memoryCheckButton": "Kaydedildi. Tekrar gözden geçir"
     },
     "multiWallets": {
-        "addWallet": "Add wallet",
-        "create": "Create wallet",
-        "defaultWalletName": "Surf",
-        "editWallet": "Edit wallet",
+        "add": "Add profile",
+        "create": "Create profile",
+        "defaultName": "Surf",
+        "edit": "Edit profile",
         "manage": "Yönet",
-        "manageWallets": "Cüzdanları yönet",
-        "migrate": "Migrate wallet to Surf",
+        "migrate": "Migrate profile to Surf",
         "name": "Ad",
         "nameTaken": "Choose another name. This one is taken already",
-        "newWalletName": "Cüzdan",
+        "newName": "Profile",
+        "notUniqueWarning": "Same address profile has been added already",
         "pair": "Donanım cüzdanını hesaba bağlamak için",
-        "removeWallet": "Cüzdanı kaldır",
-        "restore": "Restore wallet",
-        "restoreHint": "You can restore a wallet created in Surf only",
-        "update": "Güncelle",
-        "walletNotUnique": "Same address wallet has been added already",
-        "wallets": "Cüzdan"
+        "profiles": "Profiles",
+        "remove": "Remove profile",
+        "restore": "Restore profile",
+        "restoreHint": "You can restore a profile created in Surf only",
+        "update": "Güncelle"
     },
     "networks": {
         "errors": {

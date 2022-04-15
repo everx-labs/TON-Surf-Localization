@@ -679,23 +679,22 @@
         "memoryCheckButton": "저장되었습니다. 재확인하기"
     },
     "multiWallets": {
-        "addWallet": "지갑을 추가하기",
-        "create": "지갑 만들기",
-        "defaultWalletName": "서프",
-        "editWallet": "지갑 수정",
+        "add": "Add profile",
+        "create": "Create profile",
+        "defaultName": "Surf",
+        "edit": "Edit profile",
         "manage": "관리",
-        "manageWallets": "지갑 관리",
-        "migrate": "지갑을 서프로 이동하기",
+        "migrate": "Migrate profile to Surf",
         "name": "이름",
         "nameTaken": "다른 이름을 선택하십시오. 이 이름을 다른 분이 이미 선택했습니다",
-        "newWalletName": "지갑",
+        "newName": "Profile",
+        "notUniqueWarning": "Same address profile has been added already",
         "pair": "계정을 하드웨어 지갑에 몪기",
-        "removeWallet": "지갑 제거",
-        "restore": "지갑 복구하기",
-        "restoreHint": "서프에서만 생성된 지갑은 복구할 수 있습니다",
-        "update": "업데이트",
-        "walletNotUnique": "동일한 주소의 지갑이 이미 추가되었습니다",
-        "wallets": "지갑"
+        "profiles": "Profiles",
+        "remove": "Remove profile",
+        "restore": "Restore profile",
+        "restoreHint": "You can restore a profile created in Surf only",
+        "update": "업데이트"
     },
     "networks": {
         "errors": {

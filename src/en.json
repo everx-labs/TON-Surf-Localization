@@ -239,7 +239,7 @@
                     "hint": "Please, check the interface method name"
                 },
                 "failedToRunMethod": {
-                    "message": "Failed to run method \"{0}\"",
+                    "message": "Unable to run method \"{0}\"",
                     "hint": "Please, check the interface method name"
                 },
                 "notSupported": {

@@ -135,7 +135,7 @@
         },
         "saving": {
             "surfStaking": "Surf Stakes",
-            "everStakesDesc": "Get up to 5.0 % a year"
+            "everStakesDesc": "Get up to {0} % a year"
         },
         "subscriptions": {
             "actions": {

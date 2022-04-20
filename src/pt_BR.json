@@ -972,8 +972,8 @@
             "notice": "Download application"
         },
         "desktop": {
-            "download": "Download now for free",
-            "notice": "Try a new level of security with Surf for desktop devices"
+            "download": "Download desktop app",
+            "notice": "Try a new level of security with Surf"
         }
     },
     "rebalance": {

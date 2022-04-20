@@ -1166,7 +1166,7 @@
             "alreadyRequested": "Rubies have already been requested. Please wait"
         },
         "error": {
-            "failedToDecrypt": "Decryption failed. Looks like you need to log in with another profile",
+            "failedToDecrypt": "Unable to decrypt data. Please try to sign in to another profile.",
             "failedToLoadAccounts": "Failed to load accounts.",
             "failedToLoadProfile": "Unable to load profile.",
             "failedToLoginToProfile": "Unable to sign in. Please restart the app and try again. If error repeats, contact {0}.",

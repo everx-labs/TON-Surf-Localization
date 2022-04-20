@@ -1169,7 +1169,7 @@
             "alreadyRequested": "루비는 이미 요청되었습니다. 기다려 주세요"
         },
         "error": {
-            "failedToDecrypt": "Decryption failed. Looks like you need to log in with another profile",
+            "failedToDecrypt": "Unable to decrypt data. Please try to sign in to another profile.",
             "failedToLoadAccounts": "계정을 로드하지 못했습니다.",
             "failedToLoadProfile": "Unable to load profile.",
             "failedToLoginToProfile": "Unable to sign in. Please restart the app and try again. If error repeats, contact {0}.",

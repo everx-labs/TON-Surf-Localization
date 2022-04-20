@@ -1167,7 +1167,7 @@
             "alreadyRequested": "Запрос на Рубины уже обрабатывается. Пожалуйста, подождите"
         },
         "error": {
-            "failedToDecrypt": "Не удалось расшифровать данные. Похоже, вам нужно войти в другой профиль",
+            "failedToDecrypt": "Unable to decrypt data. Please try to sign in to another profile.",
             "failedToLoadAccounts": "Не удалось загрузить аккаунты.",
             "failedToLoadProfile": "Не удалось загрузить профиль.",
             "failedToLoginToProfile": "Unable to sign in. Please restart the app and try again. If error repeats, contact {0}.",

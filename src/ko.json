@@ -14,8 +14,8 @@
             "AccountIsShown": "계정이 표시됩니다"
         },
         "assets": {
-            "addressCopied": "You profile address copied to clipboard",
-            "copyAddressHint": "Copy the profile address",
+            "addressCopied": "프로필 주소가 클립보드에 복사되었습니다",
+            "copyAddressHint": "프로필 주소 복사",
             "copyAddressHint2": "지갑 주소 복사하기",
             "description": "끌어 놓기 기능 이용하여 자금을 바꾸하고 자산을 바꿀 수 있습니다",
             "exchangeAccount": "계정 바꾸기",
@@ -104,7 +104,7 @@
                 "operationsHistory": "운영 기록",
                 "sendCoins": "토큰 보내기",
                 "share": "공유하기",
-                "shareMyAddress": "Share profile address",
+                "shareMyAddress": "프로필 주소 공유",
                 "stakeMore": "스테이킹을 더 많이 하기",
                 "whatIsStaking": "스테이킹이 무엇인가요?",
                 "withdraw": "인출하기"
@@ -230,7 +230,7 @@
                 "inviteFriends": "친구를 초대하기",
                 "makeStake": "스테이킹하기",
                 "save": "저장하기",
-                "shareAddress": "Share profile address",
+                "shareAddress": "프로필 주소 공유",
                 "unblockMessages": "차단 해제하기",
                 "withdraw": "인출하기"
             },
@@ -338,7 +338,7 @@
             "failedToSend": "메시지를 보내지 못했습니다. 나중에 다시 시도해 보세요"
         },
         "labels": {
-            "address": "Profile address on Everscale",
+            "address": "에버스케일의 프로필 주소",
             "establishingConnection": "보안 연결 설정 중 ...",
             "today": "오늘",
             "yesterday": "어제"
@@ -393,7 +393,7 @@
         "friends": "친구들",
         "giveAccessToContacts": "연락처에 대한 액세스 허용",
         "info": {
-            "address": "Profile address on Everscale",
+            "address": "에버스케일의 프로필 주소",
             "firstName": "이름",
             "lastName": "성"
         },
@@ -675,21 +675,21 @@
         "memoryCheckButton": "저장되었습니다. 재확인하기"
     },
     "multiWallets": {
-        "add": "Add profile",
-        "create": "Create profile",
-        "defaultName": "Surf",
-        "edit": "Edit profile",
+        "add": "프로필 추가",
+        "create": "프로필 만들기",
+        "defaultName": "서프",
+        "edit": "프로필 수정",
         "manage": "관리",
-        "migrate": "Migrate profile to Surf",
+        "migrate": "프로필을 서프로 이동",
         "name": "이름",
         "nameTaken": "다른 이름을 선택하십시오. 이 이름을 다른 분이 이미 선택했습니다",
-        "newName": "Profile",
-        "notUniqueWarning": "This profile address is already added",
+        "newName": "프로필",
+        "notUniqueWarning": "이 프로필 주소는 이미 추가되었습니다",
         "pair": "계정을 하드웨어 지갑에 몪기",
-        "profiles": "Profiles",
-        "remove": "Remove profile",
-        "restore": "Restore profile",
-        "restoreHint": "You can restore only a Surf profile this way",
+        "profiles": "프로필",
+        "remove": "프로필 제거",
+        "restore": "프로필 복원",
+        "restoreHint": "이 방법으로 서프 프로필만 복원할 수 있습니다",
         "update": "업데이트"
     },
     "networks": {
@@ -780,12 +780,12 @@
         "altAddress": "대체 주소 형식",
         "biometry": {
             "face": "얼굴",
-            "faceID": "Face ID",
+            "faceID": "페이스 아이디",
             "fingerprint": "지문",
             "iris": "아이리스",
-            "touchID": "Touch ID"
+            "touchID": "지문 신원 확인"
         },
-        "blockchainAddress": "Profile address on Everscale",
+        "blockchainAddress": "에버스케일의 프로필 주소",
         "changePinCode": "암호 변경하기",
         "confirmNewPin": "암호 확인하기",
         "enterNewPin": "새 암호",
@@ -799,25 +799,25 @@
         },
         "logOut": {
             "button": "장치의 데이터 삭제 및 종료",
-            "hint": "Take extra special care of your seed phrase. It's the only way to restore access to your profile"
+            "hint": "시드키를 각별히 주의하세요. 프로필에 대한 액세스 권한을 복원할 수 있는 유일한 방법입니다"
         },
         "neverShare": "귀하의 개인 키는 누구에게나 귀하의 자금에 대한 전체 액세스 권한을 부여할 수 있습니다. 신뢰하지 않는 사람이나 응용 프로그램과 절대 공유해서는 안 됩니다.",
         "noThanks": "아니요, 괜찮습니다",
         "nonMainAccountPrivateKeyNote": "이 개인 키는 기본 서프 계정의 보안에 아무런 역할을 하지 않습니다. 그러나 키가 손상되면 이 개인 키로 보호되는 다른 자금 및 데이터가 위험에 처할 수 있습니다. 신뢰하지 않는 사람이나 애플리케이션과 공유해서는 안 됩니다.",
         "privateKey": "개인 키",
         "publicKey": "공개 키",
-        "safelyShare": "Your can share your profile address and public key without any security risks.",
+        "safelyShare": "안전 위험 없이 프로필 주소와 공개 키를 공유할 수 있습니다.",
         "safetyProtectionButton": "안전 보호",
         "safetyRules": {
             "buttonTitle": "안전 규칙",
             "description": "이 간단한 규칙을 준수하는 것은 귀하의 자산을 안전하게 유지하는 데에 큰 도움이 됩니다",
             "gotItButton": "알겠습니다",
             "rules": [
-                "Install Surf from verified sources only (App Store, Google Play)",
-                "Backup your Seed phrase. Store it on paper in a location only you can access. Do not make a screenshot. Never keep the Seed phrase on the same device with Surf!",
-                "Do not disclose your Seed phrase to any person or to any app, other than Surf. Only use it to restore access to your profile in Surf.",
-                "Use a PIN you can easily remember and never write it down. Don't use the same PIN in other applications. Don't share it with anyone.",
-                "Use Security Card for maximum security of your assets. It can help you restore access to your profile even if you lose your Seed Phrase"
+                "신뢰할 수 있는 출처(앱스토어, 구글플레이)에서만 서프를 설치하세요",
+                "시드키를 백업하십시오. 시드키는 귀하만 찾을 수 있는 종이에 종이에 쓰세요. 화면 갭쳐를 하지 마세요. 서프와 같은 장치에 시드키를 유지하지 마십시오!",
+                "시드키를 다른 사람이나 앱에 절대 공개하지 마십시오. 서프에서 귀하의 프로필에 대한 액세스를 복원하시는 데에만 사용하십시오.",
+                "기억하기 쉬운 암호를 사용하시고 절대 적어 두지 마십시오. 다른 애플리케이션 암호와 동일한 암호를 사용하지 마십시오. 누구와도 공유하지 마십시오.",
+                "자산의 보안을 강화하려면 보안 카드를 사용하십시오. 시드키를 잃어버린 경우에도 프로필에 대한 액세스를 복원하는 데에 도움이 될 수 있습니다."
             ],
             "screenTitle": "안전 규칙"
         },
@@ -889,7 +889,7 @@
         },
         "main": {
             "profile": {
-                "create": "Create profile",
+                "create": "프로필 만들기",
                 "restore": "복원하기"
             }
         },
@@ -989,7 +989,7 @@
                 "definition": ": DePool의 총액입니다.",
                 "term": "잔액"
             },
-            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum account balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
+            "balanceRequirement": "모든 작업(스테이킹, 출금 등)에는 DePool 운영 비용을 지불하는 데 사용되는 0.5 토큰의 최소 프로필 잔액이 필요합니다. 거스름돈을 돌려줍니다.",
             "contribution": "블록체인 인프라 및 탈중앙화 기여",
             "dash": "—",
             "description": "DePool은 누구나 스테이크를 공통 풀에 투자할 수 있도록 하는 스마트 컨트랙트입니다. 이 스테이크 투자한 사용자들을 대표하여 검증인이 검증인 선거에 스테이크를 사용하며 성공적인 검증 시 기여도에 비례하여 모든 구성원에게 보상을 지급합니다.",
@@ -1138,7 +1138,7 @@
         },
         "notice": {
             "accept": "받기",
-            "confirmationSentToChat": "We have sent confirmation via profile secret chat.",
+            "confirmationSentToChat": "프로필 비밀 채팅을 통해 확인을 보냈습니다.",
             "heyUser": "{0}님 안녕하세요",
             "transactionInvitation": "{0} 친구가 사용자에게 송금을 보냈습니다. 송금 받기를 확인해 주세요"
         },
@@ -1169,10 +1169,10 @@
             "alreadyRequested": "루비는 이미 요청되었습니다. 기다려 주세요"
         },
         "error": {
-            "failedToDecrypt": "Unable to decrypt data. Please try to sign in to another profile.",
+            "failedToDecrypt": "데이터를 해독할 수 없습니다. 다른 프로필에 로그인해 보세요.",
             "failedToLoadAccounts": "계정을 로드하지 못했습니다.",
-            "failedToLoadProfile": "Unable to load profile.",
-            "failedToLoginToProfile": "Unable to sign in. Please restart the app and try again. If error repeats, contact {0}.",
+            "failedToLoadProfile": "프로필을 로드할 수 없습니다.",
+            "failedToLoginToProfile": "로그인할 수 없습니다. 앱을 다시 시작하고 다시 시도하세요. 오류가 반복되면 {0}에 문의하십시오.",
             "insufficientFunds": "작업을 수행할 자금이 부족합니다. 서프 잔액을 충전하십시오.",
             "limitInvalidValue": "한계 값이 유효하지 않거나 너무 큽니다.",
             "timeIsNotSynced": "시간 동기화 오류가 발생했습니다. 안타깝게도 트랜잭션을 처리할 수 없습니다. 시간 자동 설정 옵션을 활성화하십시오."
@@ -1299,7 +1299,7 @@
             "couldNotIdentifyQRCode": "QR 코드를 인식할 수 없음",
             "insufficientBalance": "부족한 자금",
             "insufficientBalanceForFee": "네트워크 수수료를 지불할 금액이 부족합니다",
-            "insufficientFundsToActivate": "Insufficient funds to activate your profile",
+            "insufficientFundsToActivate": "프로필 활성화할 자금이 부족합니다",
             "limitReached": "금액이 설정된 한도 중 하나를 초과합니다.",
             "notYetSupported": "아직 지원되지 않음"
         },

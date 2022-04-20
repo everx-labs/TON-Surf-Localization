@@ -673,12 +673,12 @@
         "name": "Nome",
         "nameTaken": "Choose another name. This one is taken already",
         "newName": "Profile",
-        "notUniqueWarning": "Same address profile has been added already",
+        "notUniqueWarning": "This profile address is already added",
         "pair": "Vincular hardware wallet com conta",
         "profiles": "Profiles",
         "remove": "Remove profile",
         "restore": "Restore profile",
-        "restoreHint": "You can restore a profile created in Surf only",
+        "restoreHint": "You can restore only a Surf profile this way",
         "update": "Atualizar"
     },
     "networks": {

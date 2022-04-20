@@ -327,7 +327,7 @@
             "failedToSend": "Failed to send message. Try again later"
         },
         "labels": {
-            "address": "Everscale profile address",
+            "address": "Profile address on Everscale",
             "establishingConnection": "Establishing a secure connection...",
             "today": "Today",
             "yesterday": "Yesterday"
@@ -384,7 +384,7 @@
         "info": {
             "firstName": "First name",
             "lastName": "Last name",
-            "address": "Everscale profile address"
+            "address": "Profile address on Everscale"
         },
         "invitation": {
             "view": {
@@ -774,7 +774,7 @@
             "iris": "Iris",
             "touchID": "Touch ID"
         },
-        "blockchainAddress": "Everscale address",
+        "blockchainAddress": "Profile address on Everscale",
         "changePinCode": "Change PIN",
         "confirmNewPin": "Confirm PIN",
         "enterNewPin": "New PIN",

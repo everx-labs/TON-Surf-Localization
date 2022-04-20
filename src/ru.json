@@ -327,7 +327,7 @@
             "failedToSend": "Не удалось отправить сообщение. Повторите попытку позже"
         },
         "labels": {
-            "address": "Адрес профиля Everscale",
+            "address": "Адрес профиля в Everscale",
             "establishingConnection": "Установка безопасного соединения...",
             "today": "Сегодня",
             "yesterday": "Вчера"
@@ -384,7 +384,7 @@
         "info": {
             "firstName": "Имя",
             "lastName": "Фамилия",
-            "address": "Адрес профиля Everscale"
+            "address": "Адрес профиля в Everscale"
         },
         "invitation": {
             "view": {
@@ -774,7 +774,7 @@
             "iris": "Радужная оболочка глаза",
             "touchID": "Touch ID"
         },
-        "blockchainAddress": "Адрес профиля Everscale",
+        "blockchainAddress": "Адрес профиля в Everscale",
         "changePinCode": "Изменить пин-код",
         "confirmNewPin": "Подтвердить пин-код",
         "enterNewPin": "Новый пин-код",

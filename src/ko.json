@@ -338,7 +338,7 @@
             "failedToSend": "메시지를 보내지 못했습니다. 나중에 다시 시도해 보세요"
         },
         "labels": {
-            "address": "Everscale profile address",
+            "address": "Profile address on Everscale",
             "establishingConnection": "보안 연결 설정 중 ...",
             "today": "오늘",
             "yesterday": "어제"
@@ -393,7 +393,7 @@
         "friends": "친구들",
         "giveAccessToContacts": "연락처에 대한 액세스 허용",
         "info": {
-            "address": "Everscale profile address",
+            "address": "Profile address on Everscale",
             "firstName": "이름",
             "lastName": "성"
         },
@@ -785,7 +785,7 @@
             "iris": "아이리스",
             "touchID": "Touch ID"
         },
-        "blockchainAddress": "에버스케일 주소",
+        "blockchainAddress": "Profile address on Everscale",
         "changePinCode": "암호 변경하기",
         "confirmNewPin": "암호 확인하기",
         "enterNewPin": "새 암호",

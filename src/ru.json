@@ -678,7 +678,7 @@
         "profiles": "Профили",
         "remove": "Удалить профиль",
         "restore": "Восстановить профиль",
-        "restoreHint": "You can restore only a Surf profile this way",
+        "restoreHint": "Восстановить можно только профиль, созданный в Surf",
         "update": "Обновить"
     },
     "networks": {
@@ -1167,10 +1167,10 @@
             "alreadyRequested": "Запрос на Рубины уже обрабатывается. Пожалуйста, подождите"
         },
         "error": {
-            "failedToDecrypt": "Unable to decrypt data. Please try to sign in to another profile.",
+            "failedToDecrypt": "Не удалось расшифровать данные. Похоже, вам нужно войти в другой профиль.",
             "failedToLoadAccounts": "Не удалось загрузить аккаунты.",
             "failedToLoadProfile": "Не удалось загрузить профиль.",
-            "failedToLoginToProfile": "Unable to sign in. Please restart the app and try again. If error repeats, contact {0}.",
+            "failedToLoginToProfile": "Не удалось войти. Пожалуйста, перезапустите приложение и попробуйте снова. Если ошибка повторится, обратитесь в {0}.",
             "insufficientFunds": "Недостаточно средств для проведения операции. Пожалуйста, пополните основной баланс Surf",
             "limitInvalidValue": "Значение лимита недопустимо или слишком велико.",
             "timeIsNotSynced": "Для обработки транзакций необходимо синхронизировать время. Включите опцию \"Установить время автоматически\" на вашем устройстве"

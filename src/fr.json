@@ -965,6 +965,17 @@
         "otherProducts": "Autres produits",
         "rate": "Rate Surf"
     },
+    "promoDownload": {
+        "mobile": {
+            "appStore": "App Store",
+            "googlePlay": "Google Play",
+            "notice": "Download application"
+        },
+        "desktop": {
+            "download": "Download desktop app",
+            "notice": "Try a new level of security with Surf"
+        }
+    },
     "rebalance": {
         "amount": "Montant",
         "amountIsLow": "Montant du transfert trop faible",

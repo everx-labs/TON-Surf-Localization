@@ -965,6 +965,17 @@
         "otherProducts": "Altri prodotti",
         "rate": "Vota Surf"
     },
+    "promoDownload": {
+        "mobile": {
+            "appStore": "App Store",
+            "googlePlay": "Google Play",
+            "notice": "Download application"
+        },
+        "desktop": {
+            "download": "Download desktop app",
+            "notice": "Try a new level of security with Surf"
+        }
+    },
     "rebalance": {
         "amount": "Quantità",
         "amountIsLow": "Importo del trasferimento troppo basso",

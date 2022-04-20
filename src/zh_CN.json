@@ -965,6 +965,17 @@
         "otherProducts": "其他产品",
         "rate": "Rate Surf"
     },
+    "promoDownload": {
+        "mobile": {
+            "appStore": "App Store",
+            "googlePlay": "Google Play",
+            "notice": "Download application"
+        },
+        "desktop": {
+            "download": "Download desktop app",
+            "notice": "Try a new level of security with Surf"
+        }
+    },
     "rebalance": {
         "amount": "数量",
         "amountIsLow": "转账金额太低",

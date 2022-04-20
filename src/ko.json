@@ -976,6 +976,17 @@
         "otherProducts": "다른 제품들",
         "rate": "서프 평가하기"
     },
+    "promoDownload": {
+        "mobile": {
+            "appStore": "App Store",
+            "googlePlay": "Google Play",
+            "notice": "애플리케이션 다운로드"
+        },
+        "desktop": {
+            "download": "데스크탑 앱 다운로드",
+            "notice": "서프는 새로운 차원의 보안을 제공합니다"
+        }
+    },
     "rebalance": {
         "amount": "액수",
         "amountIsLow": "양도 금액이 너무 적습니다.",

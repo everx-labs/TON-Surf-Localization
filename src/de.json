@@ -131,7 +131,7 @@
         },
         "saving": {
             "surfStaking": "Surf Stakes",
-            "everStakesDesc": "Get up to 5.0 % a year"
+            "everStakesDesc": "Get up to {0} % a year"
         },
         "subscriptions": {
             "actions": {
@@ -210,6 +210,251 @@
         "submit": "Sicherung",
         "text": "Speichern Sie Ihr Passwort an einem sicheren Ort. Wenn Sie Ihr Passwort verlieren, bedeutet der Verlust des Passworts einen irreversiblen Verlust des Zugriffs auf Ihr Geld.",
         "title": "Passwort-Backup"
+    },
+    "browser": {
+        "exceptions": {
+            "abi": {
+                "notSupport": {
+                    "message": "Sorry, ABI version is not supported",
+                    "hint": "Maybe we'll support it soon"
+                }
+            },
+            "default": {
+                "hints": {
+                    "sendReport": "Please, contact our Support Team"
+                },
+                "messages": {
+                    "somethingWentWrong": "Something went wrong",
+                    "failedSendToDeBot": "Surf cannot send data to Debot. They can be corrupted or something else is happened"
+                }
+            },
+            "unknown": {
+                "message": "Unknown error",
+                "hint": "Please, contact our Support Team and describe your issue."
+            },
+            "interfaces": {
+                "notFound": {
+                    "message": "Interface with address \"{0}\" is not found",
+                    "hint": "Interface with ID \"{0}\" is not supported"
+                },
+                "failedToDecode": {
+                    "message": "Cannot decode the Debot message",
+                    "hint": "Incorrect body in DeBot message"
+                },
+                "methodUnsupported": {
+                    "message": "Method \"{0}\" for interface \"{1}\" is not supported",
+                    "hint": "Please, check the interface method name"
+                },
+                "failedToRunMethod": {
+                    "message": "Failed to run method \"{0}\"",
+                    "hint": "Please, check the interface method name"
+                },
+                "notSupported": {
+                    "message": "Interface is not supported",
+                    "hint": "Interface with ID \"{0}\" is not supported"
+                },
+                "failedSendToDeBot": {
+                    "message": "Failed to send to DeBot",
+                    "hint": "Please, send a report about this problem"
+                },
+                "addressInput": {
+                    "failedToCreateMessage": {
+                        "message": "Failed to create Address Input Interactive message with no main account"
+                    }
+                },
+                "dateInput": {
+                    "dateNotReturned": {
+                        "message": "Date was not been returned"
+                    },
+                    "timeNotReturned": {
+                        "message": "Time was not been returned"
+                    },
+                    "dateAndTimeNotFound": {
+                        "message": "DateTime was not been found"
+                    }
+                },
+                "encryption": {
+                    "failedToCreate": {
+                        "message": "Failed to create an encryptor",
+                        "hint": "Please, send a report about this problem"
+                    }
+                },
+                "media": {
+                    "dataIsEmpty": {
+                        "message": "Data is empty",
+                        "hint": "Please, check that data in the contract is not empty"
+                    },
+                    "dataIsInvalid": {
+                        "message": "Data is invalid",
+                        "hint": "Please, check that data in the contract is valid"
+                    }
+                },
+                "menu": {
+                    "predefinedMenuNotFound": {
+                        "message": "Predefined menu is not found!",
+                        "hint": "Please, check that you have a correct chain link for this step"
+                    }
+                },
+                "securityCard": {
+                    "notPersonalized": {
+                        "message": "Card is not personalized",
+                        "hint": "Please, initialize your card"
+                    },
+                    "notSupported": {
+                        "message": "Interface is not supported",
+                        "hint": "Please, use the device with NFC support"
+                    }
+                },
+                "signingBox": {
+                    "incorrectHandler": {
+                        "message": "Incorrect signing box handler in the chain link",
+                        "hint": "Please, check the chain links in the manifest"
+                    }
+                },
+                "surfSigningBox": {
+                    "incorrectGoldHandler": {
+                        "message": "Failed to get a golden key"
+                    },
+                    "incorrectSilverHandler": {
+                        "message": "Failed to get a silver key"
+                    },
+                    "incorrectBronzeHandler": {
+                        "message": "Failed to get a bronze key"
+                    }
+                },
+                "userInfo": {
+                    "failedToGetMainAccount": {
+                        "message": "Failed to get the main account address"
+                    },
+                    "failedToGetPublicKey": {
+                        "message": "Failed to get the main public key"
+                    },
+                    "failedToGetSigningBox": {
+                        "message": "Failed to get the main signing box"
+                    }
+                }
+            },
+            "service": {
+                "connectorNotSet": {
+                    "message": "Connectors are not set"
+                }
+            },
+            "manifest": {
+                "incorrectManifest": {
+                    "message": "Incorrect manifest",
+                    "hint": "Check your manifest"
+                },
+                "notFound": {
+                    "message": "Manifest is not found",
+                    "hint": "Manifest does not work without settings"
+                },
+                "chainNotFound": {
+                    "message": "Chain is not found",
+                    "hint": "Check \"chain\" section in your manifest"
+                },
+                "incorrectChainLink": {
+                    "message": "Incorrect chain link",
+                    "hint": "Please, check that the chain link is correct"
+                },
+                "failedToApplyChainLink": {
+                    "message": "Failed to apply the chain link",
+                    "hint": "Please, check the chain links in the manifest"
+                },
+                "missedChainLink": {
+                    "message": "Failed to get the next chain link",
+                    "hint": "Please, check that all steps have a chain link"
+                },
+                "missedABI": {
+                    "message": "ABI not found!",
+                    "hint": "Missing DeBot ABI"
+                },
+                "failedToDecodeMessage": {
+                    "message": "Failed to decode a message from DeBot",
+                    "hint": "Please, check that DeBot ABI is correct"
+                }
+            },
+            "browser": {
+                "startWithoutId": {
+                    "message": "Cannot start the debot with no ID specified"
+                },
+                "notInitialized": {
+                    "message": "DeBot is not initialized",
+                    "hint": "Need to initialize DeBot"
+                },
+                "interfaceNotFound": {
+                    "message": "Interface \"{0}\" is not found",
+                    "hint": "Please, use interfaces described in the DeBot Interface Specifications (IS) Consortium"
+                }
+            },
+            "store": {
+                "addressNotFound": {
+                    "message": "DeBot address is not found",
+                    "hint": "DeBot must have an address"
+                },
+                "netNotFound": {
+                    "message": "DeBot net is not specified",
+                    "hint": "DeBot must have a network specified"
+                },
+                "connectorNotFound": {
+                    "message": "DeBot connectors are not found",
+                    "hint": "DeBot must have connectors to work correctly"
+                },
+                "emptyQueue": {
+                    "message": "Failed to wait for the non-empty queue",
+                    "hint": "Please, check DeBot works properly as it has not returned any messages"
+                },
+                "failedToGetInfo": {
+                    "message": "Failed to get DeBot info",
+                    "hint": "Check info into DeBot"
+                },
+                "failedToRestart": {
+                    "message": "Failed to run DeBot when restarting it with error",
+                    "hint": "Try restarting DeBot again"
+                },
+                "failedToFetch": {
+                    "message": "Failed to fetch DeBot",
+                    "hint": "Please, check DeBot address and network"
+                },
+                "failedToStop": {
+                    "message": "Failed to stop the browser"
+                },
+                "manifestPreparingFailed": {
+                    "message": "Incorrect chain setting has been passed. The sending has failed!"
+                },
+                "presetPreparingFailed": {
+                    "message": "Preset preparation has crashed",
+                    "hint": "Check, that the message is correct"
+                },
+                "deBotWithListenerCrashed": {
+                    "message": "DeBot running with the manifest and the listener has crashed"
+                },
+                "createTransactionConfirmationMessageFailed": {
+                    "message": "Failed to create a transaction confirmation message"
+                },
+                "signingBoxNotFound": {
+                    "message": "Signing Box is not found",
+                    "hint": "Check that the DeBot has correct data for Signing box"
+                },
+                "signatureNotFound": {
+                    "message": "Signature is not found",
+                    "hint": "Check that the DeBot has correct data for Signature"
+                }
+            },
+            "queue": {
+                "empty": {
+                    "message": "DeBot queue is empty",
+                    "hint": "Check that the DeBot works correct"
+                },
+                "incorrectInterfaceAddress": {
+                    "message": "Incorrect interface address",
+                    "hint": "Please, check that the message has a correct address location"
+                },
+                "noHandle": {
+                    "message": "No debot handle is set for another browser",
+                    "hint": "Please, check DeBot with address \"{0}\""
+                }
+            }
+        }
     },
     "chats": {
         "button": {
@@ -714,6 +959,17 @@
     "profile": {
         "otherProducts": "Sonstige Produkte",
         "rate": "Surf bewerten"
+    },
+    "promoDownload": {
+        "mobile": {
+            "appStore": "App Store",
+            "googlePlay": "Google Play",
+            "notice": "Download application"
+        },
+        "desktop": {
+            "download": "Download desktop app",
+            "notice": "Try a new level of security with Surf"
+        }
     },
     "rebalance": {
         "amount": "Menge",

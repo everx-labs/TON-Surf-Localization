@@ -976,6 +976,17 @@
         "otherProducts": "다른 제품들",
         "rate": "서프 평가하기"
     },
+    "promoDownload": {
+        "mobile": {
+            "appStore": "App Store",
+            "googlePlay": "Google Play",
+            "notice": "애플리케이션 다운로드"
+        },
+        "desktop": {
+            "download": "Download now for free",
+            "notice": "Try a new level of security with Surf for desktop devices"
+        }
+    },
     "rebalance": {
         "amount": "액수",
         "amountIsLow": "양도 금액이 너무 적습니다.",

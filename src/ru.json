@@ -965,6 +965,17 @@
         "otherProducts": "Другие продукты",
         "rate": "Оценить Surf"
     },
+    "promoDownload": {
+        "mobile": {
+            "appStore": "App Store",
+            "googlePlay": "Google Play",
+            "notice": "Установить приложение"
+        },
+        "desktop": {
+            "download": "Download now for free",
+            "notice": "Try a new level of security with Surf for desktop devices"
+        }
+    },
     "rebalance": {
         "amount": "Сумма",
         "amountIsLow": "Сумма перевода слишком мала",

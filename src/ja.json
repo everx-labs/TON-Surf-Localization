@@ -965,6 +965,17 @@
         "otherProducts": "その他の製品",
         "rate": "Rate Surf"
     },
+    "promoDownload": {
+        "mobile": {
+            "appStore": "App Store",
+            "googlePlay": "Google Play",
+            "notice": "Download application"
+        },
+        "desktop": {
+            "download": "Download now for free",
+            "notice": "Try a new level of security with Surf for desktop devices"
+        }
+    },
     "rebalance": {
         "amount": "金額",
         "amountIsLow": "運送の金額が安すぎます。",

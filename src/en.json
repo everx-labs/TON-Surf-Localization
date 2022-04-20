@@ -14,7 +14,7 @@
             "AccountIsShown": "Account is shown"
         },
         "assets": {
-            "addressCopied": "Profile address copied to clipboard",
+            "addressCopied": "You profile address copied to clipboard",
             "copyAddressHint": "Copy the profile address",
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-drop to exchange funds and rebalance your assets",
@@ -673,12 +673,12 @@
         "name": "Name",
         "nameTaken": "Choose another name. This one is taken already",
         "newName": "Profile",
-        "notUniqueWarning": "Same address profile has been added already",
+        "notUniqueWarning": "This profile address is already added",
         "pair": "Bind hardware wallet with account",
         "profiles": "Profiles",
         "remove": "Remove profile",
         "restore": "Restore profile",
-        "restoreHint": "You can restore a profile created in Surf only",
+        "restoreHint": "You can restore only a Surf profile this way",
         "update": "Update"
     },
     "networks": {
@@ -788,14 +788,14 @@
         },
         "logOut": {
             "button": "Delete local data and exit",
-            "hint": "First store your Seed phrase safely, it is the only way to restore your profile"
+            "hint": "Take extra special care of your seed phrase. It's the only way to restore access to your profile"
         },
         "neverShare": "Your private key may grant anyone full access to your funds. You should never share it with people or applications you do not trust.",
         "noThanks": "No, thanks",
         "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
         "privateKey": "Private key",
         "publicKey": "Public key",
-        "safelyShare": "Your profile address and public key may be safely shared with anyone.",
+        "safelyShare": "Your can share your profile address and public key without any security risks.",
         "safetyProtectionButton": "Safety protection",
         "safetyRules": {
             "buttonTitle": "Safety rules",
@@ -978,7 +978,7 @@
                 "definition": " – this is the total amount of funds in the DePool.",
                 "term": "Balance"
             },
-            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum profile balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
+            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum account balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
             "contribution": "Contribution to blockchain infrastructure and decentralization",
             "dash": "—",
             "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
@@ -1168,8 +1168,8 @@
         "error": {
             "failedToDecrypt": "Decryption failed. Looks like you need to log in with another profile",
             "failedToLoadAccounts": "Failed to load accounts.",
-            "failedToLoadProfile": "Failed to load profile.",
-            "failedToLoginToProfile": "Could not log into the profile. Please restart the app and try again. If the error persists, contact {0}.",
+            "failedToLoadProfile": "Unable to load profile.",
+            "failedToLoginToProfile": "Unable to sign in. Please restart the app and try again. If error repeats, contact {0}.",
             "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
             "limitInvalidValue": "The limit value is not valid or it is too large.",
             "timeIsNotSynced": "Time not synchronized. Unfortunately, transactions cannot be processed. Please enable the Set time automatically option."

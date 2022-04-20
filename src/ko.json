@@ -14,7 +14,7 @@
             "AccountIsShown": "계정이 표시됩니다"
         },
         "assets": {
-            "addressCopied": "Profile address copied to clipboard",
+            "addressCopied": "You profile address copied to clipboard",
             "copyAddressHint": "Copy the profile address",
             "copyAddressHint2": "지갑 주소 복사하기",
             "description": "끌어 놓기 기능 이용하여 자금을 바꾸하고 자산을 바꿀 수 있습니다",
@@ -684,12 +684,12 @@
         "name": "이름",
         "nameTaken": "다른 이름을 선택하십시오. 이 이름을 다른 분이 이미 선택했습니다",
         "newName": "Profile",
-        "notUniqueWarning": "Same address profile has been added already",
+        "notUniqueWarning": "This profile address is already added",
         "pair": "계정을 하드웨어 지갑에 몪기",
         "profiles": "Profiles",
         "remove": "Remove profile",
         "restore": "Restore profile",
-        "restoreHint": "You can restore a profile created in Surf only",
+        "restoreHint": "You can restore only a Surf profile this way",
         "update": "업데이트"
     },
     "networks": {
@@ -799,14 +799,14 @@
         },
         "logOut": {
             "button": "장치의 데이터 삭제 및 종료",
-            "hint": "First store your Seed phrase safely, it is the only way to restore your profile"
+            "hint": "Take extra special care of your seed phrase. It's the only way to restore access to your profile"
         },
         "neverShare": "귀하의 개인 키는 누구에게나 귀하의 자금에 대한 전체 액세스 권한을 부여할 수 있습니다. 신뢰하지 않는 사람이나 응용 프로그램과 절대 공유해서는 안 됩니다.",
         "noThanks": "아니요, 괜찮습니다",
         "nonMainAccountPrivateKeyNote": "이 개인 키는 기본 서프 계정의 보안에 아무런 역할을 하지 않습니다. 그러나 키가 손상되면 이 개인 키로 보호되는 다른 자금 및 데이터가 위험에 처할 수 있습니다. 신뢰하지 않는 사람이나 애플리케이션과 공유해서는 안 됩니다.",
         "privateKey": "개인 키",
         "publicKey": "공개 키",
-        "safelyShare": "Your profile address and public key may be safely shared with anyone.",
+        "safelyShare": "Your can share your profile address and public key without any security risks.",
         "safetyProtectionButton": "안전 보호",
         "safetyRules": {
             "buttonTitle": "안전 규칙",
@@ -989,7 +989,7 @@
                 "definition": ": DePool의 총액입니다.",
                 "term": "잔액"
             },
-            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum profile balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
+            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum account balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
             "contribution": "블록체인 인프라 및 탈중앙화 기여",
             "dash": "—",
             "description": "DePool은 누구나 스테이크를 공통 풀에 투자할 수 있도록 하는 스마트 컨트랙트입니다. 이 스테이크 투자한 사용자들을 대표하여 검증인이 검증인 선거에 스테이크를 사용하며 성공적인 검증 시 기여도에 비례하여 모든 구성원에게 보상을 지급합니다.",
@@ -1171,8 +1171,8 @@
         "error": {
             "failedToDecrypt": "Decryption failed. Looks like you need to log in with another profile",
             "failedToLoadAccounts": "계정을 로드하지 못했습니다.",
-            "failedToLoadProfile": "Failed to load profile.",
-            "failedToLoginToProfile": "Could not log into the profile. Please restart the app and try again. If the error persists, contact {0}.",
+            "failedToLoadProfile": "Unable to load profile.",
+            "failedToLoginToProfile": "Unable to sign in. Please restart the app and try again. If error repeats, contact {0}.",
             "insufficientFunds": "작업을 수행할 자금이 부족합니다. 서프 잔액을 충전하십시오.",
             "limitInvalidValue": "한계 값이 유효하지 않거나 너무 큽니다.",
             "timeIsNotSynced": "시간 동기화 오류가 발생했습니다. 안타깝게도 트랜잭션을 처리할 수 없습니다. 시간 자동 설정 옵션을 활성화하십시오."

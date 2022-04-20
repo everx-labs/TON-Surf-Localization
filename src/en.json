@@ -14,7 +14,7 @@
             "AccountIsShown": "Account is shown"
         },
         "assets": {
-            "addressCopied": "You profile address copied to clipboard",
+            "addressCopied": "Your profile address copied to clipboard",
             "copyAddressHint": "Copy the profile address",
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-drop to exchange funds and rebalance your assets",

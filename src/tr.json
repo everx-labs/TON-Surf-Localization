@@ -162,9 +162,14 @@
         }
     },
     "appUpdater": {
-        "newVersionIsAvailable": "Uygulamanın yeni sürümü mevcu",
-        "pleaseUpdate": "Lütfen güncelleyin",
-        "update": "Güncelle"
+        "updateAlert": {
+            "title": "Time to update your Surf",
+            "description": "Don't postpone updates to keep you security at the hight level.",
+            "button": "Güncelle"
+        },
+        "chosePackageAlert": {
+            "title": "Choose a package compatible with your OS"
+        }
     },
     "advancedSettings": {
         "advancedSettingsButton": "Gelişmiş ayarlar",

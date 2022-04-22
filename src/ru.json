@@ -162,9 +162,14 @@
         }
     },
     "appUpdater": {
-        "newVersionIsAvailable": "Доступна новая версия",
-        "pleaseUpdate": "Пожалуйста, обновите",
-        "update": "Обновить"
+        "updateAlert": {
+            "title": "Time to update your Surf",
+            "description": "Don't postpone updates to keep you security at the hight level.",
+            "button": "Обновить"
+        },
+        "chosePackageAlert": {
+            "title": "Choose a package compatible with your OS"
+        }
     },
     "advancedSettings": {
         "advancedSettingsButton": "Расширенные настройки",

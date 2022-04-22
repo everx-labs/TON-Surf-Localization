@@ -162,9 +162,14 @@
         }
     },
     "appUpdater": {
-        "newVersionIsAvailable": "È disponibile una nuova versione",
-        "pleaseUpdate": "Per favore aggiornare",
-        "update": "Aggiornare"
+        "updateAlert": {
+            "title": "Time to update your Surf",
+            "description": "Don't postpone updates to keep you security at the hight level.",
+            "button": "Aggiornare"
+        },
+        "chosePackageAlert": {
+            "title": "Choose a package compatible with your OS"
+        }
     },
     "advancedSettings": {
         "advancedSettingsButton": "Impostazioni avanzate",

@@ -161,6 +161,16 @@
             "unsubscribeBtn": "구독을 취소하기"
         }
     },
+    "appUpdater": {
+        "updateAlert": {
+            "title": "서프를 업데이트할 시간입니다",
+            "description": "보안을 높은 수준으로 유지하기 위해 업데이트를 미루지 마십시오.",
+            "button": "업데이트"
+        },
+        "chosePackageAlert": {
+            "title": "운영 체제와 호환되는 패키지를 선택하세요"
+        }
+    },
     "advancedSettings": {
         "advancedSettingsButton": "고급 설정",
         "biometry": {

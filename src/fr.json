@@ -161,6 +161,16 @@
             "unsubscribeBtn": "Se désabonner"
         }
     },
+    "appUpdater": {
+        "updateAlert": {
+            "title": "Time to update your Surf",
+            "description": "Don't postpone updates to keep you security at the high level.",
+            "button": "Mettre à jour"
+        },
+        "chosePackageAlert": {
+            "title": "Choose a package compatible with your OS"
+        }
+    },
     "advancedSettings": {
         "advancedSettingsButton": "Paramètres avancés",
         "biometry": {

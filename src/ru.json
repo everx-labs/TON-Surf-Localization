@@ -161,6 +161,16 @@
             "unsubscribeBtn": "Отписаться"
         }
     },
+    "appUpdater": {
+        "updateAlert": {
+            "title": "Пора обновить ваш Surf",
+            "description": "Не тяните с обновлением, они делают приложение удобным и безопасным.",
+            "button": "Обновить"
+        },
+        "chosePackageAlert": {
+            "title": "Выберите пакет, совместимый с вашей системой"
+        }
+    },
     "advancedSettings": {
         "advancedSettingsButton": "Расширенные настройки",
         "biometry": {

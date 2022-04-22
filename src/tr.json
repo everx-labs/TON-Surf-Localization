@@ -161,6 +161,16 @@
             "unsubscribeBtn": "Abonelikten çık"
         }
     },
+    "appUpdater": {
+        "updateAlert": {
+            "title": "Time to update your Surf",
+            "description": "Don't postpone updates to keep you security at the high level.",
+            "button": "Güncelle"
+        },
+        "chosePackageAlert": {
+            "title": "Choose a package compatible with your OS"
+        }
+    },
     "advancedSettings": {
         "advancedSettingsButton": "Gelişmiş ayarlar",
         "biometry": {

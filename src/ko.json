@@ -168,7 +168,7 @@
             "button": "업데이트"
         },
         "chosePackageAlert": {
-            "title": "Choose a package compatible with your OS"
+            "title": "운영 체제와 호환되는 패키지를 선택하세요"
         }
     },
     "advancedSettings": {

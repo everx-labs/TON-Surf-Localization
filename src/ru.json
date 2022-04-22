@@ -164,7 +164,7 @@
     "appUpdater": {
         "updateAlert": {
             "title": "Пора обновить ваш Surf",
-            "description": "Don't postpone updates to keep you security at the high level.",
+            "description": "Не тяните с обновлением, они делают приложение удобным и безопасным.",
             "button": "Обновить"
         },
         "chosePackageAlert": {

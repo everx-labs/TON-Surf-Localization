@@ -168,7 +168,7 @@
             "button": "Обновить"
         },
         "chosePackageAlert": {
-            "title": "Choose a package compatible with your OS"
+            "title": "Выберите пакет, совместимый с вашей системой"
         }
     },
     "advancedSettings": {

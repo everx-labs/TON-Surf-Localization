@@ -163,7 +163,7 @@
     },
     "appUpdater": {
         "updateAlert": {
-            "title": "Time to update your Surf",
+            "title": "서프를 업데이트할 시간입니다",
             "description": "보안을 높은 수준으로 유지하기 위해 업데이트를 미루지 마십시오.",
             "button": "업데이트"
         },

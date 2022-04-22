@@ -161,6 +161,11 @@
             "unsubscribeBtn": "Unsubscribe"
         }
     },
+    "appUpdater": {
+        "newVersionIsAvailable": "La nueva versión está disponible",
+        "pleaseUpdate": "Por favor actualizar",
+        "update": "Actualizar"
+    },
     "advancedSettings": {
         "advancedSettingsButton": "Configuración avanzada",
         "biometry": {

@@ -161,6 +161,11 @@
             "unsubscribeBtn": "Отписаться"
         }
     },
+    "appUpdater": {
+        "newVersionIsAvailable": "Доступна новая версия",
+        "pleaseUpdate": "Пожалуйста, обновите",
+        "update": "Обновить"
+    },
     "advancedSettings": {
         "advancedSettingsButton": "Расширенные настройки",
         "biometry": {

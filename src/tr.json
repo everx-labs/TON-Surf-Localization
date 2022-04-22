@@ -161,6 +161,11 @@
             "unsubscribeBtn": "Abonelikten çık"
         }
     },
+    "appUpdater": {
+        "newVersionIsAvailable": "Uygulamanın yeni sürümü mevcu",
+        "pleaseUpdate": "Lütfen güncelleyin",
+        "update": "Güncelle"
+    },
     "advancedSettings": {
         "advancedSettingsButton": "Gelişmiş ayarlar",
         "biometry": {

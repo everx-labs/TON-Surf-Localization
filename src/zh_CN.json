@@ -161,6 +161,11 @@
             "unsubscribeBtn": "Unsubscribe"
         }
     },
+    "appUpdater": {
+        "newVersionIsAvailable": "新版本可用",
+        "pleaseUpdate": "请更新",
+        "update": "更新"
+    },
     "advancedSettings": {
         "advancedSettingsButton": "高级设置",
         "biometry": {

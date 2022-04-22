@@ -164,7 +164,7 @@
     "appUpdater": {
         "updateAlert": {
             "title": "Time to update your Surf",
-            "description": "Don't postpone updates to keep you security at the hight level.",
+            "description": "보안을 높은 수준으로 유지하기 위해 업데이트를 미루지 마십시오.",
             "button": "업데이트"
         },
         "chosePackageAlert": {

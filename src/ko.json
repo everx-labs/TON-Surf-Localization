@@ -14,8 +14,8 @@
             "AccountIsShown": "계정이 표시됩니다"
         },
         "assets": {
-            "addressCopied": "지갑 주소가 클립보드에 복사되었습니다",
-            "copyAddressHint": "지갑 주소 복사하기",
+            "addressCopied": "프로필 주소가 클립보드에 복사되었습니다",
+            "copyAddressHint": "프로필 주소 복사",
             "copyAddressHint2": "지갑 주소 복사하기",
             "description": "끌어 놓기 기능 이용하여 자금을 바꾸하고 자산을 바꿀 수 있습니다",
             "exchangeAccount": "계정 바꾸기",
@@ -29,10 +29,6 @@
             "title": "자산",
             "titleAccountName": "{0} 자산",
             "tokenAccount": "토큰"
-        },
-        "charts": {
-            "monthAgo": "30일 전",
-            "today": "오늘"
         },
         "collectibles": {
             "address": "주소",
@@ -108,7 +104,7 @@
                 "operationsHistory": "운영 기록",
                 "sendCoins": "토큰 보내기",
                 "share": "공유하기",
-                "shareMyAddress": "지갑 주소 공유하기",
+                "shareMyAddress": "프로필 주소 공유",
                 "stakeMore": "스테이킹을 더 많이 하기",
                 "whatIsStaking": "스테이킹이 무엇인가요?",
                 "withdraw": "인출하기"
@@ -489,7 +485,7 @@
                 "inviteFriends": "친구를 초대하기",
                 "makeStake": "스테이킹하기",
                 "save": "저장하기",
-                "shareAddress": "지갑 주소 공유하기",
+                "shareAddress": "프로필 주소 공유",
                 "unblockMessages": "차단 해제하기",
                 "withdraw": "인출하기"
             },
@@ -597,7 +593,7 @@
             "failedToSend": "메시지를 보내지 못했습니다. 나중에 다시 시도해 보세요"
         },
         "labels": {
-            "address": "에버스케일 지갑 주소",
+            "address": "에버스케일의 프로필 주소",
             "establishingConnection": "보안 연결 설정 중 ...",
             "today": "오늘",
             "yesterday": "어제"
@@ -652,7 +648,7 @@
         "friends": "친구들",
         "giveAccessToContacts": "연락처에 대한 액세스 허용",
         "info": {
-            "address": "에버스케일 지갑 주소",
+            "address": "에버스케일의 프로필 주소",
             "firstName": "이름",
             "lastName": "성"
         },
@@ -934,23 +930,22 @@
         "memoryCheckButton": "저장되었습니다. 재확인하기"
     },
     "multiWallets": {
-        "addWallet": "지갑을 추가하기",
-        "create": "지갑 만들기",
-        "defaultWalletName": "서프",
-        "editWallet": "지갑 수정",
+        "add": "프로필 추가",
+        "create": "프로필 만들기",
+        "defaultName": "서프",
+        "edit": "프로필 수정",
         "manage": "관리",
-        "manageWallets": "지갑 관리",
-        "migrate": "지갑을 서프로 이동하기",
+        "migrate": "프로필을 서프로 이동",
         "name": "이름",
         "nameTaken": "다른 이름을 선택하십시오. 이 이름을 다른 분이 이미 선택했습니다",
-        "newWalletName": "지갑",
+        "newName": "프로필",
+        "notUniqueWarning": "이 프로필 주소는 이미 추가되었습니다",
         "pair": "계정을 하드웨어 지갑에 몪기",
-        "removeWallet": "지갑 제거",
-        "restore": "지갑 복구하기",
-        "restoreHint": "서프에서만 생성된 지갑은 복구할 수 있습니다",
-        "update": "업데이트",
-        "walletNotUnique": "동일한 주소의 지갑이 이미 추가되었습니다",
-        "wallets": "지갑"
+        "profiles": "프로필",
+        "remove": "프로필 제거",
+        "restore": "프로필 복원",
+        "restoreHint": "이 방법으로 서프 프로필만 복원할 수 있습니다",
+        "update": "업데이트"
     },
     "networks": {
         "errors": {
@@ -1051,12 +1046,12 @@
         "altAddress": "대체 주소 형식",
         "biometry": {
             "face": "얼굴",
-            "faceID": "Face ID",
+            "faceID": "페이스 아이디",
             "fingerprint": "지문",
             "iris": "아이리스",
-            "touchID": "Touch ID"
+            "touchID": "지문 신원 확인"
         },
-        "blockchainAddress": "에버스케일 주소",
+        "blockchainAddress": "에버스케일의 프로필 주소",
         "changePinCode": "암호 변경하기",
         "confirmNewPin": "암호 확인하기",
         "enterNewPin": "새 암호",
@@ -1070,167 +1065,29 @@
         },
         "logOut": {
             "button": "장치의 데이터 삭제 및 종료",
-            "hint": "먼저 시드키를 안전하게 저장해 주십시오. 반드시 시드키가 있어야만 귀하의 지갑에 액세스하실 수 있습니다"
+            "hint": "시드키를 각별히 주의하세요. 프로필에 대한 액세스 권한을 복원할 수 있는 유일한 방법입니다"
         },
         "neverShare": "귀하의 개인 키는 누구에게나 귀하의 자금에 대한 전체 액세스 권한을 부여할 수 있습니다. 신뢰하지 않는 사람이나 응용 프로그램과 절대 공유해서는 안 됩니다.",
         "noThanks": "아니요, 괜찮습니다",
         "nonMainAccountPrivateKeyNote": "이 개인 키는 기본 서프 계정의 보안에 아무런 역할을 하지 않습니다. 그러나 키가 손상되면 이 개인 키로 보호되는 다른 자금 및 데이터가 위험에 처할 수 있습니다. 신뢰하지 않는 사람이나 애플리케이션과 공유해서는 안 됩니다.",
         "privateKey": "개인 키",
         "publicKey": "공개 키",
-        "safelyShare": "사용자의 지갑 주소와 공개 키는 타인과 안전하게 공유할 수 있습니다.",
+        "safelyShare": "안전 위험 없이 프로필 주소와 공개 키를 공유할 수 있습니다.",
         "safetyProtectionButton": "안전 보호",
         "safetyRules": {
             "buttonTitle": "안전 규칙",
             "description": "이 간단한 규칙을 준수하는 것은 귀하의 자산을 안전하게 유지하는 데에 큰 도움이 됩니다",
             "gotItButton": "알겠습니다",
             "rules": [
-                "반드시 확인된 출처에서 서프를 설치하세요 (App Store, Google Play)",
-                "시드키를 잘 보관하세요. 종이에 적으셔서 귀하만 찾으실 수 있는 곳에 보관하십시오. 서프 계정에 접속하시는 기기에는 저장하지 마십시오.",
-                "시드키를 다른 사람이나 앱에 절대 공개하지 마십시오. 서프에서 귀하의 지갑에 대한 액세스를 복원하시는 데에만 사용하십시오.",
+                "신뢰할 수 있는 출처(앱스토어, 구글플레이)에서만 서프를 설치하세요",
+                "시드키를 백업하십시오. 시드키는 귀하만 찾을 수 있는 종이에 종이에 쓰세요. 화면 갭쳐를 하지 마세요. 서프와 같은 장치에 시드키를 유지하지 마십시오!",
+                "시드키를 다른 사람이나 앱에 절대 공개하지 마십시오. 서프에서 귀하의 프로필에 대한 액세스를 복원하시는 데에만 사용하십시오.",
                 "기억하기 쉬운 암호를 사용하시고 절대 적어 두지 마십시오. 다른 애플리케이션 암호와 동일한 암호를 사용하지 마십시오. 누구와도 공유하지 마십시오.",
-                "자산의 보안을 강화하려면 보안 카드를 사용하십시오. 시드키를 잃어버린 경우에도 지갑에 대한 액세스를 복원하는 데에 도움이 될 수 있습니다."
+                "자산의 보안을 강화하려면 보안 카드를 사용하십시오. 시드키를 잃어버린 경우에도 프로필에 대한 액세스를 복원하는 데에 도움이 될 수 있습니다."
             ],
             "screenTitle": "안전 규칙"
         },
         "securityCard": {
-            "activateAnotherCard": "다은 카드 이용을 활성화하세요",
-            "activation": "활성화",
-            "cardCode": "카드 번호",
-            "cardConnected": "카드 연결됨",
-            "cardConnection": "카드 연결 중 ...",
-            "cardsReadyToUse": {
-                "btn": "알겠습니다",
-                "description": "활성화된 카드는 동일합니다. 그 중 하나를 사용하여 작업을 확인하고 다른 하나를 안전한 장소에 숨기는 것이 좋습니다.",
-                "title": "카드를 사용할 준비가 되었습니다"
-            },
-            "checkingCardIntegrity": "카드 무결성을 확인하는 중...",
-            "codeScanning": "코드 스캔하는 중...",
-            "confirm": "확인하기",
-            "confirmAndBuy": "확인 및 구매",
-            "confirmAndOrder": "확인 및 주문",
-            "connectionStatuses": {
-                "connected": {
-                    "description": "가드 세부 사항은 비밀로 해 두세요",
-                    "title": "연결됨"
-                },
-                "connecting": {
-                    "description": "보안 카드를 탭하세요",
-                    "title": "연결 중..."
-                },
-                "connectionLost": {
-                    "description": "다시 연결해 보세요",
-                    "title": "연결이 끊겼습니다"
-                },
-                "error": {
-                    "description": "",
-                    "title": ""
-                },
-                "lookingFor": {
-                    "description": "카드를 더 가까이 두십시오",
-                    "title": "찾아 보는 중..."
-                },
-                "processing": {
-                    "description": "카드를 제거하지 마십시오",
-                    "title": "처리 중..."
-                },
-                "success": {
-                    "description": "카드를 제거할 수 있습니다.",
-                    "title": "성공"
-                }
-            },
-            "continue": "계속하기",
-            "deactivate": "카드 비활성화하기",
-            "deactivateApprovalDescription": "카드는 이 계정에서만 작동하며 다시 활성화해야 합니다",
-            "deactivateApprovalTitle": "보안 카드를 비활성화하시겠습니까?",
-            "deactivateBtn": "비활성화하기",
-            "deactivateDescription": "즉시 다시 활성화할 수 있습니다",
-            "deactivatedCards": "보안 카드가 비활성화되었습니다",
-            "details": "세부 정보",
-            "detailsText": "서프는 귀하와 귀하의 행동을 트래킹, 귀하의 데이터를 수집, 분석 소프트웨어를 사용하지 않습니다. 저희는 간단한 추적 기기조차 가지고 있지 않습니다. 쿠키도 없고 개인 데이터 처리도 없습니다. 이것은 저희의 소명 목표입니다.\n\n경고! 그러나 저희가 통제할 수 없는 기타 제3자 서비스는 단독 재량에 따라 귀하의 데이터를 수집하고 사용할 수 있습니다. 서프에서 해당 서비스를 사용하려는 경우 개인 정보, 쿠키, 사용 약관 및 기타 모든 계약상 구속력이 있는 정책 및 문서를 수락하기 전에 검토할 때 매우 신중해야 합니다.",
-            "detailsTitle": "탈중앙 선언문에서 이미 언급했듯이",
-            "enterCode": "코드를 입력하기",
-            "enterCodeDescription": "카드 번호를 입력하고 카드를 장치에 대고 연결을 설정하십시오",
-            "free": "무료",
-            "included": "주식회사",
-            "laterBtn": "아니요, 나중에",
-            "moreFeaturesSoon": "더 많은 보안 카드 기능이 곧 나타날 것입니다.",
-            "options": "옵션",
-            "order": "주문하기",
-            "orderName": "TON Labs 보안 카드",
-            "orderStatuses": {
-                "confirming": "확인하는 중~",
-                "gettingReady": "준비하고 있습니다",
-                "onItsWay": "배송 중",
-                "processed": "발행됨",
-                "reactivate": "재활성화 필요",
-                "reorder": "재주문해 주세요"
-            },
-            "orderStep": "{0}/4 단계",
-            "paymentDetails": "결제 세부 정보",
-            "promoBtn": "보안 카드 주문하기",
-            "promoText": "트랜잭션에 서명하고 비공개 키를 보관하는 개인화된 하드웨어 지갑입니다.",
-            "promoTitle": "자금을 안전하게 보관하는 간단한 방법",
-            "purchaseSuccessMsg": "축하합니다! 보안 카드를 성공적으로 구입했습니다. 배송 상태를 추적하려면 보안 카드 DeBot에게 전화하십시오.",
-            "purchaseSuccessTitle": "구매가 성공되었습니다",
-            "putCardOnPhoneDescription": "카드 활성화를 위해서 휴대폰 뒷면에 카드를 놓고 눌러주세요",
-            "putCardOnPhoneTitle": "휴대폰에 카드를 대 주세요",
-            "readingCardData": "카드 데이터를 읽는 중...",
-            "recipientInfo": "받는 사람 정보",
-            "reissue": "카드 재발급하기",
-            "reissueApprovalDescription": "카드를 재발급할 때 다른 모든 카드가 일시적으로 비활성화됩니다.",
-            "reissueApprovalTitle": "보안 카드를 재발급하시겠습니까?",
-            "reissueBtn": "재발급하기",
-            "reissueDescription": "카드를 재발급할 때 다른 모든 카드가 일시적으로 비활성화됩니다.",
-            "reviewOrder": "주문 요약",
-            "scanCode": "카드 바코드 스캔하기",
-            "scanCodeDescription": "바코드를 스캔하고 카드를 장치 가까이에 배치해서 연결을 설정하십시오.",
-            "screenTitle": "보안 카드",
-            "shareSecurityCardMessage": "에버스케일 블록체인에서 완전히 개인화된 하드웨어 지갑: 주문한 시간부터 사용자만의 소유와 통제에 있다.{0}",
-            "shareSecurityCardSubtitle": "TON Labs 보안 카드",
-            "shareSecurityCardSuccess": "링크가 클립보드에 복사되었습니다",
-            "shipping": "배송",
-            "shippingAddress": "배송 주소",
-            "signTransfers": "전송을 서명하기",
-            "signTransfersDisabled": "전자서명 이체 비활성화됨",
-            "signTransfersEnabled": "전자서명 이체 활성화됨",
-            "statusInfo": {
-                "confirming": {
-                    "button": "좋습니다!",
-                    "description": "카드 발행에 대한 모든 준비가되어 있는지 확인하고 있습니다. 결과를 알려 드리겠습니다",
-                    "title": "준비하는 중"
-                },
-                "gettingReady": {
-                    "button": "좋다!",
-                    "description": "카드 발급에 대한 모든 준비가 되어 있는지 확인하고 있습니다. 결과를 알려 드리겠습니다",
-                    "title": "준비하고 있습니다"
-                },
-                "onItsWay": {
-                    "button": "주문 현황을 파악하기",
-                    "description": "카드가 거의 도착했으며 추적 번호는 {0} 입니다. 카드를 받은 후 바로 활성화하세요.",
-                    "title": "오는 중",
-                    "txtButton": "활성화하기"
-                },
-                "processed": {
-                    "button": "알겠습니다",
-                    "description": "카드가 거의 준비되었습니다. 곧 택배사에 인계됩니다",
-                    "title": "처리됨"
-                },
-                "reorder": {
-                    "button": "다시 주문",
-                    "description": "카드를 발급할 수 없습니다. 입력한 데이터 중 일부에 오류가 있습니다.",
-                    "title": "다시 주문하세요",
-                    "txtButton": "도움 받기"
-                }
-            },
-            "subtotal": "총 ({0} 항목)",
-            "tapSecurityCard": "보안 카드를 탭하세요",
-            "tapSecurityCardDescription": "카드를 탭하여 작업을 확인하십시오.",
-            "taxAndFees": "세금 및 수수료",
-            "total": "총",
-            "turningOnCardWallet": "카드 지갑을 만드는 중...",
-            "understand": "알겠습니다",
-            "verifyIdentity": "ID 확인",
-            "verifyIdentityDescription": "화면을 보세요",
             "waitlist": {
                 "addedToastMsg": "대기자 명단에 추가되었습니다"
             }
@@ -1282,10 +1139,6 @@
         "title": "설정"
     },
     "setup": {
-        "confirmLocalPassword": {
-            "placeholder": "암호 다시 입력하기",
-            "success": "성공"
-        },
         "firstInteractions": {
             "notifications": {
                 "button": "알림 받기",
@@ -1301,17 +1154,10 @@
             "remindLater": "나중에 상기시켜 주세요"
         },
         "main": {
-            "securityCard": {
-                "create": "새로운 서프 연결하기",
-                "restore": "기존 링크"
-            },
-            "wallet": {
-                "create": "지갑 만들기",
+            "profile": {
+                "create": "프로필 만들기",
                 "restore": "복원하기"
             }
-        },
-        "newPhraseView": {
-            "details": "이 모든 단어를 종이에 적어 안전한 장소에 보관하십시오. 지갑을 분실하거나 다시 설치하는 경우 필요합니다."
         },
         "pinCode": {
             "confirmPin": "암호 확인하기",
@@ -1339,16 +1185,6 @@
             "hint": "12 또는 24 단어",
             "masterPassword": "시드키",
             "title": "서프 복원"
-        },
-        "start": {
-            "securityCard": {
-                "description": "보안을 극대화하기 위해 각 카드는 서핑 계정에 연결되어 있습니다.",
-                "title": "카드 개인화"
-            },
-            "wallet": {
-                "description": "최고의 기회를 위해 서프를 이용하고 안전을 유지하며 정보에 입각한 결정을 내리십시오.",
-                "title": "서프를 통해 에버스케일 블록체인을 탐색할 수 있습니다"
-            }
         },
         "welcome": {
             "item1": {
@@ -1419,7 +1255,7 @@
                 "definition": ": DePool의 총액입니다.",
                 "term": "잔액"
             },
-            "balanceRequirement": "모든 작업(스테이킹, 출금 등)에는 DePool 운영 비용을 지불하는 데 사용되는 0.5 토큰의 최소 지갑 잔액이 필요합니다. 거스름돈을 돌려줍니다.",
+            "balanceRequirement": "모든 작업(스테이킹, 출금 등)에는 DePool 운영 비용을 지불하는 데 사용되는 0.5 토큰의 최소 프로필 잔액이 필요합니다. 거스름돈을 돌려줍니다.",
             "contribution": "블록체인 인프라 및 탈중앙화 기여",
             "dash": "—",
             "description": "DePool은 누구나 스테이크를 공통 풀에 투자할 수 있도록 하는 스마트 컨트랙트입니다. 이 스테이크 투자한 사용자들을 대표하여 검증인이 검증인 선거에 스테이크를 사용하며 성공적인 검증 시 기여도에 비례하여 모든 구성원에게 보상을 지급합니다.",
@@ -1568,7 +1404,7 @@
         },
         "notice": {
             "accept": "받기",
-            "confirmationSentToChat": "지갑 비밀 채팅을 통해 확인을 보냈습니다.",
+            "confirmationSentToChat": "프로필 비밀 채팅을 통해 확인을 보냈습니다.",
             "heyUser": "{0}님 안녕하세요",
             "transactionInvitation": "{0} 친구가 사용자에게 송금을 보냈습니다. 송금 받기를 확인해 주세요"
         },
@@ -1599,10 +1435,10 @@
             "alreadyRequested": "루비는 이미 요청되었습니다. 기다려 주세요"
         },
         "error": {
-            "failedToDecrypt": "암호 해독에 실패했습니다. 다른 지갑으로 로그인해야 할 것 같습니다",
+            "failedToDecrypt": "데이터를 해독할 수 없습니다. 다른 프로필에 로그인해 보세요.",
             "failedToLoadAccounts": "계정을 로드하지 못했습니다.",
-            "failedToLoadWallet": "지갑을 로드하지 못했습니다.",
-            "failedToLoginInTheWallet": "지갑에 로그인하지 못했습니다.",
+            "failedToLoadProfile": "프로필을 로드할 수 없습니다.",
+            "failedToLoginToProfile": "로그인할 수 없습니다. 앱을 다시 시작하고 다시 시도하세요. 오류가 반복되면 {0}에 문의하십시오.",
             "insufficientFunds": "작업을 수행할 자금이 부족합니다. 서프 잔액을 충전하십시오.",
             "limitInvalidValue": "한계 값이 유효하지 않거나 너무 큽니다.",
             "timeIsNotSynced": "시간 동기화 오류가 발생했습니다. 안타깝게도 트랜잭션을 처리할 수 없습니다. 시간 자동 설정 옵션을 활성화하십시오."
@@ -1729,7 +1565,7 @@
             "couldNotIdentifyQRCode": "QR 코드를 인식할 수 없음",
             "insufficientBalance": "부족한 자금",
             "insufficientBalanceForFee": "네트워크 수수료를 지불할 금액이 부족합니다",
-            "insufficientFundsToActivate": "지갑을 활성화할 자금이 부족합니다",
+            "insufficientFundsToActivate": "프로필 활성화할 자금이 부족합니다",
             "limitReached": "금액이 설정된 한도 중 하나를 초과합니다.",
             "notYetSupported": "아직 지원되지 않음"
         },

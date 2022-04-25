@@ -30,10 +30,6 @@
             "titleAccountName": "{0} assets",
             "tokenAccount": "Token"
         },
-        "charts": {
-            "monthAgo": "30 giorni fa",
-            "today": "oggi"
-        },
         "collectibles": {
             "address": "Address",
             "amountFromSupply": "{0} of {1}",
@@ -923,23 +919,22 @@
         "memoryCheckButton": "Salvato. Controlla due volte"
     },
     "multiWallets": {
-        "addWallet": "Add wallet",
-        "create": "Crea portafoglio",
-        "defaultWalletName": "Surf",
-        "editWallet": "Modifica portafoglio",
+        "add": "Add profile",
+        "create": "Create profile",
+        "defaultName": "Surf",
+        "edit": "Edit profile",
         "manage": "Gestisci",
-        "manageWallets": "Gestire i portafogli",
-        "migrate": "Migrare il portafoglio a Surf",
+        "migrate": "Migrate profile to Surf",
         "name": "Nome",
         "nameTaken": "Choose another name. This one is taken already",
-        "newWalletName": "Portafoglio",
+        "newName": "Profile",
+        "notUniqueWarning": "This profile address is already added",
         "pair": "Legare il portafoglio hardware all'account",
-        "removeWallet": "Rimuovere il portafoglio",
-        "restore": "Ripristina portafoglio",
-        "restoreHint": "Puoi ripristinare un portafoglio creato solo in Surf",
-        "update": "Aggiornare",
-        "walletNotUnique": "Same address wallet has been added already",
-        "wallets": "Portafogli"
+        "profiles": "Profiles",
+        "remove": "Remove profile",
+        "restore": "Restore profile",
+        "restoreHint": "You can restore only a Surf profile this way",
+        "update": "Aggiornare"
     },
     "networks": {
         "errors": {
@@ -1082,144 +1077,6 @@
             "screenTitle": "Regole di sicurezza"
         },
         "securityCard": {
-            "activateAnotherCard": "Attiva un'altra carta",
-            "activation": "Attivazione",
-            "cardCode": "Numero di carta",
-            "cardConnected": "Carta collegata",
-            "cardConnection": "Connessione della carta...",
-            "cardsReadyToUse": {
-                "btn": "Fatto!",
-                "description": "Le carte attivate sono equivalenti. Ti consigliamo di utilizzarne una per confermare le azioni, e nascondere l'altra in un luogo sicuro.",
-                "title": "Le carte sono pronte per l'uso"
-            },
-            "checkingCardIntegrity": "Controllo dell'integrità della carta...",
-            "codeScanning": "Scansione del codice...",
-            "confirm": "Conferma",
-            "confirmAndBuy": "Conferma e acquista",
-            "confirmAndOrder": "Confermare e ordina",
-            "connectionStatuses": {
-                "connected": {
-                    "description": "Tieni la carta vicina ",
-                    "title": "Connesso"
-                },
-                "connecting": {
-                    "description": "Tocca la Security Card",
-                    "title": "Connessione..."
-                },
-                "connectionLost": {
-                    "description": "Prova a riconnetterti",
-                    "title": "Connessione persa"
-                },
-                "error": {
-                    "description": "",
-                    "title": ""
-                },
-                "lookingFor": {
-                    "description": "Tieni la carta più vicina",
-                    "title": "Cercando..."
-                },
-                "processing": {
-                    "description": "Non rimuovere la carta",
-                    "title": "Elaborazione..."
-                },
-                "success": {
-                    "description": "La carta può essere rimossa",
-                    "title": "Completato"
-                }
-            },
-            "continue": "Continua",
-            "deactivate": "Disattiva carte",
-            "deactivateApprovalDescription": "Le carte funzioneranno solo con questo account e dovrai ripetere l'attivazione.",
-            "deactivateApprovalTitle": "Disattiva le Security Card?",
-            "deactivateBtn": "Disattiva",
-            "deactivateDescription": "È possibile riattivarle immediatamente.",
-            "deactivatedCards": "Security Card disattivate",
-            "details": "Dettagli",
-            "detailsText": "Surf traccia te né le tue attività. Surf non raccoglie i tuoi dati. Non utilizziamo alcun software di analisi. Non abbiamo nemmeno un semplice tracker. Niente cookie. Nessun trattamento dei dati personali. Niente. Questa è la nostra vocazione e la nostra missione.\n\nAttenzione! Tuttavia, altri servizi di terze parti su cui non abbiamo alcun controllo, possono, a loro esclusiva discrezione e volontà, raccogliere e utilizzare i tuoi dati. Dovresti essere molto attento ed estremamente prudente nel controllare la loro Privacy Policy, la Cookie Policy, i Termini di utilizzo e qualsiasi altra politica e documentazione contrattualmente vincolanti prima di accettare di utilizzare i loro servizi in Surf",
-            "detailsTitle": "Come abbiamo già detto nella Decentralization Policy",
-            "enterCode": "Inserisci il codice",
-            "enterCodeDescription": "Inserisci il codice della carta e posiziona la carta accanto al dispositivo per stabilire una connessione.",
-            "free": "Free",
-            "included": "Inc.",
-            "laterBtn": "No, più tardi",
-            "moreFeaturesSoon": "Altre funzionalità per la Security Card saranno presto disponibili.",
-            "options": "Opzioni",
-            "order": "Ordina",
-            "orderName": "TON Labs Security Card",
-            "orderStatuses": {
-                "confirming": "In conferma",
-                "gettingReady": "Preparazione",
-                "onItsWay": "Sta arrivando",
-                "processed": "Emessa",
-                "reactivate": "Riattivazione necessaria",
-                "reorder": "Riordina per favore"
-            },
-            "orderStep": "Passo {0} di 4",
-            "paymentDetails": "Dettagli di pagamento",
-            "promoBtn": "Ordina la Security Card",
-            "promoText": "Portafoglio hardware personalizzato per firmare transazioni e memorizzare le tue chiavi private.",
-            "promoTitle": "Un modo semplice per tenere i tuoi fondi al sicuro",
-            "purchaseSuccessMsg": "Congratulazioni! Hai acquistato con successo una Security Card. Per monitorare lo stato di consegna avvia il Security Card DeBot",
-            "purchaseSuccessTitle": "Acquisto riuscito",
-            "putCardOnPhoneDescription": "Per attivare la carta tienila premuta sul retro del telefono",
-            "putCardOnPhoneTitle": "Premi la carta sul retro del tuo telefono",
-            "readingCardData": "Lettura dati della carta...",
-            "recipientInfo": "Informazioni sul destinatario",
-            "reissue": "Riemetti la carta",
-            "reissueApprovalDescription": "Quando una carta viene riemessa, tutte le altre carte verranno temporaneamente disattivate",
-            "reissueApprovalTitle": "Riemettere le Security Card?",
-            "reissueBtn": "Riemetti",
-            "reissueDescription": "Quando una carta viene riemessa, tutte le altre carte vengono temporaneamente disattivate",
-            "reviewOrder": "Riepilogo ordine",
-            "scanCode": "Scansiona il codice a barre della carta",
-            "scanCodeDescription": "Scansiona il codice a barre e posiziona la carta sul retro del tuo dispositivo per stabilire una connessione.",
-            "screenTitle": "Security Card",
-            "shareSecurityCardMessage": "Hardware wallet completamente personalizzato su blockchain Everscale: solo tu lo possiedi e lo controlli dal momento in cui effettui l'ordine.\n\n{0}\n",
-            "shareSecurityCardSubtitle": "Security Card\nTON Labs",
-            "shareSecurityCardSuccess": "Link copiato negli appunti",
-            "shipping": "Spedizione",
-            "shippingAddress": "Indirizzo di spedizione",
-            "signTransfers": "Firma trasferimenti",
-            "signTransfersDisabled": "Firma di trasferimento disabilitata",
-            "signTransfersEnabled": "Firma di trasferimento abilitata",
-            "statusInfo": {
-                "confirming": {
-                    "button": "Bene!",
-                    "description": "Stiamo facendo in modo che tutto sia pronto per l'emissione della carta. Riceverai una notifica sull'esito",
-                    "title": "Preparazione"
-                },
-                "gettingReady": {
-                    "button": "Bene!",
-                    "description": "Stiamo facendo in modo che tutto sia pronto per l'emissione della carta. Riceverai una notifica sull'esito",
-                    "title": "Preparazione"
-                },
-                "onItsWay": {
-                    "button": "Traccia",
-                    "description": "La carta è quasi arrivata, il suo numero di tracking è: {0} Attivala appena la ricevi",
-                    "title": "Sta arrivando",
-                    "txtButton": "Attiva"
-                },
-                "processed": {
-                    "button": "Fatto!",
-                    "description": "La carta è quasi pronta. Presto sarà affidata al servizio di consegna",
-                    "title": "Elaborata"
-                },
-                "reorder": {
-                    "button": "Riordina",
-                    "description": "Non possiamo emettere la carta: ci sono alcuni errori nei dati da te inseriti",
-                    "title": "Riordina",
-                    "txtButton": "Chiedi aiuto"
-                }
-            },
-            "subtotal": "Subtotale ( {0} elementi)",
-            "tapSecurityCard": "Tocca Security Card",
-            "tapSecurityCardDescription": "Toccare la carta per confermare l'azione.",
-            "taxAndFees": "Tasse e commissioni",
-            "total": "Totale",
-            "turningOnCardWallet": "Attivazione del card wallet...",
-            "understand": "Fatto",
-            "verifyIdentity": "Verifica la tua identità",
-            "verifyIdentityDescription": "Guarda lo schermo",
             "waitlist": {
                 "addedToastMsg": "Sei stato aggiunto alla lista d'attesa"
             }
@@ -1271,10 +1128,6 @@
         "title": "Impostazioni"
     },
     "setup": {
-        "confirmLocalPassword": {
-            "placeholder": "Ripetere il codice di accesso",
-            "success": "Successo."
-        },
         "firstInteractions": {
             "notifications": {
                 "button": "Ricevi le notifiche",
@@ -1290,17 +1143,10 @@
             "remindLater": "Ricordamelo più tardi"
         },
         "main": {
-            "securityCard": {
-                "create": "Collega un nuovo Surf",
-                "restore": "Collega un Surf esistente"
-            },
-            "wallet": {
+            "profile": {
                 "create": "Crea un wallet",
                 "restore": "Ripristina"
             }
-        },
-        "newPhraseView": {
-            "details": "Annota tutte queste parole su carta e tienile in un luogo sicuro. Ne avrai bisogno se perdi o reinstalli il wallet."
         },
         "pinCode": {
             "confirmPin": "Conferma PIN",
@@ -1328,16 +1174,6 @@
             "hint": "12 o 24 parole",
             "masterPassword": "Master password",
             "title": "Ripristina Surf"
-        },
-        "start": {
-            "securityCard": {
-                "description": "Per massimizzare la sicurezza ogni carta è collegata al tuo account Surf",
-                "title": "Personalizzazione della carta"
-            },
-            "wallet": {
-                "description": "Surf per le migliori opportunità, stai al sicuro e prendi decisioni informate.",
-                "title": "Lascia che Surf ti aiuti a esplorare la blockchain di Everscale"
-            }
         },
         "welcome": {
             "item1": {
@@ -1598,8 +1434,8 @@
         "error": {
             "failedToDecrypt": "Decodifica fallita. Sembra che tu debba accedere con un altro portafoglio",
             "failedToLoadAccounts": "Impossibile caricare gli account.",
-            "failedToLoadWallet": "Impossibile caricare il wallet.",
-            "failedToLoginInTheWallet": "Impossibile accedere al wallet.",
+            "failedToLoadProfile": "Impossibile caricare il wallet.",
+            "failedToLoginToProfile": "Impossibile accedere al wallet.",
             "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
             "limitInvalidValue": "Il valore limite non è valido o è troppo grande.",
             "timeIsNotSynced": "Tempo non sincronizzato. Sfortunatamente, le transazioni non possono essere elaborate. Usa l'impostazione automatica dell'ora."

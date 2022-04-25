@@ -30,10 +30,6 @@
             "titleAccountName": "{0} assets",
             "tokenAccount": "Token"
         },
-        "charts": {
-            "monthAgo": "Vor 30 Tagen",
-            "today": "Heute"
-        },
         "collectibles": {
             "address": "Address",
             "amountFromSupply": "{0} of {1}",
@@ -923,23 +919,22 @@
         "memoryCheckButton": "Gerettet. Überprüfen Sie  doppelt."
     },
     "multiWallets": {
-        "addWallet": "Add wallet",
-        "create": "Wallet erstellen",
-        "defaultWalletName": "Surf",
-        "editWallet": "Brieftasche bearbeiten",
+        "add": "Add profile",
+        "create": "Create profile",
+        "defaultName": "Surf",
+        "edit": "Edit profile",
         "manage": "Verwalten",
-        "manageWallets": "Geldbörsen verwalten",
-        "migrate": "Wallet zu Surf migrieren",
+        "migrate": "Migrate profile to Surf",
         "name": "Name",
         "nameTaken": "Choose another name. This one is taken already",
-        "newWalletName": "Brieftasche",
+        "newName": "Profile",
+        "notUniqueWarning": "This profile address is already added",
         "pair": "Hardware-Wallet mit Konto binden",
-        "removeWallet": "Brieftasche entfernen",
-        "restore": "Brieftasche wiederherstellen",
-        "restoreHint": "Sie können eine Brieftasche wiederherstellen, die nur in Surf erstellt wurde",
-        "update": "Aktualisieren",
-        "walletNotUnique": "Same address wallet has been added already",
-        "wallets": "Geldbörsen"
+        "profiles": "Profiles",
+        "remove": "Remove profile",
+        "restore": "Restore profile",
+        "restoreHint": "You can restore only a Surf profile this way",
+        "update": "Aktualisieren"
     },
     "networks": {
         "errors": {
@@ -1082,144 +1077,6 @@
             "screenTitle": "Sicherheitsregeln"
         },
         "securityCard": {
-            "activateAnotherCard": "Aktiviere eine andere Karte",
-            "activation": "Aktivierung",
-            "cardCode": "Kartencode",
-            "cardConnected": "Karte angeschlossen.",
-            "cardConnection": "Kartenanschluss…",
-            "cardsReadyToUse": {
-                "btn": "Ich habs!",
-                "description": "Die aktivierten Karten sind gleichwertig. Wir empfehlen, eine zu verwenden, um Aktionen zu bestätigen und die andere an einem sicheren Ort zu verstecken.",
-                "title": "Karten sind gebrauchsfertig"
-            },
-            "checkingCardIntegrity": "Überprüfen der Kartenintegrität ...",
-            "codeScanning": "Code scannen…",
-            "confirm": "Bestätigen",
-            "confirmAndBuy": "Bestätigen und kaufen",
-            "confirmAndOrder": "Bestätigen und bestellen",
-            "connectionStatuses": {
-                "connected": {
-                    "description": "Halten Sie die Karte in der Nähe",
-                    "title": "Verbunden"
-                },
-                "connecting": {
-                    "description": "Tippen Sie auf die Sicherheitskarte",
-                    "title": "Anschließen ..."
-                },
-                "connectionLost": {
-                    "description": "Versuchen Sie, die Verbindung wiederherzustellen",
-                    "title": "Kartenanschluss…"
-                },
-                "error": {
-                    "description": "",
-                    "title": ""
-                },
-                "lookingFor": {
-                    "description": "Legen Sie die Karte näher",
-                    "title": "Versuchen zu finden..."
-                },
-                "processing": {
-                    "description": "Entfernen Sie die Karte nicht",
-                    "title": "Wird bearbeitet..."
-                },
-                "success": {
-                    "description": "Die Karte kann entfernt werden",
-                    "title": "Erfolg"
-                }
-            },
-            "continue": "Weiter",
-            "deactivate": "Karten deaktivieren",
-            "deactivateApprovalDescription": "Die Karten funktionieren nur mit diesem Konto und Sie müssen die Aktivierung wiederholen.",
-            "deactivateApprovalTitle": "Sicherheitskarten deaktivieren?",
-            "deactivateBtn": "Deaktivieren",
-            "deactivateDescription": "Sie können sie sofort reaktivieren.",
-            "deactivatedCards": "Sicherheitskarten deaktiviert",
-            "details": "Hinweise",
-            "detailsText": "Surf verfolgt Sie und Ihre Nutzung nicht, Zeitraum. Surf sammelt keine Ihrer Daten. Wir verwenden keine Analysesoftware. Wir haben nicht einmal einen einfachen tracker. Keine cookies ein. Keine Verarbeitung personenbezogener Daten. Nichts. Das ist unsere Berufung und unsere mission.\n\nWarnung! Andere Dienste von Drittanbietern, über die wir keinen Einfluss haben, können Ihre Daten jedoch nach eigenem Ermessen und auf Wunsch erheben und verwenden. Sie sollten Ihre Privatsphäre, cookies, Nutzungsbedingungen und alle anderen vertraglich bindenden Richtlinien und Dokumentationen sehr sorgfältig und äußerst vorsichtig überprüfen, bevor Sie die Nutzung Ihrer Dienste in Surf akzeptieren.",
-            "detailsTitle": "Wie wir bereits in der Dezentralisierungspolitik erwähnt haben",
-            "enterCode": "Code eingeben",
-            "enterCodeDescription": "Geben Sie den code auf der Karte ein und legen Sie die Karte neben das Gerät, um eine Verbindung herzustellen.",
-            "free": "Kostenlos",
-            "included": "Inc.",
-            "laterBtn": "Nicht später",
-            "moreFeaturesSoon": "Weitere Funktionen für die Sicherheitskarte werden in Kürze angezeigt.",
-            "options": "Optionen",
-            "order": "Bestellung",
-            "orderName": "TON Labs-Sicherheitskarte",
-            "orderStatuses": {
-                "confirming": "Vorbereitungen",
-                "gettingReady": "Vorbereitungen",
-                "onItsWay": "Unterwegs",
-                "processed": "Verarbeitet",
-                "reactivate": "Reaktivieren",
-                "reorder": "Bitte nachbestellen"
-            },
-            "orderStep": "Schritt {0} von 4",
-            "paymentDetails": "Zahlungsdetails",
-            "promoBtn": "Bestellen Sie die Karte",
-            "promoText": "Personalisierte hardware-Brieftasche zum signieren von Transaktionen und zum speichern Ihrer privaten Schlüssel.",
-            "promoTitle": "Eine einfachere Möglichkeit, Ihr Geld sicher zu halten",
-            "purchaseSuccessMsg": "Herzlichen Glückwunsch! Sie haben erfolgreich eine Sicherheitskarte erworben. Um den Lieferstatus zu verfolgen, rufen Sie die Sicherheitskarten DeBot an",
-            "purchaseSuccessTitle": "Kauf erfolgreich",
-            "putCardOnPhoneDescription": "Für die Aktivierung setzen und halten Sie die Karte auf der Rückseite des Telefons",
-            "putCardOnPhoneTitle": "Karte auf das Telefon legen",
-            "readingCardData": "Kartendaten lesen ...",
-            "recipientInfo": "Empfängerinfo",
-            "reissue": "Neuausstellungskarte",
-            "reissueApprovalDescription": "Wenn eine Karte erneut ausgegeben wird, werden alle anderen Karten vorübergehend deaktiviert",
-            "reissueApprovalTitle": "Sicherheitskarten neu ausstellen?",
-            "reissueBtn": "Neuausgabe",
-            "reissueDescription": "Wenn eine Karte erneut ausgegeben wird, werden alle anderen Karten vorübergehend deaktiviert",
-            "reviewOrder": "Bestellübersicht",
-            "scanCode": "Scan-code",
-            "scanCodeDescription": "Scannen Sie den code auf der Karte und legen Sie die Karte neben das Gerät, um eine Verbindung herzustellen.",
-            "screenTitle": "Sicherheitsausweis",
-            "shareSecurityCardMessage": "Vollständig personalisierte hardware-Brieftasche auf Everscale blockchain: nur Sie besitzen und Steuern Sie ab dem Zeitpunkt der Auftragserteilung.\n\n{0}",
-            "shareSecurityCardSubtitle": "Sicherheitsausweis\n TON Labs",
-            "shareSecurityCardSuccess": "Link in die Zwischenablage kopiert.",
-            "shipping": "Versand",
-            "shippingAddress": "Lieferadresse",
-            "signTransfers": "Überweisungen unterschreiben",
-            "signTransfersDisabled": "Übertragungssignatur deaktiviert",
-            "signTransfersEnabled": "Übertragungssignatur aktiviert",
-            "statusInfo": {
-                "confirming": {
-                    "button": "Gut!",
-                    "description": "Wir stellen sicher, dass alles für die Kartenausgabe bereit ist. Sie werden über die Ergebnisse informiert.",
-                    "title": "Bereitmachen"
-                },
-                "gettingReady": {
-                    "button": "Gut!",
-                    "description": "Wir sorgen dafür, dass alles für die Kartenausgabe bereit ist. Sie werden über die Ergebnisse informiert.",
-                    "title": "Vorbereitungen"
-                },
-                "onItsWay": {
-                    "button": "Spur",
-                    "description": "Die Karte ist fast da, ihre Tracking-Nummer: {0} . Aktivieren Sie es, sobald Sie es haben.",
-                    "title": "Unterwegs",
-                    "txtButton": "Aktivieren"
-                },
-                "processed": {
-                    "button": "Ich habs!",
-                    "description": "Die Karte ist fast fertig. Bald wird es in den Lieferservice überführt.",
-                    "title": "Verarbeitet"
-                },
-                "reorder": {
-                    "button": "nachbestellen",
-                    "description": "Wir können die Karte nicht ausgeben: in einigen der von Ihnen eingegebenen Daten liegt ein Fehler vor.",
-                    "title": "Bitte nachbestellen",
-                    "txtButton": "Hilfe erhalten"
-                }
-            },
-            "subtotal": "Zwischensumme ( {0} Elemente)",
-            "tapSecurityCard": "Tippen Sie auf Sicherheitskarte",
-            "tapSecurityCardDescription": "Tippen Sie auf die Karte, um die Aktion zu bestätigen.",
-            "taxAndFees": "Steuern und Gebühren",
-            "total": "Insgesamt",
-            "turningOnCardWallet": "Kartenmappe einschalten ...",
-            "understand": "Ich habs",
-            "verifyIdentity": "Bestätigen Sie Ihre Identität",
-            "verifyIdentityDescription": "Schau auf den Bildschirm",
             "waitlist": {
                 "addedToastMsg": "Sie wurden zur Warteliste Hinzugefügt"
             }
@@ -1271,10 +1128,6 @@
         "title": "Einstellungen"
     },
     "setup": {
-        "confirmLocalPassword": {
-            "placeholder": "Passcode wiederholen",
-            "success": "Erfolg."
-        },
         "firstInteractions": {
             "notifications": {
                 "button": "Benachrichtigungen erhalten",
@@ -1290,17 +1143,10 @@
             "remindLater": "Erinnere mich später"
         },
         "main": {
-            "securityCard": {
-                "create": "Link neue Surfen",
-                "restore": "Link zu bestehenden"
-            },
-            "wallet": {
+            "profile": {
                 "create": "Erstellen von Wallet",
                 "restore": "Wiederherstellen"
             }
-        },
-        "newPhraseView": {
-            "details": "Schreiben Sie alle diese Wörter auf Papier und bewahren Sie sie an einem sicheren Ort auf. Sie benötigen sie, wenn Sie die Brieftasche verlieren oder neu installieren."
         },
         "pinCode": {
             "confirmPin": "PIN-Code bestätigen",
@@ -1328,16 +1174,6 @@
             "hint": "12 oder 24 Wörter",
             "masterPassword": "Master Passwort",
             "title": "Surf wiederherstellen"
-        },
-        "start": {
-            "securityCard": {
-                "description": "Um die Sicherheit zu maximieren, ist jede Karte mit Ihrem Surf-Konto verknüpft",
-                "title": "Kartenpersonalisierung"
-            },
-            "wallet": {
-                "description": "Surfen Sie für beste Möglichkeiten, bleiben Sie sicher und treffen Sie fundierte Entscheidungen.",
-                "title": "Lassen Sie sich von Surf bei der Navigation durch die Everscale-Blockkette helfen"
-            }
         },
         "welcome": {
             "item1": {
@@ -1598,8 +1434,8 @@
         "error": {
             "failedToDecrypt": "Entschlüsselung fehlgeschlagen. Sieht so aus, als müssten Sie sich mit einer anderen Brieftasche anmelden",
             "failedToLoadAccounts": "Fehler beim Laden von Konten.",
-            "failedToLoadWallet": "Transaktion konnte nicht gesendet werden",
-            "failedToLoginInTheWallet": "Fehler beim Anmelden bei der Brieftasche.",
+            "failedToLoadProfile": "Transaktion konnte nicht gesendet werden",
+            "failedToLoginToProfile": "Fehler beim Anmelden bei der Brieftasche.",
             "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
             "limitInvalidValue": "Der Grenzwert ist ungültig oder zu groß.",
             "timeIsNotSynced": "Zeit nicht synchronisiert. Transaktionen können leider nicht verarbeitet werden. Bitte aktivieren Sie die Option Zeit automatisch Einstellen."

@@ -30,10 +30,6 @@
             "titleAccountName": "{0} assets",
             "tokenAccount": "Token"
         },
-        "charts": {
-            "monthAgo": "30 gün önce",
-            "today": "bugün"
-        },
         "collectibles": {
             "address": "Address",
             "amountFromSupply": "{0} of {1}",
@@ -923,23 +919,22 @@
         "memoryCheckButton": "Kaydedildi. Tekrar gözden geçir"
     },
     "multiWallets": {
-        "addWallet": "Add wallet",
-        "create": "Create wallet",
-        "defaultWalletName": "Surf",
-        "editWallet": "Edit wallet",
+        "add": "Add profile",
+        "create": "Create profile",
+        "defaultName": "Surf",
+        "edit": "Edit profile",
         "manage": "Yönet",
-        "manageWallets": "Cüzdanları yönet",
-        "migrate": "Migrate wallet to Surf",
+        "migrate": "Migrate profile to Surf",
         "name": "Ad",
         "nameTaken": "Choose another name. This one is taken already",
-        "newWalletName": "Cüzdan",
+        "newName": "Profile",
+        "notUniqueWarning": "This profile address is already added",
         "pair": "Donanım cüzdanını hesaba bağlamak için",
-        "removeWallet": "Cüzdanı kaldır",
-        "restore": "Restore wallet",
-        "restoreHint": "You can restore a wallet created in Surf only",
-        "update": "Güncelle",
-        "walletNotUnique": "Same address wallet has been added already",
-        "wallets": "Cüzdan"
+        "profiles": "Profiles",
+        "remove": "Remove profile",
+        "restore": "Restore profile",
+        "restoreHint": "You can restore only a Surf profile this way",
+        "update": "Güncelle"
     },
     "networks": {
         "errors": {
@@ -1082,144 +1077,6 @@
             "screenTitle": "Güvenlik kuralları"
         },
         "securityCard": {
-            "activateAnotherCard": "Başka bir kartı etkinleştir",
-            "activation": "Etkinleştirme",
-            "cardCode": "Kart kodu",
-            "cardConnected": "Kart bağlandı.",
-            "cardConnection": "Kart bağlanıyor…",
-            "cardsReadyToUse": {
-                "btn": "Anladım!",
-                "description": "Etkinleştirilen kartlar eşdeğerdir. Birini işlemleri onaylamak için kullanmanızı ve diğerini güvenli bir yerde saklamanızı öneririz.",
-                "title": "Kartlar kullanıma hazır"
-            },
-            "checkingCardIntegrity": "Kart bütünlüğü kontrol ediliyor...",
-            "codeScanning": "Kod taranıyor…",
-            "confirm": "Onayla",
-            "confirmAndBuy": "Onayla ve satın al",
-            "confirmAndOrder": "Onayla ve Sipariş Et",
-            "connectionStatuses": {
-                "connected": {
-                    "description": "Kartı yakın tutun",
-                    "title": "Bağlandı"
-                },
-                "connecting": {
-                    "description": "Güvenlik kartınını yakın koyun",
-                    "title": "Bağlanıyor..."
-                },
-                "connectionLost": {
-                    "description": "Yeniden bağlanmayı dene",
-                    "title": "Bağlantı kesildi"
-                },
-                "error": {
-                    "description": "",
-                    "title": ""
-                },
-                "lookingFor": {
-                    "description": "Kartı daha da yaklaştırın",
-                    "title": "Bulmaya çalışıyor..."
-                },
-                "processing": {
-                    "description": "Kartı yana çekmeyin",
-                    "title": "İşleniyor…"
-                },
-                "success": {
-                    "description": "Kartı uzaklaştırabilirsiniz",
-                    "title": "Başarılı"
-                }
-            },
-            "continue": "Devam",
-            "deactivate": "Kartları devre dışı bırak",
-            "deactivateApprovalDescription": "Kartlar yalnızca bu hesap altında çalışacak ve yeniden etkinleştirmeniz gerekecek",
-            "deactivateApprovalTitle": "Güvenlik Kartları devre dışı bırakılsın mı?",
-            "deactivateBtn": "Devre dışı bırak",
-            "deactivateDescription": "Onları hemen yeniden etkinleştirebilirsiniz.",
-            "deactivatedCards": "Güvenlik Kartları devre dışı bırakıldı",
-            "details": "Detaylar",
-            "detailsText": "Surf sizi veya etkinliğinizi takip etmez. Surf hiçbir verinizi toplamaz. Herhangi bir analiz yazılımı kullanmıyoruz. Basit bir izleyicimiz bile yok. Çerez yok. Kişisel veri işleme yok. Hiçbir şey. Bu bizim mevkimiz ve misyonumuzdur.\n\nDikkat! Bununla birlikte, üzerinde kontrolümüz olmayan diğer üçüncü taraf hizmetleri, tamamen kendi takdirine ve iradesine bağlı olarak verilerinizi toplayabilir ve kullanabilir. Hizmetlerini Surf'te kullanmak istiyorsanız, gizliliklerini, tanımlama bilgilerini, kullanım koşullarını ve diğer tüm sözleşmeye dayalı bağlayıcı politikaları ve belgeleri kabul etmeden önce çok dikkatli ve son derece ihtiyatlı olmalısınız.",
-            "detailsTitle": "Ademimerkeziyet Politikasında daha önce bahsettiğimiz gibi",
-            "enterCode": "Kodu girin",
-            "enterCodeDescription": "Karttaki kodu girin ve bağlantı oluşturmak için kartı cihazın yanına yerleştirin.",
-            "free": "Ücretsiz",
-            "included": "A.Ş",
-            "laterBtn": "Şimdi değil",
-            "moreFeaturesSoon": "Güvenlik Kartı için daha fazla özellik yakında görünecektir.",
-            "options": "Seçenekler",
-            "order": "Sipariş",
-            "orderName": "TON Labs Güvenlik Kartı",
-            "orderStatuses": {
-                "confirming": "Hazırlanıyor",
-                "gettingReady": "Hazırlanıyor",
-                "onItsWay": "Yolunda",
-                "processed": "İşlenmiş",
-                "reactivate": "Yeniden etkinleştir",
-                "reorder": "Lütfen yeniden sipariş edin"
-            },
-            "orderStep": "Adım {0}/4",
-            "paymentDetails": "Ödeme detayları",
-            "promoBtn": "Kart sipariş et",
-            "promoText": "İşlemleri imzalamak ve özel anahtarlarınızı saklamak için kişiselleştirilmiş donanım cüzdanı",
-            "promoTitle": "Paranızı güvende tutmanın basit bir yolu",
-            "purchaseSuccessMsg": "Tebrikler! Başarıyla güvenlik kartı satın aldınız. Teslimat durumunu takip etmek için Güvenlik Kartı DeBot'una yazın",
-            "purchaseSuccessTitle": "Başarılı  satın alındı",
-            "putCardOnPhoneDescription": "Kartı etkinleştirmek için telefonunuzun arkasına tutun",
-            "putCardOnPhoneTitle": "Kartı telefona tutun",
-            "readingCardData": "Kart verileri okunuyor...",
-            "recipientInfo": "Alıcı Bilgileri",
-            "reissue": "yeniden kart çıkar",
-            "reissueApprovalDescription": "Kart yeniden verildiğinde, diğer tüm kartlar geçici olarak devre dışı bırakılır",
-            "reissueApprovalTitle": "Güvenlik Kartları yeniden verilsin mi?",
-            "reissueBtn": "Yeniden yayım",
-            "reissueDescription": "Kart yeniden verildiğinde, diğer tüm kartlar geçici olarak devre dışı bırakılır",
-            "reviewOrder": "Sipariş Özeti",
-            "scanCode": "Kodu tara",
-            "scanCodeDescription": "Bağlantı kurmak için karttaki barkodu tarayın ve kartı cihazınızın karşısına yerleştirin",
-            "screenTitle": "Güvenlik Kartı",
-            "shareSecurityCardMessage": "Everscale blok zincirinde tamamen kişiselleştirilmiş donanım cüzdanı: Siparişin verildiğiniz andan itibaren sadece siz sahipsiniz ve sadece siz kontrol edersiniz.\n\n{0}",
-            "shareSecurityCardSubtitle": "TON Labs\nGüvenlik Kartı",
-            "shareSecurityCardSuccess": "Bağlantı kopyalandı",
-            "shipping": "Teslimat",
-            "shippingAddress": "Teslimat adresi",
-            "signTransfers": "Aktarım imzalamak",
-            "signTransfersDisabled": "Aktarım imzası devre dışı bırakıldı",
-            "signTransfersEnabled": "Aktarım imzası etkinleştirildi",
-            "statusInfo": {
-                "confirming": {
-                    "button": "Güzel!",
-                    "description": "Kart sorununda her şeyin hazır olduğunu kontrol ediyoruz. Sonuç size bildirilecektir.",
-                    "title": "Hazırlanıyor"
-                },
-                "gettingReady": {
-                    "button": "Güzel!",
-                    "description": "Kart sorununda her şeyin hazır olduğunu kontrol ediyoruz. Sonuç size bildirilecektir.",
-                    "title": "Hazırlanıyor"
-                },
-                "onItsWay": {
-                    "button": "İzlemek",
-                    "description": "Kart neredeyse orada, takip numarası {0}. Kartı aldığınız anda etkinleştirin.",
-                    "title": "Yola Çıktı",
-                    "txtButton": "Etkinleştir"
-                },
-                "processed": {
-                    "button": "Anladım!",
-                    "description": "Kart hazır olmak üzere. Yakında teslimat servisine teslim edilecektir",
-                    "title": "İşlenmiş"
-                },
-                "reorder": {
-                    "button": "Tekrar Sipariş",
-                    "description": "Kartı düzenleyemiyoruz: girdiğiniz verilerden bazıları hata içeriyor",
-                    "title": "Lütfen yeniden sipariş edin",
-                    "txtButton": "Yardım al"
-                }
-            },
-            "subtotal": "Ara toplam ({0} ürün)",
-            "tapSecurityCard": "Güvenlik Kartına Dokunun",
-            "tapSecurityCardDescription": "Eylemi onaylamak için karta dokunun.",
-            "taxAndFees": "Vergi ve Ücret",
-            "total": "Toplam",
-            "turningOnCardWallet": "Kart cüzdanı açılıyor...",
-            "understand": "Anladım",
-            "verifyIdentity": "Kimliğinizi doğrulayın",
-            "verifyIdentityDescription": "Ekrana bakın",
             "waitlist": {
                 "addedToastMsg": "Bekleme listesine eklendiniz"
             }
@@ -1271,10 +1128,6 @@
         "title": "Ayarlar"
     },
     "setup": {
-        "confirmLocalPassword": {
-            "placeholder": "Şifreyi Tekrarlayın",
-            "success": "Başarılı."
-        },
         "firstInteractions": {
             "notifications": {
                 "button": "Bildirimleri al",
@@ -1290,17 +1143,10 @@
             "remindLater": "Daha sonra hatırlat"
         },
         "main": {
-            "securityCard": {
-                "create": "Yeni Surf'ü bağla",
-                "restore": "Mevcut bağlantılar"
-            },
-            "wallet": {
+            "profile": {
                 "create": "Cüzdan Oluştur",
                 "restore": "Geri yükle"
             }
-        },
-        "newPhraseView": {
-            "details": "Bu kelimeleri bir kağıda yazın ve güvenli yerde saklayın. Cüzdanı kaybederseniz veya yeniden kurarsanız onlara ihtiyacınız olacak."
         },
         "pinCode": {
             "confirmPin": "PIN'i onayla",
@@ -1328,16 +1174,6 @@
             "hint": "12 veya 24 kelime",
             "masterPassword": "Ana şifre",
             "title": "Surf'ü Geri Yükle"
-        },
-        "start": {
-            "securityCard": {
-                "description": "Daha güvenli olmak için tüm kartlar Surf hesabınıza bağlanır",
-                "title": "Kart Kişiselleştirme"
-            },
-            "wallet": {
-                "description": "En iyi fırsatları bulun, güvende kalın ve bilgili kararlar verin.",
-                "title": "Surf, Everscale blok zincirinde gezinmenize yardımcı olmasını sağlayın"
-            }
         },
         "welcome": {
             "item1": {
@@ -1598,8 +1434,8 @@
         "error": {
             "failedToDecrypt": "Şifre çözmesi başarısız oldu. Görünüşe göre başka cüzdana giriş yapmanız gerekiyor",
             "failedToLoadAccounts": "Hesaplar yüklenemedi.",
-            "failedToLoadWallet": "Cüzdan yüklenemedi.",
-            "failedToLoginInTheWallet": "Cüzdana giriş başarısız oldu.",
+            "failedToLoadProfile": "Cüzdan yüklenemedi.",
+            "failedToLoginToProfile": "Cüzdana giriş başarısız oldu.",
             "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
             "limitInvalidValue": "Sınır değeri geçerli değil veya çok büyük.",
             "timeIsNotSynced": "Zamanlama eşitlenmemiştir. Maalesef işlemler başarısız oluyor. Lütfen saati otomatik olarak ayarlamak seçeneğini etkinleştirin."

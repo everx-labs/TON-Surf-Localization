@@ -14,8 +14,8 @@
             "AccountIsShown": "Account is shown"
         },
         "assets": {
-            "addressCopied": "Wallet address copied to clipboard",
-            "copyAddressHint": "Copy the wallet address",
+            "addressCopied": "Your profile address copied to clipboard",
+            "copyAddressHint": "Copy the profile address",
             "copyAddressHint2": "Tap to copy address",
             "description": "Drag-and-drop to exchange funds and rebalance your assets",
             "exchangeAccount": "Exchange account",
@@ -29,10 +29,6 @@
             "title": "Assets",
             "titleAccountName": "{0} assets",
             "tokenAccount": "Token"
-        },
-        "charts": {
-            "monthAgo": "30 days ago",
-            "today": "today"
         },
         "collectibles": {
             "address": "Address",
@@ -108,7 +104,7 @@
                 "operationsHistory": "Operations history",
                 "sendCoins": "Send tokens",
                 "share": "Share",
-                "shareMyAddress": "Share wallet address",
+                "shareMyAddress": "Share profile address",
                 "stakeMore": "Stake more",
                 "whatIsStaking": "What is staking?",
                 "withdraw": "Withdraw"
@@ -481,7 +477,7 @@
                 "inviteFriends": "Invite friends",
                 "makeStake": "Make a stake",
                 "save": "Save",
-                "shareAddress": "Share wallet address",
+                "shareAddress": "Share profile address",
                 "unblockMessages": "Unblock",
                 "withdraw": "Withdraw"
             },
@@ -586,7 +582,7 @@
             "failedToSend": "Failed to send message. Try again later"
         },
         "labels": {
-            "address": "Everscale wallet address",
+            "address": "Profile address on Everscale",
             "establishingConnection": "Establishing a secure connection...",
             "today": "Today",
             "yesterday": "Yesterday"
@@ -643,7 +639,7 @@
         "info": {
             "firstName": "First name",
             "lastName": "Last name",
-            "address": "Everscale wallet address"
+            "address": "Profile address on Everscale"
         },
         "invitation": {
             "view": {
@@ -923,23 +919,22 @@
         "memoryCheckButton": "Saved. Double-check"
     },
     "multiWallets": {
-        "addWallet": "Add wallet",
-        "create": "Create wallet",
-        "defaultWalletName": "Surf",
-        "editWallet": "Edit wallet",
+        "add": "Add profile",
+        "create": "Create profile",
+        "defaultName": "Surf",
+        "edit": "Edit profile",
         "manage": "Manage",
-        "manageWallets": "Manage wallets",
-        "migrate": "Migrate wallet to Surf",
+        "migrate": "Migrate profile to Surf",
         "name": "Name",
         "nameTaken": "Choose another name. This one is taken already",
-        "newWalletName": "Wallet",
+        "newName": "Profile",
+        "notUniqueWarning": "This profile address is already added",
         "pair": "Bind hardware wallet with account",
-        "removeWallet": "Remove wallet",
-        "restore": "Restore wallet",
-        "restoreHint": "You can restore a wallet created in Surf only",
-        "update": "Update",
-        "walletNotUnique": "Same address wallet has been added already",
-        "wallets": "Wallets"
+        "profiles": "Profiles",
+        "remove": "Remove profile",
+        "restore": "Restore profile",
+        "restoreHint": "You can restore only a Surf profile this way",
+        "update": "Update"
     },
     "networks": {
         "errors": {
@@ -1045,7 +1040,7 @@
             "iris": "Iris",
             "touchID": "Touch ID"
         },
-        "blockchainAddress": "Everscale address",
+        "blockchainAddress": "Profile address on Everscale",
         "changePinCode": "Change PIN",
         "confirmNewPin": "Confirm PIN",
         "enterNewPin": "New PIN",
@@ -1059,14 +1054,14 @@
         },
         "logOut": {
             "button": "Delete local data and exit",
-            "hint": "First store your Seed phrase safely, it is the only way to restore your wallet"
+            "hint": "Take extra special care of your seed phrase. It's the only way to restore access to your profile"
         },
         "neverShare": "Your private key may grant anyone full access to your funds. You should never share it with people or applications you do not trust.",
         "noThanks": "No, thanks",
         "nonMainAccountPrivateKeyNote": "This private key plays no role in the security of your main Surf account. However any other funds and data protected by this private key may be endangered, if the key is compromised. You should never share it with people or applications you do not trust.",
         "privateKey": "Private key",
         "publicKey": "Public key",
-        "safelyShare": "Your wallet address and public key may be safely shared with anyone.",
+        "safelyShare": "Your can share your profile address and public key without any security risks.",
         "safetyProtectionButton": "Safety protection",
         "safetyRules": {
             "buttonTitle": "Safety rules",
@@ -1075,151 +1070,13 @@
             "rules": [
                 "Install Surf from verified sources only (App Store, Google Play)",
                 "Backup your Seed phrase. Store it on paper in a location only you can access. Do not make a screenshot. Never keep the Seed phrase on the same device with Surf!",
-                "Do not disclose your Seed phrase to any person or to any app, other than Surf. Only use it to restore access to your wallet in Surf.",
+                "Do not disclose your Seed phrase to any person or to any app, other than Surf. Only use it to restore access to your profile in Surf.",
                 "Use a PIN you can easily remember and never write it down. Don't use the same PIN in other applications. Don't share it with anyone.",
-                "Use Security Card for maximum security of your assets. It can help you restore access to your wallet even if you lose your Seed Phrase"
+                "Use Security Card for maximum security of your assets. It can help you restore access to your profile even if you lose your Seed Phrase"
             ],
             "screenTitle": "Safety rules"
         },
         "securityCard": {
-            "activateAnotherCard": "Activate another card",
-            "activation": "Activation",
-            "cardCode": "Card number",
-            "cardConnected": "Card connected",
-            "cardConnection": "Connecting card...",
-            "cardsReadyToUse": {
-                "btn": "Got it!",
-                "description": "The activated cards are equivalent. We recommend that you use one of them to confirm actions and hide the other one in a safe place",
-                "title": "Cards are ready to use"
-            },
-            "checkingCardIntegrity": "Checking card integrity...",
-            "codeScanning": "Сode scanning…",
-            "confirm": "Confirm",
-            "confirmAndBuy": "Confirm and buy",
-            "confirmAndOrder": "Confirm and Order",
-            "connectionStatuses": {
-                "connected": {
-                    "description": "Keep the card close ",
-                    "title": "Connected"
-                },
-                "connecting": {
-                    "description": "Tap the Security card",
-                    "title": "Connecting..."
-                },
-                "connectionLost": {
-                    "description": "Try to reconnect",
-                    "title": "Connection lost"
-                },
-                "error": {
-                    "description": "",
-                    "title": ""
-                },
-                "lookingFor": {
-                    "description": "Put the card closer",
-                    "title": "Trying to find..."
-                },
-                "processing": {
-                    "description": "Don't remove the card",
-                    "title": "Processing..."
-                },
-                "success": {
-                    "description": "The card can be removed",
-                    "title": "Success"
-                }
-            },
-            "continue": "Continue",
-            "deactivate": "Deactivate cards",
-            "deactivateApprovalDescription": "The cards will work only under this account and you will need to reactivate them",
-            "deactivateApprovalTitle": "Deactivate Security Cards?",
-            "deactivateBtn": "Deactivate",
-            "deactivateDescription": "You can reactivate them immediately",
-            "deactivatedCards": "Security Cards deactivated",
-            "details": "Details",
-            "detailsText": "Surf does not track you and your actions. Surf does not collect any of your data. We do not use any analytics software. We do not even have a simple tracker. No cookies. No personal data processing. Nothing. This is our calling and our mission.\n\nWarning! However, other third-party services that we have no control over, may, at their sole discretion and volition, collect and use your data. You should be very mindful and extremely prudent in reviewing before accepting their privacy, cookies, terms of use, and any and all other contractually binding policies and documentation if you want to use their services in Surf",
-            "detailsTitle": "As we already mentioned in the Decentralization Policy",
-            "enterCode": "Enter code",
-            "enterCodeDescription": "Enter the card number and place the card against your device to establish a connection",
-            "free": "Free",
-            "included": "Inc.",
-            "laterBtn": "No, later",
-            "moreFeaturesSoon": "More Security Card features will appear soon",
-            "options": "Options",
-            "order": "Order",
-            "orderName": "Everscale Security Card",
-            "orderStatuses": {
-                "confirming": "On confirmation",
-                "gettingReady": "Getting ready",
-                "onItsWay": "On its way",
-                "processed": "Issued",
-                "reactivate": "Reactivation required",
-                "reorder": "Reorder please"
-            },
-            "orderStep": "Step {0} of 4",
-            "paymentDetails": "Payment details",
-            "promoBtn": "Order Security Card",
-            "promoText": "Personalized hardware wallet to sign transactions and store your private keys",
-            "promoTitle": "A simple way to keep your funds safe",
-            "purchaseSuccessMsg": "Congratulations! You have successfully purchased a security card. To track the delivery status call the Security Card DeBot",
-            "purchaseSuccessTitle": "Purchase successful",
-            "putCardOnPhoneDescription": "To activate the card place and hold it against the backside of your phone",
-            "putCardOnPhoneTitle": "Place card against your phone",
-            "readingCardData": "Reading card data...",
-            "recipientInfo": "Recipient Info",
-            "reissue": "Reissue card",
-            "reissueApprovalDescription": "When a card is reissued, all the other cards will be temporarily deactivated",
-            "reissueApprovalTitle": "Reissue Security Cards?",
-            "reissueBtn": "Reissue",
-            "reissueDescription": "When a card is reissued, all the other cards will be temporarily deactivated",
-            "reviewOrder": "Order summary",
-            "scanCode": "Scan the card barcode",
-            "scanCodeDescription": "Scan the barcode and place the card against your device to establish a connection",
-            "screenTitle": "Security Card",
-            "shareSecurityCardMessage": "Fully personalized hardware wallet on Everscale blockchain: only you own and control it from the moment of order placement.\n\n{0}",
-            "shareSecurityCardSubtitle": "Security Card",
-            "shareSecurityCardSuccess": "Link copied to clipboard",
-            "shipping": "Shipping",
-            "shippingAddress": "Shipping address",
-            "signTransfers": "Sign transfers",
-            "signTransfersDisabled": "Transfer signature disabled",
-            "signTransfersEnabled": "Transfer signature enabled",
-            "statusInfo": {
-                "confirming": {
-                    "button": "Good!",
-                    "description": "We are making sure everything is ready for the card issue. You will be notified of the results",
-                    "title": "Getting ready"
-                },
-                "gettingReady": {
-                    "button": "Good!",
-                    "description": "We are making sure everything is ready for the card issue. You will be notified of the results",
-                    "title": "Getting ready"
-                },
-                "onItsWay": {
-                    "button": "Track",
-                    "description": "The card is almost there, its tracking number is {0}. Activate it as soon, as you get it",
-                    "title": "On its way",
-                    "txtButton": "Activate"
-                },
-                "processed": {
-                    "button": "Got it!",
-                    "description": "The card is almost ready. It will be handed over to the delivery service soon",
-                    "title": "Processed"
-                },
-                "reorder": {
-                    "button": "Reorder",
-                    "description": "We cannot issue the card: some of the data you entered contains an error",
-                    "title": "Please reorder",
-                    "txtButton": "Get help"
-                }
-            },
-            "subtotal": "Subtotal ({0} items)",
-            "tapSecurityCard": "Tap Security Card",
-            "tapSecurityCardDescription": "Tap the card to confirm the action",
-            "taxAndFees": "Tax and Fees",
-            "total": "Total",
-            "turningOnCardWallet": "Turning on card wallet...",
-            "understand": "Got it",
-            "verifyIdentity": "Verify your identity",
-            "verifyIdentityDescription": "Look at the screen",
             "waitlist": {
                 "addedToastMsg": "You have been added to the waitlist"
             }
@@ -1271,10 +1128,6 @@
         "title": "Settings"
     },
     "setup": {
-        "confirmLocalPassword": {
-            "placeholder": "Repeat Passcode",
-            "success": "Success."
-        },
         "firstInteractions": {
             "notifications": {
                 "button": "Receive notifications",
@@ -1290,17 +1143,10 @@
             "remindLater": "Remind me later"
         },
         "main": {
-            "securityCard": {
-                "create": "Link new Surf",
-                "restore": "Link existing Surf"
-            },
-            "wallet": {
-                "create": "Create Wallet",
+            "profile": {
+                "create": "Create profile",
                 "restore": "Restore"
             }
-        },
-        "newPhraseView": {
-            "details": "Write down all these words on paper and keep them in a safe place. You will need them if you lose or reinstall the wallet."
         },
         "pinCode": {
             "confirmPin": "Confirm PIN",
@@ -1328,16 +1174,6 @@
             "hint": "12 or 24 words",
             "masterPassword": "Seed phrase",
             "title": "Restore Surf"
-        },
-        "start": {
-            "securityCard": {
-                "description": "To maximize security each card is linked to your Surf account",
-                "title": "Card Personalization"
-            },
-            "wallet": {
-                "description": "Surf for best opportunities, stay safe and make informed decisions.",
-                "title": "Let Surf help you navigate through the Everscale blockchain"
-            }
         },
         "welcome": {
             "item1": {
@@ -1408,7 +1244,7 @@
                 "definition": " – this is the total amount of funds in the DePool.",
                 "term": "Balance"
             },
-            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum wallet balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
+            "balanceRequirement": "All actions (staking, withdrawing, etc.) require a minimum account balance of 0.5 tokens, which is used to pay for DePool operations. Change is returned.",
             "contribution": "Contribution to blockchain infrastructure and decentralization",
             "dash": "—",
             "description": "DePool is a smart contract that allows anyone to invest stakes into a common pool, which it then uses in validator elections on behalf of the validator owning it, and upon successful validation pays rewards to all members proportionally to their contribution.",
@@ -1565,7 +1401,7 @@
         },
         "notice": {
             "accept": "Accept",
-            "confirmationSentToChat": "We have sent confirmation via wallet secret chat.",
+            "confirmationSentToChat": "We have sent confirmation via profile secret chat.",
             "heyUser": "Hey {0}",
             "transactionInvitation": "Your friend {0} sent you a transfer. Confirm receipt"
         },
@@ -1596,10 +1432,10 @@
             "alreadyRequested": "Rubies have already been requested. Please wait"
         },
         "error": {
-            "failedToDecrypt": "Decryption failed. Looks like you need to log in with another wallet",
+            "failedToDecrypt": "Unable to decrypt data. Please try to sign in to another profile.",
             "failedToLoadAccounts": "Failed to load accounts.",
-            "failedToLoadWallet": "Failed to load wallet.",
-            "failedToLoginInTheWallet": "Could not log into the wallet. Please restart the app and try again. If the error persists, contact {0}.",
+            "failedToLoadProfile": "Unable to load profile.",
+            "failedToLoginToProfile": "Unable to sign in. Please restart the app and try again. If error repeats, contact {0}.",
             "insufficientFunds": "Insufficient funds to perform operation. Please top up main Surf balance.",
             "limitInvalidValue": "The limit value is not valid or it is too large.",
             "timeIsNotSynced": "Time not synchronized. Unfortunately, transactions cannot be processed. Please enable the Set time automatically option."
@@ -1726,7 +1562,7 @@
             "couldNotIdentifyQRCode": "Couldn't identify QR code",
             "insufficientBalance": "Insufficient funds",
             "insufficientBalanceForFee": "Insufficient funds for network fee",
-            "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
+            "insufficientFundsToActivate": "Insufficient funds to activate your profile",
             "limitReached": "The amount exceeds one of the established limits",
             "notYetSupported": "Not supported yet"
         },

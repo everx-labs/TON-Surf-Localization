@@ -1539,7 +1539,7 @@
             "note": "Note",
             "pending": "Pending...",
             "received": "Received",
-            "recipientAddress": "Recipent’s address",
+            "recipientAddress": "Recipient’s address",
             "repeatTransaction": "Send again",
             "result": "Status",
             "reverseTransaction": "Give back",

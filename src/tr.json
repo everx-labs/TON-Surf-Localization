@@ -1539,7 +1539,7 @@
             "note": "Note",
             "pending": "Bekleyen...",
             "received": "Alındı",
-            "recipientAddress": "Recipent’s address",
+            "recipientAddress": "Recipient’s address",
             "repeatTransaction": "Send again",
             "result": "Sonuç",
             "reverseTransaction": "Give back",

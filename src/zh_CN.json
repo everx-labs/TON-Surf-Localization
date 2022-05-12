@@ -695,6 +695,19 @@
     "debotsOptions": {
         "title": "机器人选项"
     },
+    "desktopMigration": {
+        "header": "Web version is no longer available",
+        "description": "You can continue using Surf on your mobile device or install the desktop version of the Surf app. To sign in to your profile on the mobile or desktop app, you need to enter a seed phrase as described.",
+        "seedPhrase": "Get my seed phrase",
+        "learnMore": "Learn more",
+        "download": "Download desktop app",
+        "finishMigrationButton": "Stop using web version",
+        "finishMigrationTitle": "Final step",
+        "finishMigrationCompleted": "Migration is completed",
+        "finishMigrationNote": "For your safety, we are going to permanently delete your local data without the opportunity to restore it. Make sure you saved your seed phrase and installed the Surf desktop app.",
+        "finishMigrationCancel": "Cancel",
+        "finishMigrationDelete": "Delete local data"
+    },
     "donate": {
         "title": "捐赠给Surf"
     },

@@ -703,7 +703,6 @@
         "download": "Download desktop app",
         "finishMigrationButton": "Stop using web version",
         "finishMigrationTitle": "Final step",
-        "finishMigrationCompleted": "Migration is completed",
         "finishMigrationNote": "For your safety, we are going to permanently delete your local data without the opportunity to restore it. Make sure you saved your seed phrase and installed the Surf desktop app.",
         "finishMigrationCancel": "Cancel",
         "finishMigrationDelete": "Delete local data"

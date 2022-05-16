@@ -695,6 +695,21 @@
     "debotsOptions": {
         "title": "DeBot seçenekleri"
     },
+    "desktopMigration": {
+        "softHeader": "Install the Surf desktop app",
+        "header": "Web version is no longer available",
+        "softDescription": "It’s risky to keep using the Surf web version. The safety of your assets can be compromised. Please download and install the Surf app for your desktop device — enjoy the familiar Surf but more safe and secure.",
+        "description": "You can continue using Surf on your mobile device or install the desktop version of the Surf app. To sign in to your profile on the mobile or desktop app, you need to enter a seed phrase as described.",
+        "seedPhrase": "Get my seed phrase",
+        "learnMore": "Learn more",
+        "download": "Download desktop app",
+        "finishMigrationButton": "Stop using web version",
+        "finishMigrationTitle": "Final step",
+        "finishMigrationNote": "For your safety, we are going to permanently delete your local data without the opportunity to restore it. Make sure you saved your seed phrase and installed the Surf desktop app.",
+        "finishMigrationCancel": "Cancel",
+        "finishMigrationDelete": "Delete local data",
+        "skip": "Skip"
+    },
     "donate": {
         "title": "Surf'e Bağış Yap"
     },

@@ -957,6 +957,7 @@
             "networkUnavailable": "Niente di aggiunto. Specificare un indirizzo endpoint valido o verificare la connessione di rete."
         },
         "names": {
+            "fldnet": "FLD network",
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "Devnet"

@@ -957,6 +957,7 @@
             "networkUnavailable": "Hiçbir şey eklenmedi. Lütfen geçerli bir uç nokta adresi belirtin veya ağ bağlantısını doğrulayın."
         },
         "names": {
+            "fldnet": "FLD network",
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "Geliştirici ağı"

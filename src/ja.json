@@ -957,6 +957,7 @@
             "networkUnavailable": "何も追加されていません。有効なエンドポイントアドレスを指定するか、ネットワーク接続を確認してください。"
         },
         "names": {
+            "fldnet": "FLD network",
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "デブネット"

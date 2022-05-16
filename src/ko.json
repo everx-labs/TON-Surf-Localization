@@ -968,6 +968,7 @@
             "networkUnavailable": "아무것도 추가되지 않았습니다. 유효한 엔드포인트 주소를 지정하거나 네트워크 연결을 확인하십시오"
         },
         "names": {
+            "fldnet": "FLD network",
             "mainnet": "메인넷",
             "rustnet": "Rustnet",
             "tonlabs": "데브넷"

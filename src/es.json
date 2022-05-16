@@ -957,6 +957,7 @@
             "networkUnavailable": "Nada añadido. Especifique una dirección de punto final válida o compruebe la conexión de red."
         },
         "names": {
+            "fldnet": "FLD network",
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "Devnet"

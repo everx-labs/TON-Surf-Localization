@@ -1303,6 +1303,22 @@
         "main": {
             "button": "Rebalance"
         },
+        "pool": {
+            "amount": "Amount",
+            "apy": "{0} APY",
+            "deposit": "Deposit {0} EVER",
+            "estimatedRewards": "Estimated rewards",
+            "minMax": "min. {0} — {1} max.",
+            "monthly": "+{0} monthly",
+            "percentage": "{0}%",
+            "share": "Share",
+            "stake": "Stake",
+            "stakedDeposit": "Staked deposit",
+            "title": "Ever Pool",
+            "unstake": "Unstake",
+            "unstaking": "Unstaking",
+            "usd": "{0} USD"
+        },
         "stakingScreen": {
             "about": "About",
             "advancedFeatures": "Erweiterte Funktionen",

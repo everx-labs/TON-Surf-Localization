@@ -679,6 +679,24 @@
         "update": "Atualizar"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Everscale tokens",
+                "title": "Evers"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Everscale test tokens",
+                "title": "Devers"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "title": "Surf Medals"
+            }
+        },
         "crypto": {
             "BTC": "Bitcoin",
             "ETH": "Ethereum"
@@ -997,42 +1015,6 @@
             "notice": "Try a new level of security with Surf"
         }
     },
-    "rebalance": {
-        "amount": "Quantia",
-        "amountIsLow": "Montante de transferência muito baixo",
-        "confirm": "Confirmar",
-        "congrats": "Parabéns por fazer mudanças em sua vida. Viu como não dói?",
-        "currencies": {
-            "EVER": {
-                "comment": "Everscale tokens",
-                "title": "Evers"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Everscale test tokens",
-                "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
-            }
-        },
-        "disableAutoresume": "Desabilitar o Reinvestimento Automático",
-        "from": "De",
-        "insufficientBalance": "Saldo insuficiente.",
-        "notEnoughBalance": "Sua conta na Devnet não possui fundos suficientes para pagar a taxa de rede.",
-        "oneMore": "Mais um",
-        "success": "Transferência bem sucedida",
-        "to": "Para",
-        "toTransfer": "Para transferir tokens, desabilite o Reinvestimento Automático",
-        "toTransferMore": "Para transferir mais do que {0} tokens, desabilite o Reinvestimento Automático.",
-        "transfer": "Transferir",
-        "transferAll": "Transferir tudo",
-        "willBeAvailable": "Os tokens estarão disponíveis para saque em {0}"
-    },
     "restorePassword": {
         "mainComponent": {
             "description": "Esta é sua Senha Mestra do Surf. Anote-a e guarde-a em um local seguro, não neste aparelho!",
@@ -1108,7 +1090,7 @@
         "title": "Aviso de segurança!",
         "understand": "Entendi"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Depositar",
         "fee": "Taxas",
         "feeAmount": "≈ {0}",
@@ -1511,11 +1493,6 @@
         "sendGrams": {
             "confirm": "Confirmar",
             "confirmAndSend": "Confirmar e Enviar",
-            "currencies": {
-                "mainnet": "cristais",
-                "private": "rubis",
-                "tonlabs": "rubis"
-            },
             "enterValidAddress": "Endereço Everscale…",
             "from": "De",
             "invalidAddress": "Endereço inválido.",

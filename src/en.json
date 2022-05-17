@@ -679,6 +679,24 @@
         "update": "Update"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Everscale tokens",
+                "title": "Evers"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Everscale test tokens",
+                "title": "Devers"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "title": "Surf Medals"
+            }
+        },
         "crypto": {
             "BTC": "Bitcoin",
             "ETH": "Ethereum"
@@ -997,42 +1015,6 @@
             "notice": "Try a new level of security with Surf"
         }
     },
-    "rebalance": {
-        "amount": "Amount",
-        "amountIsLow": "Transfer amount too low",
-        "confirm": "Confirm",
-        "congrats": "Congrats on making changes in your life. It never hurts.",
-        "currencies": {
-            "EVER": {
-                "comment": "Everscale tokens",
-                "title": "Evers"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Everscale test tokens",
-                "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
-            }
-        },
-        "disableAutoresume": "Disable Autoresume",
-        "from": "From",
-        "insufficientBalance": "Insufficient balance.",
-        "notEnoughBalance": "Your Devnet account does not have sufficient funds to pay for the network fee.",
-        "oneMore": "One more",
-        "success": "Transfer successful",
-        "to": "To",
-        "toTransfer": "To transfer tokens, disable Autoresume",
-        "toTransferMore": "To transfer more than {0} tokens, disable Autoresume.",
-        "transfer": "Transfer",
-        "transferAll": "Transfer all",
-        "willBeAvailable": "Tokens will be available for withdrawal within {0}"
-    },
     "restorePassword": {
         "mainComponent": {
             "description": "This is your Surf Seed Phrase. Write it down and keep it in a secure location, not on this device!",
@@ -1108,7 +1090,7 @@
         "title": "Safety warning!",
         "understand": "Got it"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Deposit",
         "fee": "Fees",
         "feeAmount": "≈ {0}",
@@ -1511,11 +1493,6 @@
         "sendGrams": {
             "confirm": "Confirm",
             "confirmAndSend": "Confirm and Send",
-            "currencies": {
-                "mainnet": "evers",
-                "private": "rubies",
-                "tonlabs": "rubies"
-            },
             "enterValidAddress": "Everscale address...",
             "from": "From",
             "invalidAddress": "Invalid address.",

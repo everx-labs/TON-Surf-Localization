@@ -679,6 +679,24 @@
         "update": "Обновить"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Токены Everscale",
+                "title": "Эверы"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Тестовые токены Everscale",
+                "title": "Дэверы"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "title": "Mедали Surf"
+            }
+        },
         "crypto": {
             "BTC": "Биткойн",
             "ETH": "Эфириум"
@@ -997,42 +1015,6 @@
             "notice": "Surf выходит на новый уровень безопасности"
         }
     },
-    "rebalance": {
-        "amount": "Сумма",
-        "amountIsLow": "Сумма перевода слишком мала",
-        "confirm": "Подтвердить",
-        "congrats": "Поздравляем с переменами в жизни! Они к лучшему",
-        "currencies": {
-            "EVER": {
-                "comment": "Токены Everscale",
-                "title": "Эверы"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Тестовые токены Everscale",
-                "title": "Дэверы"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Mедали Surf"
-            }
-        },
-        "disableAutoresume": "Отключить автопродление",
-        "from": "От",
-        "insufficientBalance": "Недостаточно средств",
-        "notEnoughBalance": "На вашем балансе разработчика недостаточно средств для списания комиссии сети",
-        "oneMore": "Еще раз",
-        "success": "Перевод прошел успешно",
-        "to": "Кому",
-        "toTransfer": "Чтобы перевести токены, отключите автопродление",
-        "toTransferMore": "Чтобы перевести более {0} токенов, отключите автопродление.",
-        "transfer": "Перевод",
-        "transferAll": "Перевести всё",
-        "willBeAvailable": "Токены будут доступны для вывода в течение {0}"
-    },
     "restorePassword": {
         "mainComponent": {
             "description": "Это ваша сид-фраза Surf. Запишите ее на бумаге и сохраните в надежном месте, не на устройстве!",
@@ -1108,7 +1090,7 @@
         "title": "Предупреждение безопасности!",
         "understand": "Понятно"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Депозит",
         "fee": "Комиссия",
         "feeAmount": "≈ {0}",
@@ -1512,11 +1494,6 @@
         "sendGrams": {
             "confirm": "Подтвердить",
             "confirmAndSend": "Подтвердить и отправить",
-            "currencies": {
-                "mainnet": "эверы",
-                "private": "рубины",
-                "tonlabs": "рубины"
-            },
             "enterValidAddress": "Адрес профиля",
             "from": "От",
             "invalidAddress": "Недействительный адрес",

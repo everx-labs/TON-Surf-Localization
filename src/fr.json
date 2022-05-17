@@ -679,6 +679,24 @@
         "update": "Mettre à jour"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Jetons Everscale",
+                "title": "Evers"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Jetons de test Everscale",
+                "title": "Devers"
+            },
+            "SRFM": {
+                "comment": "Jeton True NFT Médaille Surf",
+                "title": "Surf Medals"
+            }
+        },
         "crypto": {
             "BTC": "Bitcoin",
             "ETH": "Ethereum"
@@ -997,42 +1015,6 @@
             "notice": "Try a new level of security with Surf"
         }
     },
-    "rebalance": {
-        "amount": "Montant",
-        "amountIsLow": "Montant du transfert trop faible",
-        "confirm": "Confirmer",
-        "congrats": "Félicitations pour avoir fait des changements dans votre vie. Ça ne fait jamais mal.",
-        "currencies": {
-            "EVER": {
-                "comment": "Jetons Everscale",
-                "title": "Evers"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Jetons de test Everscale",
-                "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Jeton True NFT Médaille Surf",
-                "title": "Surf Medals"
-            }
-        },
-        "disableAutoresume": "Désactiver la reprise automatique",
-        "from": "De",
-        "insufficientBalance": "Solde insuffisant.",
-        "notEnoughBalance": "Votre compte Devnet ne dispose pas de fonds suffisants pour payer les frais de réseau.",
-        "oneMore": "Un de plus",
-        "success": "Transfert réussi",
-        "to": "À",
-        "toTransfer": "Pour transférer des tokens, désactivez la reprise automatique",
-        "toTransferMore": "Pour transférer plus de {0} tokens, désactivez la reprise automatique.",
-        "transfer": "Transférer",
-        "transferAll": "Transférer tout",
-        "willBeAvailable": "Les tokens pourront être retirés dans un délai de {0}."
-    },
     "restorePassword": {
         "mainComponent": {
             "description": "Ceci est votre phrase Seed pour Surf. Notez-la et gardez-la dans un endroit sûr, pas sur cet appareil !",
@@ -1108,7 +1090,7 @@
         "title": "Alerte de sécurité!",
         "understand": "J'ai compris"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Dépôt",
         "fee": "Frais",
         "feeAmount": "≈ {0}",
@@ -1511,11 +1493,6 @@
         "sendGrams": {
             "confirm": "Confirmer",
             "confirmAndSend": "Confirmer et envoyer",
-            "currencies": {
-                "mainnet": "cristaux",
-                "private": "rubis",
-                "tonlabs": "rubis"
-            },
             "enterValidAddress": "Adresse Everscale",
             "from": "De",
             "invalidAddress": "Adresse non valide.",

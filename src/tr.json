@@ -679,6 +679,24 @@
         "update": "Güncelle"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Everscale tokens",
+                "title": "Evers"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Everscale test tokens",
+                "title": "Devers"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "title": "Surf Medals"
+            }
+        },
         "crypto": {
             "BTC": "Bitcoin",
             "ETH": "Ethereum"
@@ -997,42 +1015,6 @@
             "notice": "Try a new level of security with Surf"
         }
     },
-    "rebalance": {
-        "amount": "Miktar",
-        "amountIsLow": "Aktarım miktarı çok düşük",
-        "confirm": "Onayla",
-        "congrats": "Hayatınızda değişiklik yaptığınız için tebrikler. Zararsız olsun.",
-        "currencies": {
-            "EVER": {
-                "comment": "Everscale tokens",
-                "title": "Evers"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Everscale test tokens",
-                "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
-            }
-        },
-        "disableAutoresume": "Otomatik Devamı kapat",
-        "from": "Gönderen:",
-        "insufficientBalance": "Yetersiz bakiye.",
-        "notEnoughBalance": "Geliştirici ağı hesabınız, ağ ücretini ödemek için yeterli bakiyeye sahip değil.",
-        "oneMore": "Bir daha",
-        "success": "Başarılı Aktarıldı",
-        "to": "Alıcı:",
-        "toTransfer": "Para aktarmak için Otomatik Devamı kapatın",
-        "toTransferMore": "{0} belirteçten fazlasını aktarmak için Otomatik Devamı kapatın.",
-        "transfer": "Aktar",
-        "transferAll": "Tümünü aktar",
-        "willBeAvailable": "Belirteçler, {0} içinde çekilebilecek"
-    },
     "restorePassword": {
         "mainComponent": {
             "description": "Bu, Surf Ana Şifrenizdir. Yazın ve güvenli bir yerde saklayın, bu cihazda değil!",
@@ -1108,7 +1090,7 @@
         "title": "Güvenlik uyarısı!",
         "understand": "Anladım"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Deposit",
         "fee": "Ücret",
         "feeAmount": "≈ {0}",
@@ -1511,11 +1493,6 @@
         "sendGrams": {
             "confirm": "Onayla",
             "confirmAndSend": "Onayla ve Gönder",
-            "currencies": {
-                "mainnet": "kristal",
-                "private": "yakut",
-                "tonlabs": "yakut"
-            },
             "enterValidAddress": "Everscale adresi...",
             "from": "Gönderen:",
             "invalidAddress": "Geçersiz adresi.",

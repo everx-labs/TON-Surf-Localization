@@ -679,6 +679,24 @@
         "update": "Aktualisierung"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Everscale tokens",
+                "title": "Evers"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Everscale test tokens",
+                "title": "Devers"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "title": "Surf Medals"
+            }
+        },
         "crypto": {
             "BTC": "Bitcoin",
             "ETH": "Ethereum"
@@ -997,42 +1015,6 @@
             "notice": "Try a new level of security with Surf"
         }
     },
-    "rebalance": {
-        "amount": "Menge",
-        "amountIsLow": "Überweisungsbetrag zu niedrig",
-        "confirm": "Bestätigen",
-        "congrats": "Herzlichen Glückwunsch zu Ihren Veränderungen in Ihrem Leben. Es tut nie weh.",
-        "currencies": {
-            "EVER": {
-                "comment": "Everscale tokens",
-                "title": "Evers"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Everscale test tokens",
-                "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
-            }
-        },
-        "disableAutoresume": "Autoresume deaktivieren",
-        "from": "Von",
-        "insufficientBalance": "Unzureichendes Gleichgewicht.",
-        "notEnoughBalance": "Ihr Devnet-Konto verfügt nicht über ausreichende Mittel, um die Netzwerkgebühr zu bezahlen.",
-        "oneMore": "Eine weitere",
-        "success": "Übertragung erfolgreich",
-        "to": "Zu",
-        "toTransfer": "Um Token zu übertragen, deaktivieren Sie Autoresume",
-        "toTransferMore": "Um mehr als {0}-Token zu übertragen, deaktivieren Sie Autoresume.",
-        "transfer": "Transfer",
-        "transferAll": "Alle übertragen",
-        "willBeAvailable": "Tokens können innerhalb von {0} abgehoben werden."
-    },
     "restorePassword": {
         "mainComponent": {
             "description": "Hier ist Ihr Surf-Master-Passwort. Schreiben Sie es auf und bewahren Sie es an einem sicheren Ort auf.",
@@ -1108,7 +1090,7 @@
         "title": "Sicherheitswarnung!",
         "understand": "Verstanden"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Deposit",
         "fee": "Gebühren",
         "feeAmount": "≈ {0}",
@@ -1511,11 +1493,6 @@
         "sendGrams": {
             "confirm": "Bestätigen",
             "confirmAndSend": "Bestätigen und senden",
-            "currencies": {
-                "mainnet": "crystals",
-                "private": "rubies",
-                "tonlabs": "rubies"
-            },
             "enterValidAddress": "Everscale Adresse ...",
             "from": "Von",
             "invalidAddress": "Ungültige Adresse.",

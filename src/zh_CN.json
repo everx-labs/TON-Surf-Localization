@@ -679,6 +679,24 @@
         "update": "更新"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Everscale tokens",
+                "title": "Evers"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Everscale test tokens",
+                "title": "Devers"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "title": "Surf Medals"
+            }
+        },
         "crypto": {
             "BTC": "Bitcoin",
             "ETH": "Ethereum"
@@ -997,42 +1015,6 @@
             "notice": "Try a new level of security with Surf"
         }
     },
-    "rebalance": {
-        "amount": "数量",
-        "amountIsLow": "转账金额太低",
-        "confirm": "确认",
-        "congrats": "恭喜您改变生活。永远不会痛。",
-        "currencies": {
-            "EVER": {
-                "comment": "Everscale tokens",
-                "title": "Evers"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Everscale test tokens",
-                "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
-            }
-        },
-        "disableAutoresume": "禁用自动恢复",
-        "from": "从",
-        "insufficientBalance": "余额不足。",
-        "notEnoughBalance": "您的开发网账户没有足够的资金来支付网络费用。",
-        "oneMore": "多一个",
-        "success": "转移成功",
-        "to": "至",
-        "toTransfer": "为了传输代币，请禁用自动更新。",
-        "toTransferMore": "为了传输{0}多代币，请禁用自动更新。",
-        "transfer": "转移",
-        "transferAll": "转移所有",
-        "willBeAvailable": "代币可在{0}内提取"
-    },
     "restorePassword": {
         "mainComponent": {
             "description": "这里是您的冲浪主口令。把它写下来，并留在一个安全的位置。",
@@ -1108,7 +1090,7 @@
         "title": "安全警告!",
         "understand": "明白了"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Deposit",
         "fee": "费用",
         "feeAmount": "≈ {0}",
@@ -1511,11 +1493,6 @@
         "sendGrams": {
             "confirm": "确认",
             "confirmAndSend": "确认并发送",
-            "currencies": {
-                "mainnet": "crystals",
-                "private": "rubies",
-                "tonlabs": "rubies"
-            },
             "enterValidAddress": "Everscale地址",
             "from": "从",
             "invalidAddress": "无效的地址。",

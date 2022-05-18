@@ -1477,7 +1477,7 @@
             "yourBalance": "사용자 잔액"
         },
         "operationResults": {
-            "completed": "Everything is fine, your transfer will come any minute soo",
+            "completed": "Everything is fine, your transfer will come any minute soon",
             "done": "끝",
             "failed": "Unable to complete transfer",
             "inProgress": "Processing...",

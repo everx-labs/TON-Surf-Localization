@@ -1477,10 +1477,10 @@
             "yourBalance": "사용자 잔액"
         },
         "operationResults": {
-            "completed": "Everything is fine, your transfer will come any minute soon",
+            "completed": "문제가 없습니다. 송금을 곧 받으실 겁니다",
             "done": "끝",
-            "failed": "Unable to complete transfer",
-            "inProgress": "Processing...",
+            "failed": "송금을 완료할 수 없습니다",
+            "inProgress": "처리 중…",
             "tryAgain": "다시 시도"
         },
         "payInvoice": {

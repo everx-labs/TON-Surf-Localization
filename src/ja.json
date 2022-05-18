@@ -679,6 +679,24 @@
         "update": "更新する"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Everscale tokens",
+                "title": "Evers"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Everscale test tokens",
+                "title": "Devers"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "title": "Surf Medals"
+            }
+        },
         "crypto": {
             "BTC": "Bitcoin",
             "ETH": "Ethereum"
@@ -957,6 +975,7 @@
             "networkUnavailable": "何も追加されていません。有効なエンドポイントアドレスを指定するか、ネットワーク接続を確認してください。"
         },
         "names": {
+            "fldnet": "FLD network",
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "デブネット"
@@ -995,42 +1014,6 @@
             "download": "Download desktop app",
             "notice": "Try a new level of security with Surf"
         }
-    },
-    "rebalance": {
-        "amount": "金額",
-        "amountIsLow": "運送の金額が安すぎます。",
-        "confirm": "確認",
-        "congrats": "人生を変えて、おめでとうございます。これは痛くないですね。",
-        "currencies": {
-            "EVER": {
-                "comment": "Everscale tokens",
-                "title": "Evers"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Everscale test tokens",
-                "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
-            }
-        },
-        "disableAutoresume": "自動再開を無効にする",
-        "from": "差出人",
-        "insufficientBalance": "残高が不十分です。",
-        "notEnoughBalance": "Devnet アカウントには、ネットワーク料金を支払うための十分な資金がありません。",
-        "oneMore": "もう1つ",
-        "success": "転送が完了です",
-        "to": "宛先",
-        "toTransfer": "トークンを転送するには、自動再開を無効にしてください。",
-        "toTransferMore": "{0}以上のトークンを転送するには、自動再開を無効にしてください。",
-        "transfer": "転送",
-        "transferAll": "すべてを転送する",
-        "willBeAvailable": "トークンは、{0}内の引き出しに利用可能になります"
     },
     "restorePassword": {
         "mainComponent": {
@@ -1107,7 +1090,7 @@
         "title": "安全警告!",
         "understand": "了解しました"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Deposit",
         "fee": "料金",
         "feeAmount": "≈ {0}",
@@ -1510,11 +1493,6 @@
         "sendGrams": {
             "confirm": "確認",
             "confirmAndSend": "確認と送信",
-            "currencies": {
-                "mainnet": "crystals",
-                "private": "rubies",
-                "tonlabs": "rubies"
-            },
             "enterValidAddress": "Everscaleアドレス",
             "from": "差出人",
             "invalidAddress": "無効なアドレス。",

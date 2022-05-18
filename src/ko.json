@@ -690,6 +690,24 @@
         "update": "업데이트하기"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "에버스케일 토큰",
+                "title": "에버"
+            },
+            "CUSTOM": {
+                "comment": "{0} 토큰",
+                "title": "{0} 토큰"
+            },
+            "DEVER": {
+                "comment": "에버스케일 테스트 토큰",
+                "title": "데버"
+            },
+            "SRFM": {
+                "comment": "서프 메달 True NFT 토큰",
+                "title": "서프 메달"
+            }
+        },
         "crypto": {
             "BTC": "비트코인",
             "ETH": "이더리움"
@@ -968,6 +986,7 @@
             "networkUnavailable": "아무것도 추가되지 않았습니다. 유효한 엔드포인트 주소를 지정하거나 네트워크 연결을 확인하십시오"
         },
         "names": {
+            "fldnet": "FLD 테스트 네트워크",
             "mainnet": "메인넷",
             "rustnet": "Rustnet",
             "tonlabs": "데브넷"
@@ -1006,42 +1025,6 @@
             "download": "데스크탑 앱 다운로드",
             "notice": "서프는 새로운 차원의 보안을 제공합니다"
         }
-    },
-    "rebalance": {
-        "amount": "액수",
-        "amountIsLow": "양도 금액이 너무 적습니다.",
-        "confirm": "확인하기",
-        "congrats": "삶의 변화를 축하합니다. 변화에 나쁠 것은 없습니다!",
-        "currencies": {
-            "EVER": {
-                "comment": "에버스케일 토큰",
-                "title": "에버"
-            },
-            "CUSTOM": {
-                "comment": "{0} 토큰",
-                "title": "{0} 토큰"
-            },
-            "DEVER": {
-                "comment": "에버스케일 테스트 토큰",
-                "title": "데버"
-            },
-            "SRFM": {
-                "comment": "서프 메달 True NFT 토큰",
-                "title": "서프 메달"
-            }
-        },
-        "disableAutoresume": "자동 재시작 기능 끄기",
-        "from": "보낸 사람",
-        "insufficientBalance": "잔액이 부족합니다.",
-        "notEnoughBalance": "데브넷 계정에 네트워크 요금을 지불할 자금이 충분하지 않습니다.",
-        "oneMore": "다시",
-        "success": "전송이 성공되었습니다",
-        "to": "받는 사람",
-        "toTransfer": "토큰을 전송하려면 자동 재시작 기능을 끄세요",
-        "toTransferMore": "{0} 이상의 토큰을 전송하려면 자동 재시작 기능을 끄세요.",
-        "transfer": "송금",
-        "transferAll": "모두 전송하기",
-        "willBeAvailable": "토큰은 {0} 이내에서 인출할 수 있습니다"
     },
     "restorePassword": {
         "mainComponent": {
@@ -1118,7 +1101,7 @@
         "title": "경고!",
         "understand": "알겠습니다"
     },
-    "sendGram": {
+    "send": {
         "deposit": "보증금",
         "fee": "수수료",
         "feeAmount": "≈ {0}",
@@ -1513,11 +1496,6 @@
         "sendGrams": {
             "confirm": "확인하기",
             "confirmAndSend": "확인 및 보내기",
-            "currencies": {
-                "mainnet": "에버",
-                "private": "루비",
-                "tonlabs": "루비"
-            },
             "enterValidAddress": "에버스케일 주소 ...",
             "from": "보낸 사람",
             "invalidAddress": "유효하지 않은 에버스케일 주소입니다",

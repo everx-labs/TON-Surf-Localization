@@ -679,6 +679,24 @@
         "update": "Actualizar"
     },
     "currencies": {
+        "assets": {
+            "EVER": {
+                "comment": "Everscale tokens",
+                "title": "Evers"
+            },
+            "CUSTOM": {
+                "comment": "{0} tokens",
+                "title": "{0} tokens"
+            },
+            "DEVER": {
+                "comment": "Everscale test tokens",
+                "title": "Devers"
+            },
+            "SRFM": {
+                "comment": "Surf Medal True NFT tokens",
+                "title": "Surf Medals"
+            }
+        },
         "crypto": {
             "BTC": "Bitcoin",
             "ETH": "Ethereum"
@@ -957,6 +975,7 @@
             "networkUnavailable": "Nada añadido. Especifique una dirección de punto final válida o compruebe la conexión de red."
         },
         "names": {
+            "fldnet": "FLD network",
             "mainnet": "Mainnet",
             "rustnet": "Rustnet",
             "tonlabs": "Devnet"
@@ -995,42 +1014,6 @@
             "download": "Download desktop app",
             "notice": "Try a new level of security with Surf"
         }
-    },
-    "rebalance": {
-        "amount": "Cantidad",
-        "amountIsLow": "La cantidad de transferencia es demasiado baja",
-        "confirm": "Confirmar",
-        "congrats": "Felicidades por hacer cambios en tu vida. Nunca duele.",
-        "currencies": {
-            "EVER": {
-                "comment": "Everscale tokens",
-                "title": "Evers"
-            },
-            "CUSTOM": {
-                "comment": "{0} tokens",
-                "title": "{0} tokens"
-            },
-            "DEVER": {
-                "comment": "Everscale test tokens",
-                "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
-            }
-        },
-        "disableAutoresume": "Deshabilitar la reanudación automática",
-        "from": "Desde",
-        "insufficientBalance": "Saldo insuficiente.",
-        "notEnoughBalance": "Su cuenta en Devnet no tiene fondos suficientes para pagar la tarifa de la red.",
-        "oneMore": "Una más.",
-        "success": "Transferencia exitosa",
-        "to": "A",
-        "toTransfer": "Para transferir tokens, desactive la reanudación automática",
-        "toTransferMore": "Para transferir más de {0} tokens, inhabilite la reanudación automática",
-        "transfer": "Transferir",
-        "transferAll": "Transferir todo",
-        "willBeAvailable": "Los tokens estarán disponibles para retiro dentro de {0}"
     },
     "restorePassword": {
         "mainComponent": {
@@ -1107,7 +1090,7 @@
         "title": "¡Aviso de seguridad!",
         "understand": "Entendido"
     },
-    "sendGram": {
+    "send": {
         "deposit": "Deposit",
         "fee": "Tarifas",
         "feeAmount": "≈ {0}",
@@ -1510,11 +1493,6 @@
         "sendGrams": {
             "confirm": "Confirmar",
             "confirmAndSend": "Confirmar y enviar",
-            "currencies": {
-                "mainnet": "crystals",
-                "private": "rubies",
-                "tonlabs": "rubies"
-            },
             "enterValidAddress": "Dirección de Everscale...",
             "from": "De",
             "invalidAddress": "Dirección no válida.",

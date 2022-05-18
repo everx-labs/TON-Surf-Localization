@@ -1474,10 +1474,10 @@
             "buy": "Buy"
         },
         "operationResults": {
-            "completed": "Operation completed",
+            "completed": "Everything is fine, your transfer will come any minute soon",
             "done": "Done",
-            "failed": "Operation failed",
-            "inProgress": "Operation in progress",
+            "failed": "Unable to complete transfer",
+            "inProgress": "Processing...",
             "tryAgain": "Try again"
         },
         "payInvoice": {

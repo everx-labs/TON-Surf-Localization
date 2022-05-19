@@ -1460,10 +1460,10 @@
             "yourBalance": "사용자 잔액"
         },
         "operationResults": {
-            "completed": "작업 완료",
+            "completed": "문제가 없습니다. 송금을 곧 받으실 겁니다",
             "done": "끝",
-            "failed": "작업 실패",
-            "inProgress": "작업이 진행 중",
+            "failed": "송금을 완료할 수 없습니다",
+            "inProgress": "처리 중…",
             "tryAgain": "다시 시도"
         },
         "payInvoice": {

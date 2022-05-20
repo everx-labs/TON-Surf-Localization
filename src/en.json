@@ -1513,7 +1513,8 @@
             "selectTokens": "Select tokens",
             "swapTokens": "Swap tokens",
             "youGet": "You get",
-            "youPay": "You pay"
+            "youPay": "You pay",
+            "loading": "loading..."
         },
         "transaction": {
             "aborted": "Aborted",

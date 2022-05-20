@@ -1514,7 +1514,8 @@
             "selectTokens": "Выбор токенов",
             "swapTokens": "Обмен",
             "youGet": "Получить",
-            "youPay": "Поменять"
+            "youPay": "Поменять",
+            "loading": "Загрузка..."
         },
         "transaction": {
             "aborted": "Прервано",

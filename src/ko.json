@@ -1516,7 +1516,8 @@
             "selectTokens": "토큰 선택",
             "swapTokens": "토큰 스왑",
             "youGet": "받는 금액",
-            "youPay": "결제 금액"
+            "youPay": "결제 금액",
+            "loading": "로딩 중…"
         },
         "transaction": {
             "aborted": "중단됨",

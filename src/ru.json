@@ -1515,7 +1515,7 @@
             "swapTokens": "Обмен",
             "youGet": "Получить",
             "youPay": "Поменять",
-            "loading": "loading..."
+            "loading": "Загрузка..."
         },
         "transaction": {
             "aborted": "Прервано",

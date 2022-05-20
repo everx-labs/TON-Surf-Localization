@@ -1514,7 +1514,7 @@
             "swapTokens": "Swap tokens",
             "youGet": "You get",
             "youPay": "You pay",
-            "loading": "loading..."
+            "loading": "Loading..."
         },
         "transaction": {
             "aborted": "Aborted",

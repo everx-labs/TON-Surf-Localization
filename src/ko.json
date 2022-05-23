@@ -37,6 +37,7 @@
             "collectibles": "수집품",
             "created": "생성됨",
             "details": "세부 사항",
+            "empty": "No collections yet",
             "media": "대중 매체",
             "mediaDimensions": {
                 "title": "가로X세로",

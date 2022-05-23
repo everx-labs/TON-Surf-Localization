@@ -37,6 +37,7 @@
             "collectibles": "Collectibles",
             "created": "Created",
             "details": "Details",
+            "empty": "No collections yet",
             "media": "Media",
             "mediaDimensions": {
                 "title": "W×H",

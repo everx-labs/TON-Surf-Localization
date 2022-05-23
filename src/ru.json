@@ -37,20 +37,6 @@
             "collectibles": "Коллекции",
             "created": "Дата создания",
             "details": "Подробнее",
-            "marketplaces": {
-                "chessNft": {
-                    "description": "Unique chess collections",
-                    "title": "Chess NFT"
-                },
-                "grandbazar": {
-                    "description": "Rare digital items",
-                    "title": "Grandbazar"
-                },
-                "thirdPlace": {
-                    "description": "Real-world art objects",
-                    "title": "Third Place"
-                }
-            },
             "media": "Media",
             "mediaDimensions": {
                 "title": "W×H",
@@ -75,9 +61,7 @@
                 "title": "Запрос"
             },
             "sections": {
-                "library": "Библиотека",
-                "partners": "Партнеры",
-                "trending": "Тренды"
+                "library": "Библиотека"
             },
             "send": {
                 "confirmTitle": "Подтверждение",

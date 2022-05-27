@@ -37,20 +37,7 @@
             "collectibles": "수집품",
             "created": "생성됨",
             "details": "세부 사항",
-            "marketplaces": {
-                "chessNft": {
-                    "description": "독특한 체스 컬렉션",
-                    "title": "체스 NFT"
-                },
-                "grandbazar": {
-                    "description": "희귀 디지털 아이템",
-                    "title": "Grandbazar"
-                },
-                "thirdPlace": {
-                    "description": "현실의 예술품",
-                    "title": "Third Place"
-                }
-            },
+            "empty": "NFT 수집을 시작한 후 여기에서 NFT를 보고 관리할 수 있습니다.",
             "media": "대중 매체",
             "mediaDimensions": {
                 "title": "가로X세로",
@@ -76,9 +63,7 @@
                 "title": "요청"
             },
             "sections": {
-                "library": "라이브러리",
-                "partners": "파트너",
-                "trending": "유행"
+                "library": "라이브러리"
             },
             "send": {
                 "confirmTitle": "전송 확인",

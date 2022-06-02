@@ -32,7 +32,6 @@
         },
         "collectibles": {
             "address": "Адрес",
-            "amountFromSupply": "{0} из {1}",
             "author": "Создано",
             "collectibles": "Коллекции",
             "created": "Дата создания",

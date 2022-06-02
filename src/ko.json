@@ -32,7 +32,6 @@
         },
         "collectibles": {
             "address": "주소",
-            "amountFromSupply": "{1}의 {0}",
             "author": "크리에이터",
             "collectibles": "수집품",
             "created": "생성됨",

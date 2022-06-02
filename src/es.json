@@ -32,7 +32,6 @@
         },
         "collectibles": {
             "address": "Address",
-            "amountFromSupply": "{0} of {1}",
             "author": "Creator",
             "collectibles": "Collectibles",
             "created": "Created",

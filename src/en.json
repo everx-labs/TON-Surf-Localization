@@ -55,7 +55,8 @@
             "nftTypes": {
                 "ipfs": "IPFS",
                 "notTrue": "Not True",
-                "trueNft": "True NFT"
+                "trueNft": "True NFT",
+                "tip4": "TIP-4"
             },
             "owner": "Owner",
             "request": {

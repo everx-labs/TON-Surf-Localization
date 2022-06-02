@@ -54,7 +54,8 @@
             "nftTypes": {
                 "ipfs": "IPFS",
                 "notTrue": "Not True",
-                "trueNft": "True NFT"
+                "trueNft": "True NFT",
+                "tip4": "TIP-4"
             },
             "notSupportedMedia": "서프는 곧 이 True NFT를\n표시하게 될 것입니다.",
             "owner": "소유자",

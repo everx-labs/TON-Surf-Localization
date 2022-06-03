@@ -1481,7 +1481,7 @@
             "enterValidAddress": "Adresse Everscale",
             "from": "De",
             "invalidAddress": "Adresse non valide.",
-            "recipientWarning": "Remarque: s'il y a des erreurs, les fonds seront perdus",
+            "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",
             "title": "Envoyer des tokens"
         },
         "swap": {
@@ -1500,6 +1500,9 @@
             "youGet": "You get",
             "youPay": "You pay",
             "loading": "Loading..."
+        },
+        "sendTokens": {
+            "recipientNotDeployed": "Sorry, you cannot send tokens because no contract deployed on this address"
         },
         "transaction": {
             "aborted": "Avorté",

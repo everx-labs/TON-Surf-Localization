@@ -1481,7 +1481,7 @@
             "enterValidAddress": "Everscale地址",
             "from": "从",
             "invalidAddress": "无效的地址。",
-            "recipientWarning": "确保地址正确！发送的转账不能撤销！",
+            "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",
             "title": "发送代币"
         },
         "swap": {
@@ -1500,6 +1500,9 @@
             "youGet": "You get",
             "youPay": "You pay",
             "loading": "Loading..."
+        },
+        "sendTokens": {
+            "recipientNotDeployed": "Sorry, you cannot send tokens because no contract deployed on this address"
         },
         "transaction": {
             "aborted": "中止",

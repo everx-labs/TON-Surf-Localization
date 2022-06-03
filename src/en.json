@@ -1481,7 +1481,7 @@
             "enterValidAddress": "Everscale address...",
             "from": "From",
             "invalidAddress": "Invalid address.",
-            "recipientWarning": "Make sure the address is correct! Sent transfers cannot be reversed!",
+            "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",
             "title": "Send tokens"
         },
         "swap": {
@@ -1500,6 +1500,9 @@
             "youGet": "You get",
             "youPay": "You pay",
             "loading": "Loading..."
+        },
+        "sendTokens": {
+            "recipientNotDeployed": "Sorry, you cannot send tokens because no contract deployed on this address"
         },
         "transaction": {
             "aborted": "Aborted",

@@ -1481,7 +1481,7 @@
             "enterValidAddress": "Everscaleアドレス",
             "from": "差出人",
             "invalidAddress": "無効なアドレス。",
-            "recipientWarning": "注: エラーがあった場合、資金は失われます",
+            "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",
             "title": "トークンを送信する"
         },
         "swap": {
@@ -1500,6 +1500,9 @@
             "youGet": "You get",
             "youPay": "You pay",
             "loading": "Loading..."
+        },
+        "sendTokens": {
+            "recipientNotDeployed": "Sorry, you cannot send tokens because no contract deployed on this address"
         },
         "transaction": {
             "aborted": "中止されました。",

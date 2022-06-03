@@ -1481,7 +1481,7 @@
             "enterValidAddress": "Everscale adresi...",
             "from": "Gönderen:",
             "invalidAddress": "Geçersiz adresi.",
-            "recipientWarning": "Adresin doğru olduğunu kontrol edin! Gönderilen aktarım geri alınamaz!",
+            "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",
             "title": "Para gönder"
         },
         "swap": {
@@ -1500,6 +1500,9 @@
             "youGet": "You get",
             "youPay": "You pay",
             "loading": "Loading..."
+        },
+        "sendTokens": {
+            "recipientNotDeployed": "Sorry, you cannot send tokens because no contract deployed on this address"
         },
         "transaction": {
             "aborted": "İptal edildi",

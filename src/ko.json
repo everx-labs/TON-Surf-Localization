@@ -687,10 +687,6 @@
             "DEVER": {
                 "comment": "에버스케일 테스트 토큰",
                 "title": "데버"
-            },
-            "SRFM": {
-                "comment": "서프 메달 True NFT 토큰",
-                "title": "서프 메달"
             }
         },
         "crypto": {

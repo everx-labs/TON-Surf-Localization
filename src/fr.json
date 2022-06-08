@@ -676,10 +676,6 @@
             "DEVER": {
                 "comment": "Jetons de test Everscale",
                 "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Jeton True NFT Médaille Surf",
-                "title": "Surf Medals"
             }
         },
         "crypto": {

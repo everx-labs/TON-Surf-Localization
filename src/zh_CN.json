@@ -676,10 +676,6 @@
             "DEVER": {
                 "comment": "Everscale test tokens",
                 "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
             }
         },
         "crypto": {

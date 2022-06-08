@@ -676,10 +676,6 @@
             "DEVER": {
                 "comment": "Тестовые токены Everscale",
                 "title": "Дэверы"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Mедали Surf"
             }
         },
         "crypto": {

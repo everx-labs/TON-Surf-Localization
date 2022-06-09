@@ -1480,7 +1480,7 @@
             "enterValidAddress": "에버스케일 주소 ...",
             "from": "보낸 사람",
             "invalidAddress": "유효하지 않은 에버스케일 주소입니다",
-            "recipientWarning": "주소를 확인하십시오! 송금을 취소할 수 없습니다!",
+            "recipientWarning": "이 주소의 콘트랙트가 배포되지 않았습니다. 이 주소로 토큰을 보내는 것이 위험합니다",
             "title": "토큰 보내기"
         },
         "swap": {
@@ -1499,6 +1499,9 @@
             "youGet": "받는 금액",
             "youPay": "결제 금액",
             "loading": "로딩 중…"
+        },
+        "sendTokens": {
+            "recipientNotDeployed": "이 주소의 콘트랙트가 배포되지 않았습니다. 이 주소로 토큰을 보내는 것이 위험합니다"
         },
         "transaction": {
             "aborted": "중단됨",

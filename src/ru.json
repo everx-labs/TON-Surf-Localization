@@ -1138,18 +1138,11 @@
             "itWorkLocal": "Он будет работать только на этом устройстве"
         },
         "promoCards": {
-            "backupPassword": {
-                "initial": "Резервное\nсохранение\nсид-фразы"
-            },
-            "faq": {
-                "initial": "Часто\nзадаваемые\nвопросы"
-            },
-            "stakeDeposit": {
-                "initial": "Награды\nза стейкинг"
-            },
-            "flex": {
-                "initial": "Killer Whale\nПодкаст"
-            }
+            "backupPassword": "Резервное\nсохранение\nсид-фразы",
+            "faq": "Часто\nзадаваемые\nвопросы",
+            "flex": "Killer Whale\nПодкаст",
+            "gosh": "Получить GOSH\nза стейкинг EVER",
+            "stakeDeposit": "Награды\nза стейкинг"
         },
         "restore": {
             "button": "Войти",

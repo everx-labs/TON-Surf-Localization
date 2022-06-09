@@ -1138,18 +1138,11 @@
             "itWorkLocal": "Funzionerà solo su questo dispositivo."
         },
         "promoCards": {
-            "backupPassword": {
-                "initial": "Fai il backup della\nMaster Password"
-            },
-            "faq": {
-                "initial": "Domande\nFrequenti"
-            },
-            "stakeDeposit": {
-                "initial": "Lascia che i token\nti facciano guadagnare\nprofitti"
-            },
-            "flex": {
-                "initial": "Killer Whale\nPod Cast"
-            }
+            "backupPassword": "Fai il backup della\nMaster Password",
+            "faq": "Domande\nFrequenti",
+            "flex": "Killer Whale\nPod Cast",
+            "gosh": "Stake EVER,\nearn GOSH",
+            "stakeDeposit": "Lascia che i token\nti facciano guadagnare\nprofitti"
         },
         "restore": {
             "button": "Accedi",

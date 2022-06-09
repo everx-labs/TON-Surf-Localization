@@ -1138,18 +1138,11 @@
             "itWorkLocal": "Sólo funcionará en este dispositivo."
         },
         "promoCards": {
-            "backupPassword": {
-                "initial": "Copia de seguridad\nContraseña \nMaestra"
-            },
-            "faq": {
-                "initial": "Preguntas frecuentes"
-            },
-            "stakeDeposit": {
-                "initial": "Deja las tokens\nganarte\nbeneficios"
-            },
-            "flex": {
-                "initial": "Killer Whale\nPod Cast"
-            }
+            "backupPassword": "Copia de seguridad\nContraseña \nMaestra",
+            "faq": "Preguntas frecuentes",
+            "flex": "Killer Whale\nPod Cast",
+            "gosh": "Stake EVER,\nearn GOSH",
+            "stakeDeposit": "Deja las tokens\nganarte\nbeneficios"
         },
         "restore": {
             "button": "Sign in",

@@ -1138,18 +1138,11 @@
             "itWorkLocal": "Sadece bu cihazda çalışacak."
         },
         "promoCards": {
-            "backupPassword": {
-                "initial": "Ana\nŞifreni\nYedekle"
-            },
-            "faq": {
-                "initial": "Sıkça\nSorulan\nSorular"
-            },
-            "stakeDeposit": {
-                "initial": "Belirteçleriniz\nsize kar\nkazandırsın"
-            },
-            "flex": {
-                "initial": "Killer Whale\nPod Cast"
-            }
+            "backupPassword": "Ana\nŞifreni\nYedekle",
+            "faq": "Sıkça\nSorulan\nSorular",
+            "flex": "Killer Whale\nPod Cast",
+            "gosh": "Stake EVER,\nearn GOSH",
+            "stakeDeposit": "Belirteçleriniz\nsize kar\nkazandırsın"
         },
         "restore": {
             "button": "Oturum aç",

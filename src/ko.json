@@ -32,7 +32,6 @@
         },
         "collectibles": {
             "address": "주소",
-            "amountFromSupply": "{1}의 {0}",
             "author": "크리에이터",
             "collectibles": "수집품",
             "created": "생성됨",
@@ -55,7 +54,8 @@
             "nftTypes": {
                 "ipfs": "IPFS",
                 "notTrue": "Not True",
-                "trueNft": "True NFT"
+                "trueNft": "True NFT",
+                "tip4": "TIP-4"
             },
             "notSupportedMedia": "서프는 곧 이 True NFT를\n표시하게 될 것입니다.",
             "owner": "소유자",
@@ -687,10 +687,6 @@
             "DEVER": {
                 "comment": "에버스케일 테스트 토큰",
                 "title": "데버"
-            },
-            "SRFM": {
-                "comment": "서프 메달 True NFT 토큰",
-                "title": "서프 메달"
             }
         },
         "crypto": {

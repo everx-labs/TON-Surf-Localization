@@ -32,7 +32,6 @@
         },
         "collectibles": {
             "address": "Адрес",
-            "amountFromSupply": "{0} из {1}",
             "author": "Создано",
             "collectibles": "Коллекции",
             "created": "Дата создания",
@@ -56,7 +55,8 @@
             "nftTypes": {
                 "ipfs": "IPFS",
                 "notTrue": "Not True",
-                "trueNft": "True NFT"
+                "trueNft": "True NFT",
+                "tip4": "TIP-4"
             },
             "request": {
                 "title": "Запрос"
@@ -676,10 +676,6 @@
             "DEVER": {
                 "comment": "Тестовые токены Everscale",
                 "title": "Дэверы"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Mедали Surf"
             }
         },
         "crypto": {

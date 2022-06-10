@@ -32,7 +32,6 @@
         },
         "collectibles": {
             "address": "Address",
-            "amountFromSupply": "{0} of {1}",
             "author": "Creator",
             "collectibles": "Collectibles",
             "created": "Created",
@@ -56,7 +55,8 @@
             "nftTypes": {
                 "ipfs": "IPFS",
                 "notTrue": "Not True",
-                "trueNft": "True NFT"
+                "trueNft": "True NFT",
+                "tip4": "TIP-4"
             },
             "owner": "Owner",
             "request": {
@@ -676,10 +676,6 @@
             "DEVER": {
                 "comment": "Everscale test tokens",
                 "title": "Devers"
-            },
-            "SRFM": {
-                "comment": "Surf Medal True NFT tokens",
-                "title": "Surf Medals"
             }
         },
         "crypto": {

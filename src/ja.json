@@ -1134,18 +1134,11 @@
             "itWorkLocal": "このデバイスでのみ動作します。"
         },
         "promoCards": {
-            "backupPassword": {
-                "initial": "マスター\nパスワードを\nバックアップする"
-            },
-            "faq": {
-                "initial": "よく\nある\n質問"
-            },
-            "stakeDeposit": {
-                "initial": "トークンで\n利益を\n上げましょう"
-            },
-            "flex": {
-                "initial": "Killer Whale\nPod Cast"
-            }
+            "backupPassword": "マスター\nパスワードを\nバックアップする",
+            "faq": "よく\nある\n質問",
+            "flex": "Killer Whale\nPod Cast",
+            "gosh": "Stake EVER,\nearn GOSH",
+            "stakeDeposit": "トークンで\n利益を\n上げましょう"
         },
         "restore": {
             "button": "サインイン",

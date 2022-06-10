@@ -1134,18 +1134,11 @@
             "itWorkLocal": "它只能在这个设备上工作。"
         },
         "promoCards": {
-            "backupPassword": {
-                "initial": "恢复\n主口令"
-            },
-            "faq": {
-                "initial": "常问问题"
-            },
-            "stakeDeposit": {
-                "initial": "让代币\n赚您\n利润"
-            },
-            "flex": {
-                "initial": "Killer Whale\nPod Cast"
-            }
+            "backupPassword": "恢复\n主口令",
+            "faq": "常问问题",
+            "flex": "Killer Whale\nPod Cast",
+            "gosh": "Stake EVER,\nearn GOSH",
+            "stakeDeposit": "让代币\n赚您\n利润"
         },
         "restore": {
             "button": "登录",

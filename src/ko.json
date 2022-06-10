@@ -1145,18 +1145,11 @@
             "itWorkLocal": "이 장치에서만 작동합니다."
         },
         "promoCards": {
-            "backupPassword": {
-                "initial": "시드키\n백업하기"
-            },
-            "faq": {
-                "initial": "자주 묻는 질문"
-            },
-            "flex": {
-                "initial": "Killer Whale\nPod Cast"
-            },
-            "stakeDeposit": {
-                "initial": "스테이킹\n보상받기"
-            }
+            "backupPassword": "시드키\n백업하기",
+            "faq": "자주 묻는 질문",
+            "flex": "Killer Whale\nPod Cast",
+            "gosh": "에버를 스테이킹해서\nGOSH를 받으세요",
+            "stakeDeposit": "스테이킹\n보상받기"
         },
         "restore": {
             "button": "로그인",

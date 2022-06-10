@@ -1134,18 +1134,11 @@
             "itWorkLocal": "Cela ne fonctionnera que sur cet appareil."
         },
         "promoCards": {
-            "backupPassword": {
-                "initial": "Sauvegarder\nla phrase\nseed"
-            },
-            "faq": {
-                "initial": "Questions\nFréquemment\nPosées"
-            },
-            "stakeDeposit": {
-                "initial": "Gagnez \ndes revenus \nde staking"
-            },
-            "flex": {
-                "initial": "Killer Whale\nPod Cast"
-            }
+            "backupPassword": "Sauvegarder\nla phrase\nseed",
+            "faq": "Questions\nFréquemment\nPosées",
+            "flex": "Killer Whale\nPod Cast",
+            "gosh": "Stake EVER,\nearn GOSH",
+            "stakeDeposit": "Gagnez \ndes revenus \nde staking"
         },
         "restore": {
             "button": "S'identifier",

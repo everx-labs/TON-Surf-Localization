@@ -81,27 +81,13 @@
         },
         "details": {
             "buttons": {
-                "callBot": "デボットを呼ぶ",
-                "disableAutoresume": "自動更新を無効にする",
-                "enableAutoresume": "自動更新を有効にする",
                 "keepMeInformed": "オッケーです。何かがあれば、知らせてください。",
-                "makeStake": "ステークを作る",
-                "operationsHistory": "運用履歴",
-                "sendCoins": "トークンを送信する",
-                "share": "Share",
-                "shareMyAddress": "ウォレットアドレスを共有する",
-                "stakeMore": "もっとステークを作る",
-                "whatIsStaking": "ステーキングとは何ですか？",
-                "withdraw": "撤回"
+                "share": "Share"
             },
             "labels": {
                 "app": "Surf",
                 "newCoinsSoonMsg": "あなたと同じように、私たちは新しい資産のリリースを楽しみにしています。",
                 "shareMsg": "私の{0}アドレス：\n{1}"
-            },
-            "nets": {
-                "mainnet": "Everscale",
-                "tonlabs": "デブネット"
             },
             "titles": {
                 "newCoinsSoon": "新しい資産がまもなく登場します"
@@ -956,10 +942,10 @@
             "networkUnavailable": "何も追加されていません。有効なエンドポイントアドレスを指定するか、ネットワーク接続を確認してください。"
         },
         "names": {
+            "devnet": "デブネット",
             "fldnet": "FLD network",
             "mainnet": "Mainnet",
-            "rustnet": "Rustnet",
-            "tonlabs": "デブネット"
+            "rustnet": "Rustnet"
         },
         "sections": {
             "custom": "カスタムネットワーク",

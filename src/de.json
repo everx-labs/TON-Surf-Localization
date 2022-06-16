@@ -81,27 +81,13 @@
         },
         "details": {
             "buttons": {
-                "callBot": "Aufruf zum DeBot",
-                "disableAutoresume": "Autorenewal deaktivieren",
-                "enableAutoresume": "Aktivieren Sie die automatische Verlängerung",
                 "keepMeInformed": "OK. Halten Sie mich auf dem Laufenden",
-                "makeStake": "Machen Sie einen Einsatz",
-                "operationsHistory": "Betriebsverlauf",
-                "sendCoins": "Token senden",
-                "share": "Share",
-                "shareMyAddress": "Adresse der freigegebenen Brieftaschenadresse",
-                "stakeMore": "Mehr setzen",
-                "whatIsStaking": "Was ist Staking?",
-                "withdraw": "Abheben"
+                "share": "Share"
             },
             "labels": {
                 "app": "Surf",
                 "newCoinsSoonMsg": "Genau wie Sie können wir nicht auf die Einführung neuer Vermögenswerte warten, um in den Genuss ihrer Vorteile zu kommen",
                 "shareMsg": "Meine {0}-Adresse: \n{1}"
-            },
-            "nets": {
-                "mainnet": "Everscale",
-                "tonlabs": "Devnet"
             },
             "titles": {
                 "newCoinsSoon": "Neue Assets kommen bald"
@@ -956,10 +942,10 @@
             "networkUnavailable": "Nichts hinzugefügt. Bitte geben Sie eine gültige Endpunktadresse an oder überprüfen Sie die Netzwerkverbindung."
         },
         "names": {
+            "devnet": "Devnet",
             "fldnet": "FLD network",
             "mainnet": "Hauptnetz",
-            "rustnet": "Rustnet",
-            "tonlabs": "Devnet"
+            "rustnet": "Rustnet"
         },
         "sections": {
             "custom": "Benutzerdefinierte Netzwerke",

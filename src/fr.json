@@ -81,27 +81,13 @@
         },
         "details": {
             "buttons": {
-                "callBot": "Appeler le DeBot",
-                "disableAutoresume": "Désactiver le renouvellement automatique",
-                "enableAutoresume": "Activer le renouvellement automatique",
                 "keepMeInformed": "OK, tenez-moi informé",
-                "makeStake": "Miser",
-                "operationsHistory": "Historique des opérations",
-                "sendCoins": "Envoyer des tokens",
-                "share": "Partager",
-                "shareMyAddress": "Partager l'adresse du portefeuille",
-                "stakeMore": "Miser plus",
-                "whatIsStaking": "Qu'est-ce que le jalonnement?",
-                "withdraw": "Retirer"
+                "share": "Partager"
             },
             "labels": {
                 "app": "Surf",
                 "newCoinsSoonMsg": "Tout comme vous, nous avons hâte de voir le lancement de nouveaux actifs pour profiter de leurs avantages",
                 "shareMsg": "Mon {0} adresse:\n{1}"
-            },
-            "nets": {
-                "mainnet": "Everscale",
-                "tonlabs": "Devnet"
             },
             "titles": {
                 "newCoinsSoon": "De nouveaux actifs arrivent bientôt"
@@ -956,10 +942,10 @@
             "networkUnavailable": "Rien ajouté. Spécifiez une adresse de point de terminaison valide ou vérifiez la connexion réseau."
         },
         "names": {
+            "devnet": "Devnet",
             "fldnet": "FLD network",
             "mainnet": "Mainnet",
-            "rustnet": "Rustnet",
-            "tonlabs": "Devnet"
+            "rustnet": "Rustnet"
         },
         "sections": {
             "custom": "Réseaux personnalisés",

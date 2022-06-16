@@ -81,27 +81,13 @@
         },
         "details": {
             "buttons": {
-                "callBot": "Debot을 이용하기",
-                "disableAutoresume": "자동 재시작 비활성화하기",
-                "enableAutoresume": "자동 재시작 활성화하기",
                 "keepMeInformed": "네, 계속 알려주세요",
-                "makeStake": "스테이킹하기",
-                "operationsHistory": "운영 기록",
-                "sendCoins": "토큰 보내기",
-                "share": "공유하기",
-                "shareMyAddress": "프로필 주소 공유",
-                "stakeMore": "스테이킹을 더 많이 하기",
-                "whatIsStaking": "스테이킹이 무엇인가요?",
-                "withdraw": "인출하기"
+                "share": "공유하기"
             },
             "labels": {
                 "app": "서프",
                 "newCoinsSoonMsg": "귀하와 마찬가지로 새로운 자산이 출시되어 혜택을 누릴 수 있기에 대한 기대가 큽니다",
                 "shareMsg": "제 {0} 주소: \n{1}"
-            },
-            "nets": {
-                "mainnet": "에버스케일",
-                "tonlabs": "데브넷"
             },
             "titles": {
                 "newCoinsSoon": "새로운 자산이 곧 출시됩니다"
@@ -967,10 +953,10 @@
             "networkUnavailable": "아무것도 추가되지 않았습니다. 유효한 엔드포인트 주소를 지정하거나 네트워크 연결을 확인하십시오"
         },
         "names": {
+            "devnet": "데브넷",
             "fldnet": "FLD 테스트 네트워크",
             "mainnet": "메인넷",
-            "rustnet": "Rustnet",
-            "tonlabs": "데브넷"
+            "rustnet": "Rustnet"
         },
         "sections": {
             "custom": "사용자 네트워크",

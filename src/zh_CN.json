@@ -81,27 +81,13 @@
         },
         "details": {
             "buttons": {
-                "callBot": "给分机器人打电话",
-                "disableAutoresume": "禁用自动更新",
-                "enableAutoresume": "启用自动更新",
                 "keepMeInformed": "好的， 随时通知我",
-                "makeStake": "下赌注",
-                "operationsHistory": "操作历史",
-                "sendCoins": "发送代币",
-                "share": "Share",
-                "shareMyAddress": "共享钱包地址",
-                "stakeMore": "下赌注更多",
-                "whatIsStaking": "赌注是什么？",
-                "withdraw": "撤回"
+                "share": "Share"
             },
             "labels": {
                 "app": "Surf",
                 "newCoinsSoonMsg": "就像您一样，我们迫不及待新资产的推出来享受其收益",
                 "shareMsg": "我的{0}地址：\n{1}"
-            },
-            "nets": {
-                "mainnet": "Everscale",
-                "tonlabs": "开发网"
             },
             "titles": {
                 "newCoinsSoon": "新资产即将面世"
@@ -956,10 +942,10 @@
             "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection."
         },
         "names": {
+            "devnet": "开发网",
             "fldnet": "FLD network",
             "mainnet": "Mainnet",
-            "rustnet": "Rustnet",
-            "tonlabs": "开发网"
+            "rustnet": "Rustnet"
         },
         "sections": {
             "custom": "自定义网络",

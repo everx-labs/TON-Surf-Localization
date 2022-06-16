@@ -81,27 +81,13 @@
         },
         "details": {
             "buttons": {
-                "callBot": "Call the DeBot",
-                "disableAutoresume": "Disable autorenewal",
-                "enableAutoresume": "Enable autorenewal",
                 "keepMeInformed": "OK. Keep me informed",
-                "makeStake": "Make a stake",
-                "operationsHistory": "Operations history",
-                "sendCoins": "Send tokens",
-                "share": "Share",
-                "shareMyAddress": "Share profile address",
-                "stakeMore": "Stake more",
-                "whatIsStaking": "What is staking?",
-                "withdraw": "Withdraw"
+                "share": "Share"
             },
             "labels": {
                 "app": "Surf",
                 "newCoinsSoonMsg": "Just like you, we can’t wait for the launch of new assets to enjoy their benefits",
                 "shareMsg": "My {0} address:\n{1}"
-            },
-            "nets": {
-                "mainnet": "Everscale",
-                "tonlabs": "Devnet"
             },
             "titles": {
                 "newCoinsSoon": "New assets are coming soon"
@@ -956,10 +942,10 @@
             "networkUnavailable": "Nothing added. Please specify a valid endpoint address or verify the network connection."
         },
         "names": {
+            "devnet": "Devnet",
             "fldnet": "FLD network",
             "mainnet": "Mainnet",
-            "rustnet": "Rustnet",
-            "tonlabs": "Devnet"
+            "rustnet": "Rustnet"
         },
         "sections": {
             "custom": "Custom networks",

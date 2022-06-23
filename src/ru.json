@@ -1462,20 +1462,23 @@
         },
         "swap": {
             "confirm": "Подтвердить",
-            "continue": "Дальше",
             "currencyNotFound": {
                 "description": "Либо в названии опечатка, либо такая не существует",
                 "title": "Неизвестная валюта"
             },
+            "estimatedFees": "Estimated fees",
+            "estimatedFeesUpTo": "up to {0}",
             "fee": "Комиссия",
             "get": "Получаете",
+            "loading": "Загрузка...",
             "order": "Операция",
             "pay": "Меняете",
+            "reviewOrder": "Review order",
             "selectTokens": "Выбор токенов",
             "swapTokens": "Обмен",
             "youGet": "Получить",
             "youPay": "Поменять",
-            "loading": "Загрузка..."
+            "youPayMax": "Max. {0}"
         },
         "sendTokens": {
             "recipientNotDeployed": "Отправить токены не получится, т.к контракт по этому адресу не развернут"

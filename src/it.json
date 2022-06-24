@@ -1461,20 +1461,23 @@
         },
         "swap": {
             "confirm": "Confirm",
-            "continue": "Continue",
             "currencyNotFound": {
                 "description": "Try again or select from the list",
                 "title": "We didn't find your currency"
             },
+            "estimatedFees": "Estimated fees",
+            "estimatedFeesUpTo": "up to {0}",
             "fee": "Fee",
             "get": "Get",
+            "loading": "Loading...",
             "order": "Order",
             "pay": "Pay",
+            "reviewOrder": "Review order",
             "selectTokens": "Select tokens",
             "swapTokens": "Swap tokens",
             "youGet": "You get",
             "youPay": "You pay",
-            "loading": "Loading..."
+            "youPayMax": "Max. {0}"
         },
         "sendTokens": {
             "recipientNotDeployed": "Sorry, you cannot send tokens because no contract deployed on this address"

@@ -1468,19 +1468,19 @@
                 "description": "다시 시도하거나 목록에서 선택해 주세요",
                 "title": "통화를 찾지 못했습니다"
             },
-            "estimatedFees": "Estimated fees",
-            "estimatedFeesUpTo": "up to {0}",
+            "estimatedFees": "예상 수수료",
+            "estimatedFeesUpTo": "최대 {0}",
             "fee": "수수료",
             "get": "받기",
             "loading": "로딩 중…",
             "order": "주문",
             "pay": "결제",
-            "reviewOrder": "Review order",
+            "reviewOrder": "주문 확인",
             "selectTokens": "토큰 선택",
             "swapTokens": "토큰 스왑",
             "youGet": "받는 금액",
             "youPay": "결제 금액",
-            "youPayMax": "Max. {0}"
+            "youPayMax": "최대 {0}"
         },
         "sendTokens": {
             "recipientNotDeployed": "이 주소의 콘트랙트가 배포되지 않았습니다. 이 주소로 토큰을 보내는 것이 위험합니다"

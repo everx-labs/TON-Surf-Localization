@@ -34,6 +34,7 @@
             "address": "주소",
             "author": "크리에이터",
             "collectibles": "수집품",
+            "collection": "컬렉션 {0}",
             "created": "생성됨",
             "details": "세부 사항",
             "empty": "NFT 수집을 시작한 후 여기에서 NFT를 보고 관리할 수 있습니다.",

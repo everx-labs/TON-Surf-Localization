@@ -256,6 +256,10 @@
                     }
                 },
                 "encryption": {
+                    "wrongNonceLength": {
+                        "message": "Incorrect nonce length",
+                        "hint": "Please, check your nonce"
+                    },
                     "failedToCreate": {
                         "message": "Не получилось начать шифрование",
                         "hint": "Пожалуйста, свяжитесь со Службой поддержки и опишите проблему."

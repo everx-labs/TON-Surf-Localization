@@ -256,6 +256,10 @@
                     }
                 },
                 "encryption": {
+                    "wrongNonceLength": {
+                        "message": "Incorrect nonce length",
+                        "hint": "Please, check your nonce"
+                    },
                     "failedToCreate": {
                         "message": "Failed to create an encryptor",
                         "hint": "Please, send a report about this problem"

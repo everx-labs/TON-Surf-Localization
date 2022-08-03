@@ -257,8 +257,8 @@
                 },
                 "encryption": {
                     "wrongNonceLength": {
-                        "message": "Incorrect nonce length",
-                        "hint": "Please, check your nonce"
+                        "message": "Неверная длина однократно используемого числа (nonce)",
+                        "hint": "Пожалуйста, проверьте ваше однократно используемое число (nonce)"
                     },
                     "failedToCreate": {
                         "message": "Не получилось начать шифрование",

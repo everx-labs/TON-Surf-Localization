@@ -1137,8 +1137,8 @@
         },
         "promoCards": {
             "backupPassword": "시드키\n백업하기",
+            "boostedStake": "연이율 최대\n26% 적립",
             "faq": "자주 묻는 질문",
-            "flex": "Killer Whale\nPod Cast",
             "gosh": "에버를 스테이킹해서\nGOSH를 받으세요",
             "stakeDeposit": "스테이킹\n보상받기"
         },

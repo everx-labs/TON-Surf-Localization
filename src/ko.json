@@ -1532,7 +1532,8 @@
             "insufficientBalanceForFee": "네트워크 수수료를 지불할 금액이 부족합니다",
             "insufficientFundsToActivate": "프로필 활성화할 자금이 부족합니다",
             "limitReached": "금액이 설정된 한도 중 하나를 초과합니다.",
-            "notYetSupported": "아직 지원되지 않음"
+            "notYetSupported": "아직 지원되지 않음",
+            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
         },
         "withdrawGram": {
             "amount": "액수",

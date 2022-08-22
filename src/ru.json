@@ -1530,7 +1530,8 @@
             "insufficientBalanceForFee": "Недостаточно средств для оплаты комиссии сети",
             "insufficientFundsToActivate": "Недостаточно средств для активации профиля",
             "limitReached": "Сумма превышает один из установленных лимитов",
-            "notYetSupported": "Пока не поддерживается"
+            "notYetSupported": "Пока не поддерживается",
+            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
         },
         "withdrawGram": {
             "amount": "Сумма",

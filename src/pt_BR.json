@@ -1529,7 +1529,8 @@
             "insufficientBalanceForFee": "Saldo insuficiente para a taxa de rede",
             "insufficientFundsToActivate": "Saldo insuficiente para ativar sua carteira",
             "limitReached": "A quantia excede um dos limites estabelecidos",
-            "notYetSupported": "Ainda não suportado"
+            "notYetSupported": "Ainda não suportado",
+            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
         },
         "withdrawGram": {
             "amount": "Quantia",

@@ -1529,7 +1529,8 @@
             "insufficientBalanceForFee": "Insufficient funds for network fee",
             "insufficientFundsToActivate": "Insufficient funds to activate your profile",
             "limitReached": "The amount exceeds one of the established limits",
-            "notYetSupported": "Not supported yet"
+            "notYetSupported": "Not supported yet",
+            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
         },
         "withdrawGram": {
             "amount": "Amount",

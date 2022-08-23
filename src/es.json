@@ -1529,7 +1529,8 @@
             "insufficientBalanceForFee": "Fondos insuficientes para la tarifa de la red",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "La cantidad excede uno de los límites establecidos",
-            "notYetSupported": "Aún no es compatible"
+            "notYetSupported": "Aún no es compatible",
+            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
         },
         "withdrawGram": {
             "amount": "Cantidad",

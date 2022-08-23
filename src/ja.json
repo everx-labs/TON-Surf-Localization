@@ -1529,7 +1529,8 @@
             "insufficientBalanceForFee": "ネットワーク料金の資金が不足です",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "金額が設定された制限のいずれかを超えています",
-            "notYetSupported": "まだサポートされていません"
+            "notYetSupported": "まだサポートされていません",
+            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
         },
         "withdrawGram": {
             "amount": "金額",

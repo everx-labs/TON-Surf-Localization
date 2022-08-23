@@ -1529,7 +1529,8 @@
             "insufficientBalanceForFee": "Ağ ücreti için yetersiz bakiye",
             "insufficientFundsToActivate": "Insufficient funds to activate your wallet",
             "limitReached": "Miktar, belirlenen limitlerden birini aşıyor",
-            "notYetSupported": "Henüz desteklenmiyor"
+            "notYetSupported": "Henüz desteklenmiyor",
+            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
         },
         "withdrawGram": {
             "amount": "Miktar",

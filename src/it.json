@@ -1529,7 +1529,8 @@
             "insufficientBalanceForFee": "Fondi insufficienti per le commissioni di rete",
             "insufficientFundsToActivate": "Fondi insufficienti per attivare il tuo portafoglio",
             "limitReached": "L'importo supera uno dei limiti stabiliti",
-            "notYetSupported": "Non ancora supportato"
+            "notYetSupported": "Non ancora supportato",
+            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
         },
         "withdrawGram": {
             "amount": "Quantità",

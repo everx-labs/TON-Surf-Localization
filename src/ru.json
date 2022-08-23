@@ -1531,7 +1531,7 @@
             "insufficientFundsToActivate": "Недостаточно средств для активации профиля",
             "limitReached": "Сумма превышает один из установленных лимитов",
             "notYetSupported": "Пока не поддерживается",
-            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
+            "incorrectLink": "К сожалению, возникла ошибка с вашей эверссылкой. Пожалуйста, обратитесь к разработчику данного сервиса."
         },
         "withdrawGram": {
             "amount": "Сумма",

@@ -1533,7 +1533,7 @@
             "insufficientFundsToActivate": "프로필 활성화할 자금이 부족합니다",
             "limitReached": "금액이 설정된 한도 중 하나를 초과합니다.",
             "notYetSupported": "아직 지원되지 않음",
-            "incorrectLink": "Unfortunately, the everlink is not correct; please get in touch with the third-party service developers."
+            "incorrectLink": "불행하게도 에버링크가 잘못되었습니다. 타사 서비스 개발자에게 문의하십시오."
         },
         "withdrawGram": {
             "amount": "액수",

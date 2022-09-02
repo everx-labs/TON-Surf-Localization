@@ -1124,13 +1124,6 @@
             "enterPin": "Entrez votre code PIN",
             "itWorkLocal": "Cela ne fonctionnera que sur cet appareil."
         },
-        "promoCards": {
-            "backupPassword": "Sauvegarder\nla phrase\nseed",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "Questions\nFréquemment\nPosées",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "Gagnez \ndes revenus \nde staking"
-        },
         "restore": {
             "button": "S'identifier",
             "description": "Connectez-vous avec la sauvegarde du mot de passe.",

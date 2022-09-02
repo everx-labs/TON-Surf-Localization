@@ -1124,13 +1124,6 @@
             "enterPin": "输入您的PIN码",
             "itWorkLocal": "它只能在这个设备上工作。"
         },
-        "promoCards": {
-            "backupPassword": "恢复\n主口令",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "常问问题",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "让代币\n赚您\n利润"
-        },
         "restore": {
             "button": "登录",
             "description": "使用密码备份登录。",

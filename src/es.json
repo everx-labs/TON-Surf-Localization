@@ -1124,13 +1124,6 @@
             "enterPin": "Ingrese su PIN",
             "itWorkLocal": "Sólo funcionará en este dispositivo."
         },
-        "promoCards": {
-            "backupPassword": "Copia de seguridad\nContraseña \nMaestra",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "Preguntas frecuentes",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "Deja las tokens\nganarte\nbeneficios"
-        },
         "restore": {
             "button": "Sign in",
             "description": "Inicie sesión con la copia de seguridad de contraseña.",

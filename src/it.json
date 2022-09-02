@@ -1124,13 +1124,6 @@
             "enterPin": "Inserisci il tuo PIN",
             "itWorkLocal": "Funzionerà solo su questo dispositivo."
         },
-        "promoCards": {
-            "backupPassword": "Fai il backup della\nMaster Password",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "Domande\nFrequenti",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "Lascia che i token\nti facciano guadagnare\nprofitti"
-        },
         "restore": {
             "button": "Accedi",
             "description": "Accedi con la password di backup.",

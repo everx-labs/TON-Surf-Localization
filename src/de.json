@@ -1124,13 +1124,6 @@
             "enterPin": "Geben Sie Ihren PIN-Code eingeben",
             "itWorkLocal": "Es funktioniert nur auf diesem Gerät."
         },
-        "promoCards": {
-            "backupPassword": "Backup\n Meister\n Passwort",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "Häufig\nGefragt\nFragen",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "Lassen Sie Tokens\nverdienen Sie\nGewinne"
-        },
         "restore": {
             "button": "Anmelden",
             "description": "Melden Sie sich mit Passwort-Sicherung an.",

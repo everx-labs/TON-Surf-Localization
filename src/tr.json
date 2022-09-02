@@ -1124,13 +1124,6 @@
             "enterPin": "PIN kodunuzu girin",
             "itWorkLocal": "Sadece bu cihazda çalışacak."
         },
-        "promoCards": {
-            "backupPassword": "Ana\nŞifreni\nYedekle",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "Sıkça\nSorulan\nSorular",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "Belirteçleriniz\nsize kar\nkazandırsın"
-        },
         "restore": {
             "button": "Oturum aç",
             "description": "Yedekleme şifresiyle oturum aç.",

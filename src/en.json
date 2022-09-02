@@ -1124,13 +1124,6 @@
             "enterPin": "Enter your PIN",
             "itWorkLocal": "It will only work on this device."
         },
-        "promoCards": {
-            "backupPassword": "Backup\nseed\nphrase",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "Frequently\nasked\nquestions",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "Earn\nstaking\nrewards"
-        },
         "restore": {
             "button": "Sign in",
             "description": "Sign in with password backup.",

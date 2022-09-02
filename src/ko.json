@@ -1135,13 +1135,6 @@
             "enterPin": "암호 입력하기",
             "itWorkLocal": "이 장치에서만 작동합니다."
         },
-        "promoCards": {
-            "backupPassword": "시드키\n백업하기",
-            "boostedStake": "연이율 최대\n26% 적립",
-            "faq": "자주 묻는 질문",
-            "gosh": "에버를 스테이킹해서\nGOSH를 받으세요",
-            "stakeDeposit": "스테이킹\n보상받기"
-        },
         "restore": {
             "button": "로그인",
             "description": "암호 백업으로 로그인하세요.",

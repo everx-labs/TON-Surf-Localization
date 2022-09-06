@@ -1124,13 +1124,6 @@
             "enterPin": "PINコードを入力してください",
             "itWorkLocal": "このデバイスでのみ動作します。"
         },
-        "promoCards": {
-            "backupPassword": "マスター\nパスワードを\nバックアップする",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "よく\nある\n質問",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "トークンで\n利益を\n上げましょう"
-        },
         "restore": {
             "button": "サインイン",
             "description": "パスワードバックアップでサインインします。",
@@ -1405,21 +1398,22 @@
         },
         "main": {
             "activate": "Activate",
+            "add": "Add",
             "assets": "資産",
             "assetsBalance": "資産残高",
+            "buy": "Buy",
             "contacts": "連絡先",
+            "convert": "Convert",
+            "deposit": "Deposit",
+            "devers": "Devers",
+            "evers": "Evers",
             "invite": "招待する",
             "receive": "受信",
             "send": "送信",
+            "showAssets": "Show assets",
             "swap": "Swap",
-            "tokenValue": "Token value",
-            "updating": "更新中...",
-            "yourBalance": "あなたの残高",
-            "totalBalance": "{0} balance",
-            "evers": "Evers",
-            "devers": "Devers",
             "tokens": "Tokens",
-            "buy": "Buy"
+            "updating": "更新中..."
         },
         "operationResults": {
             "completed": "Everything is fine, your transfer will come any minute soon",

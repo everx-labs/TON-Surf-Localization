@@ -1545,5 +1545,14 @@
             "useDefaultCard": "Verwenden Sie die Standardkarte",
             "withdrawToCard": "Auszahlung auf Karte"
         }
+    },
+    "sendMessage": {
+        "title": "Confirm external action",
+        "calculatingFees": "Calculating fees",
+        "loading": "Loading...",
+        "address": "Address",
+        "amount": "Amount",
+        "networkFee": "Network fee",
+        "send": "Send"
     }
 }

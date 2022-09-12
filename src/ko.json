@@ -1548,5 +1548,14 @@
             "useDefaultCard": "기본 카드 사용하기",
             "withdrawToCard": "카드로 인출하기"
         }
+    },
+    "sendMessage": {
+        "title": "Confirm external action",
+        "calculatingFees": "Calculating fees",
+        "loading": "Loading...",
+        "address": "Address",
+        "amount": "Amount",
+        "networkFee": "Network fee",
+        "send": "Send"
     }
 }

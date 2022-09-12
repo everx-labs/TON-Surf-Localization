@@ -1546,5 +1546,14 @@
             "useDefaultCard": "Использовать карту по умолчанию",
             "withdrawToCard": "Вывести на карту"
         }
+    },
+    "sendMessage": {
+        "title": "Confirm external action",
+        "calculatingFees": "Calculating fees",
+        "loading": "Loading...",
+        "address": "Address",
+        "amount": "Amount",
+        "networkFee": "Network fee",
+        "send": "Send"
     }
 }

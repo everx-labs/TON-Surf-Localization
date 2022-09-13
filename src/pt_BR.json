@@ -1124,13 +1124,6 @@
             "enterPin": "Digite seu código PIN",
             "itWorkLocal": "Só funcionará neste dispositivo."
         },
-        "promoCards": {
-            "backupPassword": "Backup\nda senha\nmestra",
-            "boostedStake": "Earn up to\n26% APR",
-            "faq": "Perguntas\nmais\nfrequentes",
-            "gosh": "Stake EVER,\nearn GOSH",
-            "stakeDeposit": "Lucre com\ndepósitos\nem Staking"
-        },
         "restore": {
             "button": "Iniciar Sessão",
             "description": "Faça login com o backup da senha.",
@@ -1405,21 +1398,22 @@
         },
         "main": {
             "activate": "Activate",
+            "add": "Add",
             "assets": "Ativos",
             "assetsBalance": "Saldo de ativos",
+            "buy": "Buy",
             "contacts": "Contatos",
+            "convert": "Convert",
+            "deposit": "Deposit",
+            "devers": "Devers",
+            "evers": "Evers",
             "invite": "Convidar",
             "receive": "Receber",
             "send": "Enviar",
+            "showAssets": "Show assets",
             "swap": "Swap",
-            "tokenValue": "Valor do token",
-            "updating": "Atualizando…",
-            "yourBalance": "Seu saldo",
-            "totalBalance": "{0} saldo",
-            "evers": "Evers",
-            "devers": "Devers",
             "tokens": "Tokens",
-            "buy": "Buy"
+            "updating": "Atualizando…"
         },
         "operationResults": {
             "completed": "Everything is fine, your transfer will come any minute soon",

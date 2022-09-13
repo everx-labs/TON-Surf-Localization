@@ -1135,13 +1135,6 @@
             "enterPin": "암호 입력하기",
             "itWorkLocal": "이 장치에서만 작동합니다."
         },
-        "promoCards": {
-            "backupPassword": "시드키\n백업하기",
-            "boostedStake": "연이율 최대\n26% 적립",
-            "faq": "자주 묻는 질문",
-            "gosh": "에버를 스테이킹해서\nGOSH를 받으세요",
-            "stakeDeposit": "스테이킹\n보상받기"
-        },
         "restore": {
             "button": "로그인",
             "description": "암호 백업으로 로그인하세요.",
@@ -1408,21 +1401,22 @@
         },
         "main": {
             "activate": "활성화",
+            "add": "추가",
             "assets": "자산",
             "assetsBalance": "자산 잔액",
             "buy": "구입",
             "contacts": "연락처",
+            "convert": "전환",
+            "deposit": "예금",
             "devers": "데버",
             "evers": "에버",
             "invite": "초대하기",
             "receive": "받기",
             "send": "보내기",
+            "showAssets": "주소 표시",
             "swap": "바꾸기",
-            "tokenValue": "토큰 값",
             "tokens": "토큰",
-            "totalBalance": "{0} 잔액",
-            "updating": "업데이트 중 ...",
-            "yourBalance": "사용자 잔액"
+            "updating": "업데이트 중 ..."
         },
         "operationResults": {
             "completed": "문제가 없습니다. 송금을 곧 받으실 겁니다",

@@ -1544,7 +1544,7 @@
         }
     },
     "sendMessage": {
-        "title": "Confirm external action",
+        "title": "외부 활동 확인하기",
         "calculatingFees": "Calculating fees",
         "loading": "Loading...",
         "address": "Address",

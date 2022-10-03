@@ -1542,7 +1542,7 @@
         }
     },
     "sendMessage": {
-        "title": "Confirm external action",
+        "title": "Подтвердите внешнее действие",
         "calculatingFees": "Расчёт суммы комиссии",
         "loading": "Загрузка...",
         "address": "Address",

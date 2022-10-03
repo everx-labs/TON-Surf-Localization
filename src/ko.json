@@ -1550,6 +1550,6 @@
         "address": "주소",
         "amount": "액수",
         "networkFee": "네트워크 수수료",
-        "send": "Send"
+        "send": "보내기"
     }
 }

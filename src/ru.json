@@ -1544,7 +1544,7 @@
     "sendMessage": {
         "title": "Confirm external action",
         "calculatingFees": "Calculating fees",
-        "loading": "Loading...",
+        "loading": "Загрузка...",
         "address": "Address",
         "amount": "Amount",
         "networkFee": "Network fee",

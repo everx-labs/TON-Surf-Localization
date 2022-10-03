@@ -1547,7 +1547,7 @@
         "title": "외부 활동 확인하기",
         "calculatingFees": "수수료를 계산하는 중...",
         "loading": "Loading...",
-        "address": "Address",
+        "address": "주소",
         "amount": "Amount",
         "networkFee": "Network fee",
         "send": "Send"

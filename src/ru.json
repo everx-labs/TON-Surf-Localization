@@ -1546,7 +1546,7 @@
         "calculatingFees": "Расчёт суммы комиссии",
         "loading": "Загрузка...",
         "address": "Адрес",
-        "amount": "Amount",
+        "amount": "Сумма",
         "networkFee": "Комиссия сети",
         "send": "Отправить"
     }

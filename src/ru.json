@@ -1547,7 +1547,7 @@
         "loading": "Загрузка...",
         "address": "Адрес",
         "amount": "Amount",
-        "networkFee": "Network fee",
+        "networkFee": "Комиссия сети",
         "send": "Send"
     }
 }

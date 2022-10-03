@@ -1548,7 +1548,7 @@
         "calculatingFees": "수수료를 계산하는 중...",
         "loading": "로딩 중...",
         "address": "주소",
-        "amount": "Amount",
+        "amount": "액수",
         "networkFee": "Network fee",
         "send": "Send"
     }

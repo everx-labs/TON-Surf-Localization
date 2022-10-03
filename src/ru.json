@@ -1543,7 +1543,7 @@
     },
     "sendMessage": {
         "title": "Confirm external action",
-        "calculatingFees": "Calculating fees",
+        "calculatingFees": "Расчёт суммы комиссии",
         "loading": "Загрузка...",
         "address": "Address",
         "amount": "Amount",

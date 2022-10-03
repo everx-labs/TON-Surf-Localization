@@ -1542,5 +1542,14 @@
             "useDefaultCard": "기본 카드 사용하기",
             "withdrawToCard": "카드로 인출하기"
         }
+    },
+    "sendMessage": {
+        "title": "외부 활동 확인하기",
+        "calculatingFees": "수수료를 계산하는 중...",
+        "loading": "로딩 중...",
+        "address": "주소",
+        "amount": "액수",
+        "networkFee": "네트워크 수수료",
+        "send": "보내기"
     }
 }

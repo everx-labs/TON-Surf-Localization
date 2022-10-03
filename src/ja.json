@@ -1539,5 +1539,14 @@
             "useDefaultCard": "既定のカードを使用する",
             "withdrawToCard": "カードに引き出す"
         }
+    },
+    "sendMessage": {
+        "title": "Confirm external action",
+        "calculatingFees": "Calculating fees",
+        "loading": "Loading...",
+        "address": "Address",
+        "amount": "Amount",
+        "networkFee": "Network fee",
+        "send": "Send"
     }
 }

@@ -703,6 +703,10 @@
     "donate": {
         "title": "Поддержать разработчиков Surf"
     },
+    "everLinks": {
+        "sendActionTitle": "Отправить токены",
+        "sendMessageActionTitle": "Отправить сообщение"
+    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Подкаст",
@@ -1540,14 +1544,5 @@
             "useDefaultCard": "Использовать карту по умолчанию",
             "withdrawToCard": "Вывести на карту"
         }
-    },
-    "sendMessage": {
-        "title": "Подтвердите внешнее действие",
-        "calculatingFees": "Расчёт суммы комиссии",
-        "loading": "Загрузка...",
-        "address": "Адрес",
-        "amount": "Сумма",
-        "networkFee": "Комиссия сети",
-        "send": "Отправить"
     }
 }

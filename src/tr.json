@@ -703,6 +703,10 @@
     "donate": {
         "title": "Surf'e Bağış Yap"
     },
+    "everLinks": {
+        "sendActionTitle": "Send tokens",
+        "sendMessageActionTitle": "Send message"
+    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Pod Cast",
@@ -1539,14 +1543,5 @@
             "useDefaultCard": "Varsayılan kartı kullan",
             "withdrawToCard": "Parayı karta çek"
         }
-    },
-    "sendMessage": {
-        "title": "Confirm external action",
-        "calculatingFees": "Calculating fees",
-        "loading": "Loading...",
-        "address": "Address",
-        "amount": "Amount",
-        "networkFee": "Network fee",
-        "send": "Send"
     }
 }

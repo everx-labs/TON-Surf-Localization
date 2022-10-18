@@ -703,6 +703,10 @@
     "donate": {
         "title": "Donate to Surf"
     },
+    "everLinks": {
+        "sendActionTitle": "Send tokens",
+        "sendMessageActionTitle": "Send message"
+    },
     "flex": {
         "promoScreen": {
             "title": "Killer Whale Pod Cast",
@@ -1539,14 +1543,5 @@
             "useDefaultCard": "Usar la tarjeta predeterminada",
             "withdrawToCard": "Retirar a la tarjeta"
         }
-    },
-    "sendMessage": {
-        "title": "Confirm external action",
-        "calculatingFees": "Calculating fees",
-        "loading": "Loading...",
-        "address": "Address",
-        "amount": "Amount",
-        "networkFee": "Network fee",
-        "send": "Send"
     }
 }

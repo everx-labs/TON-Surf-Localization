@@ -1402,21 +1402,18 @@
         },
         "main": {
             "activate": "Activate",
-            "add": "Add",
-            "assets": "Varlık",
-            "assetsBalance": "Varlık bakiyesi",
             "buy": "Buy",
             "contacts": "Kişiler",
             "convert": "Convert",
-            "deposit": "Deposit",
             "devers": "Devers",
+            "earn": "Earn",
             "evers": "Evers",
-            "invite": "Davet",
             "receive": "Teslim al",
             "send": "Gönder",
             "showAssets": "Show assets",
             "swap": "Swap",
             "tokens": "Tokens",
+            "topUp": "Top-up",
             "updating": "Güncelleniyor..."
         },
         "operationResults": {

@@ -1402,21 +1402,18 @@
         },
         "main": {
             "activate": "Activate",
-            "add": "Add",
-            "assets": "资产",
-            "assetsBalance": "资产余额",
             "buy": "Buy",
             "contacts": "联络",
             "convert": "Convert",
-            "deposit": "Deposit",
             "devers": "Devers",
+            "earn": "Earn",
             "evers": "Evers",
-            "invite": "邀请",
             "receive": "接收",
             "send": "发送",
             "showAssets": "Show assets",
             "swap": "Swap",
             "tokens": "Tokens",
+            "topUp": "Top-up",
             "updating": "正在更新。。。"
         },
         "operationResults": {

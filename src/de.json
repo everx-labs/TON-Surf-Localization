@@ -1402,21 +1402,18 @@
         },
         "main": {
             "activate": "Activate",
-            "add": "Add",
-            "assets": "Vermögenswerte",
-            "assetsBalance": "Vermögensbilanz",
             "buy": "Buy",
             "contacts": "Kontakte",
             "convert": "Convert",
-            "deposit": "Deposit",
             "devers": "Devers",
+            "earn": "Earn",
             "evers": "Evers",
-            "invite": "Einladen",
             "receive": "Empfangen",
             "send": "Senden Sie",
             "showAssets": "Show assets",
             "swap": "Swap",
             "tokens": "Tokens",
+            "topUp": "Top-up",
             "updating": "Aktualisierung..."
         },
         "operationResults": {

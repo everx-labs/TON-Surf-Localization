@@ -1402,21 +1402,18 @@
         },
         "main": {
             "activate": "Activate",
-            "add": "Add",
-            "assets": "資産",
-            "assetsBalance": "資産残高",
             "buy": "Buy",
             "contacts": "連絡先",
             "convert": "Convert",
-            "deposit": "Deposit",
             "devers": "Devers",
+            "earn": "Earn",
             "evers": "Evers",
-            "invite": "招待する",
             "receive": "受信",
             "send": "送信",
             "showAssets": "Show assets",
             "swap": "Swap",
             "tokens": "Tokens",
+            "topUp": "Top-up",
             "updating": "更新中..."
         },
         "operationResults": {

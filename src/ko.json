@@ -755,6 +755,20 @@
         },
         "warning": "토큰을 얻는 가장 안전한 방법은 컨테스트 참여와 서브 거버넌스입니다. 서프는 귀하의 개인 데이터를 수집할 수 있는 제3자 서비스에 대해 책임을 지지 않습니다."
     },
+    "highlightCards": {
+        "payments-getever": {
+            "title": "신용카드로 암호화폐 구매",
+            "caption": "Visa, Mastercard"
+        },
+        "staking-boosted": {
+            "title": "스테이킹에서 보상받기",
+            "caption": "최대 26% APR"
+        },
+        "payments-swap": {
+            "title": "디지털 자산 스왑",
+            "caption": "저렴한 수수료"
+        }
+    },
     "interfaceOptions": {
         "assetsBalance": {
             "button": "자산 잔액"

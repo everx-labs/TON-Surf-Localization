@@ -744,6 +744,20 @@
         },
         "warning": "The safest ways to earn tokens are still contests and Sub-governance. Mind that Surf has no responsibility for third-party services which can collect your personal data."
     },
+    "highlightCards": {
+        "payments-getever": {
+            "title": "Buy crypto\nwith card",
+            "caption": "Visa, Mastercard"
+        },
+        "staking-boosted": {
+            "title": "Earn with\nyour crypto",
+            "caption": "Up to 26% APR"
+        },
+        "payments-swap": {
+            "title": "Swap your\ndigital holdings",
+            "caption": "Low fees"
+        }
+    },
     "interfaceOptions": {
         "assetsBalance": {
             "button": "Mostra saldo"

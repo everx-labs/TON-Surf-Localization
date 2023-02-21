@@ -9,7 +9,6 @@
             "setPrimary": "Set as primary",
             "show": "Show",
             "hide": "Hide",
-            "showHidden": "Show hidden",
             "AccountIsHidden": "Account is hidden",
             "AccountIsShown": "Account is shown"
         },
@@ -95,15 +94,7 @@
             }
         },
         "separators": {
-            "accounts": "Comptes",
-            "collectibles": "Collectibles",
-            "farming": "Farming",
-            "investments": "Services",
-            "tokens": "Tokens"
-        },
-        "saving": {
-            "surfStaking": "Surf Stakes",
-            "everStakesDesc": "Get up to {0} % a year"
+            "accounts": "Comptes"
         },
         "subscriptions": {
             "actions": {
@@ -1280,10 +1271,6 @@
         "stakingScreen": {
             "about": "A propos",
             "advancedFeatures": "Fonctions avancées",
-            "age": "Âge",
-            "assurance": "Assurance",
-            "availablePool": "Pool disponible",
-            "balance": "Solde",
             "btnBreakUnstake": "Refuser le retrait",
             "btnRestake": "Restaker",
             "btnStake": "Stake",
@@ -1291,20 +1278,12 @@
             "btnUnstake": "Retirer",
             "declineRequest": "Retrait annulé.",
             "depools": "My DePools",
-            "fee": "Frais de récompense",
             "help": "Aide",
             "max": "max.",
-            "members": "Membres",
             "min": "min.",
-            "minStake": "Stake min.",
             "moreInfo": "Plus d’infos",
-            "period": "Période de blocage",
-            "reward": "Récompense annuelle estimée",
-            "rewardPaid": "Récompense payée",
-            "rewarded": "My reward",
             "stakes": "Stakes",
             "stakingRequest": "La demande de staking a été envoyée. Cela peut prendre un peu de temps.",
-            "successfulRounds": "Tours réussis",
             "unstakeBanner": "Pendant la période de blocage, vos fonds seront transférés sur le compte principal.",
             "withdrawRequest": "La demande de retrait a été envoyée. Cela peut prendre un peu de temps."
         }

@@ -9,7 +9,6 @@
             "setPrimary": "Set as primary",
             "show": "Show",
             "hide": "Hide",
-            "showHidden": "Show hidden",
             "AccountIsHidden": "Account is hidden",
             "AccountIsShown": "Account is shown"
         },
@@ -95,15 +94,7 @@
             }
         },
         "separators": {
-            "accounts": "Hesaplar",
-            "collectibles": "Collectibles",
-            "farming": "Farming",
-            "investments": "Hizmetler",
-            "tokens": "Tokens"
-        },
-        "saving": {
-            "surfStaking": "Surf Stakes",
-            "everStakesDesc": "Get up to {0} % a year"
+            "accounts": "Hesaplar"
         },
         "subscriptions": {
             "actions": {
@@ -1280,10 +1271,6 @@
         "stakingScreen": {
             "about": "Hakkında",
             "advancedFeatures": "Gelişmiş özellikler",
-            "age": "Age",
-            "assurance": "Güvence",
-            "availablePool": "Available pool",
-            "balance": "Bakiye",
             "btnBreakUnstake": "Decline withdrawal",
             "btnRestake": "Yeniden stake et",
             "btnStake": "Stake et",
@@ -1291,20 +1278,12 @@
             "btnUnstake": "Stake geri al",
             "declineRequest": "Withdrawal canceled.",
             "depools": "My DePools",
-            "fee": "Stake etme ücreti",
             "help": "Yardım",
             "max": "en çok",
-            "members": "Üye sayısı",
             "min": "en azı",
-            "minStake": "En az stake miktarı",
             "moreInfo": "Daha fazla bilgi",
-            "period": "Kilitlenme süresi",
-            "reward": "Yıllık ödül",
-            "rewardPaid": "Ödül ödendi",
-            "rewarded": "My reward",
             "stakes": "Stake sayısı",
             "stakingRequest": "Staking isteği gönderildi. Biraz zaman alabilir.",
-            "successfulRounds": "Successful rounds",
             "unstakeBanner": "During the lock-up period your funds will be transferred to the main account.",
             "withdrawRequest": "Para çekme isteği gönderildi"
         }

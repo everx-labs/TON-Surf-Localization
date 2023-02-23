@@ -9,7 +9,6 @@
             "setPrimary": "Set as primary",
             "show": "Show",
             "hide": "Hide",
-            "showHidden": "Show hidden",
             "AccountIsHidden": "Account is hidden",
             "AccountIsShown": "Account is shown"
         },
@@ -95,15 +94,7 @@
             }
         },
         "separators": {
-            "accounts": "Conti",
-            "collectibles": "Collectibles",
-            "farming": "Farming",
-            "investments": "Servizi",
-            "tokens": "Tokens"
-        },
-        "saving": {
-            "surfStaking": "Surf Stakes",
-            "everStakesDesc": "Get up to {0} % a year"
+            "accounts": "Conti"
         },
         "subscriptions": {
             "actions": {
@@ -1280,10 +1271,6 @@
         "stakingScreen": {
             "about": "Informazioni",
             "advancedFeatures": "Funzionalità avanzate",
-            "age": "Età",
-            "assurance": "Garanzia",
-            "availablePool": "Available pool",
-            "balance": "Saldo",
             "btnBreakUnstake": "Decline withdrawal",
             "btnRestake": "Restake",
             "btnStake": "Stake",
@@ -1291,20 +1278,12 @@
             "btnUnstake": "Unstake",
             "declineRequest": "Withdrawal canceled.",
             "depools": "My DePools",
-            "fee": "Tassa di staking",
             "help": "Aiuto",
             "max": "max.",
-            "members": "Membri",
             "min": "min.",
-            "minStake": "Min. stake",
             "moreInfo": "Più informazioni",
-            "period": "Periodo di lock-up",
-            "reward": "Ricompensa annuale",
-            "rewardPaid": "Ricompensa pagata",
-            "rewarded": "My reward",
             "stakes": "Stake",
             "stakingRequest": "La richiesta di stakeing è stata inviata. Potrebbe richiedere un po' di tempo.",
-            "successfulRounds": "Round di successo",
             "unstakeBanner": "Durante il periodo di lock-up i tuoi fondi saranno trasferiti sul conto principale. Effettua un riaccredito se desideri annullare il prelievo.",
             "withdrawRequest": "La richiesta di prelievo è stata inviata"
         }

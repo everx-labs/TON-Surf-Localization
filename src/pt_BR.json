@@ -9,7 +9,6 @@
             "setPrimary": "Set as primary",
             "show": "Show",
             "hide": "Hide",
-            "showHidden": "Show hidden",
             "AccountIsHidden": "Account is hidden",
             "AccountIsShown": "Account is shown"
         },
@@ -95,15 +94,7 @@
             }
         },
         "separators": {
-            "accounts": "Contas",
-            "collectibles": "Collectibles",
-            "farming": "Farming",
-            "investments": "Serviços",
-            "tokens": "Tokens"
-        },
-        "saving": {
-            "surfStaking": "Surf Stakes",
-            "everStakesDesc": "Get up to {0} % a year"
+            "accounts": "Contas"
         },
         "subscriptions": {
             "actions": {
@@ -1280,10 +1271,6 @@
         "stakingScreen": {
             "about": "Detalhes",
             "advancedFeatures": "Características avançadas",
-            "age": "Idade",
-            "assurance": "Garantia",
-            "availablePool": "Pool disponível",
-            "balance": "Saldo",
             "btnBreakUnstake": "Anular unstake",
             "btnRestake": "Reinvestir",
             "btnStake": "Depositar em Staking",
@@ -1291,20 +1278,12 @@
             "btnUnstake": "Desistir do Stake",
             "declineRequest": "Withdrawal canceled.",
             "depools": "My DePools",
-            "fee": "Taxa de recompensa",
             "help": "Ajuda",
             "max": "máx.",
-            "members": "Membros",
             "min": "min.",
-            "minStake": "Stake mínimo",
             "moreInfo": "Mais informações",
-            "period": "Período de bloqueio",
-            "reward": "Recompensa anual estimada",
-            "rewardPaid": "Recompensa paga",
-            "rewarded": "My reward",
             "stakes": "Stakes",
             "stakingRequest": "A requisição de Staking foi enviada. Pode levar algum tempo para ser processada.",
-            "successfulRounds": "Rodadas de sucesso",
             "unstakeBanner": "Durante o período de bloqueio seu saldo será transferido para a conta principal.",
             "withdrawRequest": "O pedido de saque foi enviado. Pode levar algum tempo para ser processado."
         }

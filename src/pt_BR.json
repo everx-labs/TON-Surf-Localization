@@ -660,14 +660,6 @@
                 "title": "Devers"
             }
         },
-        "crypto": {
-            "BTC": "Bitcoin",
-            "ETH": "Ethereum"
-        },
-        "fiat": {
-            "EUR": "Euro",
-            "USD": "Dólar americano"
-        },
         "types": {
             "crypto": "Criptomoedas",
             "fiat": "Moedas fiduciárias"

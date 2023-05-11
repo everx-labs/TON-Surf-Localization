@@ -1,5 +1,5 @@
 pipeline {
-    agent {label 'master'}
+    agent {label 'linux'}
     tools {
         nodejs "Node14.20.0"
     }
@@ -25,23 +25,20 @@ pipeline {
                         """
                         currentBuild.description = C_TEXT;
                     }
-                }
-            }
-        }
-        stage('Creates a new Localization beta branch') {
-            failFast false
-            steps {
-                script {
-                    timeout(time: 10, unit: 'MINUTES') {
-                        sh """
-                        git remote update
-                        git fetch --all
-                        git checkout remotes/origin/development
-                        """
-                        sh """
-                        git checkout -b surf@${params.NEW_LOC_BETA_BRANCH} origin/development
-                        git push -u origin surf@${params.NEW_LOC_BETA_BRANCH}
-                        """
+                    sshagent(['TonJenSSH']) {
+                        stage('Creates a new Localization beta branch') {
+                            timeout(time: 10, unit: 'MINUTES') {
+                                sh """
+                                git remote update
+                                git fetch --all
+                                git checkout remotes/origin/development
+                                """
+                                sh """
+                                git checkout -b surf@${params.NEW_LOC_BETA_BRANCH} origin/development
+                                git push -u origin surf@${params.NEW_LOC_BETA_BRANCH}
+                                """
+                            }
+                        }
                     }
                 }
             }

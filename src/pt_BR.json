@@ -948,7 +948,7 @@
             "networkUnavailable": "Nada adicionado. Por favor, especifique um endereço de ponto final válido ou verifique a conexão de rede."
         },
         "names": {
-            "devnet": "Devnetz",
+            "devnet": "Everscale testnet",
             "fldnet": "FLD network",
             "mainnet": "Everscale",
             "rustnet": "Rustnet",

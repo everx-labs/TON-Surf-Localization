@@ -948,7 +948,7 @@
             "networkUnavailable": "何も追加されていません。有効なエンドポイントアドレスを指定するか、ネットワーク接続を確認してください。"
         },
         "names": {
-            "devnet": "デブネット",
+            "devnet": "Everscale testnet",
             "fldnet": "FLD network",
             "mainnet": "Everscale",
             "rustnet": "Rustnet",

@@ -948,7 +948,7 @@
             "networkUnavailable": "Ничего не добавлено. Укажите действительный адрес конечной точки или проверьте подключение к сети."
         },
         "names": {
-            "devnet": "Сеть для тестирования",
+            "devnet": "Тестовая сеть Everscale",
             "fldnet": "Сеть FLD",
             "mainnet": "Everscale",
             "rustnet": "Rust-сеть",

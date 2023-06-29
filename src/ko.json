@@ -463,7 +463,7 @@
             "addressInput": {
                 "auto": "기본 주소 선택",
                 "enterAddress": "주소를 입력하세요",
-                "invalidAddress": "잘못된 에버스케일 주소입니다.",
+                "invalidAddress": "잘못된 주소입니다.",
                 "manual": "수동으로 입력"
             },
             "agreement": {
@@ -959,7 +959,7 @@
             "networkUnavailable": "아무것도 추가되지 않았습니다. 유효한 엔드포인트 주소를 지정하거나 네트워크 연결을 확인하십시오"
         },
         "names": {
-            "devnet": "데브넷",
+            "devnet": "에버스케일 테스트 네트워크",
             "fldnet": "FLD 테스트 네트워크",
             "mainnet": "에버스케일",
             "rustnet": "Rustnet",
@@ -1447,7 +1447,7 @@
             "confirmAndSend": "확인 및 보내기",
             "enterValidAddress": "주소 ...",
             "from": "보낸 사람",
-            "invalidAddress": "유효하지 않은 에버스케일 주소입니다",
+            "invalidAddress": "유효하지 않은 주소입니다",
             "recipientWarning": "이 주소의 콘트랙트가 배포되지 않았습니다. 이 주소로 토큰을 보내는 것이 위험합니다",
             "title": "토큰 보내기"
         },

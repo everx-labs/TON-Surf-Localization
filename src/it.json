@@ -948,7 +948,7 @@
             "networkUnavailable": "Niente di aggiunto. Specificare un indirizzo endpoint valido o verificare la connessione di rete."
         },
         "names": {
-            "devnet": "Devnet",
+            "devnet": "Everscale testnet",
             "fldnet": "FLD network",
             "mainnet": "Everscale",
             "rustnet": "Rustnet",

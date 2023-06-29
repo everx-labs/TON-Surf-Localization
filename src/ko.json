@@ -560,7 +560,7 @@
             "failedToSend": "메시지를 보내지 못했습니다. 나중에 다시 시도해 보세요"
         },
         "labels": {
-            "address": "에버스케일의 프로필 주소",
+            "address": "프로필 주소",
             "establishingConnection": "보안 연결 설정 중 ...",
             "today": "오늘",
             "yesterday": "어제"
@@ -615,7 +615,7 @@
         "friends": "친구들",
         "giveAccessToContacts": "연락처에 대한 액세스 허용",
         "info": {
-            "address": "에버스케일의 프로필 주소",
+            "address": "프로필 주소",
             "firstName": "이름",
             "lastName": "성"
         },
@@ -961,7 +961,7 @@
         "names": {
             "devnet": "데브넷",
             "fldnet": "FLD 테스트 네트워크",
-            "mainnet": "메인넷",
+            "mainnet": "에버스케일",
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
@@ -1025,7 +1025,7 @@
             "iris": "아이리스",
             "touchID": "지문 신원 확인"
         },
-        "blockchainAddress": "에버스케일의 프로필 주소",
+        "blockchainAddress": "프로필 주소",
         "changePinCode": "암호 변경하기",
         "confirmNewPin": "암호 확인하기",
         "enterNewPin": "새 암호",
@@ -1434,18 +1434,18 @@
         },
         "protectGrams": {
             "button": "암호 백업하기",
-            "description": "이제 잔액에 에버스케일 토큰이 있습니다. 액세스 복구가 필요하는 경우 비밀번호를 백업하는 것이 좋습니다.",
+            "description": "이제 잔액에 에 토큰이 있습니다. 액세스 복구가 필요하는 경우 비밀번호를 백업하는 것이 좋습니다.",
             "title": "토큰 보호하기"
         },
         "recipient": {
-            "address": "에버스케일 주소",
+            "address": "주소",
             "email": "이메일",
             "phone": "핸드폰"
         },
         "sendGrams": {
             "confirm": "확인하기",
             "confirmAndSend": "확인 및 보내기",
-            "enterValidAddress": "에버스케일 주소 ...",
+            "enterValidAddress": "주소 ...",
             "from": "보낸 사람",
             "invalidAddress": "유효하지 않은 에버스케일 주소입니다",
             "recipientWarning": "이 주소의 콘트랙트가 배포되지 않았습니다. 이 주소로 토큰을 보내는 것이 위험합니다",

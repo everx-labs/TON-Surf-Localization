@@ -549,7 +549,7 @@
             "failedToSend": "Mesaj gönderilemedi. Daha sonra tekrar deneyin"
         },
         "labels": {
-            "address": "Everscale cüzdan adresi",
+            "address": "Cüzdan adresi",
             "establishingConnection": "Güvenli bağlantı oluşturuluyor...",
             "today": "Bugün",
             "yesterday": "Dün"
@@ -606,7 +606,7 @@
         "info": {
             "firstName": "Ad",
             "lastName": "Soyad",
-            "address": "Everscale cüzdan adresi"
+            "address": "Cüzdan adresi"
         },
         "invitation": {
             "view": {
@@ -950,7 +950,7 @@
         "names": {
             "devnet": "Geliştirici ağı",
             "fldnet": "FLD network",
-            "mainnet": "Mainnet",
+            "mainnet": "Everscale",
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
@@ -1014,7 +1014,7 @@
             "iris": "İris",
             "touchID": "Dokunmatik Kimlik"
         },
-        "blockchainAddress": "Everscale adresi",
+        "blockchainAddress": "Adresi",
         "changePinCode": "Pin'i değiştir",
         "confirmNewPin": "PIN'i onayla",
         "enterNewPin": "Yeni PIN",
@@ -1431,18 +1431,18 @@
         },
         "protectGrams": {
             "button": "Yedek Şifre",
-            "description": "Artık bakiyenizde biraz TON belirteçleri var. Erişim kurtarmaya ihtiyaç duymanız durumunda şifrenizi yedeklemenizi şiddetle tavsiye ederiz.",
+            "description": "Artık bakiyenizde biraz belirteçleri var. Erişim kurtarmaya ihtiyaç duymanız durumunda şifrenizi yedeklemenizi şiddetle tavsiye ederiz.",
             "title": "Belirteçlerinizi koruyun"
         },
         "recipient": {
-            "address": "TON adresi",
+            "address": "Adresi",
             "email": "E-posta",
             "phone": "Telefon numarası"
         },
         "sendGrams": {
             "confirm": "Onayla",
             "confirmAndSend": "Onayla ve Gönder",
-            "enterValidAddress": "Everscale adresi...",
+            "enterValidAddress": "Adresi...",
             "from": "Gönderen:",
             "invalidAddress": "Geçersiz adresi.",
             "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",

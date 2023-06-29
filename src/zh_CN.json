@@ -549,7 +549,7 @@
             "failedToSend": "发送消息失败。请稍后再试"
         },
         "labels": {
-            "address": "Everscale钱包地址",
+            "address": "钱包地址",
             "establishingConnection": "正在建立安全连接……",
             "today": "今天",
             "yesterday": "昨天"
@@ -606,7 +606,7 @@
         "info": {
             "firstName": "名字",
             "lastName": "姓",
-            "address": "Everscale钱包地址"
+            "address": "钱包地址"
         },
         "invitation": {
             "view": {
@@ -950,7 +950,7 @@
         "names": {
             "devnet": "开发网",
             "fldnet": "FLD network",
-            "mainnet": "Mainnet",
+            "mainnet": "Everscale",
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
@@ -1014,7 +1014,7 @@
             "iris": "虹膜识别",
             "touchID": "指纹识别功能"
         },
-        "blockchainAddress": "Everscale地址",
+        "blockchainAddress": "地址",
         "changePinCode": "更改PIN",
         "confirmNewPin": "确认PIN",
         "enterNewPin": "新PIN",
@@ -1431,18 +1431,18 @@
         },
         "protectGrams": {
             "button": "备份密码",
-            "description": "现在您的余额上有一些TON代币。我们强烈建议您备份密码，以防需要访问恢复",
+            "description": "现在您的余额上有一些代币。我们强烈建议您备份密码，以防需要访问恢复",
             "title": "保护您的代币"
         },
         "recipient": {
-            "address": "TON地址",
+            "address": "地址",
             "email": "电子邮件",
             "phone": "电话"
         },
         "sendGrams": {
             "confirm": "确认",
             "confirmAndSend": "确认并发送",
-            "enterValidAddress": "Everscale地址",
+            "enterValidAddress": "地址",
             "from": "从",
             "invalidAddress": "无效的地址。",
             "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",

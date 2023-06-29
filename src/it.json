@@ -549,7 +549,7 @@
             "failedToSend": "Impossibile inviare il messaggio. Riprova più tardi"
         },
         "labels": {
-            "address": "Indirizzo del portafoglio Everscale",
+            "address": "Indirizzo del portafoglio",
             "establishingConnection": "Creazione di una connessione sicura in corso...",
             "today": "Oggi",
             "yesterday": "Ieri"
@@ -606,7 +606,7 @@
         "info": {
             "firstName": "Nome",
             "lastName": "Cognome",
-            "address": "Indirizzo del wallet Everscale"
+            "address": "Indirizzo del wallet"
         },
         "invitation": {
             "view": {
@@ -950,7 +950,7 @@
         "names": {
             "devnet": "Devnet",
             "fldnet": "FLD network",
-            "mainnet": "Mainnet",
+            "mainnet": "Everscale",
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
@@ -1014,7 +1014,7 @@
             "iris": "Iris",
             "touchID": "Touch ID"
         },
-        "blockchainAddress": "Indirizzo Everscale",
+        "blockchainAddress": "Indirizzo",
         "changePinCode": "Cambia PIN",
         "confirmNewPin": "Conferma PIN",
         "enterNewPin": "Nuovo PIN",
@@ -1431,18 +1431,18 @@
         },
         "protectGrams": {
             "button": "Password di backup",
-            "description": "Ora hai alcuni token TON sul tuo saldo. Si consiglia vivamente di eseguire il backup della password nel caso in cui sia necessario il ripristino dell'accesso",
+            "description": "Ora hai alcuni token sul tuo saldo. Si consiglia vivamente di eseguire il backup della password nel caso in cui sia necessario il ripristino dell'accesso",
             "title": "Proteggi i tuoi token"
         },
         "recipient": {
-            "address": "Indirizzo TON",
+            "address": "Indirizzo",
             "email": "E-mail",
             "phone": "Telefono"
         },
         "sendGrams": {
             "confirm": "Conferma",
             "confirmAndSend": "Conferma e invia",
-            "enterValidAddress": "Indirizzo Everscale ...",
+            "enterValidAddress": "Indirizzo ...",
             "from": "Da",
             "invalidAddress": "Indirizzo non valido.",
             "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",

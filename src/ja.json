@@ -549,7 +549,7 @@
             "failedToSend": "メッセージを送信できませんでした。後でもう一度やり直してください"
         },
         "labels": {
-            "address": "Everscaleウォレットアドレス",
+            "address": "ウォレットアドレス",
             "establishingConnection": "安全な接続を確立しています...",
             "today": "今日",
             "yesterday": "昨日"
@@ -606,7 +606,7 @@
         "info": {
             "firstName": "名",
             "lastName": "姓",
-            "address": "Everscaleウォレットアドレス"
+            "address": "ウォレットアドレス"
         },
         "invitation": {
             "view": {
@@ -950,7 +950,7 @@
         "names": {
             "devnet": "デブネット",
             "fldnet": "FLD network",
-            "mainnet": "Mainnet",
+            "mainnet": "Everscale",
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
@@ -1014,7 +1014,7 @@
             "iris": "Iris",
             "touchID": "タッチ ID"
         },
-        "blockchainAddress": "Everscaleアドレス",
+        "blockchainAddress": "アドレス",
         "changePinCode": "PINを変更する",
         "confirmNewPin": "PINを確認する",
         "enterNewPin": "新しいPIN",
@@ -1431,18 +1431,18 @@
         },
         "protectGrams": {
             "button": "パスワードのバックアップ",
-            "description": "残高にいくつかのTONトークンがあります。アクセス回復が必要な場合に備えて、パスワードをバックアップすることを強くお勧めします。",
+            "description": "残高にいくつかのトークンがあります。アクセス回復が必要な場合に備えて、パスワードをバックアップすることを強くお勧めします。",
             "title": "トークンを保護する"
         },
         "recipient": {
-            "address": "TONアドレス",
+            "address": "アドレス",
             "email": "メールアドレス",
             "phone": "電話"
         },
         "sendGrams": {
             "confirm": "確認",
             "confirmAndSend": "確認と送信",
-            "enterValidAddress": "Everscaleアドレス",
+            "enterValidAddress": "アドレス",
             "from": "差出人",
             "invalidAddress": "無効なアドレス。",
             "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",

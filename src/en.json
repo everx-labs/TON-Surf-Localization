@@ -549,7 +549,7 @@
             "failedToSend": "Failed to send message. Try again later"
         },
         "labels": {
-            "address": "Profile address on Everscale",
+            "address": "Profile address",
             "establishingConnection": "Establishing a secure connection...",
             "today": "Today",
             "yesterday": "Yesterday"
@@ -606,7 +606,7 @@
         "info": {
             "firstName": "First name",
             "lastName": "Last name",
-            "address": "Profile address on Everscale"
+            "address": "Profile address"
         },
         "invitation": {
             "view": {
@@ -950,7 +950,7 @@
         "names": {
             "devnet": "Devnet",
             "fldnet": "FLD network",
-            "mainnet": "Mainnet",
+            "mainnet": "Everscale",
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
@@ -1014,7 +1014,7 @@
             "iris": "Iris",
             "touchID": "Touch ID"
         },
-        "blockchainAddress": "Profile address on Everscale",
+        "blockchainAddress": "Profile address",
         "changePinCode": "Change PIN",
         "confirmNewPin": "Confirm PIN",
         "enterNewPin": "New PIN",
@@ -1431,18 +1431,18 @@
         },
         "protectGrams": {
             "button": "Backup Password",
-            "description": "Now you have some Everscale tokens on your balance. We strongly recommend that you should backup your password in case you need access recovery",
+            "description": "Now you have some tokens on your balance. We strongly recommend that you should backup your password in case you need access recovery",
             "title": "Protect your tokens"
         },
         "recipient": {
-            "address": "Everscale address",
+            "address": "Address",
             "email": "Email",
             "phone": "Phone"
         },
         "sendGrams": {
             "confirm": "Confirm",
             "confirmAndSend": "Confirm and Send",
-            "enterValidAddress": "Everscale address...",
+            "enterValidAddress": "Address...",
             "from": "From",
             "invalidAddress": "Invalid address.",
             "recipientWarning": "This address belongs to undeployed contract. You risk sending tokens there",

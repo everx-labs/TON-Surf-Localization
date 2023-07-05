@@ -948,13 +948,13 @@
             "networkUnavailable": "Ничего не добавлено. Укажите действительный адрес конечной точки или проверьте подключение к сети."
         },
         "names": {
-            "devnet": "Тестовая сеть Everscale",
+            "devnet": "Сеть для разработчиков Everscale",
             "fldnet": "Сеть FLD",
             "mainnet": "Everscale",
             "rustnet": "Rust-сеть",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
-            "venomnet": "Venom"
+            "venomnet": "Venom Testnet"
         },
         "sections": {
             "custom": "Пользовательские сети",

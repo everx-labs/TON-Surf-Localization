@@ -948,13 +948,13 @@
             "networkUnavailable": "Nada adicionado. Por favor, especifique um endereço de ponto final válido ou verifique a conexão de rede."
         },
         "names": {
-            "devnet": "Everscale testnet",
+            "devnet": "Everscale Devnet",
             "fldnet": "FLD network",
             "mainnet": "Everscale",
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
-            "venomnet": "Venom"
+            "venomnet": "Venom Testnet"
         },
         "sections": {
             "custom": "Redes personalizadas",

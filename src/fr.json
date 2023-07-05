@@ -948,13 +948,13 @@
             "networkUnavailable": "Rien ajouté. Spécifiez une adresse de point de terminaison valide ou vérifiez la connexion réseau."
         },
         "names": {
-            "devnet": "Everscale testnet",
+            "devnet": "Everscale Devnet",
             "fldnet": "FLD network",
             "mainnet": "Everscale",
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
-            "venomnet": "Venom"
+            "venomnet": "Venom Testnet"
         },
         "sections": {
             "custom": "Réseaux personnalisés",

@@ -965,7 +965,7 @@
             "rustnet": "Rustnet",
             "tonnet": "Ton Coin",
             "goshnet": "Gosh",
-            "venomnet": "Venom Testnet"
+            "venom": "Venom"
         },
         "sections": {
             "custom": "사용자 네트워크",
